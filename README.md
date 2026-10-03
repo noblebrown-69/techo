@@ -1,3 +1,22 @@
+# 手帳 Techo
+
+Techo is a plain, tabbed text editor for BushidOS. It is a faithful fork of
+[Xed](https://github.com/linuxmint/xed), the text editor from Linux Mint, and stays as close to it as possible.
+Techo is released under the GPL-2.0-or-later, like Xed. All credit for the editor itself goes to the Xed,
+Pluma and gedit authors.
+
+Techo installs side by side with xed: the binary is `techo`, the app id is `org.bushidos.Techo`, and its
+settings live under `org.bushidos.Techo` (GSettings) and `~/.config/techo`.
+
+Build and install for the current user:
+
+    meson setup build --prefix=$HOME/.local
+    ninja -C build && ninja -C build install
+
+---
+
+*Original Xed README follows.*
+
 # Xed Text Editor
 ![build](https://github.com/linuxmint/xed/actions/workflows/build.yml/badge.svg)
 

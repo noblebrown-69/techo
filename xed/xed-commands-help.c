@@ -56,13 +56,20 @@ void _xed_cmd_help_about (GtkAction *action,
 
     xed_debug (DEBUG_COMMANDS);
 
+    gchar *about_comments = g_strdup_printf ("%s\n%s", _(comments), "A fork of Xed by Linux Mint.");
+
     gtk_show_about_dialog (GTK_WINDOW (window),
-        "program-name", "xed",
-        "comments", _(comments),
+        "program-name", "手帳 Techo",
+        "comments", about_comments,
         "logo_icon_name", "accessories-text-editor",
         "version", VERSION,
-        "website", "http://github.com/linuxmint/xed",
+        "copyright", "Techo © 2026 Noble Brown\nXed © Linux Mint and the Xed, Pluma and gedit authors",
+        "license-type", GTK_LICENSE_GPL_2_0,
+        "website", "https://github.com/linuxmint/xed",
+        "website-label", "Based on Xed (Linux Mint)",
         NULL);
+
+    g_free (about_comments);
 }
 
 void
