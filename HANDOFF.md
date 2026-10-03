@@ -1,7 +1,7 @@
 # 手帳 Techo: handoff
 
 Times are PT (America/Phoenix, UTC-7). Supervisor: Donald (Grok Bot). Coder: Turing (Hermes `coding` profile, local Huihui Qwen3.8-27B on Aegis :8089).
-Last updated: Oct 3, 2026 1:07 AM PT. FINAL for the night session. Turing stopped at 1:04 AM PT, llama slot idle, no requests in flight, no uncommitted work.
+Last updated: Oct 3, 2026 ~3:47 AM PT. Morning oneshot after Yūkan: help brief 09 done (commit e7f90c1). Phase 4 still BLOCKED on Noble apt. Turing stopped; llama may be busy with other clients.
 
 ## Hard rule for every session
 Yūkan (nightly GPU job) runs 1:45 to about 5:00 AM PT and shares the GPU and llama with Turing.
@@ -41,19 +41,19 @@ Until this runs, builds are verified on the box (Debian 13 with the same deps): 
   - c012074 strings pass: user-visible "xed" changed to "Techo" in C translatable strings, gschema descriptions, the modelines plugin and the matching po entries. Python plugins use gettext domain `techo`. The 8 po files that fail `msgfmt -c` (ab be ga mai mg ms sr sr@latin) already failed upstream.
   - 287902b Preferences > Theme: "Follow the BushidOS theme" switch. On writes `bushidos-auto` and locks the scheme list; off writes the chooser's scheme. Turing's first version had the wrong notify-handler signature (crashed with criticals in my test). Fixed after one review round, then verified on Xvfb: off gives `scheme='bushidos-neon'`, on gives `scheme='bushidos-auto'`, 0 CRITICALs.
   - ca74a87 the follow switch now sits directly under "Use dark theme variant" (packing positions fixed). Verified on Xvfb (Classic): row in place, BushidOS Classic auto-selected, 0 CRITICALs.
-- Build state: code at ca74a87. A clean `git archive` build on the box at 1:07 AM: meson setup, ninja (0 errors) and install all pass; desktop-file-validate and `glib-compile-schemas --strict` pass. No installed path names xed outside techo-private dirs. Runs under Xvfb.
+- Build state: code at e7f90c1 (help docs after ca74a87). A clean `git archive` build on the box at 1:07 AM: meson setup, ninja (0 errors) and install all pass; desktop-file-validate and `glib-compile-schemas --strict` pass. No installed path names xed outside techo-private dirs. Runs under Xvfb.
 - Phase 4 (install to ~/.local on Aegis, launch, screenshot): BLOCKED on the apt command. Aegis has no gtksourceview-4/xapp/peas/gspell headers, so it can't build. Binaries built on the box (Debian 13, newer glibc) aren't safe to copy to Mint 22.3.
 - Screenshots (box, Xvfb, real BushidOS GTK themes), in `.techo-briefs/`: `box-xvfb-neon.png` (Neon chrome + bushidos-neon scheme, auto), `box-xvfb-classic.png` (Classic + bushidos-classic, auto), `box-xvfb-about-neon.png` (About dialog), `box-xvfb-prefs-classic.png` (Preferences > Theme with the follow switch).
 
 ## Next brief for Turing (exact)
-Nothing is in progress; all briefs through 07 are done and committed (HEAD ca74a87). Turing's own notes: `.techo-briefs/turing-notes.md`.
+Nothing is in progress; briefs through 09 are done and committed (HEAD e7f90c1). Turing's own notes: `.techo-briefs/turing-notes.md`.
 
 Morning list, in order:
 1. Noble runs the apt command above. Then on Aegis: `cd ~/Dropbox/Development/Techo && meson setup build --prefix=$HOME/.local && ninja -C build && ninja -C build install`. Note: Turing pip-installed meson 1.12.1 into ~/.local (see review log). `~/.local/bin/meson` may shadow /usr/bin/meson; if it acts up, use `/usr/bin/meson` explicitly.
 2. Test-launch: `DISPLAY=:0 setsid nohup ~/.local/bin/techo >/tmp/techo.log 2>&1 &`, confirm the window plus tab, take a screenshot with `import -window root ~/Dropbox/Development/Techo/.techo-briefs/aegis-techo.png`, close it with `kill $(pgrep -x techo)`. Then flip themes with bushidos-switch and confirm the scheme follows live (not tested yet: Xvfb had no xsettings daemon).
-3. Suggested next Turing brief once it builds on Aegis: the F1 help (help/C/*.docbook plus help/*/*.po) still says "xed" in its text. Do it like brief 05: sed the word in the docbook and the matching po msgids/msgstrs, never in # comment lines, then check with `msgfmt -c` on fr/de/ja/es.
+3. DONE (e7f90c1): F1 help user-visible "xed" → Techo in `help/C/index.docbook` + `help/*/*.po` (ENTITY app, prose, `techo` commands, `man:techo`, `~/.config/techo` / `share/techo`). Structural `id=`/`linkend=`/`fileref=` and figure filenames kept. `#` po comments still cite `C/xed.xml`. `msgfmt -c` OK all help locales; box `ninja` regenerated yelp help (46/46).
 4. App icon in the 手帳 style (placeholder for now: accessories-text-editor); then Icon= in the desktop file, logo in About, and gtk_window_set_default_icon_name.
-5. Optional: metainfo homepage/screenshots; the help docs (yelp, help/C) still describe "xed" in their text; the `docs/reference` gtk-doc still uses xed (off by default).
+5. Optional: metainfo homepage/screenshots; the `docs/reference` gtk-doc still uses xed (off by default).
 
 ## Review log (Turing quality and speed)
 How I worked with him: one subsystem per brief, exact commands plus a pass/fail check. I reviewed every diff on Aegis, committed after review, and built every commit on the box (Debian 13: meson setup + ninja + install, plus an Xvfb run).
@@ -72,5 +72,7 @@ How I worked with him: one subsystem per brief, exact commands plus a pass/fail 
 | 6b | signature fix | ~30 s | Exact. Verified working on Xvfb. |
 | 7 | switch packing position | ~50 s | Exact. |
 | 8 | write turing-notes.md | ~45 s | Accurate and candid, including disclosure of the meson install. |
+| 9 | help docbook + po (xed→Techo) | ~45 s wall | **Did not apply edits.** Burned max-turns exploring/grepping; replied with a findings dump and "next action: run the seds". Zero disk changes. |
+| 9b | fix round: run the seds only | ~60 s wall | **Still no edits.** Got stuck in a read_file loop (guardrail blocked repeated reads) before any terminal/sed. Asked if he should fire the seds. **Donald applied the exact brief sed commands and committed e7f90c1.** |
 
-Overall: very good with precise, sed-level briefs (1 to 3 min, correct). Weak on open-ended edits (man page prose) and on self-reporting: reports from memory, mis-states file names, skips secondary items, and hid an install. Always verify on disk, keep one primary item per brief, and repeat "no installs".
+Overall: very good with precise, sed-level briefs (1 to 3 min, correct) **when he actually runs the commands**. Weak on open-ended edits (man page prose) and on self-reporting: reports from memory, mis-states file names, skips secondary items, and hid an install. Morning brief 09/09b: explored instead of executing even when told "Do NOT explore". Always verify on disk, keep one primary item per brief, forbid explore-first on mechanical sed tasks, and repeat "no installs".
