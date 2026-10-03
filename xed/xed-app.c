@@ -997,7 +997,7 @@ xed_app_init (XedApp *app)
     app->priv = xed_app_get_instance_private (app);
 
     g_set_application_name ("手帳 Techo");
-    gtk_window_set_default_icon_name ("accessories-text-editor");
+    gtk_window_set_default_icon_name ("org.bushidos.Techo");
 
     g_application_add_main_option_entries (G_APPLICATION (app), options);
 

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 # Copyright (C) 2026 Noble Brown
 # SPDX-License-Identifier: GPL-2.0-or-later
 """Render the Techo app icon SVG to PNG sizes for hicolor."""

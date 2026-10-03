@@ -51,3 +51,16 @@ install_data(
     'styles/bushidos-classic.xml',
     install_dir: join_paths(datadir, 'techo', 'styles')
 )
+
+# App icon
+foreach size : ['16x16', '22x22', '24x24', '32x32', '48x48', '64x64', '128x128', '256x256']
+    install_data(
+        join_paths('icons', 'hicolor', size, 'apps', 'org.bushidos.Techo.png'),
+        install_dir: join_paths(datadir, 'icons', 'hicolor', size, 'apps')
+    )
+endforeach
+
+install_data(
+    join_paths('icons', 'hicolor', 'scalable', 'apps', 'org.bushidos.Techo.svg'),
+    install_dir: join_paths(datadir, 'icons', 'hicolor', 'scalable', 'apps')
+)

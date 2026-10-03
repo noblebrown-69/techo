@@ -13,3 +13,6 @@
 
 # Re-compile gsettings
 meson.add_install_script('meson_install_schemas.py')
+
+# Update the hicolor icon cache
+meson.add_install_script('meson_install_icons.py')
