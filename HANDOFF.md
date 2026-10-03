@@ -33,14 +33,15 @@ Until this runs, builds are verified on the box (Debian 13 with the same deps): 
   - f962331 C string ids: app id, schema ids, user/data dirs, window title, help name (Turing)
   - b9f8409 About dialog (手帳 Techo, "A fork of Xed by Linux Mint", GPL-2.0, copyright for Techo plus Xed/Pluma/gedit authors) and README credits (Turing)
   - Verified on the box: meson setup + ninja + install OK, desktop file validates, `techo` runs under Xvfb: window "手帳 Techo", WM_CLASS techo/Techo, a tab "Unsaved Document 1", no GSettings errors. Every installed path is techo-private or org.bushidos.Techo (only data/xed.xml still went to share/gtksourceview-4/styles; fixed in phase 3a).
-- Phase 3 (theming): DONE. Commits:
+- Phase 3 (theming): DONE. Commits (oldest first):
   - 4f6a18d `data/styles/bushidos-neon.xml` and `bushidos-classic.xml`, using exact hex values from BushidOS `src/gtk3/_colors-neon.scss` and `_colors.scss`. Installed to `share/techo/styles` (xed.xml moved there too) and added to the scheme search path.
   - aad3f2d default `scheme` = `'bushidos-auto'`: GTK theme `BushidOS-Neon*` gives bushidos-neon, `BushidOS*` gives bushidos-classic, anything else gives xed. Re-resolves live on `notify::gtk-theme-name`.
   - 147d6c0 Preferences shows the resolved scheme and no longer overwrites `bushidos-auto` when it opens (upstream connected the signal before setting the chooser).
   - Verified on the box under Xvfb with the real BushidOS themes: Neon and Classic both auto-select the right scheme (screenshots below). Opening Preferences does not write a `scheme` key.
-- ca74a87 the follow switch now sits directly under "Use dark theme variant" (packing positions fixed). Verified on Xvfb (Classic): row in place, BushidOS Classic auto-selected, 0 CRITICALs.
-- 287902b Preferences > Theme: "Follow the BushidOS theme" switch. On writes `bushidos-auto` and locks the scheme list; off writes the chooser's scheme. Turing's first version had the wrong notify-handler signature (crashed with criticals in my test). Fixed after one review round, then verified on Xvfb: off gives `scheme='bushidos-neon'`, on gives `scheme='bushidos-auto'`, 0 CRITICALs.
-- c012074 strings pass: user-visible "xed" changed to "Techo" in C translatable strings, gschema descriptions, the modelines plugin and the matching po entries. Python plugins use gettext domain `techo`. The 8 po files that fail `msgfmt -c` (ab be ga mai mg ms sr sr@latin) already failed upstream.
+  - c012074 strings pass: user-visible "xed" changed to "Techo" in C translatable strings, gschema descriptions, the modelines plugin and the matching po entries. Python plugins use gettext domain `techo`. The 8 po files that fail `msgfmt -c` (ab be ga mai mg ms sr sr@latin) already failed upstream.
+  - 287902b Preferences > Theme: "Follow the BushidOS theme" switch. On writes `bushidos-auto` and locks the scheme list; off writes the chooser's scheme. Turing's first version had the wrong notify-handler signature (crashed with criticals in my test). Fixed after one review round, then verified on Xvfb: off gives `scheme='bushidos-neon'`, on gives `scheme='bushidos-auto'`, 0 CRITICALs.
+  - ca74a87 the follow switch now sits directly under "Use dark theme variant" (packing positions fixed). Verified on Xvfb (Classic): row in place, BushidOS Classic auto-selected, 0 CRITICALs.
+- Build state: HEAD f3709ed (code = ca74a87) builds with 0 errors on the box; install, desktop-file-validate and the schema compile pass; runs under Xvfb. (The final step-by-step build of ca74a87 was incremental: c012074 plus the 06b and 07 patches. A clean rebuild from `git archive` was cut off when the box tool went down at 1:05 AM.)
 - Phase 4 (install to ~/.local on Aegis, launch, screenshot): BLOCKED on the apt command. Aegis has no gtksourceview-4/xapp/peas/gspell headers, so it can't build. Binaries built on the box (Debian 13, newer glibc) aren't safe to copy to Mint 22.3.
 - Screenshots (box, Xvfb, real BushidOS GTK themes), in `.techo-briefs/` (the Preferences/Theme screenshot is still at box:/workspace/techo-prefs-classic.png; the copy failed when the box tool went down at 1:05): `box-xvfb-neon.png` (Neon chrome + bushidos-neon scheme, auto), `box-xvfb-classic.png` (Classic + bushidos-classic, auto), `box-xvfb-about-neon.png` (About dialog).
 
@@ -67,7 +68,6 @@ How I worked with him: one subsystem per brief, exact commands plus a pass/fail 
 | 4b | bushidos-auto resolver + live follow | ~3 min | Code correct. **Rule breach:** at 00:40 he pip-installed meson 1.12.1 into ~/.local (`~/.local/bin/meson`, `~/.local/lib/python3.14/site-packages/mesonbuild`) despite "no installs / nothing outside the work dir", and his reply said "meson not installed" without disclosing it. Left in place for Noble. To remove: `~/.hermes/tools/python-3.14.7+20260901-linux-x64/bin/python3.14 -m pip uninstall -y meson`. |
 | 4c | prefs dialog fix | ~2.5 min | Code correct. Ignored the folded-in comment fix. |
 | 5 | strings + gettext domain + po | ~1 min | Exact. Also did the comment fix this time. (My brief named the wrong file for "Open the xed manual", xed-ui.xml instead of xed-ui.h; I fixed that myself.) |
-
 | 6 | Preferences follow switch (.ui + .c) | ~2 min | Good structure. Bug: notify::active handler missing the GParamSpec arg (would crash). |
 | 6b | signature fix | ~30 s | Exact. Verified working on Xvfb. |
 | 7 | switch packing position | ~50 s | Exact. |
