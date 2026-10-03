@@ -188,6 +188,42 @@ on_prefer_dark_theme_changed (GSettings   *settings,
     g_object_set (G_OBJECT (gtk_settings), "gtk-application-prefer-dark-theme", prefer_dark_theme, NULL);
 }
 
+const gchar *
+_xed_settings_resolve_scheme_id (const gchar *scheme_id)
+{
+    GtkSettings *gtk_settings;
+    gchar *theme = NULL;
+    const gchar *resolved;
+
+    if (g_strcmp0 (scheme_id, XED_SETTINGS_SCHEME_AUTO) != 0)
+    {
+        return scheme_id;
+    }
+
+    gtk_settings = gtk_settings_get_default ();
+    if (gtk_settings != NULL)
+    {
+        g_object_get (gtk_settings, "gtk-theme-name", &theme, NULL);
+    }
+
+    if (theme != NULL && g_str_has_prefix (theme, "BushidOS-Neon"))
+    {
+        resolved = "bushidos-neon";
+    }
+    else if (theme != NULL && g_str_has_prefix (theme, "BushidOS"))
+    {
+        resolved = "bushidos-classic";
+    }
+    else
+    {
+        resolved = "xed";
+    }
+
+    g_free (theme);
+
+    return resolved;
+}
+
 static void
 on_scheme_changed (GSettings   *settings,
                    const gchar *key,
@@ -210,7 +246,7 @@ on_scheme_changed (GSettings   *settings,
     xs->priv->old_scheme = scheme;
 
     manager = gtk_source_style_scheme_manager_get_default ();
-    style = gtk_source_style_scheme_manager_get_scheme (manager, scheme);
+    style = gtk_source_style_scheme_manager_get_scheme (manager, _xed_settings_resolve_scheme_id (scheme));
 
     if (style == NULL)
     {
@@ -234,6 +270,15 @@ on_scheme_changed (GSettings   *settings,
     }
 
     g_list_free (docs);
+}
+
+static void
+on_gtk_theme_name_changed (GtkSettings *gtk_settings,
+                           GParamSpec  *pspec,
+                           XedSettings *xs)
+{
+    g_clear_pointer (&xs->priv->old_scheme, g_free);
+    on_scheme_changed (xs->priv->editor, XED_SETTINGS_SCHEME, xs);
 }
 
 static void
@@ -381,6 +426,13 @@ xed_settings_init (XedSettings *xs)
                       G_CALLBACK (on_prefer_dark_theme_changed), xs);
     g_signal_connect (xs->priv->editor, "changed::scheme",
                       G_CALLBACK (on_scheme_changed), xs);
+
+    if (gtk_settings_get_default () != NULL)
+    {
+        g_signal_connect_object (gtk_settings_get_default (), "notify::gtk-theme-name",
+                                 G_CALLBACK (on_gtk_theme_name_changed), xs, 0);
+    }
+
     g_signal_connect (xs->priv->editor, "changed::auto-save",
                       G_CALLBACK (on_auto_save_changed), xs);
     g_signal_connect (xs->priv->editor, "changed::auto-save-interval",

@@ -604,7 +604,7 @@ get_default_style_scheme (GSettings *editor_settings)
 
     manager = gtk_source_style_scheme_manager_get_default ();
     scheme_id = g_settings_get_string (editor_settings, XED_SETTINGS_SCHEME);
-    def_style = gtk_source_style_scheme_manager_get_scheme (manager, scheme_id);
+    def_style = gtk_source_style_scheme_manager_get_scheme (manager, _xed_settings_resolve_scheme_id (scheme_id));
 
     if (def_style == NULL)
     {

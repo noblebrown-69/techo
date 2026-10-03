@@ -48,9 +48,9 @@
     </key>
 
     <key name="scheme" type="s">
-      <default>'xed'</default>
+      <default>'bushidos-auto'</default>
       <summary>Style Scheme</summary>
-      <description>The ID of a GtkSourceView Style Scheme used to color the text.</description>
+      <description>The ID of a GtkSourceView Style Scheme used to color the text. 'bushidos-auto' follows the active BushidOS theme (Neon or Classic).</description>
     </key>
 
     <key name="create-backup-copy" type="b">

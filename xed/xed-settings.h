@@ -69,11 +69,14 @@ void xed_settings_set_list (GSettings    *settings,
                             const gchar  *key,
                             const GSList *list);
 
+const gchar *_xed_settings_resolve_scheme_id (const gchar *scheme_id);
+
 /* key constants */
 #define XED_SETTINGS_USE_DEFAULT_FONT           "use-default-font"
 #define XED_SETTINGS_EDITOR_FONT                "editor-font"
 #define XED_SETTINGS_PREFER_DARK_THEME          "prefer-dark-theme"
 #define XED_SETTINGS_SCHEME                     "scheme"
+#define XED_SETTINGS_SCHEME_AUTO                "bushidos-auto"
 #define XED_SETTINGS_CREATE_BACKUP_COPY         "create-backup-copy"
 #define XED_SETTINGS_AUTO_SAVE                  "auto-save"
 #define XED_SETTINGS_AUTO_SAVE_INTERVAL         "auto-save-interval"
