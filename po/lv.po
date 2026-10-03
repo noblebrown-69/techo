@@ -72,12 +72,12 @@ msgid "ENCODING"
 msgstr "KODĒŠANA"
 
 #: ../xed/xed-app.c:120
-msgid "Create a new top-level window in an existing instance of xed"
-msgstr "Izveidot jaunu augšējā līmeņa logu esošajā xed instancē"
+msgid "Create a new top-level window in an existing instance of Techo"
+msgstr "Izveidot jaunu augšējā līmeņa logu esošajā Techo instancē"
 
 #: ../xed/xed-app.c:127
-msgid "Create a new document in an existing instance of xed"
-msgstr "Izveidot jaunu dokumentu esošajā xed instancē"
+msgid "Create a new document in an existing instance of Techo"
+msgstr "Izveidot jaunu dokumentu esošajā Techo instancē"
 
 #: ../xed/xed-app.c:134
 msgid "Set the size and position of the window (WIDTHxHEIGHT+X+Y)"
@@ -92,8 +92,8 @@ msgid "Open files and block process until files are closed"
 msgstr "Atvērt failus un bloķēt procesu, līdz faili tiek aizvērti"
 
 #: ../xed/xed-app.c:148
-msgid "Run xed in standalone mode"
-msgstr "Palaist xed autonomā režīmā"
+msgid "Run Techo in standalone mode"
+msgstr "Palaist Techo autonomā režīmā"
 
 #: ../xed/xed-app.c:155
 msgid "[FILE...] [+LINE]"
@@ -527,12 +527,12 @@ msgstr ""
 #. Translators: %s is a URI scheme (like for example http:, ftp:, etc.)
 #: ../xed/xed-io-error-info-bar.c:189
 #, c-format
-msgid "xed cannot handle %s locations."
-msgstr "xed nevar apstrādāt %s vietas."
+msgid "Techo cannot handle %s locations."
+msgstr "Techo nevar apstrādāt %s vietas."
 
 #: ../xed/xed-io-error-info-bar.c:194
-msgid "xed cannot handle this location."
-msgstr "xed nevar apstrādāt šo atrašanās vietu."
+msgid "Techo cannot handle this location."
+msgstr "Techo nevar apstrādāt šo atrašanās vietu."
 
 #: ../xed/xed-io-error-info-bar.c:201
 msgid "The location of the file cannot be mounted."
@@ -588,8 +588,8 @@ msgid "Unexpected error: %s"
 msgstr "Negaidīta kļūda: %s"
 
 #: ../xed/xed-io-error-info-bar.c:326
-msgid "xed cannot find the file. Perhaps it has recently been deleted."
-msgstr "xed nevar atrast failu. Iespējams, tas nesen ir ticis dzēsts."
+msgid "Techo cannot find the file. Perhaps it has recently been deleted."
+msgstr "Techo nevar atrast failu. Iespējams, tas nesen ir ticis dzēsts."
 
 #: ../xed/xed-io-error-info-bar.c:336
 #, c-format
@@ -619,8 +619,8 @@ msgid "You do not have the permissions necessary to open the file."
 msgstr "Tev nav nepieciešamo atļauju, lai atvērtu failu."
 
 #: ../xed/xed-io-error-info-bar.c:499
-msgid "xed has not been able to detect the character encoding."
-msgstr "xed nav spējis noteikt rakstzīmju kodējumu."
+msgid "Techo has not been able to detect the character encoding."
+msgstr "Techo nav spējis noteikt rakstzīmju kodējumu."
 
 #: ../xed/xed-io-error-info-bar.c:501 ../xed/xed-io-error-info-bar.c:524
 msgid "Please check that you are not trying to open a binary file."
@@ -682,14 +682,14 @@ msgstr "_Nerediģēt"
 
 #: ../xed/xed-io-error-info-bar.c:673
 #, c-format
-msgid "This file (%s) is already open in another xed window."
-msgstr "Šis fails (%s) jau ir atvērts citā xed logā."
+msgid "This file (%s) is already open in another Techo window."
+msgstr "Šis fails (%s) jau ir atvērts citā Techo logā."
 
 #: ../xed/xed-io-error-info-bar.c:687
 msgid ""
-"xed opened this instance of the file in a non-editable way. Do you want to "
+"Techo opened this instance of the file in a non-editable way. Do you want to "
 "edit it anyway?"
-msgstr "xed atvēra šo failu nerediģējamā veidā. Vai vēlaties to rediģēt?"
+msgstr "Techo atvēra šo failu nerediģējamā veidā. Vai vēlaties to rediģēt?"
 
 #: ../xed/xed-io-error-info-bar.c:742 ../xed/xed-io-error-info-bar.c:830
 #: ../xed/xed-io-error-info-bar.c:1092
@@ -729,11 +729,11 @@ msgstr "Saglabājot %s nevar izveidot pagaidu rezerves failu"
 
 #: ../xed/xed-io-error-info-bar.c:871
 msgid ""
-"xed could not back up the old copy of the file before saving the new one. "
+"Techo could not back up the old copy of the file before saving the new one. "
 "You can ignore this warning and save the file anyway, but if an error occurs "
 "while saving, you could lose the old copy of the file. Save anyway?"
 msgstr ""
-"xed nevarēja izveidot vecās faila kopijas rezerves kopiju pirms jaunās "
+"Techo nevarēja izveidot vecās faila kopijas rezerves kopiju pirms jaunās "
 "saglabāšanas. Tu vari ignorēt šo brīdinājumu un saglabāt failu jebkurā "
 "gadījumā, bet, ja saglabāšanas laikā rodas kļūda, tu vari zaudēt veco faila "
 "kopiju. Vai tomēr saglabāt?"
@@ -742,18 +742,18 @@ msgstr ""
 #: ../xed/xed-io-error-info-bar.c:928
 #, c-format
 msgid ""
-"xed cannot handle %s locations in write mode. Please check that you typed "
+"Techo cannot handle %s locations in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"xed nevar apstrādāt %s atrašanās vietu rakstīšanas režīmā. Lūdzu, pārbaudi, "
+"Techo nevar apstrādāt %s atrašanās vietu rakstīšanas režīmā. Lūdzu, pārbaudi, "
 "vai esi pareizi ievadījis atrašanās vietu, un mēģini vēlreiz."
 
 #: ../xed/xed-io-error-info-bar.c:936
 msgid ""
-"xed cannot handle this location in write mode. Please check that you typed "
+"Techo cannot handle this location in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"xed nevar apstrādāt šo atrašanās vietu rakstīšanas režīmā. Lūdzu, pārbaudi, "
+"Techo nevar apstrādāt šo atrašanās vietu rakstīšanas režīmā. Lūdzu, pārbaudi, "
 "vai esi pareizi ievadījis atrašanās vietu, un mēģini vēlreiz."
 
 #: ../xed/xed-io-error-info-bar.c:945
@@ -1661,8 +1661,8 @@ msgid "_Contents"
 msgstr "_Saturs"
 
 #: ../xed/xed-ui.h:66
-msgid "Open the xed manual"
-msgstr "Atvērt xed rokasgrāmatu"
+msgid "Open the Techo manual"
+msgstr "Atvērt Techo rokasgrāmatu"
 
 #: ../xed/xed-ui.h:67
 msgid "_About"
@@ -2453,8 +2453,8 @@ msgid "Modelines"
 msgstr "Modelines"
 
 #: ../plugins/modelines/modelines.plugin.desktop.in.h:2
-msgid "Emacs, Kate and Vim-style modelines support for xed."
-msgstr "Emacs, Kate un Vim stila modeļu atbalsts xed."
+msgid "Emacs, Kate and Vim-style modelines support for Techo."
+msgstr "Emacs, Kate un Vim stila modeļu atbalsts Techo."
 
 #: ../plugins/sort/sort.plugin.desktop.in.h:1
 msgid "Sort"

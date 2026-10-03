@@ -68,12 +68,12 @@ msgid "ENCODING"
 msgstr "编码"
 
 #: ../xed/xed-app.c:120
-msgid "Create a new top-level window in an existing instance of xed"
-msgstr "在现有的 xed 实例中创建新的顶级窗口"
+msgid "Create a new top-level window in an existing instance of Techo"
+msgstr "在现有的 Techo 实例中创建新的顶级窗口"
 
 #: ../xed/xed-app.c:127
-msgid "Create a new document in an existing instance of xed"
-msgstr "在现有的 xed 实例中创建新的文档"
+msgid "Create a new document in an existing instance of Techo"
+msgstr "在现有的 Techo 实例中创建新的文档"
 
 #: ../xed/xed-app.c:134
 msgid "Set the size and position of the window (WIDTHxHEIGHT+X+Y)"
@@ -88,7 +88,7 @@ msgid "Open files and block process until files are closed"
 msgstr "以独占方式打开文件直到文件关闭"
 
 #: ../xed/xed-app.c:148
-msgid "Run xed in standalone mode"
+msgid "Run Techo in standalone mode"
 msgstr "以单机模式运行xed"
 
 #: ../xed/xed-app.c:155
@@ -434,11 +434,11 @@ msgstr "请检查键入的位置是否正确，然后重试。"
 #. Translators: %s is a URI scheme (like for example http:, ftp:, etc.)
 #: ../xed/xed-io-error-info-bar.c:189
 #, c-format
-msgid "xed cannot handle %s locations."
+msgid "Techo cannot handle %s locations."
 msgstr "Xed无法处理位置 %s 。"
 
 #: ../xed/xed-io-error-info-bar.c:194
-msgid "xed cannot handle this location."
+msgid "Techo cannot handle this location."
 msgstr "Xed无法处理此位置。"
 
 #: ../xed/xed-io-error-info-bar.c:201
@@ -491,7 +491,7 @@ msgid "Unexpected error: %s"
 msgstr "意外错误：%s"
 
 #: ../xed/xed-io-error-info-bar.c:326
-msgid "xed cannot find the file. Perhaps it has recently been deleted."
+msgid "Techo cannot find the file. Perhaps it has recently been deleted."
 msgstr "xed无法找到文件。该文件可能已经被删除。"
 
 #: ../xed/xed-io-error-info-bar.c:336
@@ -520,7 +520,7 @@ msgid "You do not have the permissions necessary to open the file."
 msgstr "您没有打开文件所需的权限。"
 
 #: ../xed/xed-io-error-info-bar.c:499
-msgid "xed has not been able to detect the character encoding."
+msgid "Techo has not been able to detect the character encoding."
 msgstr "xed无法检测字符编码。"
 
 #: ../xed/xed-io-error-info-bar.c:501 ../xed/xed-io-error-info-bar.c:524
@@ -579,12 +579,12 @@ msgstr "放弃编辑(_O)"
 
 #: ../xed/xed-io-error-info-bar.c:673
 #, c-format
-msgid "This file (%s) is already open in another xed window."
+msgid "This file (%s) is already open in another Techo window."
 msgstr "该文件(%s)已经在另一个xed窗口中打开。"
 
 #: ../xed/xed-io-error-info-bar.c:687
 msgid ""
-"xed opened this instance of the file in a non-editable way. Do you want to "
+"Techo opened this instance of the file in a non-editable way. Do you want to "
 "edit it anyway?"
 msgstr "xed正以只读模式打开此文件实例。您希望无论如何都对其进行编辑吗？"
 
@@ -624,7 +624,7 @@ msgstr "保存 %s 时无法创建临时备份文件"
 
 #: ../xed/xed-io-error-info-bar.c:871
 msgid ""
-"xed could not back up the old copy of the file before saving the new one. "
+"Techo could not back up the old copy of the file before saving the new one. "
 "You can ignore this warning and save the file anyway, but if an error occurs "
 "while saving, you could lose the old copy of the file. Save anyway?"
 msgstr ""
@@ -635,13 +635,13 @@ msgstr ""
 #: ../xed/xed-io-error-info-bar.c:928
 #, c-format
 msgid ""
-"xed cannot handle %s locations in write mode. Please check that you typed "
+"Techo cannot handle %s locations in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr "Xed无法在写入模式下处理位置 %s 。请您检查是否输入了正确的位置并重新尝试。"
 
 #: ../xed/xed-io-error-info-bar.c:936
 msgid ""
-"xed cannot handle this location in write mode. Please check that you typed "
+"Techo cannot handle this location in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr "Xed无法在写入模式下处理该位置。请您检查是否输入了正确的位置并重新尝试。"
 
@@ -1526,7 +1526,7 @@ msgid "_Contents"
 msgstr "目录(_C)"
 
 #: ../xed/xed-ui.h:66
-msgid "Open the xed manual"
+msgid "Open the Techo manual"
 msgstr "打开xed使用手册"
 
 #: ../xed/xed-ui.h:67
@@ -2297,7 +2297,7 @@ msgid "Modelines"
 msgstr "模式行"
 
 #: ../plugins/modelines/modelines.plugin.desktop.in.h:2
-msgid "Emacs, Kate and Vim-style modelines support for xed."
+msgid "Emacs, Kate and Vim-style modelines support for Techo."
 msgstr "Xed对Emacs、Kate和Vim-style的modeline支持。"
 
 #: ../plugins/sort/sort.plugin.desktop.in.h:1

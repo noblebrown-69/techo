@@ -71,13 +71,13 @@ msgid "ENCODING"
 msgstr "KODNING"
 
 #: ../xed/xed-app.c:120
-msgid "Create a new top-level window in an existing instance of xed"
+msgid "Create a new top-level window in an existing instance of Techo"
 msgstr ""
-"Opret et nyt vindue på øverste niveau i en eksisterende forekomst af xed"
+"Opret et nyt vindue på øverste niveau i en eksisterende forekomst af Techo"
 
 #: ../xed/xed-app.c:127
-msgid "Create a new document in an existing instance of xed"
-msgstr "Opret et nyt dokument i en eksisterende forekomst af xed"
+msgid "Create a new document in an existing instance of Techo"
+msgstr "Opret et nyt dokument i en eksisterende forekomst af Techo"
 
 #: ../xed/xed-app.c:134
 msgid "Set the size and position of the window (WIDTHxHEIGHT+X+Y)"
@@ -92,8 +92,8 @@ msgid "Open files and block process until files are closed"
 msgstr "Åbn filer og blokér processer, indtil alle filer er lukket"
 
 #: ../xed/xed-app.c:148
-msgid "Run xed in standalone mode"
-msgstr "Kør xed i separat tilstand"
+msgid "Run Techo in standalone mode"
+msgstr "Kør Techo i separat tilstand"
 
 #: ../xed/xed-app.c:155
 msgid "[FILE...] [+LINE]"
@@ -482,12 +482,12 @@ msgstr "Kontrollér at du har indtastet stedet korrekt og prøv igen."
 #. Translators: %s is a URI scheme (like for example http:, ftp:, etc.)
 #: ../xed/xed-io-error-info-bar.c:189
 #, c-format
-msgid "xed cannot handle %s locations."
-msgstr "xed kan ikke håndtere %s-placeringer."
+msgid "Techo cannot handle %s locations."
+msgstr "Techo kan ikke håndtere %s-placeringer."
 
 #: ../xed/xed-io-error-info-bar.c:194
-msgid "xed cannot handle this location."
-msgstr "xed kan ikke håndtere denne placering."
+msgid "Techo cannot handle this location."
+msgstr "Techo kan ikke håndtere denne placering."
 
 #: ../xed/xed-io-error-info-bar.c:201
 msgid "The location of the file cannot be mounted."
@@ -545,8 +545,8 @@ msgid "Unexpected error: %s"
 msgstr "Uventet fejl: %s"
 
 #: ../xed/xed-io-error-info-bar.c:326
-msgid "xed cannot find the file. Perhaps it has recently been deleted."
-msgstr "xed kan ikke finde filen. Måske er den blevet slettet for nyligt."
+msgid "Techo cannot find the file. Perhaps it has recently been deleted."
+msgstr "Techo kan ikke finde filen. Måske er den blevet slettet for nyligt."
 
 #: ../xed/xed-io-error-info-bar.c:336
 #, c-format
@@ -576,8 +576,8 @@ msgid "You do not have the permissions necessary to open the file."
 msgstr "Du har ikke de nødvendige rettigheder til at åbne filen."
 
 #: ../xed/xed-io-error-info-bar.c:499
-msgid "xed has not been able to detect the character encoding."
-msgstr "xed kunne ikke genkende tegnkodningen."
+msgid "Techo has not been able to detect the character encoding."
+msgstr "Techo kunne ikke genkende tegnkodningen."
 
 #: ../xed/xed-io-error-info-bar.c:501 ../xed/xed-io-error-info-bar.c:524
 msgid "Please check that you are not trying to open a binary file."
@@ -639,15 +639,15 @@ msgstr "Redigér i_kke"
 
 #: ../xed/xed-io-error-info-bar.c:673
 #, c-format
-msgid "This file (%s) is already open in another xed window."
-msgstr "Filen %s er allerede åbnet i et andet xed-vindue."
+msgid "This file (%s) is already open in another Techo window."
+msgstr "Filen %s er allerede åbnet i et andet Techo-vindue."
 
 #: ../xed/xed-io-error-info-bar.c:687
 msgid ""
-"xed opened this instance of the file in a non-editable way. Do you want to "
+"Techo opened this instance of the file in a non-editable way. Do you want to "
 "edit it anyway?"
 msgstr ""
-"xed åbnede filen som skrivebeskyttet. Ønsker du alligevel at redigere i den?"
+"Techo åbnede filen som skrivebeskyttet. Ønsker du alligevel at redigere i den?"
 
 #: ../xed/xed-io-error-info-bar.c:742 ../xed/xed-io-error-info-bar.c:830
 #: ../xed/xed-io-error-info-bar.c:1092
@@ -686,11 +686,11 @@ msgstr "Kunne ikke oprette en midlertidig sikkerhedskopi, mens %s blev gemt"
 
 #: ../xed/xed-io-error-info-bar.c:871
 msgid ""
-"xed could not back up the old copy of the file before saving the new one. "
+"Techo could not back up the old copy of the file before saving the new one. "
 "You can ignore this warning and save the file anyway, but if an error occurs "
 "while saving, you could lose the old copy of the file. Save anyway?"
 msgstr ""
-"xed kunne ikke sikkerhedskopiere den gamle version af filen, inden den nye "
+"Techo kunne ikke sikkerhedskopiere den gamle version af filen, inden den nye "
 "gemmes. Du kan ignorere denne advarsel og gemme filen alligevel, men hvis "
 "der opstår en fejl undervejs, kan du miste den gamle version af filen. Gem "
 "alligevel?"
@@ -699,18 +699,18 @@ msgstr ""
 #: ../xed/xed-io-error-info-bar.c:928
 #, c-format
 msgid ""
-"xed cannot handle %s locations in write mode. Please check that you typed "
+"Techo cannot handle %s locations in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"xed kan ikke håndtere %s-placeringer i skrivetilstand. Tjek venligst, at du "
+"Techo kan ikke håndtere %s-placeringer i skrivetilstand. Tjek venligst, at du "
 "indtastede den korrekte placering og prøv igen."
 
 #: ../xed/xed-io-error-info-bar.c:936
 msgid ""
-"xed cannot handle this location in write mode. Please check that you typed "
+"Techo cannot handle this location in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"xed kan ikke håndtere denne placering i skrivetilstand. Tjek venligst, at du "
+"Techo kan ikke håndtere denne placering i skrivetilstand. Tjek venligst, at du "
 "indtastede den korrekte placering og prøv igen."
 
 #: ../xed/xed-io-error-info-bar.c:945
@@ -1615,8 +1615,8 @@ msgid "_Contents"
 msgstr "_Indhold"
 
 #: ../xed/xed-ui.h:66
-msgid "Open the xed manual"
-msgstr "Åbn xed-manualen"
+msgid "Open the Techo manual"
+msgstr "Åbn Techo-manualen"
 
 #: ../xed/xed-ui.h:67
 msgid "_About"
@@ -2409,9 +2409,9 @@ msgid "Modelines"
 msgstr "Tilstandslinjer"
 
 #: ../plugins/modelines/modelines.plugin.desktop.in.h:2
-msgid "Emacs, Kate and Vim-style modelines support for xed."
+msgid "Emacs, Kate and Vim-style modelines support for Techo."
 msgstr ""
-"Understøttelse af Emacs-, Kate- og Vim-lignende-tilstandslinjer for xed."
+"Understøttelse af Emacs-, Kate- og Vim-lignende-tilstandslinjer for Techo."
 
 #: ../plugins/sort/sort.plugin.desktop.in.h:1
 msgid "Sort"

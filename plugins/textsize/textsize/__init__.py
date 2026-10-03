@@ -27,7 +27,7 @@ from gi.repository import GObject, Gio, Gtk, Gdk, Xed
 from .documenthelper import DocumentHelper
 
 import gettext
-gettext.install("xed")
+gettext.install("techo")
 
 MENU_PATH = "/MenuBar/ViewMenu/ViewOps_1"
 

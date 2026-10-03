@@ -76,13 +76,13 @@ msgid "ENCODING"
 msgstr "CODIFICARE"
 
 #: ../xed/xed-app.c:120
-msgid "Create a new top-level window in an existing instance of xed"
+msgid "Create a new top-level window in an existing instance of Techo"
 msgstr ""
-"Creează o nouă fereastră de nivel superior într-o instanță existentă de xed"
+"Creează o nouă fereastră de nivel superior într-o instanță existentă de Techo"
 
 #: ../xed/xed-app.c:127
-msgid "Create a new document in an existing instance of xed"
-msgstr "Creează un document nou într-o instanță existentă de xed"
+msgid "Create a new document in an existing instance of Techo"
+msgstr "Creează un document nou într-o instanță existentă de Techo"
 
 #: ../xed/xed-app.c:134
 msgid "Set the size and position of the window (WIDTHxHEIGHT+X+Y)"
@@ -98,8 +98,8 @@ msgstr ""
 "Deschideți fișierele și blocați procesul până la închiderea fișierelor"
 
 #: ../xed/xed-app.c:148
-msgid "Run xed in standalone mode"
-msgstr "Rulează xed în modul autonom"
+msgid "Run Techo in standalone mode"
+msgstr "Rulează Techo în modul autonom"
 
 #: ../xed/xed-app.c:155
 msgid "[FILE...] [+LINE]"
@@ -533,12 +533,12 @@ msgstr ""
 #. Translators: %s is a URI scheme (like for example http:, ftp:, etc.)
 #: ../xed/xed-io-error-info-bar.c:189
 #, c-format
-msgid "xed cannot handle %s locations."
-msgstr "xed nu poate gestiona locații %s."
+msgid "Techo cannot handle %s locations."
+msgstr "Techo nu poate gestiona locații %s."
 
 #: ../xed/xed-io-error-info-bar.c:194
-msgid "xed cannot handle this location."
-msgstr "xed nu poate gestiona această locație."
+msgid "Techo cannot handle this location."
+msgstr "Techo nu poate gestiona această locație."
 
 #: ../xed/xed-io-error-info-bar.c:201
 msgid "The location of the file cannot be mounted."
@@ -594,8 +594,8 @@ msgid "Unexpected error: %s"
 msgstr "Eroare neașteptată: %s"
 
 #: ../xed/xed-io-error-info-bar.c:326
-msgid "xed cannot find the file. Perhaps it has recently been deleted."
-msgstr "xed nu poate găsi fișierul. Poate că a fost șters recent."
+msgid "Techo cannot find the file. Perhaps it has recently been deleted."
+msgstr "Techo nu poate găsi fișierul. Poate că a fost șters recent."
 
 #: ../xed/xed-io-error-info-bar.c:336
 #, c-format
@@ -625,8 +625,8 @@ msgid "You do not have the permissions necessary to open the file."
 msgstr "Nu aveți permisiunile necesare pentru a deschide fișierul."
 
 #: ../xed/xed-io-error-info-bar.c:499
-msgid "xed has not been able to detect the character encoding."
-msgstr "xed nu a putut detecta codificarea caracterelor."
+msgid "Techo has not been able to detect the character encoding."
+msgstr "Techo nu a putut detecta codificarea caracterelor."
 
 #: ../xed/xed-io-error-info-bar.c:501 ../xed/xed-io-error-info-bar.c:524
 msgid "Please check that you are not trying to open a binary file."
@@ -693,15 +693,15 @@ msgstr "Nu _modifica"
 
 #: ../xed/xed-io-error-info-bar.c:673
 #, c-format
-msgid "This file (%s) is already open in another xed window."
-msgstr "Acest fișier (%s) este deja deschis într-o altă fereastră xed."
+msgid "This file (%s) is already open in another Techo window."
+msgstr "Acest fișier (%s) este deja deschis într-o altă fereastră Techo."
 
 #: ../xed/xed-io-error-info-bar.c:687
 msgid ""
-"xed opened this instance of the file in a non-editable way. Do you want to "
+"Techo opened this instance of the file in a non-editable way. Do you want to "
 "edit it anyway?"
 msgstr ""
-"xed a deschis această instanță a fișierului într-un mod ne-editabil. Vrei să "
+"Techo a deschis această instanță a fișierului într-un mod ne-editabil. Vrei să "
 "o editezi oricum?"
 
 #: ../xed/xed-io-error-info-bar.c:742 ../xed/xed-io-error-info-bar.c:830
@@ -742,11 +742,11 @@ msgstr "Nu s-a putut crea o copie temporară de siguranță la salvarea %s"
 
 #: ../xed/xed-io-error-info-bar.c:871
 msgid ""
-"xed could not back up the old copy of the file before saving the new one. "
+"Techo could not back up the old copy of the file before saving the new one. "
 "You can ignore this warning and save the file anyway, but if an error occurs "
 "while saving, you could lose the old copy of the file. Save anyway?"
 msgstr ""
-"xed nu a putut face o copie de siguranță a fișierului vechi înainte de a-l "
+"Techo nu a putut face o copie de siguranță a fișierului vechi înainte de a-l "
 "salva pe cel nou. Poți ignora acest avertisment și poți salva fișierul, dar "
 "dacă apare o eroare în timpul salvării, poți pierde copia veche a "
 "fișierului. Salvezi oricum?"
@@ -755,18 +755,18 @@ msgstr ""
 #: ../xed/xed-io-error-info-bar.c:928
 #, c-format
 msgid ""
-"xed cannot handle %s locations in write mode. Please check that you typed "
+"Techo cannot handle %s locations in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"xed nu poate gestiona locațiile %s în modul scriere. Te rog să verifici dacă "
+"Techo nu poate gestiona locațiile %s în modul scriere. Te rog să verifici dacă "
 "ai introdus corect locația și apoi reîncearcă."
 
 #: ../xed/xed-io-error-info-bar.c:936
 msgid ""
-"xed cannot handle this location in write mode. Please check that you typed "
+"Techo cannot handle this location in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"xed nu poate gestiona această locație în modul scriere. Te rog să verifici "
+"Techo nu poate gestiona această locație în modul scriere. Te rog să verifici "
 "dacă ai introdus corect locația și apoi reîncearcă."
 
 #: ../xed/xed-io-error-info-bar.c:945
@@ -1673,8 +1673,8 @@ msgid "_Contents"
 msgstr "_Conținut"
 
 #: ../xed/xed-ui.h:66
-msgid "Open the xed manual"
-msgstr "Deschide manualul xed"
+msgid "Open the Techo manual"
+msgstr "Deschide manualul Techo"
 
 #: ../xed/xed-ui.h:67
 msgid "_About"
@@ -2471,8 +2471,8 @@ msgid "Modelines"
 msgstr "Linii de mod (modelines)"
 
 #: ../plugins/modelines/modelines.plugin.desktop.in.h:2
-msgid "Emacs, Kate and Vim-style modelines support for xed."
-msgstr "Suportă în xed modelele de linie Emacs, Kate și Vim."
+msgid "Emacs, Kate and Vim-style modelines support for Techo."
+msgstr "Suportă în Techo modelele de linie Emacs, Kate și Vim."
 
 #: ../plugins/sort/sort.plugin.desktop.in.h:1
 msgid "Sort"

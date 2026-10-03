@@ -72,12 +72,12 @@ msgid "ENCODING"
 msgstr "ఎన్‌కోడింగ్"
 
 #: ../xed/xed-app.c:120
-msgid "Create a new top-level window in an existing instance of xed"
-msgstr "ఇప్పటికే ఉన్న xed సందర్భంలో కొత్త ఉన్నత-స్థాయి విండోను సృష్టించండి."
+msgid "Create a new top-level window in an existing instance of Techo"
+msgstr "ఇప్పటికే ఉన్న Techo సందర్భంలో కొత్త ఉన్నత-స్థాయి విండోను సృష్టించండి."
 
 #: ../xed/xed-app.c:127
-msgid "Create a new document in an existing instance of xed"
-msgstr "ఇప్పటికే ఉన్న xed సందర్భంలో కొత్త పత్రాన్ని సృష్టించండి."
+msgid "Create a new document in an existing instance of Techo"
+msgstr "ఇప్పటికే ఉన్న Techo సందర్భంలో కొత్త పత్రాన్ని సృష్టించండి."
 
 #: ../xed/xed-app.c:134
 msgid "Set the size and position of the window (WIDTHxHEIGHT+X+Y)"
@@ -92,8 +92,8 @@ msgid "Open files and block process until files are closed"
 msgstr "ఫైళ్ళను తెరిచి, ఫైళ్ళు మూసే వరకు ప్రక్రియను బ్లాక్ చేయండి."
 
 #: ../xed/xed-app.c:148
-msgid "Run xed in standalone mode"
-msgstr "xed ని స్వతంత్ర మోడ్‌లో అమలు చేయండి"
+msgid "Run Techo in standalone mode"
+msgstr "Techo ని స్వతంత్ర మోడ్‌లో అమలు చేయండి"
 
 #: ../xed/xed-app.c:155
 msgid "[FILE...] [+LINE]"
@@ -466,12 +466,12 @@ msgstr ""
 #. Translators: %s is a URI scheme (like for example http:, ftp:, etc.)
 #: ../xed/xed-io-error-info-bar.c:189
 #, c-format
-msgid "xed cannot handle %s locations."
-msgstr "xed %s స్థానాలను నిర్వహించలేదు."
+msgid "Techo cannot handle %s locations."
+msgstr "Techo %s స్థానాలను నిర్వహించలేదు."
 
 #: ../xed/xed-io-error-info-bar.c:194
-msgid "xed cannot handle this location."
-msgstr "xed ఈ స్థానాన్ని నిర్వహించలేదు."
+msgid "Techo cannot handle this location."
+msgstr "Techo ఈ స్థానాన్ని నిర్వహించలేదు."
 
 #: ../xed/xed-io-error-info-bar.c:201
 msgid "The location of the file cannot be mounted."
@@ -527,8 +527,8 @@ msgid "Unexpected error: %s"
 msgstr "ఊహించని దోషము: %s"
 
 #: ../xed/xed-io-error-info-bar.c:326
-msgid "xed cannot find the file. Perhaps it has recently been deleted."
-msgstr "xed ఫైల్‌ను కనుగొనలేకపోయింది. బహుశా అది ఇటీవల తొలగించబడి ఉండవచ్చు."
+msgid "Techo cannot find the file. Perhaps it has recently been deleted."
+msgstr "Techo ఫైల్‌ను కనుగొనలేకపోయింది. బహుశా అది ఇటీవల తొలగించబడి ఉండవచ్చు."
 
 #: ../xed/xed-io-error-info-bar.c:336
 #, c-format
@@ -557,8 +557,8 @@ msgid "You do not have the permissions necessary to open the file."
 msgstr "ఈ దస్త్రమును తెరుచుటకు సరైన అనుమతులు మీ వద్ద లేవు."
 
 #: ../xed/xed-io-error-info-bar.c:499
-msgid "xed has not been able to detect the character encoding."
-msgstr "xed అక్షర ఎన్‌కోడింగ్‌ను గుర్తించలేకపోయింది."
+msgid "Techo has not been able to detect the character encoding."
+msgstr "Techo అక్షర ఎన్‌కోడింగ్‌ను గుర్తించలేకపోయింది."
 
 #: ../xed/xed-io-error-info-bar.c:501 ../xed/xed-io-error-info-bar.c:524
 msgid "Please check that you are not trying to open a binary file."
@@ -621,15 +621,15 @@ msgstr "సరికూర్చవద్దు (_o)"
 
 #: ../xed/xed-io-error-info-bar.c:673
 #, c-format
-msgid "This file (%s) is already open in another xed window."
-msgstr "ఈ ఫైల్ (%s) ఇప్పటికే మరొక xed విండోలో తెరిచి ఉంది."
+msgid "This file (%s) is already open in another Techo window."
+msgstr "ఈ ఫైల్ (%s) ఇప్పటికే మరొక Techo విండోలో తెరిచి ఉంది."
 
 #: ../xed/xed-io-error-info-bar.c:687
 msgid ""
-"xed opened this instance of the file in a non-editable way. Do you want to "
+"Techo opened this instance of the file in a non-editable way. Do you want to "
 "edit it anyway?"
 msgstr ""
-"xed ఫైల్ యొక్క ఈ సందర్భాన్ని సవరించలేని విధంగా తెరిచింది. మీరు దీన్ని "
+"Techo ఫైల్ యొక్క ఈ సందర్భాన్ని సవరించలేని విధంగా తెరిచింది. మీరు దీన్ని "
 "ఎలాగైనా సవరించాలనుకుంటున్నారా?"
 
 #: ../xed/xed-io-error-info-bar.c:742 ../xed/xed-io-error-info-bar.c:830
@@ -670,11 +670,11 @@ msgstr "%s ను దాచుచున్నప్పుడు తాత్క�
 
 #: ../xed/xed-io-error-info-bar.c:871
 msgid ""
-"xed could not back up the old copy of the file before saving the new one. "
+"Techo could not back up the old copy of the file before saving the new one. "
 "You can ignore this warning and save the file anyway, but if an error occurs "
 "while saving, you could lose the old copy of the file. Save anyway?"
 msgstr ""
-"xed కొత్తదాన్ని సేవ్ చేసే ముందు పాత ఫైల్ కాపీని బ్యాకప్ చేయలేకపోయింది. మీరు "
+"Techo కొత్తదాన్ని సేవ్ చేసే ముందు పాత ఫైల్ కాపీని బ్యాకప్ చేయలేకపోయింది. మీరు "
 "ఈ హెచ్చరికను విస్మరించి ఫైల్‌ను ఎలాగైనా సేవ్ చేయవచ్చు, కానీ సేవ్ "
 "చేస్తున్నప్పుడు లోపం సంభవించినట్లయితే, మీరు ఫైల్ యొక్క పాత కాపీని "
 "కోల్పోవచ్చు. ఏమైనా సేవ్ చేయాలా?"
@@ -683,18 +683,18 @@ msgstr ""
 #: ../xed/xed-io-error-info-bar.c:928
 #, c-format
 msgid ""
-"xed cannot handle %s locations in write mode. Please check that you typed "
+"Techo cannot handle %s locations in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"xed %s స్థానాలను రైట్ మోడ్‌లో నిర్వహించలేదు. దయచేసి మీరు స్థానాన్ని సరిగ్గా "
+"Techo %s స్థానాలను రైట్ మోడ్‌లో నిర్వహించలేదు. దయచేసి మీరు స్థానాన్ని సరిగ్గా "
 "టైప్ చేశారో లేదో తనిఖీ చేసి మళ్ళీ ప్రయత్నించండి."
 
 #: ../xed/xed-io-error-info-bar.c:936
 msgid ""
-"xed cannot handle this location in write mode. Please check that you typed "
+"Techo cannot handle this location in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"xed ఈ స్థానాన్ని రైట్ మోడ్‌లో నిర్వహించలేదు. దయచేసి మీరు స్థానాన్ని సరిగ్గా "
+"Techo ఈ స్థానాన్ని రైట్ మోడ్‌లో నిర్వహించలేదు. దయచేసి మీరు స్థానాన్ని సరిగ్గా "
 "టైప్ చేశారో లేదో తనిఖీ చేసి మళ్ళీ ప్రయత్నించండి."
 
 #: ../xed/xed-io-error-info-bar.c:945
@@ -1596,7 +1596,7 @@ msgid "_Contents"
 msgstr "సారములు(_C)"
 
 #: ../xed/xed-ui.h:66
-msgid "Open the xed manual"
+msgid "Open the Techo manual"
 msgstr ""
 
 #: ../xed/xed-ui.h:67
@@ -2387,7 +2387,7 @@ msgid "Modelines"
 msgstr "మోడ్‌లైన్స్"
 
 #: ../plugins/modelines/modelines.plugin.desktop.in.h:2
-msgid "Emacs, Kate and Vim-style modelines support for xed."
+msgid "Emacs, Kate and Vim-style modelines support for Techo."
 msgstr ""
 
 #: ../plugins/sort/sort.plugin.desktop.in.h:1

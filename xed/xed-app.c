@@ -121,14 +121,14 @@ static const GOptionEntry options[] =
     /* Open a new window */
     {
         "new-window", '\0', 0, G_OPTION_ARG_NONE, NULL,
-        N_("Create a new top-level window in an existing instance of xed"),
+        N_("Create a new top-level window in an existing instance of Techo"),
         NULL
     },
 
     /* Create a new empty document */
     {
         "new-document", '\0', 0, G_OPTION_ARG_NONE, NULL,
-        N_("Create a new document in an existing instance of xed"),
+        N_("Create a new document in an existing instance of Techo"),
         NULL
     },
 
@@ -149,7 +149,7 @@ static const GOptionEntry options[] =
     /* New instance */
     {
         "standalone", 's', 0, G_OPTION_ARG_NONE, NULL,
-        N_("Run xed in standalone mode"),
+        N_("Run Techo in standalone mode"),
         NULL
     },
 

@@ -68,12 +68,12 @@ msgid "ENCODING"
 msgstr "መቀየሪያ"
 
 #: ../xed/xed-app.c:120
-msgid "Create a new top-level window in an existing instance of xed"
-msgstr "አዲስ ከፍተኛ-ደረጃ መስኮት መፍጠሪያ ለ ነበረው ሁኔታ በ xed ውስጥ"
+msgid "Create a new top-level window in an existing instance of Techo"
+msgstr "አዲስ ከፍተኛ-ደረጃ መስኮት መፍጠሪያ ለ ነበረው ሁኔታ በ Techo ውስጥ"
 
 #: ../xed/xed-app.c:127
-msgid "Create a new document in an existing instance of xed"
-msgstr "አዲስ ሰነድ መፍጠሪያ ለ ነበረው ሁኔታ ለ xed"
+msgid "Create a new document in an existing instance of Techo"
+msgstr "አዲስ ሰነድ መፍጠሪያ ለ ነበረው ሁኔታ ለ Techo"
 
 #: ../xed/xed-app.c:134
 msgid "Set the size and position of the window (WIDTHxHEIGHT+X+Y)"
@@ -88,8 +88,8 @@ msgid "Open files and block process until files are closed"
 msgstr "ፋይል መክፈቻ እና ሂደት መከልከያ እስከሚዘጋ ድረስ"
 
 #: ../xed/xed-app.c:148
-msgid "Run xed in standalone mode"
-msgstr "xed እንደ ብቸኛ ዘዴ ማስኬጃ"
+msgid "Run Techo in standalone mode"
+msgstr "Techo እንደ ብቸኛ ዘዴ ማስኬጃ"
 
 #: ../xed/xed-app.c:155
 msgid "[FILE...] [+LINE]"
@@ -446,12 +446,12 @@ msgstr "እባክዎን የ ጻፉት አካባቢ ትክክል መሆኑን ይ
 #. Translators: %s is a URI scheme (like for example http:, ftp:, etc.)
 #: ../xed/xed-io-error-info-bar.c:189
 #, c-format
-msgid "xed cannot handle %s locations."
-msgstr "xed መያዝ አይችልም %s አካባቢውን"
+msgid "Techo cannot handle %s locations."
+msgstr "Techo መያዝ አይችልም %s አካባቢውን"
 
 #: ../xed/xed-io-error-info-bar.c:194
-msgid "xed cannot handle this location."
-msgstr "xed ይህን አካባቢ መያዝ አይችልም"
+msgid "Techo cannot handle this location."
+msgstr "Techo ይህን አካባቢ መያዝ አይችልም"
 
 #: ../xed/xed-io-error-info-bar.c:201
 msgid "The location of the file cannot be mounted."
@@ -504,8 +504,8 @@ msgid "Unexpected error: %s"
 msgstr "ያልተጠበቀ ስህተት: %s"
 
 #: ../xed/xed-io-error-info-bar.c:326
-msgid "xed cannot find the file. Perhaps it has recently been deleted."
-msgstr "xed ፋይሉን ማግኘት አልቻለም: ምናልባት በቅርብ ጠፍቶ ሊሆን ይችላል"
+msgid "Techo cannot find the file. Perhaps it has recently been deleted."
+msgstr "Techo ፋይሉን ማግኘት አልቻለም: ምናልባት በቅርብ ጠፍቶ ሊሆን ይችላል"
 
 #: ../xed/xed-io-error-info-bar.c:336
 #, c-format
@@ -533,8 +533,8 @@ msgid "You do not have the permissions necessary to open the file."
 msgstr "እርስዎ ይህን ፋይል ለ መክፈት በቂ ፍቃድ የለዎትም"
 
 #: ../xed/xed-io-error-info-bar.c:499
-msgid "xed has not been able to detect the character encoding."
-msgstr "xed ፈልጎ ማግኘት አልቻለም የ ባህሪ መቀየሪያ"
+msgid "Techo has not been able to detect the character encoding."
+msgstr "Techo ፈልጎ ማግኘት አልቻለም የ ባህሪ መቀየሪያ"
 
 #: ../xed/xed-io-error-info-bar.c:501 ../xed/xed-io-error-info-bar.c:524
 msgid "Please check that you are not trying to open a binary file."
@@ -595,14 +595,14 @@ msgstr "አ_ታርም"
 
 #: ../xed/xed-io-error-info-bar.c:673
 #, c-format
-msgid "This file (%s) is already open in another xed window."
-msgstr "ይህ ፋይል (%s) ቀደም ብሎ ተከፍቷል በሌላ የ xed መስኮት ውስጥ"
+msgid "This file (%s) is already open in another Techo window."
+msgstr "ይህ ፋይል (%s) ቀደም ብሎ ተከፍቷል በሌላ የ Techo መስኮት ውስጥ"
 
 #: ../xed/xed-io-error-info-bar.c:687
 msgid ""
-"xed opened this instance of the file in a non-editable way. Do you want to "
+"Techo opened this instance of the file in a non-editable way. Do you want to "
 "edit it anyway?"
-msgstr "xed ይህን የ ፋይል ሁኔታ የ ከፈተው ምንም-በማይታረም ዘዴ ነው: እርስዎ ለማንኛውም ማረም ይፈልጋሉ?"
+msgstr "Techo ይህን የ ፋይል ሁኔታ የ ከፈተው ምንም-በማይታረም ዘዴ ነው: እርስዎ ለማንኛውም ማረም ይፈልጋሉ?"
 
 #: ../xed/xed-io-error-info-bar.c:742 ../xed/xed-io-error-info-bar.c:830
 #: ../xed/xed-io-error-info-bar.c:1092
@@ -640,11 +640,11 @@ msgstr "ጊዚያዊ ተተኪ ፋይል መፍጠር አልተቻለም በማ�
 
 #: ../xed/xed-io-error-info-bar.c:871
 msgid ""
-"xed could not back up the old copy of the file before saving the new one. "
+"Techo could not back up the old copy of the file before saving the new one. "
 "You can ignore this warning and save the file anyway, but if an error occurs "
 "while saving, you could lose the old copy of the file. Save anyway?"
 msgstr ""
-"xed አሮጌውን ኮፒ ተተኪ መፍጠር አይችልም አዲሱን ከ ማስቀመጠዎት በፊት: እርስዎ ይህን ማስጠንቀቂያ መተው ይችላሉ እና "
+"Techo አሮጌውን ኮፒ ተተኪ መፍጠር አይችልም አዲሱን ከ ማስቀመጠዎት በፊት: እርስዎ ይህን ማስጠንቀቂያ መተው ይችላሉ እና "
 "ማስቀመጥ ፋይሉን ለማንኛውም: ነገር ግን ስህተት ከተፈጠረ በሚያስቀምጡ ጊዜ: እርስዎ አሮጌው ኮፒ ሊጠፋ ይችላል: "
 "ለማንኛውም ላስቀምጥ?"
 
@@ -652,18 +652,18 @@ msgstr ""
 #: ../xed/xed-io-error-info-bar.c:928
 #, c-format
 msgid ""
-"xed cannot handle %s locations in write mode. Please check that you typed "
+"Techo cannot handle %s locations in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"xed መያዝ አይችልም ይህን %s አካባቢ በ መጻፊያ ዘዴ: እባክዎን የጻፉትን አካባቢ ይመርምሩ ትክክል እንደሆነ እና "
+"Techo መያዝ አይችልም ይህን %s አካባቢ በ መጻፊያ ዘዴ: እባክዎን የጻፉትን አካባቢ ይመርምሩ ትክክል እንደሆነ እና "
 "እንደገና ይሞክሩ"
 
 #: ../xed/xed-io-error-info-bar.c:936
 msgid ""
-"xed cannot handle this location in write mode. Please check that you typed "
+"Techo cannot handle this location in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"xed መያዝ አይችልም ይህን አካባቢ በ መጻፊያ ዘዴ: እባክዎን የጻፉትን አካባቢ ይመርምሩ ትክክል እንደሆነ እና እንደገና "
+"Techo መያዝ አይችልም ይህን አካባቢ በ መጻፊያ ዘዴ: እባክዎን የጻፉትን አካባቢ ይመርምሩ ትክክል እንደሆነ እና እንደገና "
 "ይሞክሩ"
 
 #: ../xed/xed-io-error-info-bar.c:945
@@ -1560,8 +1560,8 @@ msgid "_Contents"
 msgstr "_ይዞታዎች"
 
 #: ../xed/xed-ui.h:66
-msgid "Open the xed manual"
-msgstr "የ xed መምሪያ መክፈቻ"
+msgid "Open the Techo manual"
+msgstr "የ Techo መምሪያ መክፈቻ"
 
 #: ../xed/xed-ui.h:67
 msgid "_About"
@@ -2339,8 +2339,8 @@ msgid "Modelines"
 msgstr "የ መስመር ዘዴ"
 
 #: ../plugins/modelines/modelines.plugin.desktop.in.h:2
-msgid "Emacs, Kate and Vim-style modelines support for xed."
-msgstr "Emacs, Kate እና Vim-style modelines ድጋፍ ይሰጣሉ ለ xed."
+msgid "Emacs, Kate and Vim-style modelines support for Techo."
+msgstr "Emacs, Kate እና Vim-style modelines ድጋፍ ይሰጣሉ ለ Techo."
 
 #: ../plugins/sort/sort.plugin.desktop.in.h:1
 msgid "Sort"

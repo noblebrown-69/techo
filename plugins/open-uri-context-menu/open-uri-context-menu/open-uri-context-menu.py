@@ -26,7 +26,7 @@ import os
 import subprocess
 import string
 
-gettext.install("xed")
+gettext.install("techo")
 
 ACCEPTED_SCHEMES = ['file', 'ftp', 'sftp', 'smb', 'dav', 'davs', 'ssh', 'http', 'https']
 RE_DELIM = re.compile(r'[\w#/\?:%@&\=\+\.\\~-]+', re.UNICODE|re.MULTILINE)

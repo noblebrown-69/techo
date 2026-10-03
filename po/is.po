@@ -70,12 +70,12 @@ msgid "ENCODING"
 msgstr "STAFATAFLA"
 
 #: ../xed/xed-app.c:120
-msgid "Create a new top-level window in an existing instance of xed"
-msgstr "Búa til nýjan efstastigs glugga í þegar opnu tilviki af xed"
+msgid "Create a new top-level window in an existing instance of Techo"
+msgstr "Búa til nýjan efstastigs glugga í þegar opnu tilviki af Techo"
 
 #: ../xed/xed-app.c:127
-msgid "Create a new document in an existing instance of xed"
-msgstr "Búa til nýtt skjal í þegar opnu tilviki af xed"
+msgid "Create a new document in an existing instance of Techo"
+msgstr "Búa til nýtt skjal í þegar opnu tilviki af Techo"
 
 #: ../xed/xed-app.c:134
 msgid "Set the size and position of the window (WIDTHxHEIGHT+X+Y)"
@@ -90,8 +90,8 @@ msgid "Open files and block process until files are closed"
 msgstr "Opna skrár og hindra ferli þar til skrám er lokað"
 
 #: ../xed/xed-app.c:148
-msgid "Run xed in standalone mode"
-msgstr "Keyra xed sem sjálfstætt forrit"
+msgid "Run Techo in standalone mode"
+msgstr "Keyra Techo sem sjálfstætt forrit"
 
 #: ../xed/xed-app.c:155
 msgid "[FILE...] [+LINE]"
@@ -487,12 +487,12 @@ msgstr ""
 #. Translators: %s is a URI scheme (like for example http:, ftp:, etc.)
 #: ../xed/xed-io-error-info-bar.c:189
 #, c-format
-msgid "xed cannot handle %s locations."
-msgstr "xed getur ekki meðhöndlað %s staðsetningar."
+msgid "Techo cannot handle %s locations."
+msgstr "Techo getur ekki meðhöndlað %s staðsetningar."
 
 #: ../xed/xed-io-error-info-bar.c:194
-msgid "xed cannot handle this location."
-msgstr "xed er ekki fært um að sýna þessa staðsetningu."
+msgid "Techo cannot handle this location."
+msgstr "Techo er ekki fært um að sýna þessa staðsetningu."
 
 #: ../xed/xed-io-error-info-bar.c:201
 msgid "The location of the file cannot be mounted."
@@ -550,9 +550,9 @@ msgid "Unexpected error: %s"
 msgstr "Óvænt villa: %s"
 
 #: ../xed/xed-io-error-info-bar.c:326
-msgid "xed cannot find the file. Perhaps it has recently been deleted."
+msgid "Techo cannot find the file. Perhaps it has recently been deleted."
 msgstr ""
-"xed fann ekki skrána. Það er hugsanlegt að henni hafi verið eytt nýlega."
+"Techo fann ekki skrána. Það er hugsanlegt að henni hafi verið eytt nýlega."
 
 #: ../xed/xed-io-error-info-bar.c:336
 #, c-format
@@ -582,7 +582,7 @@ msgid "You do not have the permissions necessary to open the file."
 msgstr "Þú hefur ekki leyfi til að opna þessa skrá."
 
 #: ../xed/xed-io-error-info-bar.c:499
-msgid "xed has not been able to detect the character encoding."
+msgid "Techo has not been able to detect the character encoding."
 msgstr "Það tókst ekki að finna út rétta stafatöflu."
 
 #: ../xed/xed-io-error-info-bar.c:501 ../xed/xed-io-error-info-bar.c:524
@@ -646,15 +646,15 @@ msgstr "_Ekki breyta"
 
 #: ../xed/xed-io-error-info-bar.c:673
 #, c-format
-msgid "This file (%s) is already open in another xed window."
+msgid "This file (%s) is already open in another Techo window."
 msgstr "Þessi skrá (“(%s) er þegar opin í öðrum glugga."
 
 #: ../xed/xed-io-error-info-bar.c:687
 msgid ""
-"xed opened this instance of the file in a non-editable way. Do you want to "
+"Techo opened this instance of the file in a non-editable way. Do you want to "
 "edit it anyway?"
 msgstr ""
-"xed opnaði þetta tilvik af skránni í skrifvörðum ham. Viltu samt breyta "
+"Techo opnaði þetta tilvik af skránni í skrifvörðum ham. Viltu samt breyta "
 "henni?"
 
 #: ../xed/xed-io-error-info-bar.c:742 ../xed/xed-io-error-info-bar.c:830
@@ -694,11 +694,11 @@ msgstr "Gat ekki búið til bráðabirgðaöryggisafrit um leið og %s var vista
 
 #: ../xed/xed-io-error-info-bar.c:871
 msgid ""
-"xed could not back up the old copy of the file before saving the new one. "
+"Techo could not back up the old copy of the file before saving the new one. "
 "You can ignore this warning and save the file anyway, but if an error occurs "
 "while saving, you could lose the old copy of the file. Save anyway?"
 msgstr ""
-"xed tókst ekki að taka öryggisafrit af eldra afriti áður en hið nýja var "
+"Techo tókst ekki að taka öryggisafrit af eldra afriti áður en hið nýja var "
 "vistað. Þú getur hunsað þessa aðvörun og vistað samt skrána, en ef einhver "
 "villa kemur upp við vistun, er mögulegt að eldra afritið tapist. Vista samt?"
 
@@ -706,7 +706,7 @@ msgstr ""
 #: ../xed/xed-io-error-info-bar.c:928
 #, c-format
 msgid ""
-"xed cannot handle %s locations in write mode. Please check that you typed "
+"Techo cannot handle %s locations in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
 "Get ekki meðhöndlað %s staðsetningar í skrifham. Athugaðu hvort þú skrifaðir "
@@ -714,7 +714,7 @@ msgstr ""
 
 #: ../xed/xed-io-error-info-bar.c:936
 msgid ""
-"xed cannot handle this location in write mode. Please check that you typed "
+"Techo cannot handle this location in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
 "Get ekki meðhöndlað þessa staðsetningu í skrifham. Athugaðu hvort þú "
@@ -1620,8 +1620,8 @@ msgid "_Contents"
 msgstr "Efn_i"
 
 #: ../xed/xed-ui.h:66
-msgid "Open the xed manual"
-msgstr "Opna xed handbókina"
+msgid "Open the Techo manual"
+msgstr "Opna Techo handbókina"
 
 #: ../xed/xed-ui.h:67
 msgid "_About"
@@ -2406,7 +2406,7 @@ msgid "Modelines"
 msgstr "Upplýsingalínur (modelines)"
 
 #: ../plugins/modelines/modelines.plugin.desktop.in.h:2
-msgid "Emacs, Kate and Vim-style modelines support for xed."
+msgid "Emacs, Kate and Vim-style modelines support for Techo."
 msgstr ""
 "Stuðningur xedit við upplýsingalínur (modelines) eins og í Emacs, Kate og "
 "Vim."

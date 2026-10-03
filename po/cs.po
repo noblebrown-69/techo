@@ -73,11 +73,11 @@ msgid "ENCODING"
 msgstr "KÓDOVÁNÍ"
 
 #: ../xed/xed-app.c:120
-msgid "Create a new top-level window in an existing instance of xed"
+msgid "Create a new top-level window in an existing instance of Techo"
 msgstr "Vytvořit nové hlavní okno v tomto sezení"
 
 #: ../xed/xed-app.c:127
-msgid "Create a new document in an existing instance of xed"
+msgid "Create a new document in an existing instance of Techo"
 msgstr "Vytvořit nový dokument v tomto sezení"
 
 #: ../xed/xed-app.c:134
@@ -93,8 +93,8 @@ msgid "Open files and block process until files are closed"
 msgstr "Otevřít soubory a blokovat zpracování, dokud nejsou zavřeny"
 
 #: ../xed/xed-app.c:148
-msgid "Run xed in standalone mode"
-msgstr "Spustit xed v samostatném režimu"
+msgid "Run Techo in standalone mode"
+msgstr "Spustit Techo v samostatném režimu"
 
 #: ../xed/xed-app.c:155
 msgid "[FILE...] [+LINE]"
@@ -520,12 +520,12 @@ msgstr "Ověřte správný zápis umístění a zkuste to znovu."
 #. Translators: %s is a URI scheme (like for example http:, ftp:, etc.)
 #: ../xed/xed-io-error-info-bar.c:189
 #, c-format
-msgid "xed cannot handle %s locations."
-msgstr "xed nemůže zpracovat umístění %s"
+msgid "Techo cannot handle %s locations."
+msgstr "Techo nemůže zpracovat umístění %s"
 
 #: ../xed/xed-io-error-info-bar.c:194
-msgid "xed cannot handle this location."
-msgstr "xed nemůže toto umístění zpracovat"
+msgid "Techo cannot handle this location."
+msgstr "Techo nemůže toto umístění zpracovat"
 
 #: ../xed/xed-io-error-info-bar.c:201
 msgid "The location of the file cannot be mounted."
@@ -581,7 +581,7 @@ msgid "Unexpected error: %s"
 msgstr "Neočekávaná chyba: %s"
 
 #: ../xed/xed-io-error-info-bar.c:326
-msgid "xed cannot find the file. Perhaps it has recently been deleted."
+msgid "Techo cannot find the file. Perhaps it has recently been deleted."
 msgstr "Xed nemůže najít teento soubor. Pravděpodobně byl smazán."
 
 #: ../xed/xed-io-error-info-bar.c:336
@@ -612,8 +612,8 @@ msgid "You do not have the permissions necessary to open the file."
 msgstr "Nemáte oprávnění potřebná k otevření souboru."
 
 #: ../xed/xed-io-error-info-bar.c:499
-msgid "xed has not been able to detect the character encoding."
-msgstr "xed nemohl detekovat kódování znaků"
+msgid "Techo has not been able to detect the character encoding."
+msgstr "Techo nemohl detekovat kódování znaků"
 
 #: ../xed/xed-io-error-info-bar.c:501 ../xed/xed-io-error-info-bar.c:524
 msgid "Please check that you are not trying to open a binary file."
@@ -675,12 +675,12 @@ msgstr "Ne_upravovat"
 
 #: ../xed/xed-io-error-info-bar.c:673
 #, c-format
-msgid "This file (%s) is already open in another xed window."
-msgstr "Soubor (%s) je již otevřen v jiném okně editoru xed"
+msgid "This file (%s) is already open in another Techo window."
+msgstr "Soubor (%s) je již otevřen v jiném okně editoru Techo"
 
 #: ../xed/xed-io-error-info-bar.c:687
 msgid ""
-"xed opened this instance of the file in a non-editable way. Do you want to "
+"Techo opened this instance of the file in a non-editable way. Do you want to "
 "edit it anyway?"
 msgstr ""
 "Xed otevřel tento soubor způsobem, který neumožňuje úpravy. Chcete i přesto "
@@ -724,7 +724,7 @@ msgstr "Nelze vytvořit dočasný záložní soubor při ukládání souboru %s"
 
 #: ../xed/xed-io-error-info-bar.c:871
 msgid ""
-"xed could not back up the old copy of the file before saving the new one. "
+"Techo could not back up the old copy of the file before saving the new one. "
 "You can ignore this warning and save the file anyway, but if an error occurs "
 "while saving, you could lose the old copy of the file. Save anyway?"
 msgstr ""
@@ -736,15 +736,15 @@ msgstr ""
 #: ../xed/xed-io-error-info-bar.c:928
 #, c-format
 msgid ""
-"xed cannot handle %s locations in write mode. Please check that you typed "
+"Techo cannot handle %s locations in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"xed nemůže pracovat s umístěním %s v režimu zápisu. Prosím zkontrolujte, "
+"Techo nemůže pracovat s umístěním %s v režimu zápisu. Prosím zkontrolujte, "
 "jestli je umístění zadané správně a zkuste to znovu."
 
 #: ../xed/xed-io-error-info-bar.c:936
 msgid ""
-"xed cannot handle this location in write mode. Please check that you typed "
+"Techo cannot handle this location in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
 "Xed nemůže v tomto umístění zapisovat. Prosím zkontrolujte, jestli je "
@@ -1654,8 +1654,8 @@ msgid "_Contents"
 msgstr "_Obsah"
 
 #: ../xed/xed-ui.h:66
-msgid "Open the xed manual"
-msgstr "Otevřít manuál pro xed"
+msgid "Open the Techo manual"
+msgstr "Otevřít manuál pro Techo"
 
 #: ../xed/xed-ui.h:67
 msgid "_About"
@@ -2448,7 +2448,7 @@ msgid "Modelines"
 msgstr "Řádky s režimem"
 
 #: ../plugins/modelines/modelines.plugin.desktop.in.h:2
-msgid "Emacs, Kate and Vim-style modelines support for xed."
+msgid "Emacs, Kate and Vim-style modelines support for Techo."
 msgstr "Podpora režimového řádek jako v Emacs, Kate nebo Vim"
 
 #: ../plugins/sort/sort.plugin.desktop.in.h:1

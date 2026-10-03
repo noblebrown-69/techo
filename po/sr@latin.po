@@ -72,12 +72,12 @@ msgid "ENCODING"
 msgstr "KODNI RASPORED"
 
 #: ../xed/xed-app.c:120
-msgid "Create a new top-level window in an existing instance of xed"
+msgid "Create a new top-level window in an existing instance of Techo"
 msgstr ""
 "Kreiraj novi nadređeni prozor najvišeg nivoa u postojećoj instanci xeda"
 
 #: ../xed/xed-app.c:127
-msgid "Create a new document in an existing instance of xed"
+msgid "Create a new document in an existing instance of Techo"
 msgstr "Kreiraj novi dokument u postojećoj instanci xeda"
 
 #: ../xed/xed-app.c:134
@@ -93,8 +93,8 @@ msgid "Open files and block process until files are closed"
 msgstr "Otvori datoteke i blokiraj proces sve dok se datoteke ne zatvore"
 
 #: ../xed/xed-app.c:148
-msgid "Run xed in standalone mode"
-msgstr "Pokreni xed u samostalnom režimu"
+msgid "Run Techo in standalone mode"
+msgstr "Pokreni Techo u samostalnom režimu"
 
 #: ../xed/xed-app.c:155
 msgid "[FILE...] [+LINE]"
@@ -533,12 +533,12 @@ msgstr ""
 #. Translators: %s is a URI scheme (like for example http:, ftp:, etc.)
 #: ../xed/xed-io-error-info-bar.c:189
 #, c-format
-msgid "xed cannot handle %s locations."
-msgstr "xed ne može da upravlja %s lokacijama (putanjama)."
+msgid "Techo cannot handle %s locations."
+msgstr "Techo ne može da upravlja %s lokacijama (putanjama)."
 
 #: ../xed/xed-io-error-info-bar.c:194
-msgid "xed cannot handle this location."
-msgstr "xed ne može da upravlja ovom lokacijom."
+msgid "Techo cannot handle this location."
+msgstr "Techo ne može da upravlja ovom lokacijom."
 
 #: ../xed/xed-io-error-info-bar.c:201
 msgid "The location of the file cannot be mounted."
@@ -594,8 +594,8 @@ msgid "Unexpected error: %s"
 msgstr "Neočekivana greška: %s"
 
 #: ../xed/xed-io-error-info-bar.c:326
-msgid "xed cannot find the file. Perhaps it has recently been deleted."
-msgstr "xed ne može da pronađe datoteku. Možda je nedavno obrisana."
+msgid "Techo cannot find the file. Perhaps it has recently been deleted."
+msgstr "Techo ne može da pronađe datoteku. Možda je nedavno obrisana."
 
 #: ../xed/xed-io-error-info-bar.c:336
 #, c-format
@@ -624,8 +624,8 @@ msgid "You do not have the permissions necessary to open the file."
 msgstr "Nemate neophodne dozvole za otvaranje datoteke."
 
 #: ../xed/xed-io-error-info-bar.c:499
-msgid "xed has not been able to detect the character encoding."
-msgstr "xed nije bio u stanju da prepozna kodiranje znakova."
+msgid "Techo has not been able to detect the character encoding."
+msgstr "Techo nije bio u stanju da prepozna kodiranje znakova."
 
 #: ../xed/xed-io-error-info-bar.c:501 ../xed/xed-io-error-info-bar.c:524
 msgid "Please check that you are not trying to open a binary file."
@@ -690,15 +690,15 @@ msgstr "_Ne menjaj"
 
 #: ../xed/xed-io-error-info-bar.c:673
 #, c-format
-msgid "This file (%s) is already open in another xed window."
+msgid "This file (%s) is already open in another Techo window."
 msgstr "Ova datoteka (%s) je već otvorena u drugom prozoru xeda."
 
 #: ../xed/xed-io-error-info-bar.c:687
 msgid ""
-"xed opened this instance of the file in a non-editable way. Do you want to "
+"Techo opened this instance of the file in a non-editable way. Do you want to "
 "edit it anyway?"
 msgstr ""
-"xed je otvorio ovu instancu datoteke na način da se ne može uređivati. Da li "
+"Techo je otvorio ovu instancu datoteke na način da se ne može uređivati. Da li "
 "ipak želite da je uredite?"
 
 #: ../xed/xed-io-error-info-bar.c:742 ../xed/xed-io-error-info-bar.c:830
@@ -740,11 +740,11 @@ msgstr ""
 
 #: ../xed/xed-io-error-info-bar.c:871
 msgid ""
-"xed could not back up the old copy of the file before saving the new one. "
+"Techo could not back up the old copy of the file before saving the new one. "
 "You can ignore this warning and save the file anyway, but if an error occurs "
 "while saving, you could lose the old copy of the file. Save anyway?"
 msgstr ""
-"xed nije mogao da napravi rezervnu kopiju starog primerka datoteke pre "
+"Techo nije mogao da napravi rezervnu kopiju starog primerka datoteke pre "
 "snimanja novog. Možete da zanemarite ovo upozorenje i ipak sačuvate "
 "datoteku, ali ukoliko dođe do greške prilikom snimanja, postoji mogućnost da "
 "izgubite stari primerak datoteke. Da je ipak sačuvam?"
@@ -753,18 +753,18 @@ msgstr ""
 #: ../xed/xed-io-error-info-bar.c:928
 #, c-format
 msgid ""
-"xed cannot handle %s locations in write mode. Please check that you typed "
+"Techo cannot handle %s locations in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"xed ne može da upravlja %s lokacijama (putanjama) u režimu upisa. Proverite "
+"Techo ne može da upravlja %s lokacijama (putanjama) u režimu upisa. Proverite "
 "da li ste uneli ispravnu putanju i pokušajte ponovo."
 
 #: ../xed/xed-io-error-info-bar.c:936
 msgid ""
-"xed cannot handle this location in write mode. Please check that you typed "
+"Techo cannot handle this location in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"xed ne može da upravlja ovom lokacijom (putanjom) u režimu upisa. Proverite "
+"Techo ne može da upravlja ovom lokacijom (putanjom) u režimu upisa. Proverite "
 "da li ste uneli ispravnu putanju i pokušajte ponovo."
 
 #: ../xed/xed-io-error-info-bar.c:945
@@ -1674,8 +1674,8 @@ msgid "_Contents"
 msgstr "Sad_ržaj"
 
 #: ../xed/xed-ui.h:66
-msgid "Open the xed manual"
-msgstr "Otvori priručnik za xed"
+msgid "Open the Techo manual"
+msgstr "Otvori priručnik za Techo"
 
 #: ../xed/xed-ui.h:67
 msgid "_About"
@@ -2471,7 +2471,7 @@ msgid "Modelines"
 msgstr "Linije režima"
 
 #: ../plugins/modelines/modelines.plugin.desktop.in.h:2
-msgid "Emacs, Kate and Vim-style modelines support for xed."
+msgid "Emacs, Kate and Vim-style modelines support for Techo."
 msgstr "Podrška za linije režima u stilu Emacsa, Katea i Vima u xedu"
 
 #: ../plugins/sort/sort.plugin.desktop.in.h:1

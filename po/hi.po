@@ -68,11 +68,11 @@ msgid "ENCODING"
 msgstr "एन्कोडिंग"
 
 #: ../xed/xed-app.c:120
-msgid "Create a new top-level window in an existing instance of xed"
+msgid "Create a new top-level window in an existing instance of Techo"
 msgstr "Xed की कार्यरत आवृत्ति में एक नई शीर्ष-स्तरीय विंडो बनाएँ"
 
 #: ../xed/xed-app.c:127
-msgid "Create a new document in an existing instance of xed"
+msgid "Create a new document in an existing instance of Techo"
 msgstr "Xed की कार्यरत आवृत्ति में एक नया प्रलेख बनाएँ"
 
 #: ../xed/xed-app.c:134
@@ -88,7 +88,7 @@ msgid "Open files and block process until files are closed"
 msgstr "फाइलें खोलें व फाइलें बंद होने तक प्रक्रिया अवरुद्ध करें"
 
 #: ../xed/xed-app.c:148
-msgid "Run xed in standalone mode"
+msgid "Run Techo in standalone mode"
 msgstr "Xed एकल मोड में निष्पादित करें"
 
 #: ../xed/xed-app.c:155
@@ -488,11 +488,11 @@ msgstr ""
 #. Translators: %s is a URI scheme (like for example http:, ftp:, etc.)
 #: ../xed/xed-io-error-info-bar.c:189
 #, c-format
-msgid "xed cannot handle %s locations."
+msgid "Techo cannot handle %s locations."
 msgstr "Xed द्वारा %s स्थान उपयोग करना संभव नहीं है।"
 
 #: ../xed/xed-io-error-info-bar.c:194
-msgid "xed cannot handle this location."
+msgid "Techo cannot handle this location."
 msgstr "Xed द्वारा यह स्थान उपयोग करना संभव नहीं है।"
 
 #: ../xed/xed-io-error-info-bar.c:201
@@ -547,7 +547,7 @@ msgid "Unexpected error: %s"
 msgstr "अप्रत्याशित त्रुटि: %s"
 
 #: ../xed/xed-io-error-info-bar.c:326
-msgid "xed cannot find the file. Perhaps it has recently been deleted."
+msgid "Techo cannot find the file. Perhaps it has recently been deleted."
 msgstr "Xed द्वारा फाइल खोज विफल। संभवतः फाइल हाल ही में हटाई गई।"
 
 #: ../xed/xed-io-error-info-bar.c:336
@@ -578,7 +578,7 @@ msgid "You do not have the permissions necessary to open the file."
 msgstr "फ़ाइल खोलने के लिए आपके पास आवश्यक अनुमति नहीं है."
 
 #: ../xed/xed-io-error-info-bar.c:499
-msgid "xed has not been able to detect the character encoding."
+msgid "Techo has not been able to detect the character encoding."
 msgstr "Xed द्वारा अक्षर एन्कोडिंग पहचान विफल।"
 
 #: ../xed/xed-io-error-info-bar.c:501 ../xed/xed-io-error-info-bar.c:524
@@ -640,12 +640,12 @@ msgstr "संपादित मत करें (_o)"
 
 #: ../xed/xed-io-error-info-bar.c:673
 #, c-format
-msgid "This file (%s) is already open in another xed window."
+msgid "This file (%s) is already open in another Techo window."
 msgstr "यह फाइल (%s) अन्य Xed विंडो में पहले से कार्यरत है।"
 
 #: ../xed/xed-io-error-info-bar.c:687
 msgid ""
-"xed opened this instance of the file in a non-editable way. Do you want to "
+"Techo opened this instance of the file in a non-editable way. Do you want to "
 "edit it anyway?"
 msgstr ""
 "Xed द्वारा फाइल की यह आवृत्ति संपादन हेतु नहीं है। क्या आप फिर भी इसे "
@@ -689,7 +689,7 @@ msgstr "%s सहेजने के दौरान अस्थायी ब�
 
 #: ../xed/xed-io-error-info-bar.c:871
 msgid ""
-"xed could not back up the old copy of the file before saving the new one. "
+"Techo could not back up the old copy of the file before saving the new one. "
 "You can ignore this warning and save the file anyway, but if an error occurs "
 "while saving, you could lose the old copy of the file. Save anyway?"
 msgstr ""
@@ -701,7 +701,7 @@ msgstr ""
 #: ../xed/xed-io-error-info-bar.c:928
 #, c-format
 msgid ""
-"xed cannot handle %s locations in write mode. Please check that you typed "
+"Techo cannot handle %s locations in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
 "Xed द्वारा राइट मोड में %s स्थान उपयोग करना संभव नहीं है। दर्ज किया गया "
@@ -709,7 +709,7 @@ msgstr ""
 
 #: ../xed/xed-io-error-info-bar.c:936
 msgid ""
-"xed cannot handle this location in write mode. Please check that you typed "
+"Techo cannot handle this location in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
 "Xed द्वारा राइट मोड में यह स्थान उपयोग करना संभव नहीं है। दर्ज किया गया "
@@ -1615,7 +1615,7 @@ msgid "_Contents"
 msgstr "विषय सूची (_C)"
 
 #: ../xed/xed-ui.h:66
-msgid "Open the xed manual"
+msgid "Open the Techo manual"
 msgstr "Xed गाइड पढ़ें"
 
 #: ../xed/xed-ui.h:67
@@ -2408,7 +2408,7 @@ msgid "Modelines"
 msgstr "मोडलाइन"
 
 #: ../plugins/modelines/modelines.plugin.desktop.in.h:2
-msgid "Emacs, Kate and Vim-style modelines support for xed."
+msgid "Emacs, Kate and Vim-style modelines support for Techo."
 msgstr "Xed हेतु Emacs, Kate व Vim शैली विन्यास लाइन समर्थन।"
 
 #: ../plugins/sort/sort.plugin.desktop.in.h:1

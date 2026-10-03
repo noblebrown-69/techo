@@ -73,13 +73,13 @@ msgid "ENCODING"
 msgstr "KODIMI"
 
 #: ../xed/xed-app.c:120
-msgid "Create a new top-level window in an existing instance of xed"
+msgid "Create a new top-level window in an existing instance of Techo"
 msgstr ""
-"Krijo një dritare të re të nivelit të lartë në një instancë ekzistuese të xed"
+"Krijo një dritare të re të nivelit të lartë në një instancë ekzistuese të Techo"
 
 #: ../xed/xed-app.c:127
-msgid "Create a new document in an existing instance of xed"
-msgstr "Krijo një dokument të ri në një instancë ekzistuese të xed"
+msgid "Create a new document in an existing instance of Techo"
+msgstr "Krijo një dokument të ri në një instancë ekzistuese të Techo"
 
 #: ../xed/xed-app.c:134
 msgid "Set the size and position of the window (WIDTHxHEIGHT+X+Y)"
@@ -95,7 +95,7 @@ msgid "Open files and block process until files are closed"
 msgstr "Hap skedarët dhe blloko procesin derisa skedarët të mbyllen"
 
 #: ../xed/xed-app.c:148
-msgid "Run xed in standalone mode"
+msgid "Run Techo in standalone mode"
 msgstr "Ekzekutoni ka një modalitet të pavarur"
 
 #: ../xed/xed-app.c:155
@@ -501,12 +501,12 @@ msgstr "Kontrolloni që keni shkruar si duhet pozicionin dhe provoni përsëri."
 #. Translators: %s is a URI scheme (like for example http:, ftp:, etc.)
 #: ../xed/xed-io-error-info-bar.c:189
 #, c-format
-msgid "xed cannot handle %s locations."
-msgstr "xed nuk mund të trajtojë %svendndodhjet."
+msgid "Techo cannot handle %s locations."
+msgstr "Techo nuk mund të trajtojë %svendndodhjet."
 
 #: ../xed/xed-io-error-info-bar.c:194
-msgid "xed cannot handle this location."
-msgstr "xed nuk mund ta trajtojë këtë vendndodhje."
+msgid "Techo cannot handle this location."
+msgstr "Techo nuk mund ta trajtojë këtë vendndodhje."
 
 #: ../xed/xed-io-error-info-bar.c:201
 msgid "The location of the file cannot be mounted."
@@ -562,8 +562,8 @@ msgid "Unexpected error: %s"
 msgstr "Gabim i papritur: %s"
 
 #: ../xed/xed-io-error-info-bar.c:326
-msgid "xed cannot find the file. Perhaps it has recently been deleted."
-msgstr "xed nuk mund ta gjejë skedarin. Ndoshta është fshirë së fundmi."
+msgid "Techo cannot find the file. Perhaps it has recently been deleted."
+msgstr "Techo nuk mund ta gjejë skedarin. Ndoshta është fshirë së fundmi."
 
 #: ../xed/xed-io-error-info-bar.c:336
 #, c-format
@@ -593,8 +593,8 @@ msgid "You do not have the permissions necessary to open the file."
 msgstr "Nuk të drejtat e duhura për të hapur atë file."
 
 #: ../xed/xed-io-error-info-bar.c:499
-msgid "xed has not been able to detect the character encoding."
-msgstr "xed nuk ka qenë në gjendje të zbulojë kodimin e karaktereve."
+msgid "Techo has not been able to detect the character encoding."
+msgstr "Techo nuk ka qenë në gjendje të zbulojë kodimin e karaktereve."
 
 #: ../xed/xed-io-error-info-bar.c:501 ../xed/xed-io-error-info-bar.c:524
 msgid "Please check that you are not trying to open a binary file."
@@ -660,16 +660,16 @@ msgstr "Mos e modifiko"
 
 #: ../xed/xed-io-error-info-bar.c:673
 #, c-format
-msgid "This file (%s) is already open in another xed window."
+msgid "This file (%s) is already open in another Techo window."
 msgstr ""
 "Ky skedar ( %s) është tashmë i hapur në një dritare tjetër të mbyllur."
 
 #: ../xed/xed-io-error-info-bar.c:687
 msgid ""
-"xed opened this instance of the file in a non-editable way. Do you want to "
+"Techo opened this instance of the file in a non-editable way. Do you want to "
 "edit it anyway?"
 msgstr ""
-"xed e hapi këtë instancë të skedarit në një mënyrë të pandryshueshme. "
+"Techo e hapi këtë instancë të skedarit në një mënyrë të pandryshueshme. "
 "Dëshiron ta ndryshosh gjithsesi?"
 
 #: ../xed/xed-io-error-info-bar.c:742 ../xed/xed-io-error-info-bar.c:830
@@ -710,11 +710,11 @@ msgstr ""
 
 #: ../xed/xed-io-error-info-bar.c:871
 msgid ""
-"xed could not back up the old copy of the file before saving the new one. "
+"Techo could not back up the old copy of the file before saving the new one. "
 "You can ignore this warning and save the file anyway, but if an error occurs "
 "while saving, you could lose the old copy of the file. Save anyway?"
 msgstr ""
-"xed nuk mundi të bënte kopje rezervë të kopjes së vjetër të skedarit përpara "
+"Techo nuk mundi të bënte kopje rezervë të kopjes së vjetër të skedarit përpara "
 "se të ruante kopjen e re. Mund ta injoroni këtë paralajmërim dhe ta ruani "
 "skedarin gjithsesi, por nëse ndodh një gabim gjatë ruajtjes, mund ta humbni "
 "kopjen e vjetër të skedarit. Ta ruaj gjithsesi?"
@@ -723,18 +723,18 @@ msgstr ""
 #: ../xed/xed-io-error-info-bar.c:928
 #, c-format
 msgid ""
-"xed cannot handle %s locations in write mode. Please check that you typed "
+"Techo cannot handle %s locations in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"xed nuk mund të trajtojë %svendndodhjet në modalitetin e shkrimit. Ju lutemi "
+"Techo nuk mund të trajtojë %svendndodhjet në modalitetin e shkrimit. Ju lutemi "
 "kontrolloni që e keni shkruar vendndodhjen saktë dhe provoni përsëri."
 
 #: ../xed/xed-io-error-info-bar.c:936
 msgid ""
-"xed cannot handle this location in write mode. Please check that you typed "
+"Techo cannot handle this location in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"xed nuk mund ta trajtojë këtë vendndodhje në modalitetin e shkrimit. Ju "
+"Techo nuk mund ta trajtojë këtë vendndodhje në modalitetin e shkrimit. Ju "
 "lutemi kontrolloni që e keni shkruar saktë vendndodhjen dhe provoni përsëri."
 
 #: ../xed/xed-io-error-info-bar.c:945
@@ -1639,8 +1639,8 @@ msgid "_Contents"
 msgstr "_Përmbajtja"
 
 #: ../xed/xed-ui.h:66
-msgid "Open the xed manual"
-msgstr "Hap manualin e xed-uar"
+msgid "Open the Techo manual"
+msgstr "Hap manualin e Techo-uar"
 
 #: ../xed/xed-ui.h:67
 msgid "_About"
@@ -2435,8 +2435,8 @@ msgid "Modelines"
 msgstr "Modelines"
 
 #: ../plugins/modelines/modelines.plugin.desktop.in.h:2
-msgid "Emacs, Kate and Vim-style modelines support for xed."
-msgstr "Modelet në stilin Emacs, Kate dhe Vim mbështesin xed."
+msgid "Emacs, Kate and Vim-style modelines support for Techo."
+msgstr "Modelet në stilin Emacs, Kate dhe Vim mbështesin Techo."
 
 #: ../plugins/sort/sort.plugin.desktop.in.h:1
 msgid "Sort"

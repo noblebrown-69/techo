@@ -73,11 +73,11 @@ msgid "ENCODING"
 msgstr "TEKENSET"
 
 #: ../xed/xed-app.c:120
-msgid "Create a new top-level window in an existing instance of xed"
+msgid "Create a new top-level window in an existing instance of Techo"
 msgstr "Maak een nieuw topniveauvenster in een bestaande instantie van Xed"
 
 #: ../xed/xed-app.c:127
-msgid "Create a new document in an existing instance of xed"
+msgid "Create a new document in an existing instance of Techo"
 msgstr "Maak een nieuw document in een bestaande instantie van Xed"
 
 #: ../xed/xed-app.c:134
@@ -94,8 +94,8 @@ msgid "Open files and block process until files are closed"
 msgstr "Open bestanden en blokkeer proces totdat bestanden worden gesloten"
 
 #: ../xed/xed-app.c:148
-msgid "Run xed in standalone mode"
-msgstr "Draai xed in losstaande modus"
+msgid "Run Techo in standalone mode"
+msgstr "Draai Techo in losstaande modus"
 
 #: ../xed/xed-app.c:155
 msgid "[FILE...] [+LINE]"
@@ -506,11 +506,11 @@ msgstr ""
 #. Translators: %s is a URI scheme (like for example http:, ftp:, etc.)
 #: ../xed/xed-io-error-info-bar.c:189
 #, c-format
-msgid "xed cannot handle %s locations."
+msgid "Techo cannot handle %s locations."
 msgstr "Xed kan %s locaties niet aan."
 
 #: ../xed/xed-io-error-info-bar.c:194
-msgid "xed cannot handle this location."
+msgid "Techo cannot handle this location."
 msgstr "Xed kan deze locatie niet aan."
 
 #: ../xed/xed-io-error-info-bar.c:201
@@ -569,7 +569,7 @@ msgid "Unexpected error: %s"
 msgstr "Onverwachte fout: %s"
 
 #: ../xed/xed-io-error-info-bar.c:326
-msgid "xed cannot find the file. Perhaps it has recently been deleted."
+msgid "Techo cannot find the file. Perhaps it has recently been deleted."
 msgstr "Xed kan het bestand niet vinden. Wellicht is het onlangs verwijderd."
 
 #: ../xed/xed-io-error-info-bar.c:336
@@ -600,7 +600,7 @@ msgid "You do not have the permissions necessary to open the file."
 msgstr "U heeft niet de benodigde rechten om het bestand te openen."
 
 #: ../xed/xed-io-error-info-bar.c:499
-msgid "xed has not been able to detect the character encoding."
+msgid "Techo has not been able to detect the character encoding."
 msgstr "Xed was niet in staat om de tekencodering vast te stellen."
 
 #: ../xed/xed-io-error-info-bar.c:501 ../xed/xed-io-error-info-bar.c:524
@@ -663,12 +663,12 @@ msgstr "_Niet bewerken"
 
 #: ../xed/xed-io-error-info-bar.c:673
 #, c-format
-msgid "This file (%s) is already open in another xed window."
+msgid "This file (%s) is already open in another Techo window."
 msgstr "Dit bestand (%s) is reeds geopend in een ander venster van Xed."
 
 #: ../xed/xed-io-error-info-bar.c:687
 msgid ""
-"xed opened this instance of the file in a non-editable way. Do you want to "
+"Techo opened this instance of the file in a non-editable way. Do you want to "
 "edit it anyway?"
 msgstr ""
 "Xed heeft dit exemplaar van het bestand geopend in een niet-bewerkbare "
@@ -712,7 +712,7 @@ msgstr "Kon geen tijdelijke reservekopie maken tijdens het opslaan van %s"
 
 #: ../xed/xed-io-error-info-bar.c:871
 msgid ""
-"xed could not back up the old copy of the file before saving the new one. "
+"Techo could not back up the old copy of the file before saving the new one. "
 "You can ignore this warning and save the file anyway, but if an error occurs "
 "while saving, you could lose the old copy of the file. Save anyway?"
 msgstr ""
@@ -726,7 +726,7 @@ msgstr ""
 #: ../xed/xed-io-error-info-bar.c:928
 #, c-format
 msgid ""
-"xed cannot handle %s locations in write mode. Please check that you typed "
+"Techo cannot handle %s locations in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
 "Xed kan geen %s locaties aan in schrijfmodus. Kijk a.u.b. na of u de locatie "
@@ -734,7 +734,7 @@ msgstr ""
 
 #: ../xed/xed-io-error-info-bar.c:936
 msgid ""
-"xed cannot handle this location in write mode. Please check that you typed "
+"Techo cannot handle this location in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
 "Xed kan deze locatie niet aan in schrijfmodus. Kijk a.u.b. na of u de "
@@ -1641,7 +1641,7 @@ msgid "_Contents"
 msgstr "In_houd"
 
 #: ../xed/xed-ui.h:66
-msgid "Open the xed manual"
+msgid "Open the Techo manual"
 msgstr "Het Xed-handboek openen"
 
 #: ../xed/xed-ui.h:67
@@ -2442,7 +2442,7 @@ msgid "Modelines"
 msgstr "Modelines"
 
 #: ../plugins/modelines/modelines.plugin.desktop.in.h:2
-msgid "Emacs, Kate and Vim-style modelines support for xed."
+msgid "Emacs, Kate and Vim-style modelines support for Techo."
 msgstr ""
 "Ondersteuning voor Xed inzake Emacs, Kate and Vim-achtige informatieregels."
 

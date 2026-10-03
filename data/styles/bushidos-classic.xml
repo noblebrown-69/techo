@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- BushidOS Classic — washi cream + sumi ink palette for Techo (BushidOS).
-     Derived from BushidOS src/gtk3/_colors-neon.scss.
+     Derived from BushidOS src/gtk3/_colors.scss.
      Copyright © 2026 Noble Brown. License: GPL-2.0-or-later -->
 <style-scheme id="bushidos-classic" name="BushidOS Classic" version="1.0">
   <author>Techo / BushidOS</author>

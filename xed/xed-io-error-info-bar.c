@@ -186,12 +186,12 @@ parse_gio_error (gint          code,
                     scheme_markup = g_markup_printf_escaped ("<i>%s:</i>", scheme_string);
 
                     /* Translators: %s is a URI scheme (like for example http:, ftp:, etc.) */
-                    *message_details = g_strdup_printf (_("xed cannot handle %s locations."), scheme_markup);
+                    *message_details = g_strdup_printf (_("Techo cannot handle %s locations."), scheme_markup);
                     g_free (scheme_markup);
                 }
                 else
                 {
-                    *message_details = g_strdup (_("xed cannot handle this location."));
+                    *message_details = g_strdup (_("Techo cannot handle this location."));
                 }
 
                 g_free (scheme_string);
@@ -323,7 +323,7 @@ xed_unrecoverable_reverting_error_info_bar_new (GFile        *location,
 
     if (is_gio_error (error, G_IO_ERROR_NOT_FOUND))
     {
-        message_details = g_strdup (_("xed cannot find the file. "
+        message_details = g_strdup (_("Techo cannot find the file. "
                                     "Perhaps it has recently been deleted."));
     }
     else
@@ -496,7 +496,7 @@ xed_io_loading_error_info_bar_new (GFile                   *location,
              (error->domain == GTK_SOURCE_FILE_LOADER_ERROR &&
               error->code == GTK_SOURCE_FILE_LOADER_ERROR_ENCODING_AUTO_DETECTION_FAILED))
     {
-        message_details = g_strconcat (_("xed has not been able to detect "
+        message_details = g_strconcat (_("Techo has not been able to detect "
                                          "the character encoding."), "\n",
                                        _("Please check that you are not trying to open a binary file."), "\n",
                                        _("Select a character encoding from the menu and try again."), NULL);
@@ -670,7 +670,7 @@ xed_file_already_open_warning_info_bar_new (GFile *location)
     vbox = gtk_box_new (GTK_ORIENTATION_VERTICAL, 6);
     gtk_box_pack_start (GTK_BOX (hbox_content), vbox, TRUE, TRUE, 0);
 
-    primary_text = g_strdup_printf (_("This file (%s) is already open in another xed window."), uri_for_display);
+    primary_text = g_strdup_printf (_("This file (%s) is already open in another Techo window."), uri_for_display);
     g_free (uri_for_display);
 
     primary_markup = g_strdup_printf ("<b>%s</b>", primary_text);
@@ -684,7 +684,7 @@ xed_file_already_open_warning_info_bar_new (GFile *location)
     gtk_widget_set_can_focus (primary_label, TRUE);
     gtk_label_set_selectable (GTK_LABEL (primary_label), TRUE);
 
-    secondary_text = _("xed opened this instance of the file in a non-editable way. "
+    secondary_text = _("Techo opened this instance of the file in a non-editable way. "
                      "Do you want to edit it anyway?");
     secondary_markup = g_strdup_printf ("<small>%s</small>", secondary_text);
     secondary_label = gtk_label_new (secondary_markup);
@@ -868,7 +868,7 @@ xed_no_backup_saving_error_info_bar_new (GFile        *location,
     gtk_widget_set_can_focus (primary_label, TRUE);
     gtk_label_set_selectable (GTK_LABEL (primary_label), TRUE);
 
-    secondary_text = _("xed could not back up the old copy of the file before saving the new one. "
+    secondary_text = _("Techo could not back up the old copy of the file before saving the new one. "
                     "You can ignore this warning and save the file anyway, but if an error "
                     "occurs while saving, you could lose the old copy of the file. Save anyway?");
     secondary_markup = g_strdup_printf ("<small>%s</small>", secondary_text);
@@ -925,7 +925,7 @@ xed_unrecoverable_saving_error_info_bar_new (GFile        *location,
             scheme_markup = g_markup_printf_escaped ("<i>%s:</i>", scheme_string);
 
             /* Translators: %s is a URI scheme (like for example http:, ftp:, etc.) */
-            message_details = g_strdup_printf (_("xed cannot handle %s locations in write mode. "
+            message_details = g_strdup_printf (_("Techo cannot handle %s locations in write mode. "
                                                "Please check that you typed the "
                                                "location correctly and try again."),
                                                scheme_markup);
@@ -933,7 +933,7 @@ xed_unrecoverable_saving_error_info_bar_new (GFile        *location,
         }
         else
         {
-            message_details = g_strdup (_("xed cannot handle this location in write mode. "
+            message_details = g_strdup (_("Techo cannot handle this location in write mode. "
                                         "Please check that you typed the "
                                         "location correctly and try again."));
         }

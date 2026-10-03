@@ -74,12 +74,12 @@ msgid "ENCODING"
 msgstr "KODOWANIE"
 
 #: ../xed/xed-app.c:120
-msgid "Create a new top-level window in an existing instance of xed"
-msgstr "Tworzenie nowego okna wysokiego poziomu w istniejącej instancji xed"
+msgid "Create a new top-level window in an existing instance of Techo"
+msgstr "Tworzenie nowego okna wysokiego poziomu w istniejącej instancji Techo"
 
 #: ../xed/xed-app.c:127
-msgid "Create a new document in an existing instance of xed"
-msgstr "Utwórz nowy dokument w istniejącej instancji xed"
+msgid "Create a new document in an existing instance of Techo"
+msgstr "Utwórz nowy dokument w istniejącej instancji Techo"
 
 #: ../xed/xed-app.c:134
 msgid "Set the size and position of the window (WIDTHxHEIGHT+X+Y)"
@@ -94,8 +94,8 @@ msgid "Open files and block process until files are closed"
 msgstr "Otwiera pliki i blokuje proces, dopóki pliki nie zostaną zamknięte"
 
 #: ../xed/xed-app.c:148
-msgid "Run xed in standalone mode"
-msgstr "Uruchom xed w trybie samodzielnym"
+msgid "Run Techo in standalone mode"
+msgstr "Uruchom Techo w trybie samodzielnym"
 
 #: ../xed/xed-app.c:155
 msgid "[FILE...] [+LINE]"
@@ -530,12 +530,12 @@ msgstr ""
 #. Translators: %s is a URI scheme (like for example http:, ftp:, etc.)
 #: ../xed/xed-io-error-info-bar.c:189
 #, c-format
-msgid "xed cannot handle %s locations."
-msgstr "xed nie może obsłużyć lokalizacji %s."
+msgid "Techo cannot handle %s locations."
+msgstr "Techo nie może obsłużyć lokalizacji %s."
 
 #: ../xed/xed-io-error-info-bar.c:194
-msgid "xed cannot handle this location."
-msgstr "xed nie może obsłużyć tej lokalizacji."
+msgid "Techo cannot handle this location."
+msgstr "Techo nie może obsłużyć tej lokalizacji."
 
 #: ../xed/xed-io-error-info-bar.c:201
 msgid "The location of the file cannot be mounted."
@@ -591,8 +591,8 @@ msgid "Unexpected error: %s"
 msgstr "Wystąpił nieoczekiwany błąd: %s"
 
 #: ../xed/xed-io-error-info-bar.c:326
-msgid "xed cannot find the file. Perhaps it has recently been deleted."
-msgstr "xed nie może znaleźć pliku. Prawdopodobnie został niedawno usunięty."
+msgid "Techo cannot find the file. Perhaps it has recently been deleted."
+msgstr "Techo nie może znaleźć pliku. Prawdopodobnie został niedawno usunięty."
 
 #: ../xed/xed-io-error-info-bar.c:336
 #, c-format
@@ -622,8 +622,8 @@ msgid "You do not have the permissions necessary to open the file."
 msgstr "Brak odpowiednich uprawnień do otwarcia tego pliku."
 
 #: ../xed/xed-io-error-info-bar.c:499
-msgid "xed has not been able to detect the character encoding."
-msgstr "xed nie był w stanie wykryć kodowania znaków."
+msgid "Techo has not been able to detect the character encoding."
+msgstr "Techo nie był w stanie wykryć kodowania znaków."
 
 #: ../xed/xed-io-error-info-bar.c:501 ../xed/xed-io-error-info-bar.c:524
 msgid "Please check that you are not trying to open a binary file."
@@ -685,15 +685,15 @@ msgstr "_Nie modyfikuj"
 
 #: ../xed/xed-io-error-info-bar.c:673
 #, c-format
-msgid "This file (%s) is already open in another xed window."
-msgstr "Ten plik (%s) jest już otwarty w innym oknie xed."
+msgid "This file (%s) is already open in another Techo window."
+msgstr "Ten plik (%s) jest już otwarty w innym oknie Techo."
 
 #: ../xed/xed-io-error-info-bar.c:687
 msgid ""
-"xed opened this instance of the file in a non-editable way. Do you want to "
+"Techo opened this instance of the file in a non-editable way. Do you want to "
 "edit it anyway?"
 msgstr ""
-"xed otworzył instancję pliku w nieedytowalny sposób. Czy mimo to chcesz go "
+"Techo otworzył instancję pliku w nieedytowalny sposób. Czy mimo to chcesz go "
 "edytować?"
 
 #: ../xed/xed-io-error-info-bar.c:742 ../xed/xed-io-error-info-bar.c:830
@@ -737,7 +737,7 @@ msgstr ""
 
 #: ../xed/xed-io-error-info-bar.c:871
 msgid ""
-"xed could not back up the old copy of the file before saving the new one. "
+"Techo could not back up the old copy of the file before saving the new one. "
 "You can ignore this warning and save the file anyway, but if an error occurs "
 "while saving, you could lose the old copy of the file. Save anyway?"
 msgstr ""
@@ -750,7 +750,7 @@ msgstr ""
 #: ../xed/xed-io-error-info-bar.c:928
 #, c-format
 msgid ""
-"xed cannot handle %s locations in write mode. Please check that you typed "
+"Techo cannot handle %s locations in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
 "Xed nie może obsłużyć lokacji %s w trybie zapisu. Prosimy sprawdzić, czy "
@@ -758,7 +758,7 @@ msgstr ""
 
 #: ../xed/xed-io-error-info-bar.c:936
 msgid ""
-"xed cannot handle this location in write mode. Please check that you typed "
+"Techo cannot handle this location in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
 "Xed nie może obsłużyć tej lokacji w trybie zapisu. Prosimy sprawdzić, czy "
@@ -1669,8 +1669,8 @@ msgid "_Contents"
 msgstr "_Spis treści"
 
 #: ../xed/xed-ui.h:66
-msgid "Open the xed manual"
-msgstr "Otwórz podręcznik xed"
+msgid "Open the Techo manual"
+msgstr "Otwórz podręcznik Techo"
 
 #: ../xed/xed-ui.h:67
 msgid "_About"
@@ -2463,8 +2463,8 @@ msgid "Modelines"
 msgstr "Wiersze trybu"
 
 #: ../plugins/modelines/modelines.plugin.desktop.in.h:2
-msgid "Emacs, Kate and Vim-style modelines support for xed."
-msgstr "Obsługa trybów stylów linii Emacs, Kate i Vim dla xed."
+msgid "Emacs, Kate and Vim-style modelines support for Techo."
+msgstr "Obsługa trybów stylów linii Emacs, Kate i Vim dla Techo."
 
 #: ../plugins/sort/sort.plugin.desktop.in.h:1
 msgid "Sort"

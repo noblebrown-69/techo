@@ -64,11 +64,11 @@ msgid "ENCODING"
 msgstr "સંગ્રહપદ્ધતિ"
 
 #: ../xed/xed-app.c:120
-msgid "Create a new top-level window in an existing instance of xed"
+msgid "Create a new top-level window in an existing instance of Techo"
 msgstr ""
 
 #: ../xed/xed-app.c:127
-msgid "Create a new document in an existing instance of xed"
+msgid "Create a new document in an existing instance of Techo"
 msgstr ""
 
 #: ../xed/xed-app.c:134
@@ -84,7 +84,7 @@ msgid "Open files and block process until files are closed"
 msgstr ""
 
 #: ../xed/xed-app.c:148
-msgid "Run xed in standalone mode"
+msgid "Run Techo in standalone mode"
 msgstr ""
 
 #: ../xed/xed-app.c:155
@@ -476,11 +476,11 @@ msgstr ""
 #. Translators: %s is a URI scheme (like for example http:, ftp:, etc.)
 #: ../xed/xed-io-error-info-bar.c:189
 #, c-format
-msgid "xed cannot handle %s locations."
+msgid "Techo cannot handle %s locations."
 msgstr ""
 
 #: ../xed/xed-io-error-info-bar.c:194
-msgid "xed cannot handle this location."
+msgid "Techo cannot handle this location."
 msgstr ""
 
 #: ../xed/xed-io-error-info-bar.c:201
@@ -535,7 +535,7 @@ msgid "Unexpected error: %s"
 msgstr "અનિચ્છનિય ભૂલ: %s"
 
 #: ../xed/xed-io-error-info-bar.c:326
-msgid "xed cannot find the file. Perhaps it has recently been deleted."
+msgid "Techo cannot find the file. Perhaps it has recently been deleted."
 msgstr ""
 
 #: ../xed/xed-io-error-info-bar.c:336
@@ -566,7 +566,7 @@ msgid "You do not have the permissions necessary to open the file."
 msgstr "તમારી પાસે આ ફાઈલ ખોલવા માટે જરૂરી પરવાનગીઓ નથી."
 
 #: ../xed/xed-io-error-info-bar.c:499
-msgid "xed has not been able to detect the character encoding."
+msgid "Techo has not been able to detect the character encoding."
 msgstr ""
 
 #: ../xed/xed-io-error-info-bar.c:501 ../xed/xed-io-error-info-bar.c:524
@@ -626,12 +626,12 @@ msgstr "ફેરફાર કરો નહિં (_o)"
 
 #: ../xed/xed-io-error-info-bar.c:673
 #, c-format
-msgid "This file (%s) is already open in another xed window."
+msgid "This file (%s) is already open in another Techo window."
 msgstr ""
 
 #: ../xed/xed-io-error-info-bar.c:687
 msgid ""
-"xed opened this instance of the file in a non-editable way. Do you want to "
+"Techo opened this instance of the file in a non-editable way. Do you want to "
 "edit it anyway?"
 msgstr ""
 
@@ -673,7 +673,7 @@ msgstr "%s સંગ્રહતી વખતે કામચલાઉ બેક
 
 #: ../xed/xed-io-error-info-bar.c:871
 msgid ""
-"xed could not back up the old copy of the file before saving the new one. "
+"Techo could not back up the old copy of the file before saving the new one. "
 "You can ignore this warning and save the file anyway, but if an error occurs "
 "while saving, you could lose the old copy of the file. Save anyway?"
 msgstr ""
@@ -682,13 +682,13 @@ msgstr ""
 #: ../xed/xed-io-error-info-bar.c:928
 #, c-format
 msgid ""
-"xed cannot handle %s locations in write mode. Please check that you typed "
+"Techo cannot handle %s locations in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
 
 #: ../xed/xed-io-error-info-bar.c:936
 msgid ""
-"xed cannot handle this location in write mode. Please check that you typed "
+"Techo cannot handle this location in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
 
@@ -1588,7 +1588,7 @@ msgid "_Contents"
 msgstr "વિષયસુચી (_C)"
 
 #: ../xed/xed-ui.h:66
-msgid "Open the xed manual"
+msgid "Open the Techo manual"
 msgstr ""
 
 #: ../xed/xed-ui.h:67
@@ -2378,7 +2378,7 @@ msgid "Modelines"
 msgstr "સ્થિતિવાક્યો"
 
 #: ../plugins/modelines/modelines.plugin.desktop.in.h:2
-msgid "Emacs, Kate and Vim-style modelines support for xed."
+msgid "Emacs, Kate and Vim-style modelines support for Techo."
 msgstr ""
 
 #: ../plugins/sort/sort.plugin.desktop.in.h:1

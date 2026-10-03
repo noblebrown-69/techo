@@ -68,12 +68,12 @@ msgid "ENCODING"
 msgstr "エンコーディング"
 
 #: ../xed/xed-app.c:120
-msgid "Create a new top-level window in an existing instance of xed"
-msgstr "既存の xed インスタンスに新しい上位ウィンドウを作成します"
+msgid "Create a new top-level window in an existing instance of Techo"
+msgstr "既存の Techo インスタンスに新しい上位ウィンドウを作成します"
 
 #: ../xed/xed-app.c:127
-msgid "Create a new document in an existing instance of xed"
-msgstr "既存の xed インスタンスに新しいドキュメントを作成します"
+msgid "Create a new document in an existing instance of Techo"
+msgstr "既存の Techo インスタンスに新しいドキュメントを作成します"
 
 #: ../xed/xed-app.c:134
 msgid "Set the size and position of the window (WIDTHxHEIGHT+X+Y)"
@@ -88,8 +88,8 @@ msgid "Open files and block process until files are closed"
 msgstr "ファイルを開き、そのファイルが閉じられるまでプロセスを待機させます"
 
 #: ../xed/xed-app.c:148
-msgid "Run xed in standalone mode"
-msgstr "xed をスタンドアロンモードで実行します"
+msgid "Run Techo in standalone mode"
+msgstr "Techo をスタンドアロンモードで実行します"
 
 #: ../xed/xed-app.c:155
 msgid "[FILE...] [+LINE]"
@@ -434,12 +434,12 @@ msgstr "入力した場所が正しいかを確認し、もう一度試してく
 #. Translators: %s is a URI scheme (like for example http:, ftp:, etc.)
 #: ../xed/xed-io-error-info-bar.c:189
 #, c-format
-msgid "xed cannot handle %s locations."
-msgstr "xed には %s の場所を扱えません。"
+msgid "Techo cannot handle %s locations."
+msgstr "Techo には %s の場所を扱えません。"
 
 #: ../xed/xed-io-error-info-bar.c:194
-msgid "xed cannot handle this location."
-msgstr "xed には、この場所を扱えません。"
+msgid "Techo cannot handle this location."
+msgstr "Techo には、この場所を扱えません。"
 
 #: ../xed/xed-io-error-info-bar.c:201
 msgid "The location of the file cannot be mounted."
@@ -491,7 +491,7 @@ msgid "Unexpected error: %s"
 msgstr "想定外のエラー: %s"
 
 #: ../xed/xed-io-error-info-bar.c:326
-msgid "xed cannot find the file. Perhaps it has recently been deleted."
+msgid "Techo cannot find the file. Perhaps it has recently been deleted."
 msgstr "ファイルが見つかりませんでした。最近削除されたのかもしれません。"
 
 #: ../xed/xed-io-error-info-bar.c:336
@@ -520,7 +520,7 @@ msgid "You do not have the permissions necessary to open the file."
 msgstr "ファイルを開くために必要な権限がありません。"
 
 #: ../xed/xed-io-error-info-bar.c:499
-msgid "xed has not been able to detect the character encoding."
+msgid "Techo has not been able to detect the character encoding."
 msgstr "文字エンコーディングを検出できませんでした。"
 
 #: ../xed/xed-io-error-info-bar.c:501 ../xed/xed-io-error-info-bar.c:524
@@ -579,14 +579,14 @@ msgstr "編集しない (_O)"
 
 #: ../xed/xed-io-error-info-bar.c:673
 #, c-format
-msgid "This file (%s) is already open in another xed window."
-msgstr "このファイル (%s) はすでに別の xed ウィンドウで開かれています。"
+msgid "This file (%s) is already open in another Techo window."
+msgstr "このファイル (%s) はすでに別の Techo ウィンドウで開かれています。"
 
 #: ../xed/xed-io-error-info-bar.c:687
 msgid ""
-"xed opened this instance of the file in a non-editable way. Do you want to "
+"Techo opened this instance of the file in a non-editable way. Do you want to "
 "edit it anyway?"
-msgstr "この xed インスタンスは現在、対象のファイルを誤って編集できない状態にして開いています。それでも編集できるようにしますか？"
+msgstr "この Techo インスタンスは現在、対象のファイルを誤って編集できない状態にして開いています。それでも編集できるようにしますか？"
 
 #: ../xed/xed-io-error-info-bar.c:742 ../xed/xed-io-error-info-bar.c:830
 #: ../xed/xed-io-error-info-bar.c:1092
@@ -624,7 +624,7 @@ msgstr "%s の保存中に一時バックアップファイルを作成できま
 
 #: ../xed/xed-io-error-info-bar.c:871
 msgid ""
-"xed could not back up the old copy of the file before saving the new one. "
+"Techo could not back up the old copy of the file before saving the new one. "
 "You can ignore this warning and save the file anyway, but if an error occurs "
 "while saving, you could lose the old copy of the file. Save anyway?"
 msgstr ""
@@ -635,13 +635,13 @@ msgstr ""
 #: ../xed/xed-io-error-info-bar.c:928
 #, c-format
 msgid ""
-"xed cannot handle %s locations in write mode. Please check that you typed "
+"Techo cannot handle %s locations in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr "書き込みモードでは %s の場所を扱えません。入力した場所が正しいかを確認し、もう一度試してください。"
 
 #: ../xed/xed-io-error-info-bar.c:936
 msgid ""
-"xed cannot handle this location in write mode. Please check that you typed "
+"Techo cannot handle this location in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr "書き込みモードでは、この場所を扱えません。入力した場所が正しいかを確認し、もう一度試してください。"
 
@@ -1526,8 +1526,8 @@ msgid "_Contents"
 msgstr "目次 (_C)"
 
 #: ../xed/xed-ui.h:66
-msgid "Open the xed manual"
-msgstr "xed のマニュアルを開きます"
+msgid "Open the Techo manual"
+msgstr "Techo のマニュアルを開きます"
 
 #: ../xed/xed-ui.h:67
 msgid "_About"
@@ -2310,8 +2310,8 @@ msgid "Modelines"
 msgstr "モードライン"
 
 #: ../plugins/modelines/modelines.plugin.desktop.in.h:2
-msgid "Emacs, Kate and Vim-style modelines support for xed."
-msgstr "xed に Emacs, Kate, Vim 方式のモードラインのサポートを追加します。"
+msgid "Emacs, Kate and Vim-style modelines support for Techo."
+msgstr "Techo に Emacs, Kate, Vim 方式のモードラインのサポートを追加します。"
 
 #: ../plugins/sort/sort.plugin.desktop.in.h:1
 msgid "Sort"

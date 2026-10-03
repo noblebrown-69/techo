@@ -71,13 +71,13 @@ msgid "ENCODING"
 msgstr "CODIFICATION"
 
 #: ../xed/xed-app.c:120
-msgid "Create a new top-level window in an existing instance of xed"
+msgid "Create a new top-level window in an existing instance of Techo"
 msgstr ""
-"Crear un nove fenestra de nivello maxime in un instantia existente de xed"
+"Crear un nove fenestra de nivello maxime in un instantia existente de Techo"
 
 #: ../xed/xed-app.c:127
-msgid "Create a new document in an existing instance of xed"
-msgstr "Crear un nove documento in un instantia existente de xed"
+msgid "Create a new document in an existing instance of Techo"
+msgstr "Crear un nove documento in un instantia existente de Techo"
 
 #: ../xed/xed-app.c:134
 msgid "Set the size and position of the window (WIDTHxHEIGHT+X+Y)"
@@ -92,8 +92,8 @@ msgid "Open files and block process until files are closed"
 msgstr "Aperir files e blocar le processo usque le files essera claudite"
 
 #: ../xed/xed-app.c:148
-msgid "Run xed in standalone mode"
-msgstr "Facer fluer xed in modo sol"
+msgid "Run Techo in standalone mode"
+msgstr "Facer fluer Techo in modo sol"
 
 #: ../xed/xed-app.c:155
 msgid "[FILE...] [+LINE]"
@@ -504,12 +504,12 @@ msgstr ""
 #. Translators: %s is a URI scheme (like for example http:, ftp:, etc.)
 #: ../xed/xed-io-error-info-bar.c:189
 #, c-format
-msgid "xed cannot handle %s locations."
-msgstr "xed non pote tractar %s regiones."
+msgid "Techo cannot handle %s locations."
+msgstr "Techo non pote tractar %s regiones."
 
 #: ../xed/xed-io-error-info-bar.c:194
-msgid "xed cannot handle this location."
-msgstr "xed non pote tractar iste region."
+msgid "Techo cannot handle this location."
+msgstr "Techo non pote tractar iste region."
 
 #: ../xed/xed-io-error-info-bar.c:201
 msgid "The location of the file cannot be mounted."
@@ -566,9 +566,9 @@ msgid "Unexpected error: %s"
 msgstr "Error inexpectate: %s"
 
 #: ../xed/xed-io-error-info-bar.c:326
-msgid "xed cannot find the file. Perhaps it has recently been deleted."
+msgid "Techo cannot find the file. Perhaps it has recently been deleted."
 msgstr ""
-"xed non pote trovar le file. Forsan illo ha essite delite recentemente"
+"Techo non pote trovar le file. Forsan illo ha essite delite recentemente"
 
 #: ../xed/xed-io-error-info-bar.c:336
 #, c-format
@@ -598,8 +598,8 @@ msgid "You do not have the permissions necessary to open the file."
 msgstr "Tu non ha permissiones necessari pro aperir iste file"
 
 #: ../xed/xed-io-error-info-bar.c:499
-msgid "xed has not been able to detect the character encoding."
-msgstr "xed non ha essite capace a revelar le codification de character."
+msgid "Techo has not been able to detect the character encoding."
+msgstr "Techo non ha essite capace a revelar le codification de character."
 
 #: ../xed/xed-io-error-info-bar.c:501 ../xed/xed-io-error-info-bar.c:524
 msgid "Please check that you are not trying to open a binary file."
@@ -663,15 +663,15 @@ msgstr "N_on modificar"
 
 #: ../xed/xed-io-error-info-bar.c:673
 #, c-format
-msgid "This file (%s) is already open in another xed window."
-msgstr "Iste file (%s) es ja aperte in un altere fenestra de xed"
+msgid "This file (%s) is already open in another Techo window."
+msgstr "Iste file (%s) es ja aperte in un altere fenestra de Techo"
 
 #: ../xed/xed-io-error-info-bar.c:687
 msgid ""
-"xed opened this instance of the file in a non-editable way. Do you want to "
+"Techo opened this instance of the file in a non-editable way. Do you want to "
 "edit it anyway?"
 msgstr ""
-"xed ha aperte iste instantia del file in modo non-modificabile. Vole tu "
+"Techo ha aperte iste instantia del file in modo non-modificabile. Vole tu "
 "rediger lo comocunque?"
 
 #: ../xed/xed-io-error-info-bar.c:742 ../xed/xed-io-error-info-bar.c:830
@@ -713,11 +713,11 @@ msgstr ""
 
 #: ../xed/xed-io-error-info-bar.c:871
 msgid ""
-"xed could not back up the old copy of the file before saving the new one. "
+"Techo could not back up the old copy of the file before saving the new one. "
 "You can ignore this warning and save the file anyway, but if an error occurs "
 "while saving, you could lose the old copy of the file. Save anyway?"
 msgstr ""
-"xed non pote salvar le vetule copia de reserva del file ante le salvamento "
+"Techo non pote salvar le vetule copia de reserva del file ante le salvamento "
 "de una nove. Tu pote ignorar iste advertimento e salvar le file comocunque, "
 "ma si un error occurre durante le salvamento, tu pote perder le copia vetule "
 "del file. Salvar comocunque?"
@@ -726,18 +726,18 @@ msgstr ""
 #: ../xed/xed-io-error-info-bar.c:928
 #, c-format
 msgid ""
-"xed cannot handle %s locations in write mode. Please check that you typed "
+"Techo cannot handle %s locations in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"xed non pote tractar %s regiones in le modo scriber. Per favor controla que "
+"Techo non pote tractar %s regiones in le modo scriber. Per favor controla que "
 "tu ha scribite le region correctemente e prova ancora."
 
 #: ../xed/xed-io-error-info-bar.c:936
 msgid ""
-"xed cannot handle this location in write mode. Please check that you typed "
+"Techo cannot handle this location in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"xed non pote tractar iste region in le modo scriber. Per favor controla que "
+"Techo non pote tractar iste region in le modo scriber. Per favor controla que "
 "tu ha scribite le region correctemente e prova ancora."
 
 #: ../xed/xed-io-error-info-bar.c:945
@@ -1643,8 +1643,8 @@ msgid "_Contents"
 msgstr "_Contentos"
 
 #: ../xed/xed-ui.h:66
-msgid "Open the xed manual"
-msgstr "Aperir le manual de xed"
+msgid "Open the Techo manual"
+msgstr "Aperir le manual de Techo"
 
 #: ../xed/xed-ui.h:67
 msgid "_About"
@@ -2439,8 +2439,8 @@ msgid "Modelines"
 msgstr "Modelines"
 
 #: ../plugins/modelines/modelines.plugin.desktop.in.h:2
-msgid "Emacs, Kate and Vim-style modelines support for xed."
-msgstr "Supporto Emacs, Kate e Vim-style modelines pro xed."
+msgid "Emacs, Kate and Vim-style modelines support for Techo."
+msgstr "Supporto Emacs, Kate e Vim-style modelines pro Techo."
 
 #: ../plugins/sort/sort.plugin.desktop.in.h:1
 msgid "Sort"

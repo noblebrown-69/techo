@@ -32,7 +32,7 @@
     <key name="use-default-font" type="b">
       <default>true</default>
       <summary>Use Default Font</summary>
-      <description>Whether to use the system's default fixed width font for editing text instead of a font specific to xed.  If this option is turned off, then the font named in the "Editor Font" option will be used instead of the system font.</description>
+      <description>Whether to use the system's default fixed width font for editing text instead of a font specific to Techo.  If this option is turned off, then the font named in the "Editor Font" option will be used instead of the system font.</description>
     </key>
 
     <key name="editor-font" type="s">
@@ -44,7 +44,7 @@
     <key name="prefer-dark-theme" type="b">
       <default>false</default>
       <summary>Prefer Dark Theme</summary>
-      <description>Whether xed should prefer the dark variation of the current Gtk theme if available.</description>
+      <description>Whether Techo should prefer the dark variation of the current Gtk theme if available.</description>
     </key>
 
     <key name="scheme" type="s">
@@ -56,31 +56,31 @@
     <key name="create-backup-copy" type="b">
       <default>false</default>
       <summary>Create Backup Copies</summary>
-      <description>Whether xed should create backup copies for the files it saves.  You can set the backup file extension with the "Backup Copy Extension" option.</description>
+      <description>Whether Techo should create backup copies for the files it saves.  You can set the backup file extension with the "Backup Copy Extension" option.</description>
     </key>
 
     <key name="auto-save" type="b">
       <default>false</default>
       <summary>Autosave</summary>
-      <description>Whether xed should automatically save modified files after a time interval.  You can set the time interval with the "Autosave Interval" option.</description>
+      <description>Whether Techo should automatically save modified files after a time interval.  You can set the time interval with the "Autosave Interval" option.</description>
     </key>
 
     <key name="auto-save-interval" type="u">
       <default>10</default>
       <summary>Autosave Interval</summary>
-      <description>Number of minutes after which xed will automatically save modified files.  This will only take effect if the "Autosave" option is turned on.</description>
+      <description>Number of minutes after which Techo will automatically save modified files.  This will only take effect if the "Autosave" option is turned on.</description>
     </key>
 
     <key name="writable-vfs-schemes" type="as">
       <default>[ 'dav', 'davs', 'ftp', 'sftp', 'smb', 'ssh' ]</default>
       <summary>Writable VFS schemes</summary>
-      <description>List of VFS schemes xed supports in write mode. The 'file' scheme is writable by default.</description>
+      <description>List of VFS schemes Techo supports in write mode. The 'file' scheme is writable by default.</description>
     </key>
 
     <key name="max-undo-actions" type="i">
       <default>2000</default>
       <summary>Maximum Number of Undo Actions</summary>
-      <description>Maximum number of actions that xed will be able to undo or redo. Use "-1" for unlimited number of actions.</description>
+      <description>Maximum number of actions that Techo will be able to undo or redo. Use "-1" for unlimited number of actions.</description>
     </key>
 
     <key name="wrap-mode" enum="org.bushidos.Techo.WrapMode">
@@ -98,37 +98,37 @@
     <key name="insert-spaces" type="b">
       <default>true</default>
       <summary>Insert spaces</summary>
-      <description>Whether xed should insert spaces instead of tabs.</description>
+      <description>Whether Techo should insert spaces instead of tabs.</description>
     </key>
 
     <key name="auto-indent" type="b">
       <default>false</default>
       <summary>Automatic indent</summary>
-      <description>Whether xed should enable automatic indentation.</description>
+      <description>Whether Techo should enable automatic indentation.</description>
     </key>
 
     <key name="display-line-numbers" type="b">
       <default>false</default>
       <summary>Display Line Numbers</summary>
-      <description>Whether xed should display line numbers in the editing area.</description>
+      <description>Whether Techo should display line numbers in the editing area.</description>
     </key>
 
     <key name="highlight-current-line" type="b">
       <default>false</default>
       <summary>Highlight Current Line</summary>
-      <description>Whether xed should highlight the current line.</description>
+      <description>Whether Techo should highlight the current line.</description>
     </key>
 
     <key name="bracket-matching" type="b">
       <default>false</default>
       <summary>Highlight Matching Bracket</summary>
-      <description>Whether xed should highlight the bracket matching the selected one.</description>
+      <description>Whether Techo should highlight the bracket matching the selected one.</description>
     </key>
 
     <key name="display-right-margin" type="b">
       <default>false</default>
       <summary>Display Right Margin</summary>
-      <description>Whether xed should display the right margin in the editing area.</description>
+      <description>Whether Techo should display the right margin in the editing area.</description>
     </key>
 
     <key name="right-margin-position" type="u">
@@ -146,55 +146,55 @@
     <key name="restore-cursor-position" type="b">
       <default>true</default>
       <summary>Restore Previous Cursor Position</summary>
-      <description>Whether xed should restore the previous cursor position when a file is loaded.</description>
+      <description>Whether Techo should restore the previous cursor position when a file is loaded.</description>
     </key>
 
     <key name="search-highlighting" type="b">
       <default>true</default>
       <summary>Enable Search Highlighting</summary>
-      <description>Whether xed should highlight all the occurrences of the searched text.</description>
+      <description>Whether Techo should highlight all the occurrences of the searched text.</description>
     </key>
 
     <key name="syntax-highlighting" type="b">
       <default>true</default>
       <summary>Enable Syntax Highlighting</summary>
-      <description>Whether xed should enable syntax highlighting.</description>
+      <description>Whether Techo should enable syntax highlighting.</description>
     </key>
 
     <key name="ensure-trailing-newline" type="b">
       <default>true</default>
       <summary>Ensure Trailing Newline</summary>
-      <description>Whether xed will ensure that documents always end with a trailing newline.</description>
+      <description>Whether Techo will ensure that documents always end with a trailing newline.</description>
     </key>
 
     <key name="draw-whitespace" type="b">
       <default>false</default>
       <summary>Draw whitespace</summary>
-      <description>Whether xed should render whitespace</description>
+      <description>Whether Techo should render whitespace</description>
     </key>
 
     <key name="draw-whitespace-leading" type="b">
       <default>false</default>
       <summary>Draw leading whitespace</summary>
-      <description>Whether xed should render leading whitespace</description>
+      <description>Whether Techo should render leading whitespace</description>
     </key>
 
     <key name="draw-whitespace-inside" type="b">
       <default>false</default>
       <summary>Draw whitespace within text</summary>
-      <description>Whether xed should render whitespace between words and characters</description>
+      <description>Whether Techo should render whitespace between words and characters</description>
     </key>
 
     <key name="draw-whitespace-trailing" type="b">
       <default>false</default>
       <summary>Draw trailing whitespace</summary>
-      <description>Whether xed should render trailing whitespace</description>
+      <description>Whether Techo should render trailing whitespace</description>
     </key>
 
     <key name="draw-whitespace-newline" type="b">
       <default>false</default>
       <summary>Draw newline characters</summary>
-      <description>Whether xed should render newline characters</description>
+      <description>Whether Techo should render newline characters</description>
     </key>
 
     <key name="auto-close" type="b">
@@ -265,13 +265,13 @@
     <key name="print-syntax-highlighting" type="b">
       <default>true</default>
       <summary>Print Syntax Highlighting</summary>
-      <description>Whether xed should print syntax highlighting when printing documents.</description>
+      <description>Whether Techo should print syntax highlighting when printing documents.</description>
     </key>
 
     <key name="print-header" type="b">
       <default>true</default>
       <summary>Print Header</summary>
-      <description>Whether xed should include a document header when printing documents.</description>
+      <description>Whether Techo should include a document header when printing documents.</description>
     </key>
 
     <key name="print-wrap-mode" enum="org.bushidos.Techo.WrapMode">
@@ -283,7 +283,7 @@
     <key name="print-line-numbers" type="u">
       <default>0</default>
       <summary>Print Line Numbers</summary>
-      <description>If this value is 0, then no line numbers will be inserted when printing a document.  Otherwise, xed will print line numbers every such number of lines.</description>
+      <description>If this value is 0, then no line numbers will be inserted when printing a document.  Otherwise, Techo will print line numbers every such number of lines.</description>
     </key>
 
     <key name="print-font-body-pango" type="s">
@@ -311,7 +311,7 @@
     <key name="auto-detected" type="as">
       <default context="auto-detected" l10n="messages">[ 'UTF-8', 'CURRENT', 'ISO-8859-15', 'UTF-16' ]</default>
       <summary>Automatically Detected Encodings</summary>
-      <description>Sorted list of encodings used by xed for automatically detecting the encoding of a file. "CURRENT" represents the current locale encoding. Only recognized encodings are used.</description>
+      <description>Sorted list of encodings used by Techo for automatically detecting the encoding of a file. "CURRENT" represents the current locale encoding. Only recognized encodings are used.</description>
     </key>
 
     <key name="shown-in-menu" type="as">
@@ -385,7 +385,7 @@
     <key name="active-plugins" type="as">
       <default>[ 'docinfo', 'modelines', 'filebrowser', 'spell', 'time', 'bracketcompletion' ]</default>
       <summary>Active plugins</summary>
-      <description>List of active plugins. It contains the "Location" of the active plugins. See the .xed-plugin file for obtaining the "Location" of a given plugin.</description>
+      <description>List of active plugins. It contains the "Location" of the active plugins. See the .Techo-plugin file for obtaining the "Location" of a given plugin.</description>
     </key>
 
   </schema>

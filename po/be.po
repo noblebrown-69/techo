@@ -71,11 +71,11 @@ msgid "ENCODING"
 msgstr "КАДЗІРОЎКА"
 
 #: ../xed/xed-app.c:120
-msgid "Create a new top-level window in an existing instance of xed"
+msgid "Create a new top-level window in an existing instance of Techo"
 msgstr "Стварыць новае акно вышэйшага ўзроўню ўнутры існуючага асобніка"
 
 #: ../xed/xed-app.c:127
-msgid "Create a new document in an existing instance of xed"
+msgid "Create a new document in an existing instance of Techo"
 msgstr "Стварыць новы дакумент унутры існуючага асобніка"
 
 #: ../xed/xed-app.c:134
@@ -91,7 +91,7 @@ msgid "Open files and block process until files are closed"
 msgstr "Адкрыць файлы і заблакіраваць працэс да іх закрыцця"
 
 #: ../xed/xed-app.c:148
-msgid "Run xed in standalone mode"
+msgid "Run Techo in standalone mode"
 msgstr "Запусціць Xed у аўтаномным рэжыме"
 
 #: ../xed/xed-app.c:155
@@ -518,12 +518,12 @@ msgstr "Праверце правільнасць напісання адрас�
 #. Translators: %s is a URI scheme (like for example http:, ftp:, etc.)
 #: ../xed/xed-io-error-info-bar.c:189
 #, c-format
-msgid "xed cannot handle %s locations."
-msgstr "xed не можа кіраваць адрасамі %s."
+msgid "Techo cannot handle %s locations."
+msgstr "Techo не можа кіраваць адрасамі %s."
 
 #: ../xed/xed-io-error-info-bar.c:194
-msgid "xed cannot handle this location."
-msgstr "xed не можа кіраваць гэтым адрасам."
+msgid "Techo cannot handle this location."
+msgstr "Techo не можа кіраваць гэтым адрасам."
 
 #: ../xed/xed-io-error-info-bar.c:201
 msgid "The location of the file cannot be mounted."
@@ -578,8 +578,8 @@ msgid "Unexpected error: %s"
 msgstr "Нечаканая памылка: %s"
 
 #: ../xed/xed-io-error-info-bar.c:326
-msgid "xed cannot find the file. Perhaps it has recently been deleted."
-msgstr "xed не можа знасці файл. Магчыма, ён быў нядаўна выдалены."
+msgid "Techo cannot find the file. Perhaps it has recently been deleted."
+msgstr "Techo не можа знасці файл. Магчыма, ён быў нядаўна выдалены."
 
 #: ../xed/xed-io-error-info-bar.c:336
 #, c-format
@@ -609,8 +609,8 @@ msgid "You do not have the permissions necessary to open the file."
 msgstr "Вам не хапае дазволу на адкрыццё гэтага файла."
 
 #: ../xed/xed-io-error-info-bar.c:499
-msgid "xed has not been able to detect the character encoding."
-msgstr "xed няздольны вызначыць кадзіроўку."
+msgid "Techo has not been able to detect the character encoding."
+msgstr "Techo няздольны вызначыць кадзіроўку."
 
 #: ../xed/xed-io-error-info-bar.c:501 ../xed/xed-io-error-info-bar.c:524
 msgid "Please check that you are not trying to open a binary file."
@@ -672,15 +672,15 @@ msgstr "Не _рэдагаваць"
 
 #: ../xed/xed-io-error-info-bar.c:673
 #, c-format
-msgid "This file (%s) is already open in another xed window."
-msgstr "Гэты файл (%s) ужо адкрыты ў іншым акне xed."
+msgid "This file (%s) is already open in another Techo window."
+msgstr "Гэты файл (%s) ужо адкрыты ў іншым акне Techo."
 
 #: ../xed/xed-io-error-info-bar.c:687
 msgid ""
-"xed opened this instance of the file in a non-editable way. Do you want to "
+"Techo opened this instance of the file in a non-editable way. Do you want to "
 "edit it anyway?"
 msgstr ""
-"xed адкрыў гэты асобнік файла ў рэжыме без рэдагавання. Усё роўна жадаеце "
+"Techo адкрыў гэты асобнік файла ў рэжыме без рэдагавання. Усё роўна жадаеце "
 "рэдагаваць?"
 
 #: ../xed/xed-io-error-info-bar.c:742 ../xed/xed-io-error-info-bar.c:830
@@ -721,11 +721,11 @@ msgstr "Не ўдалося стварыць часовую рэзервовую
 
 #: ../xed/xed-io-error-info-bar.c:871
 msgid ""
-"xed could not back up the old copy of the file before saving the new one. "
+"Techo could not back up the old copy of the file before saving the new one. "
 "You can ignore this warning and save the file anyway, but if an error occurs "
 "while saving, you could lose the old copy of the file. Save anyway?"
 msgstr ""
-"xed не змог аднавіць старую копію файла перад захаваннем новай. Можаце "
+"Techo не змог аднавіць старую копію файла перад захаваннем новай. Можаце "
 "праігнараваць гэта папярэджанне і ўсё роўна захаваць, але калі здарыцца "
 "памылка падчас захавання, вы можаце страціць старую версію файла. Усё роўна "
 "захаваць?"
@@ -734,18 +734,18 @@ msgstr ""
 #: ../xed/xed-io-error-info-bar.c:928
 #, c-format
 msgid ""
-"xed cannot handle %s locations in write mode. Please check that you typed "
+"Techo cannot handle %s locations in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"xed не можа кіраваць адрасамі %s у рэжыме пісьма. Праверце, што ўвялі адрас "
+"Techo не можа кіраваць адрасамі %s у рэжыме пісьма. Праверце, што ўвялі адрас "
 "правільна і паўтарыце спробу."
 
 #: ../xed/xed-io-error-info-bar.c:936
 msgid ""
-"xed cannot handle this location in write mode. Please check that you typed "
+"Techo cannot handle this location in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"xed не можа кіраваць гэтым адрасам у рэжыме пісьма. Праверце, што ўвялі "
+"Techo не можа кіраваць гэтым адрасам у рэжыме пісьма. Праверце, што ўвялі "
 "адрас правільна і паўтарыце спробу."
 
 #: ../xed/xed-io-error-info-bar.c:945
@@ -1650,8 +1650,8 @@ msgid "_Contents"
 msgstr "_Змест"
 
 #: ../xed/xed-ui.h:66
-msgid "Open the xed manual"
-msgstr "Адкрыць дапаможнік па xed"
+msgid "Open the Techo manual"
+msgstr "Адкрыць дапаможнік па Techo"
 
 #: ../xed/xed-ui.h:67
 msgid "_About"
@@ -2438,8 +2438,8 @@ msgid "Modelines"
 msgstr "Рэжымы радкоў"
 
 #: ../plugins/modelines/modelines.plugin.desktop.in.h:2
-msgid "Emacs, Kate and Vim-style modelines support for xed."
-msgstr "Падтрымка рэжыма радкоў для xed у стылі Emacs, Kate і Vim."
+msgid "Emacs, Kate and Vim-style modelines support for Techo."
+msgstr "Падтрымка рэжыма радкоў для Techo у стылі Emacs, Kate і Vim."
 
 #: ../plugins/sort/sort.plugin.desktop.in.h:1
 msgid "Sort"

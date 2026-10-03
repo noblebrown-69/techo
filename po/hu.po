@@ -75,13 +75,13 @@ msgid "ENCODING"
 msgstr "KÓDOLÁS"
 
 #: ../xed/xed-app.c:120
-msgid "Create a new top-level window in an existing instance of xed"
+msgid "Create a new top-level window in an existing instance of Techo"
 msgstr ""
 "Új felső szintű ablak létrehozása az Xed szövegszerkesztő egy már futó "
 "példányában"
 
 #: ../xed/xed-app.c:127
-msgid "Create a new document in an existing instance of xed"
+msgid "Create a new document in an existing instance of Techo"
 msgstr ""
 "Új dokumentum létrehozása egy már megnyitott Xed szövegszerkesztő példányban"
 
@@ -98,7 +98,7 @@ msgid "Open files and block process until files are closed"
 msgstr "Fájlok megnyitása, és a folytatás blokkolása a fájlok bezárásáig"
 
 #: ../xed/xed-app.c:148
-msgid "Run xed in standalone mode"
+msgid "Run Techo in standalone mode"
 msgstr "Az Xed futtatása kizárólagos üzemmódban"
 
 #: ../xed/xed-app.c:155
@@ -495,11 +495,11 @@ msgstr "Ellenőrizze, hogy pontosan írta-e be a helyet, és próbálja újra."
 #. Translators: %s is a URI scheme (like for example http:, ftp:, etc.)
 #: ../xed/xed-io-error-info-bar.c:189
 #, c-format
-msgid "xed cannot handle %s locations."
+msgid "Techo cannot handle %s locations."
 msgstr "Az Xed szövegszerkesztő nem tudja kezelni a(z) „%s” helyeket."
 
 #: ../xed/xed-io-error-info-bar.c:194
-msgid "xed cannot handle this location."
+msgid "Techo cannot handle this location."
 msgstr "Az Xed szövegszerkesztő nem tudja ezt a helyet kezelni."
 
 #: ../xed/xed-io-error-info-bar.c:201
@@ -556,7 +556,7 @@ msgid "Unexpected error: %s"
 msgstr "Váratlan hiba: %s"
 
 #: ../xed/xed-io-error-info-bar.c:326
-msgid "xed cannot find the file. Perhaps it has recently been deleted."
+msgid "Techo cannot find the file. Perhaps it has recently been deleted."
 msgstr ""
 "Az Xed szövegszerkesztő nem találja a fájlt. Lehet, hogy nemrég le lett "
 "törölve."
@@ -589,7 +589,7 @@ msgid "You do not have the permissions necessary to open the file."
 msgstr "Nincs jogosultsága a fájl megnyitásához."
 
 #: ../xed/xed-io-error-info-bar.c:499
-msgid "xed has not been able to detect the character encoding."
+msgid "Techo has not been able to detect the character encoding."
 msgstr ""
 "Az Xed szövegszerkesztő nem volt képes megállapítani a karakterkódolást."
 
@@ -653,13 +653,13 @@ msgstr "Ne _legyen szerkesztve"
 
 #: ../xed/xed-io-error-info-bar.c:673
 #, c-format
-msgid "This file (%s) is already open in another xed window."
+msgid "This file (%s) is already open in another Techo window."
 msgstr ""
 "Ez a fájl „%s” már meg van nyitva egy másik Xed szövegszerkesztő ablakban."
 
 #: ../xed/xed-io-error-info-bar.c:687
 msgid ""
-"xed opened this instance of the file in a non-editable way. Do you want to "
+"Techo opened this instance of the file in a non-editable way. Do you want to "
 "edit it anyway?"
 msgstr ""
 "Az Xed szövegszerkesztő ezt a fájlt csak olvasható módban nyitotta meg. "
@@ -703,7 +703,7 @@ msgstr "Nem sikerült ideiglenes biztonsági mentést készíteni %s mentésekor
 
 #: ../xed/xed-io-error-info-bar.c:871
 msgid ""
-"xed could not back up the old copy of the file before saving the new one. "
+"Techo could not back up the old copy of the file before saving the new one. "
 "You can ignore this warning and save the file anyway, but if an error occurs "
 "while saving, you could lose the old copy of the file. Save anyway?"
 msgstr ""
@@ -716,7 +716,7 @@ msgstr ""
 #: ../xed/xed-io-error-info-bar.c:928
 #, c-format
 msgid ""
-"xed cannot handle %s locations in write mode. Please check that you typed "
+"Techo cannot handle %s locations in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
 "Nem lehet kezelni a(z) „%s:” típusú helyeket írás módban. Ellenőrizze, hogy "
@@ -724,7 +724,7 @@ msgstr ""
 
 #: ../xed/xed-io-error-info-bar.c:936
 msgid ""
-"xed cannot handle this location in write mode. Please check that you typed "
+"Techo cannot handle this location in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
 "Nem lehet ezt a helyet írás módban kezelni. Ellenőrizze, hogy pontosan írta-"
@@ -1632,7 +1632,7 @@ msgid "_Contents"
 msgstr "_Tartalom"
 
 #: ../xed/xed-ui.h:66
-msgid "Open the xed manual"
+msgid "Open the Techo manual"
 msgstr "A kézikönyv megnyitása"
 
 #: ../xed/xed-ui.h:67
@@ -2426,7 +2426,7 @@ msgid "Modelines"
 msgstr "Módsorok"
 
 #: ../plugins/modelines/modelines.plugin.desktop.in.h:2
-msgid "Emacs, Kate and Vim-style modelines support for xed."
+msgid "Emacs, Kate and Vim-style modelines support for Techo."
 msgstr ""
 "Emacs, Kate és Vim-stílusú módsorok támogatása az Xed szövegszerkesztő."
 

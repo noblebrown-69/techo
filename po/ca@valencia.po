@@ -72,13 +72,13 @@ msgid "ENCODING"
 msgstr "CODIFICACIÓ"
 
 #: ../xed/xed-app.c:120
-msgid "Create a new top-level window in an existing instance of xed"
+msgid "Create a new top-level window in an existing instance of Techo"
 msgstr ""
-"Crea una nova finestra de nivell superior en una instància existent de xed"
+"Crea una nova finestra de nivell superior en una instància existent de Techo"
 
 #: ../xed/xed-app.c:127
-msgid "Create a new document in an existing instance of xed"
-msgstr "Crea un nou document en una instància existent de xed"
+msgid "Create a new document in an existing instance of Techo"
+msgstr "Crea un nou document en una instància existent de Techo"
 
 #: ../xed/xed-app.c:134
 msgid "Set the size and position of the window (WIDTHxHEIGHT+X+Y)"
@@ -93,7 +93,7 @@ msgid "Open files and block process until files are closed"
 msgstr ""
 
 #: ../xed/xed-app.c:148
-msgid "Run xed in standalone mode"
+msgid "Run Techo in standalone mode"
 msgstr ""
 
 #: ../xed/xed-app.c:155
@@ -490,12 +490,12 @@ msgstr "Comproveu que la ubicació estiga ben escrita i torneu-ho a intentar."
 #. Translators: %s is a URI scheme (like for example http:, ftp:, etc.)
 #: ../xed/xed-io-error-info-bar.c:189
 #, c-format
-msgid "xed cannot handle %s locations."
-msgstr "xed no pot gestionar ubicacions %s."
+msgid "Techo cannot handle %s locations."
+msgstr "Techo no pot gestionar ubicacions %s."
 
 #: ../xed/xed-io-error-info-bar.c:194
-msgid "xed cannot handle this location."
-msgstr "xed no pot gestionar aquesta ubicació."
+msgid "Techo cannot handle this location."
+msgstr "Techo no pot gestionar aquesta ubicació."
 
 #: ../xed/xed-io-error-info-bar.c:201
 msgid "The location of the file cannot be mounted."
@@ -551,8 +551,8 @@ msgid "Unexpected error: %s"
 msgstr "S'ha produït un error inesperat: %s"
 
 #: ../xed/xed-io-error-info-bar.c:326
-msgid "xed cannot find the file. Perhaps it has recently been deleted."
-msgstr "xed no pot trobar el fitxer. Potser ha estat esborrat recentment."
+msgid "Techo cannot find the file. Perhaps it has recently been deleted."
+msgstr "Techo no pot trobar el fitxer. Potser ha estat esborrat recentment."
 
 #: ../xed/xed-io-error-info-bar.c:336
 #, c-format
@@ -582,8 +582,8 @@ msgid "You do not have the permissions necessary to open the file."
 msgstr "No teniu el permís necessari per poder obrir este fitxer."
 
 #: ../xed/xed-io-error-info-bar.c:499
-msgid "xed has not been able to detect the character encoding."
-msgstr "xed no ha pogut detectar la codificació de caràcters."
+msgid "Techo has not been able to detect the character encoding."
+msgstr "Techo no ha pogut detectar la codificació de caràcters."
 
 #: ../xed/xed-io-error-info-bar.c:501 ../xed/xed-io-error-info-bar.c:524
 msgid "Please check that you are not trying to open a binary file."
@@ -647,15 +647,15 @@ msgstr "_No l'editis"
 
 #: ../xed/xed-io-error-info-bar.c:673
 #, c-format
-msgid "This file (%s) is already open in another xed window."
-msgstr "Aquest fitxer (%s) ja està obert en una altra finestra de xed."
+msgid "This file (%s) is already open in another Techo window."
+msgstr "Aquest fitxer (%s) ja està obert en una altra finestra de Techo."
 
 #: ../xed/xed-io-error-info-bar.c:687
 msgid ""
-"xed opened this instance of the file in a non-editable way. Do you want to "
+"Techo opened this instance of the file in a non-editable way. Do you want to "
 "edit it anyway?"
 msgstr ""
-"xed ha obert aquesta instància del fitxer de forma no editable. Voleu editar-"
+"Techo ha obert aquesta instància del fitxer de forma no editable. Voleu editar-"
 "la igualment?"
 
 #: ../xed/xed-io-error-info-bar.c:742 ../xed/xed-io-error-info-bar.c:830
@@ -697,11 +697,11 @@ msgstr ""
 
 #: ../xed/xed-io-error-info-bar.c:871
 msgid ""
-"xed could not back up the old copy of the file before saving the new one. "
+"Techo could not back up the old copy of the file before saving the new one. "
 "You can ignore this warning and save the file anyway, but if an error occurs "
 "while saving, you could lose the old copy of the file. Save anyway?"
 msgstr ""
-"xed no ha pogut fer una còpia de seguretat de la versió antiga de l'arxiu "
+"Techo no ha pogut fer una còpia de seguretat de la versió antiga de l'arxiu "
 "abans de desar la nova. Podeu passar per alt aquesta advertència i desar "
 "l'arxiu, però si es produeix un error, podríeu perdre la còpia antiga de "
 "l'arxiu. Voleu desar de totes maneres?"
@@ -710,18 +710,18 @@ msgstr ""
 #: ../xed/xed-io-error-info-bar.c:928
 #, c-format
 msgid ""
-"xed cannot handle %s locations in write mode. Please check that you typed "
+"Techo cannot handle %s locations in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"xed no pot gestionar ubicacions %s en mode d'escriptura. Comproveu que heu "
+"Techo no pot gestionar ubicacions %s en mode d'escriptura. Comproveu que heu "
 "teclejat la ubicació correctament i torneu a provar-ho."
 
 #: ../xed/xed-io-error-info-bar.c:936
 msgid ""
-"xed cannot handle this location in write mode. Please check that you typed "
+"Techo cannot handle this location in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"xed no pot gestionar aquesta ubicació en mode d'escriptura. Comproveu que "
+"Techo no pot gestionar aquesta ubicació en mode d'escriptura. Comproveu que "
 "heu teclejat la ubicació correctament i torneu a provar-ho."
 
 #: ../xed/xed-io-error-info-bar.c:945
@@ -1623,8 +1623,8 @@ msgid "_Contents"
 msgstr "_Continguts"
 
 #: ../xed/xed-ui.h:66
-msgid "Open the xed manual"
-msgstr "Obre el manual de xed"
+msgid "Open the Techo manual"
+msgstr "Obre el manual de Techo"
 
 #: ../xed/xed-ui.h:67
 msgid "_About"
@@ -2420,8 +2420,8 @@ msgid "Modelines"
 msgstr "Modes de línia"
 
 #: ../plugins/modelines/modelines.plugin.desktop.in.h:2
-msgid "Emacs, Kate and Vim-style modelines support for xed."
-msgstr "Suport per a xed de 'modelines' a l'estil d'Emacs, Kate i Vim."
+msgid "Emacs, Kate and Vim-style modelines support for Techo."
+msgstr "Suport per a Techo de 'modelines' a l'estil d'Emacs, Kate i Vim."
 
 #: ../plugins/sort/sort.plugin.desktop.in.h:1
 msgid "Sort"

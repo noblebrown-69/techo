@@ -63,7 +63,7 @@ static const GtkActionEntry xed_always_sensitive_menu_entries[] =
 
 	/* Help menu */
 	{"HelpContents", "xsi-help-contents-symbolic", N_("_Contents"), "F1",
-	 N_("Open the xed manual"), G_CALLBACK (_xed_cmd_help_contents) },
+	 N_("Open the Techo manual"), G_CALLBACK (_xed_cmd_help_contents) },
 	{ "HelpAbout", "xsi-help-about-symbolic", N_("_About"), NULL,
 	 N_("About this application"), G_CALLBACK (_xed_cmd_help_about) },
     { "HelpShortcuts", "xsi-keyboard-shortcuts-symbolic", N_("_Keyboard Shortcuts"), NULL,

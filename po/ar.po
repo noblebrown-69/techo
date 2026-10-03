@@ -69,11 +69,11 @@ msgid "ENCODING"
 msgstr "الترميز"
 
 #: ../xed/xed-app.c:120
-msgid "Create a new top-level window in an existing instance of xed"
+msgid "Create a new top-level window in an existing instance of Techo"
 msgstr "إنشاء نافذة جديدة ذات مستوى أعلى في مثيل موجود لـxed"
 
 #: ../xed/xed-app.c:127
-msgid "Create a new document in an existing instance of xed"
+msgid "Create a new document in an existing instance of Techo"
 msgstr "إنشاء مستند جديد في مثيل موجود لـxed"
 
 #: ../xed/xed-app.c:134
@@ -89,8 +89,8 @@ msgid "Open files and block process until files are closed"
 msgstr "فتح الملفات وعملية الحظر حتى يتم إغلاق الملفات"
 
 #: ../xed/xed-app.c:148
-msgid "Run xed in standalone mode"
-msgstr "تشغيل xed في وضع مستقل"
+msgid "Run Techo in standalone mode"
+msgstr "تشغيل Techo في وضع مستقل"
 
 #: ../xed/xed-app.c:155
 msgid "[FILE...] [+LINE]"
@@ -576,11 +576,11 @@ msgstr "يرجى التحقق من كتابة الموقع بشكل صحيح و�
 #. Translators: %s is a URI scheme (like for example http:, ftp:, etc.)
 #: ../xed/xed-io-error-info-bar.c:189
 #, c-format
-msgid "xed cannot handle %s locations."
+msgid "Techo cannot handle %s locations."
 msgstr "لا يمكن لـxed معالجة مواقع %s."
 
 #: ../xed/xed-io-error-info-bar.c:194
-msgid "xed cannot handle this location."
+msgid "Techo cannot handle this location."
 msgstr "لا يمكن لـxed معالجة هذا الموقع."
 
 #: ../xed/xed-io-error-info-bar.c:201
@@ -636,7 +636,7 @@ msgid "Unexpected error: %s"
 msgstr "خطأ غير متوقع: %s"
 
 #: ../xed/xed-io-error-info-bar.c:326
-msgid "xed cannot find the file. Perhaps it has recently been deleted."
+msgid "Techo cannot find the file. Perhaps it has recently been deleted."
 msgstr "لا يمكن لـxed العثور على الملف. ربما تم حذفه مؤخراً."
 
 #: ../xed/xed-io-error-info-bar.c:336
@@ -666,8 +666,8 @@ msgid "You do not have the permissions necessary to open the file."
 msgstr "ليس لديك الأذونات اللازمة لفتح الملف."
 
 #: ../xed/xed-io-error-info-bar.c:499
-msgid "xed has not been able to detect the character encoding."
-msgstr "لم يتمكن xed من اكتشاف ترميز الأحرف."
+msgid "Techo has not been able to detect the character encoding."
+msgstr "لم يتمكن Techo من اكتشاف ترميز الأحرف."
 
 #: ../xed/xed-io-error-info-bar.c:501 ../xed/xed-io-error-info-bar.c:524
 msgid "Please check that you are not trying to open a binary file."
@@ -729,15 +729,15 @@ msgstr "ع_دم تحرير"
 
 #: ../xed/xed-io-error-info-bar.c:673
 #, c-format
-msgid "This file (%s) is already open in another xed window."
-msgstr "هذا الملف (%s) مفتوح بالفعل في نافذة xed أخرى."
+msgid "This file (%s) is already open in another Techo window."
+msgstr "هذا الملف (%s) مفتوح بالفعل في نافذة Techo أخرى."
 
 #: ../xed/xed-io-error-info-bar.c:687
 msgid ""
-"xed opened this instance of the file in a non-editable way. Do you want to "
+"Techo opened this instance of the file in a non-editable way. Do you want to "
 "edit it anyway?"
 msgstr ""
-"قام xed بفتح هذا المثيل من الملف بطريقة غير قابلة للتحرير. هل تريد تحريره "
+"قام Techo بفتح هذا المثيل من الملف بطريقة غير قابلة للتحرير. هل تريد تحريره "
 "على أي حال؟"
 
 #: ../xed/xed-io-error-info-bar.c:742 ../xed/xed-io-error-info-bar.c:830
@@ -777,7 +777,7 @@ msgstr "لا يمكن إنشاء ملف نسخ احتياطي مؤقت أثنا�
 
 #: ../xed/xed-io-error-info-bar.c:871
 msgid ""
-"xed could not back up the old copy of the file before saving the new one. "
+"Techo could not back up the old copy of the file before saving the new one. "
 "You can ignore this warning and save the file anyway, but if an error occurs "
 "while saving, you could lose the old copy of the file. Save anyway?"
 msgstr ""
@@ -789,7 +789,7 @@ msgstr ""
 #: ../xed/xed-io-error-info-bar.c:928
 #, c-format
 msgid ""
-"xed cannot handle %s locations in write mode. Please check that you typed "
+"Techo cannot handle %s locations in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
 "لا يمكن لـxed معالجة مواقع %s في وضع الكتابة. يرجى التحقق من كتابة الموقع "
@@ -797,7 +797,7 @@ msgstr ""
 
 #: ../xed/xed-io-error-info-bar.c:936
 msgid ""
-"xed cannot handle this location in write mode. Please check that you typed "
+"Techo cannot handle this location in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
 "لا يمكن لـxed معالجة هذا الموقع في وضع الكتابة. يرجى التحقق من كتابة الموقع "
@@ -1715,8 +1715,8 @@ msgid "_Contents"
 msgstr "_المحتويات"
 
 #: ../xed/xed-ui.h:66
-msgid "Open the xed manual"
-msgstr "فتح دليل xed"
+msgid "Open the Techo manual"
+msgstr "فتح دليل Techo"
 
 #: ../xed/xed-ui.h:67
 msgid "_About"
@@ -2505,8 +2505,8 @@ msgid "Modelines"
 msgstr "النماذج"
 
 #: ../plugins/modelines/modelines.plugin.desktop.in.h:2
-msgid "Emacs, Kate and Vim-style modelines support for xed."
-msgstr "دعم نماذج Emacs و Kate و Vim لـ xed."
+msgid "Emacs, Kate and Vim-style modelines support for Techo."
+msgstr "دعم نماذج Emacs و Kate و Vim لـ Techo."
 
 #: ../plugins/sort/sort.plugin.desktop.in.h:1
 msgid "Sort"

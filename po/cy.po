@@ -36,11 +36,11 @@ msgid ""
 "spell checking, comparing files, viewing CVS ChangeLogs, and adjusting "
 "indentation levels. </p>"
 msgstr ""
-"<p> Mae xed yn olygydd testun bach ond pwerus. Mae ganddo'r rhan fwyaf o "
+"<p> Mae Techo yn olygydd testun bach ond pwerus. Mae ganddo'r rhan fwyaf o "
 "nodweddion safonol golygyddion testun ac mae'n cynnal testunau rhyngwladol "
 "Unicode, yn llawn. Mae nodweddion uwch yn cynnwys amlygu cystrawen ac "
 "adnabod awtomatig o god ffynhonnell, argraffu a golygu dogfennau lluosog "
-"mewn un ffenestr. </p><p> Mae modd estyn xed drwy system o ategion, sy'n "
+"mewn un ffenestr. </p><p> Mae modd estyn Techo drwy system o ategion, sy'n "
 "cynnwys cefnogaeth ar gyfer gwirio sillafu, cymharu testunau, gweld "
 "Cofnodion Newid CVS, a newid lefelau mewnoli.</p>"
 
@@ -73,12 +73,12 @@ msgid "ENCODING"
 msgstr "AMGODIO"
 
 #: ../xed/xed-app.c:120
-msgid "Create a new top-level window in an existing instance of xed"
-msgstr "Creu ffenestr lefel uchel mewn engraifft cyfredol o xed"
+msgid "Create a new top-level window in an existing instance of Techo"
+msgstr "Creu ffenestr lefel uchel mewn engraifft cyfredol o Techo"
 
 #: ../xed/xed-app.c:127
-msgid "Create a new document in an existing instance of xed"
-msgstr "Creu dogfen newydd mewn enghraifft cyfredol o xed"
+msgid "Create a new document in an existing instance of Techo"
+msgstr "Creu dogfen newydd mewn enghraifft cyfredol o Techo"
 
 #: ../xed/xed-app.c:134
 msgid "Set the size and position of the window (WIDTHxHEIGHT+X+Y)"
@@ -93,8 +93,8 @@ msgid "Open files and block process until files are closed"
 msgstr "Agor ffeiliau a rhwystro proses tan bod ffeiliau wedi cau"
 
 #: ../xed/xed-app.c:148
-msgid "Run xed in standalone mode"
-msgstr "Rhedeg xed yn y modd arunig"
+msgid "Run Techo in standalone mode"
+msgstr "Rhedeg Techo yn y modd arunig"
 
 #: ../xed/xed-app.c:155
 msgid "[FILE...] [+LINE]"
@@ -554,12 +554,12 @@ msgstr "Gwiriwch eich bod wedi teipio'r lleoliad yn gywir a cheisio eto."
 #. Translators: %s is a URI scheme (like for example http:, ftp:, etc.)
 #: ../xed/xed-io-error-info-bar.c:189
 #, c-format
-msgid "xed cannot handle %s locations."
-msgstr "Nid yw xed yn gallu tin lleoliadau %s."
+msgid "Techo cannot handle %s locations."
+msgstr "Nid yw Techo yn gallu tin lleoliadau %s."
 
 #: ../xed/xed-io-error-info-bar.c:194
-msgid "xed cannot handle this location."
-msgstr "Nid yw xed yn gallu trin y lleoliad hwn."
+msgid "Techo cannot handle this location."
+msgstr "Nid yw Techo yn gallu trin y lleoliad hwn."
 
 #: ../xed/xed-io-error-info-bar.c:201
 msgid "The location of the file cannot be mounted."
@@ -616,8 +616,8 @@ msgid "Unexpected error: %s"
 msgstr "Gwall annisgwyl: %s"
 
 #: ../xed/xed-io-error-info-bar.c:326
-msgid "xed cannot find the file. Perhaps it has recently been deleted."
-msgstr "Nid yw xed yn gallu canfod y ffeil. Efallai ei bod wedi ei dileu."
+msgid "Techo cannot find the file. Perhaps it has recently been deleted."
+msgstr "Nid yw Techo yn gallu canfod y ffeil. Efallai ei bod wedi ei dileu."
 
 #: ../xed/xed-io-error-info-bar.c:336
 #, c-format
@@ -647,8 +647,8 @@ msgid "You do not have the permissions necessary to open the file."
 msgstr "Does gennych chi ddim y caniatâd angenrheidiol i agor y ffeil."
 
 #: ../xed/xed-io-error-info-bar.c:499
-msgid "xed has not been able to detect the character encoding."
-msgstr "Nid yw xed wedi gallu canfod yr amgodiad nodau."
+msgid "Techo has not been able to detect the character encoding."
+msgstr "Nid yw Techo wedi gallu canfod yr amgodiad nodau."
 
 #: ../xed/xed-io-error-info-bar.c:501 ../xed/xed-io-error-info-bar.c:524
 msgid "Please check that you are not trying to open a binary file."
@@ -710,15 +710,15 @@ msgstr "Peidio _Golygu"
 
 #: ../xed/xed-io-error-info-bar.c:673
 #, c-format
-msgid "This file (%s) is already open in another xed window."
-msgstr "Mae'r ffeil hon (%s) eisoes ar agor mewn ffenestr xed arall."
+msgid "This file (%s) is already open in another Techo window."
+msgstr "Mae'r ffeil hon (%s) eisoes ar agor mewn ffenestr Techo arall."
 
 #: ../xed/xed-io-error-info-bar.c:687
 msgid ""
-"xed opened this instance of the file in a non-editable way. Do you want to "
+"Techo opened this instance of the file in a non-editable way. Do you want to "
 "edit it anyway?"
 msgstr ""
-"Mae xed wedi agor yr enghraifft hon o'r ffeil mewn ffordd nad oes modd ei "
+"Mae Techo wedi agor yr enghraifft hon o'r ffeil mewn ffordd nad oes modd ei "
 "golygu. Hoffech chi ei golygu beth bynnag?"
 
 #: ../xed/xed-io-error-info-bar.c:742 ../xed/xed-io-error-info-bar.c:830
@@ -759,11 +759,11 @@ msgstr "Wrth gadw %s, ni allwyd creu ffeil wrth gefn dros dro"
 
 #: ../xed/xed-io-error-info-bar.c:871
 msgid ""
-"xed could not back up the old copy of the file before saving the new one. "
+"Techo could not back up the old copy of the file before saving the new one. "
 "You can ignore this warning and save the file anyway, but if an error occurs "
 "while saving, you could lose the old copy of the file. Save anyway?"
 msgstr ""
-"Nid oedd modd i xed wneud copi wrth gefn o'r hen gopi o'r ffeil cyn cadw'r "
+"Nid oedd modd i Techo wneud copi wrth gefn o'r hen gopi o'r ffeil cyn cadw'r "
 "hen un. Gallwch anwybyddu'r rhybudd hwn a chadw'r ffeil, beth bynnag, ond os "
 "bydd gwall wrth gadw, gallwch chi golli'r hen gopi o'r ffeil> Cadw beth "
 "bynnag?"
@@ -772,18 +772,18 @@ msgstr ""
 #: ../xed/xed-io-error-info-bar.c:928
 #, c-format
 msgid ""
-"xed cannot handle %s locations in write mode. Please check that you typed "
+"Techo cannot handle %s locations in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"Nid oes modd i xed drin %s lleoliad yn y modd ysgrifennu. Gwiriwch eich bod "
+"Nid oes modd i Techo drin %s lleoliad yn y modd ysgrifennu. Gwiriwch eich bod "
 "wedi teipio'r lleoliad yn gywir a cheisio eto."
 
 #: ../xed/xed-io-error-info-bar.c:936
 msgid ""
-"xed cannot handle this location in write mode. Please check that you typed "
+"Techo cannot handle this location in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"Nid oes modd i xed drin y lleoliad yma yn y modd ysgrifennu. Gwiriwch eich "
+"Nid oes modd i Techo drin y lleoliad yma yn y modd ysgrifennu. Gwiriwch eich "
 "bod wedi teipio'r lleoliad yn gywir a cheisio eto."
 
 #: ../xed/xed-io-error-info-bar.c:945
@@ -1693,8 +1693,8 @@ msgid "_Contents"
 msgstr "_Cynnwys"
 
 #: ../xed/xed-ui.h:66
-msgid "Open the xed manual"
-msgstr "Agor llawlyfr xed"
+msgid "Open the Techo manual"
+msgstr "Agor llawlyfr Techo"
 
 #: ../xed/xed-ui.h:67
 msgid "_About"
@@ -2487,8 +2487,8 @@ msgid "Modelines"
 msgstr "Llinellau modd"
 
 #: ../plugins/modelines/modelines.plugin.desktop.in.h:2
-msgid "Emacs, Kate and Vim-style modelines support for xed."
-msgstr "Cefnogaeth llinellau model ar gyfer Emacs, Kate a Vim ar gyfer xed."
+msgid "Emacs, Kate and Vim-style modelines support for Techo."
+msgstr "Cefnogaeth llinellau model ar gyfer Emacs, Kate a Vim ar gyfer Techo."
 
 #: ../plugins/sort/sort.plugin.desktop.in.h:1
 msgid "Sort"

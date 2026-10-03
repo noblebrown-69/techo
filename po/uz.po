@@ -71,12 +71,12 @@ msgid "ENCODING"
 msgstr "KODLASH"
 
 #: ../xed/xed-app.c:120
-msgid "Create a new top-level window in an existing instance of xed"
-msgstr "Mavjud xed misolida yangi yuqori darajadagi oyna yaratish"
+msgid "Create a new top-level window in an existing instance of Techo"
+msgstr "Mavjud Techo misolida yangi yuqori darajadagi oyna yaratish"
 
 #: ../xed/xed-app.c:127
-msgid "Create a new document in an existing instance of xed"
-msgstr "Mavjud xed misolida yangi hujjat yaratish"
+msgid "Create a new document in an existing instance of Techo"
+msgstr "Mavjud Techo misolida yangi hujjat yaratish"
 
 #: ../xed/xed-app.c:134
 msgid "Set the size and position of the window (WIDTHxHEIGHT+X+Y)"
@@ -91,7 +91,7 @@ msgid "Open files and block process until files are closed"
 msgstr "Fayllarni ochish va fayllar yopilguncha jarayonni bloklash"
 
 #: ../xed/xed-app.c:148
-msgid "Run xed in standalone mode"
+msgid "Run Techo in standalone mode"
 msgstr "Xedni mustaqil rejimda ishga tushirish"
 
 #: ../xed/xed-app.c:155
@@ -457,12 +457,12 @@ msgstr ""
 #. Translators: %s is a URI scheme (like for example http:, ftp:, etc.)
 #: ../xed/xed-io-error-info-bar.c:189
 #, c-format
-msgid "xed cannot handle %s locations."
-msgstr "xed %s joylashuvlarini boshqara olmaydi."
+msgid "Techo cannot handle %s locations."
+msgstr "Techo %s joylashuvlarini boshqara olmaydi."
 
 #: ../xed/xed-io-error-info-bar.c:194
-msgid "xed cannot handle this location."
-msgstr "xed ushbu joylashuvni boshqara olmaydi."
+msgid "Techo cannot handle this location."
+msgstr "Techo ushbu joylashuvni boshqara olmaydi."
 
 #: ../xed/xed-io-error-info-bar.c:201
 msgid "The location of the file cannot be mounted."
@@ -518,8 +518,8 @@ msgid "Unexpected error: %s"
 msgstr "Kutilmagan xatolik: %s"
 
 #: ../xed/xed-io-error-info-bar.c:326
-msgid "xed cannot find the file. Perhaps it has recently been deleted."
-msgstr "xed faylni topa olmaydi. Ehtimol, u yaqinda o‘chirilgan."
+msgid "Techo cannot find the file. Perhaps it has recently been deleted."
+msgstr "Techo faylni topa olmaydi. Ehtimol, u yaqinda o‘chirilgan."
 
 #: ../xed/xed-io-error-info-bar.c:336
 #, c-format
@@ -549,8 +549,8 @@ msgid "You do not have the permissions necessary to open the file."
 msgstr "Sizda faylni ochish uchun zarur ruxsatlar mavjud emas."
 
 #: ../xed/xed-io-error-info-bar.c:499
-msgid "xed has not been able to detect the character encoding."
-msgstr "xed belgilar kodlashni aniqlay olmadi."
+msgid "Techo has not been able to detect the character encoding."
+msgstr "Techo belgilar kodlashni aniqlay olmadi."
 
 #: ../xed/xed-io-error-info-bar.c:501 ../xed/xed-io-error-info-bar.c:524
 msgid "Please check that you are not trying to open a binary file."
@@ -615,15 +615,15 @@ msgstr "_Tahrirlanmasin"
 
 #: ../xed/xed-io-error-info-bar.c:673
 #, c-format
-msgid "This file (%s) is already open in another xed window."
-msgstr "Bu fayl (%s) boshqa xed oynasida allaqachon ochilgan."
+msgid "This file (%s) is already open in another Techo window."
+msgstr "Bu fayl (%s) boshqa Techo oynasida allaqachon ochilgan."
 
 #: ../xed/xed-io-error-info-bar.c:687
 msgid ""
-"xed opened this instance of the file in a non-editable way. Do you want to "
+"Techo opened this instance of the file in a non-editable way. Do you want to "
 "edit it anyway?"
 msgstr ""
-"xed faylning ushbu nusxasini tahrir qilib bo‘lmaydigan tarzda ochdi. Baribir "
+"Techo faylning ushbu nusxasini tahrir qilib bo‘lmaydigan tarzda ochdi. Baribir "
 "uni tahrirlashni xohlaysizmi?"
 
 #: ../xed/xed-io-error-info-bar.c:742 ../xed/xed-io-error-info-bar.c:830
@@ -664,11 +664,11 @@ msgstr "%s ni saqlashda vaqtinchalik zahira faylini yaratib bo‘lmadi"
 
 #: ../xed/xed-io-error-info-bar.c:871
 msgid ""
-"xed could not back up the old copy of the file before saving the new one. "
+"Techo could not back up the old copy of the file before saving the new one. "
 "You can ignore this warning and save the file anyway, but if an error occurs "
 "while saving, you could lose the old copy of the file. Save anyway?"
 msgstr ""
-"xed yangisini saqlashdan oldin faylning eski nusxasini zaxiralay olmadi. Siz "
+"Techo yangisini saqlashdan oldin faylning eski nusxasini zaxiralay olmadi. Siz "
 "bu ogohlantirishni e'tiborsiz qoldirishingiz va baribir faylni saqlashingiz "
 "mumkin, lekin saqlash vaqtida xatolik yuzaga kelsa, faylning eski nusxasini "
 "yo‘qotishingiz mumkin. Baribir saqlansinmi?"
@@ -677,18 +677,18 @@ msgstr ""
 #: ../xed/xed-io-error-info-bar.c:928
 #, c-format
 msgid ""
-"xed cannot handle %s locations in write mode. Please check that you typed "
+"Techo cannot handle %s locations in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"xed yozish rejimida %s joylashuvlarini boshqara olmaydi. Joylashuvni toʻgʻri "
+"Techo yozish rejimida %s joylashuvlarini boshqara olmaydi. Joylashuvni toʻgʻri "
 "kiritganingizni tekshiring va qaytadan urinib koʻring."
 
 #: ../xed/xed-io-error-info-bar.c:936
 msgid ""
-"xed cannot handle this location in write mode. Please check that you typed "
+"Techo cannot handle this location in write mode. Please check that you typed "
 "the location correctly and try again."
 msgstr ""
-"xed bu joylashuvni yozish rejimida boshqara olmaydi. Joylashuvni toʻgʻri "
+"Techo bu joylashuvni yozish rejimida boshqara olmaydi. Joylashuvni toʻgʻri "
 "kiritganingizni tekshiring va qaytadan urinib koʻring."
 
 #: ../xed/xed-io-error-info-bar.c:945
@@ -1592,7 +1592,7 @@ msgid "_Contents"
 msgstr "_Tarkibi"
 
 #: ../xed/xed-ui.h:66
-msgid "Open the xed manual"
+msgid "Open the Techo manual"
 msgstr "Xed qo‘llanmasini ochish"
 
 #: ../xed/xed-ui.h:67
@@ -2388,7 +2388,7 @@ msgid "Modelines"
 msgstr "Rejim satrlari"
 
 #: ../plugins/modelines/modelines.plugin.desktop.in.h:2
-msgid "Emacs, Kate and Vim-style modelines support for xed."
+msgid "Emacs, Kate and Vim-style modelines support for Techo."
 msgstr "Emacs, Kate va Vim rejim satrlari xedni qo‘llab-quvvatlaydi."
 
 #: ../plugins/sort/sort.plugin.desktop.in.h:1
