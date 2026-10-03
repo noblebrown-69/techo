@@ -494,7 +494,7 @@ get_default_color_scheme (XedPreferencesDialog *dlg)
 
     manager = gtk_source_style_scheme_manager_get_default ();
     pref_id = g_settings_get_string (dlg->editor_settings, XED_SETTINGS_SCHEME);
-    scheme = gtk_source_style_scheme_manager_get_scheme (manager, pref_id);
+    scheme = gtk_source_style_scheme_manager_get_scheme (manager, _xed_settings_resolve_scheme_id (pref_id));
 
     g_free (pref_id);
 
@@ -878,15 +878,15 @@ setup_theme_page (XedPreferencesDialog *dlg)
     /* Style scheme */
     scheme = get_default_color_scheme (dlg);
 
+    gtk_source_style_scheme_chooser_set_style_scheme (GTK_SOURCE_STYLE_SCHEME_CHOOSER (dlg->schemes_list), scheme);
+    set_buttons_sensisitivity_according_to_scheme (dlg, scheme);
+
     g_signal_connect (dlg->schemes_list, "notify::style-scheme",
                       G_CALLBACK (style_scheme_changed), dlg);
     g_signal_connect (dlg->install_scheme_button, "clicked",
                       G_CALLBACK (install_scheme_clicked), dlg);
     g_signal_connect (dlg->uninstall_scheme_button, "clicked",
                       G_CALLBACK (uninstall_scheme_clicked), dlg);
-
-    gtk_source_style_scheme_chooser_set_style_scheme (GTK_SOURCE_STYLE_SCHEME_CHOOSER (dlg->schemes_list), scheme);
-    set_buttons_sensisitivity_according_to_scheme (dlg, scheme);
 
     xapp_preferences_window_add_page (XAPP_PREFERENCES_WINDOW (dlg), dlg->theme_page, "theme", _("Theme"));
 }
