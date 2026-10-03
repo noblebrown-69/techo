@@ -18,9 +18,9 @@ library(
     link_with: libxed,
     dependencies: time_deps,
     include_directories: include_dirs,
-    install_rpath: join_paths(prefix, libdir, 'xed'),
+    install_rpath: join_paths(prefix, libdir, 'techo'),
     install: true,
-    install_dir: join_paths(libdir, 'xed', 'plugins')
+    install_dir: join_paths(libdir, 'techo', 'plugins')
 )
 
 time_ui_sources = [
@@ -43,8 +43,8 @@ time_desktop = custom_target(
 )
 
 time_schema_file = configure_file(
-    input: 'org.x.editor.plugins.time.gschema.xml.in',
-    output: 'org.x.editor.plugins.time.gschema.xml',
+    input: 'org.bushidos.Techo.plugins.time.gschema.xml.in',
+    output: 'org.bushidos.Techo.plugins.time.gschema.xml',
     configuration: schema_conf,
     install_dir: join_paths(datadir, 'glib-2.0', 'schemas')
 )

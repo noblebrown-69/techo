@@ -143,12 +143,12 @@ libxed = library(
     dependencies: xed_deps,
     include_directories: include_dirs,
     install: true,
-    install_dir: join_paths(libdir, 'xed')
+    install_dir: join_paths(libdir, 'techo')
 )
 
 install_headers(
     public_headers,
-    subdir: 'xed'
+    subdir: 'techo'
 )
 
 libxed_dep = declare_dependency(
@@ -159,10 +159,10 @@ libxed_dep = declare_dependency(
 )
 
 xed = executable(
-    'xed',
+    'techo',
     xed_sources,
     dependencies: libxed_dep,
-    install_rpath: join_paths(prefix, libdir, 'xed'),
+    install_rpath: join_paths(prefix, libdir, 'techo'),
     install: true
 )
 
@@ -175,14 +175,14 @@ gir = gnome.generate_gir(
     symbol_prefix: 'xed',
     includes: ['Gtk-3.0', 'GtkSource-4'],
     install: true,
-    install_dir_typelib: join_paths(libdir, 'xed', 'girepository-1.0'),
-    install_dir_gir: join_paths(datadir, 'xed', 'gir-1.0')
+    install_dir_typelib: join_paths(libdir, 'techo', 'girepository-1.0'),
+    install_dir_gir: join_paths(datadir, 'techo', 'gir-1.0')
 )
 
 pkgconfig.generate(
-    name: 'xed',
-    description: 'xed',
-    filebase: 'xed',
+    name: 'techo',
+    description: 'Techo',
+    filebase: 'techo',
     version: meson.project_version(),
     libraries: libxed,
     requires: [
@@ -192,6 +192,6 @@ pkgconfig.generate(
     ],
     variables: [
         'exec_prefix=${prefix}',
-        'pluginsdir=${prefix}/@0@/xed/plugins'.format(libdir)
+        'pluginsdir=${prefix}/@0@/techo/plugins'.format(libdir)
     ]
 )

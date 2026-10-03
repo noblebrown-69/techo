@@ -1,5 +1,5 @@
-pluginsdatadir = join_paths(datadir, 'xed', 'plugins')
-pluginslibdir = join_paths(libdir, 'xed', 'plugins')
+pluginsdatadir = join_paths(datadir, 'techo', 'plugins')
+pluginslibdir = join_paths(libdir, 'techo', 'plugins')
 
 subdir('bracket-complete')
 subdir('docinfo')

@@ -1,33 +1,33 @@
 <?xml version="1.0"?>
 <schemalist>
-  <enum id="org.x.editor.WrapMode">
+  <enum id="org.bushidos.Techo.WrapMode">
     <value nick="none" value="0"/>
     <value nick="char" value="1"/>
     <value nick="word" value="2"/>
     <value nick="word-char" value="3"/>
   </enum>
 
-  <enum id="org.x.editor.SmartHomeEnd">
+  <enum id="org.bushidos.Techo.SmartHomeEnd">
     <value nick="disabled" value="0"/>
     <value nick="before" value="1"/>
     <value nick="after" value="2"/>
     <value nick="always" value="3"/>
   </enum>
 
-  <schema gettext-domain="@GETTEXT_PACKAGE@" id="org.x.editor" path="/org/x/editor/">
-    <child name="preferences" schema="org.x.editor.preferences"/>
-    <child name="state" schema="org.x.editor.state"/>
-    <child name="plugins" schema="org.x.editor.plugins"/>
+  <schema gettext-domain="@GETTEXT_PACKAGE@" id="org.bushidos.Techo" path="/org/bushidos/techo/">
+    <child name="preferences" schema="org.bushidos.Techo.preferences"/>
+    <child name="state" schema="org.bushidos.Techo.state"/>
+    <child name="plugins" schema="org.bushidos.Techo.plugins"/>
   </schema>
 
-  <schema gettext-domain="@GETTEXT_PACKAGE@" id="org.x.editor.preferences" path="/org/x/editor/preferences/">
-    <child name="editor" schema="org.x.editor.preferences.editor"/>
-    <child name="ui" schema="org.x.editor.preferences.ui"/>
-    <child name="print" schema="org.x.editor.preferences.print"/>
-    <child name="encodings" schema="org.x.editor.preferences.encodings"/>
+  <schema gettext-domain="@GETTEXT_PACKAGE@" id="org.bushidos.Techo.preferences" path="/org/bushidos/techo/preferences/">
+    <child name="editor" schema="org.bushidos.Techo.preferences.editor"/>
+    <child name="ui" schema="org.bushidos.Techo.preferences.ui"/>
+    <child name="print" schema="org.bushidos.Techo.preferences.print"/>
+    <child name="encodings" schema="org.bushidos.Techo.preferences.encodings"/>
   </schema>
 
-  <schema gettext-domain="@GETTEXT_PACKAGE@" id="org.x.editor.preferences.editor" path="/org/x/editor/preferences/editor/">
+  <schema gettext-domain="@GETTEXT_PACKAGE@" id="org.bushidos.Techo.preferences.editor" path="/org/bushidos/techo/preferences/editor/">
 
     <key name="use-default-font" type="b">
       <default>true</default>
@@ -83,7 +83,7 @@
       <description>Maximum number of actions that xed will be able to undo or redo. Use "-1" for unlimited number of actions.</description>
     </key>
 
-    <key name="wrap-mode" enum="org.x.editor.WrapMode">
+    <key name="wrap-mode" enum="org.bushidos.Techo.WrapMode">
       <default>'word'</default>
       <summary>Line Wrapping Mode</summary>
       <description>Specifies how to wrap long lines in the editing area. Use "none" for no wrapping, "word" for wrapping at word boundaries, and "char" for wrapping at individual character boundaries.  Note that the values are case-sensitive, so make sure they appear exactly as mentioned here.</description>
@@ -137,7 +137,7 @@
       <description>Specifies the position of the right margin.</description>
     </key>
 
-    <key name="smart-home-end" enum="org.x.editor.SmartHomeEnd">
+    <key name="smart-home-end" enum="org.bushidos.Techo.SmartHomeEnd">
       <default>'after'</default>
       <summary>Smart Home End</summary>
       <description>Specifies how the cursor moves when the HOME and END keys are pressed. Use "disabled" to always move at the start/end of the line, "after" to move to the start/end of the line the first time the keys are pressed and to the start/end of the text ignoring whitespaces the second time the keys are pressed, "before" to move to the start/end of the text before moving to the start/end of the line and "always" to always move to the start/end of the text instead of the start/end of the line.</description>
@@ -205,7 +205,7 @@
 
   </schema>
 
-  <schema gettext-domain="@GETTEXT_PACKAGE@" id="org.x.editor.preferences.ui" path="/org/x/editor/preferences/ui/">
+  <schema gettext-domain="@GETTEXT_PACKAGE@" id="org.bushidos.Techo.preferences.ui" path="/org/bushidos/techo/preferences/ui/">
 
     <key name="toolbar-visible" type="b">
       <default>true</default>
@@ -260,7 +260,7 @@
 
   </schema>
 
-  <schema gettext-domain="@GETTEXT_PACKAGE@" id="org.x.editor.preferences.print" path="/org/x/editor/preferences/print/">
+  <schema gettext-domain="@GETTEXT_PACKAGE@" id="org.bushidos.Techo.preferences.print" path="/org/bushidos/techo/preferences/print/">
 
     <key name="print-syntax-highlighting" type="b">
       <default>true</default>
@@ -274,7 +274,7 @@
       <description>Whether xed should include a document header when printing documents.</description>
     </key>
 
-    <key name="print-wrap-mode" enum="org.x.editor.WrapMode">
+    <key name="print-wrap-mode" enum="org.bushidos.Techo.WrapMode">
       <default>'word'</default>
       <summary>Printing Line Wrapping Mode</summary>
       <description>Specifies how to wrap long lines for printing.  Use "none" for no wrapping, "word" for wrapping at word boundaries, and "char" for wrapping at individual character boundaries.  Note that the values are case-sensitive, so make sure they appear exactly as mentioned here.</description>
@@ -306,7 +306,7 @@
 
   </schema>
 
-  <schema gettext-domain="@GETTEXT_PACKAGE@" id="org.x.editor.preferences.encodings" path="/org/x/editor/preferences/encodings/">
+  <schema gettext-domain="@GETTEXT_PACKAGE@" id="org.bushidos.Techo.preferences.encodings" path="/org/bushidos/techo/preferences/encodings/">
 
     <key name="auto-detected" type="as">
       <default context="auto-detected" l10n="messages">[ 'UTF-8', 'CURRENT', 'ISO-8859-15', 'UTF-16' ]</default>
@@ -322,13 +322,13 @@
 
   </schema>
 
-  <schema id="org.x.editor.state" path="/org/x/editor/state/">
-    <child name="window" schema="org.x.editor.state.window"/>
-    <child name="file-filter" schema="org.x.editor.state.file-filter"/>
-    <child name="history-entry" schema="org.x.editor.state.history-entry"/>
+  <schema id="org.bushidos.Techo.state" path="/org/bushidos/techo/state/">
+    <child name="window" schema="org.bushidos.Techo.state.window"/>
+    <child name="file-filter" schema="org.bushidos.Techo.state.file-filter"/>
+    <child name="history-entry" schema="org.bushidos.Techo.state.history-entry"/>
   </schema>
 
-  <schema id="org.x.editor.state.window" path="/org/x/editor/state/window/">
+  <schema id="org.bushidos.Techo.state.window" path="/org/bushidos/techo/state/window/">
 
     <key name="state" type="i">
       <default>0</default>
@@ -356,7 +356,7 @@
 
   </schema>
 
-  <schema id="org.x.editor.state.file-filter" path="/org/x/editor/state/file-filter/">
+  <schema id="org.bushidos.Techo.state.file-filter" path="/org/bushidos/techo/state/file-filter/">
 
     <key name="filter-id" type="i">
       <default>0</default>
@@ -364,7 +364,7 @@
 
   </schema>
 
-  <schema id="org.x.editor.state.history-entry" path="/org/x/editor/state/history-entry/">
+  <schema id="org.bushidos.Techo.state.history-entry" path="/org/bushidos/techo/state/history-entry/">
 
     <key name="history-search-for" type="as">
       <default>[]</default>
@@ -380,7 +380,7 @@
 
   </schema>
 
-  <schema gettext-domain="@GETTEXT_PACKAGE@" id="org.x.editor.plugins" path="/org/x/editor/plugins/">
+  <schema gettext-domain="@GETTEXT_PACKAGE@" id="org.bushidos.Techo.plugins" path="/org/bushidos/techo/plugins/">
 
     <key name="active-plugins" type="as">
       <default>[ 'docinfo', 'modelines', 'filebrowser', 'spell', 'time', 'bracketcompletion' ]</default>

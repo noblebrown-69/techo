@@ -24,9 +24,9 @@ library(
     link_with: libxed,
     dependencies: spell_deps,
     include_directories: include_dirs,
-    install_rpath: join_paths(prefix, libdir, 'xed'),
+    install_rpath: join_paths(prefix, libdir, 'techo'),
     install: true,
-    install_dir: join_paths(libdir, 'xed', 'plugins')
+    install_dir: join_paths(libdir, 'techo', 'plugins')
 )
 
 install_data(
@@ -45,8 +45,8 @@ spell_desktop = custom_target(
 
 
 spell_schema_file = configure_file(
-    input: 'org.x.editor.plugins.spell.gschema.xml.in',
-    output: 'org.x.editor.plugins.spell.gschema.xml',
+    input: 'org.bushidos.Techo.plugins.spell.gschema.xml.in',
+    output: 'org.bushidos.Techo.plugins.spell.gschema.xml',
     configuration: schema_conf,
     install_dir: join_paths(datadir, 'glib-2.0', 'schemas')
 )

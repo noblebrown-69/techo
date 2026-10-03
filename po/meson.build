@@ -1,3 +1,3 @@
-i18n.gettext('xed',
+i18n.gettext('techo',
     preset: 'glib'
 )

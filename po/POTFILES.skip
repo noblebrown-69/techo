@@ -1,6 +1,6 @@
 # List of source files that should *not* be translated.
 # Please keep this file sorted alphabetically.
-data/xed.desktop.in
+data/org.bushidos.Techo.desktop.in
 xed/xed-document-output-stream.c
 xed/smclient/eggdesktopfile.c
 xed/smclient/eggsmclient.c

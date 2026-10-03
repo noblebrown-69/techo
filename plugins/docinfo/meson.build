@@ -17,9 +17,9 @@ library('docinfo',
     dependencies: docinfo_deps,
     include_directories: include_dirs,
     link_with: libxed,
-    install_rpath: join_paths(prefix, libdir, 'xed'),
+    install_rpath: join_paths(prefix, libdir, 'techo'),
     install: true,
-    install_dir: join_paths(libdir, 'xed', 'plugins')
+    install_dir: join_paths(libdir, 'techo', 'plugins')
 )
 
 install_data(

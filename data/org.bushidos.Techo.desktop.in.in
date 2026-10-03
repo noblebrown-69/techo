@@ -1,17 +1,18 @@
 [Desktop Entry]
-_Name=Text Editor
+Name=手帳 Techo
+_GenericName=Text Editor
 _Comment=Edit text files
-Exec=xed %U
+Exec=techo %U
 Terminal=false
 Type=Application
 StartupNotify=true
+StartupWMClass=techo
 MimeType=text/plain;application/x-zerosize;
 Icon=accessories-text-editor
 Categories=GTK;Utility;TextEditor;
-Keywords=xed;text;editor;tabs;highlighting;code;multiple;files;pluggable;notepad;
-X-MATE-DocPath=xed/xed.xml
+Keywords=techo;text;editor;tabs;highlighting;code;multiple;files;pluggable;notepad;手帳;
 Actions=new-window;
 
 [Desktop Action new-window]
 Name=New Window
-Exec=xed --new-window %U
+Exec=techo --new-window %U

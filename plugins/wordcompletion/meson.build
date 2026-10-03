@@ -18,9 +18,9 @@ library(
     link_with: libxed,
     dependencies: wordcompletion_deps,
     include_directories: include_dirs,
-    install_rpath: join_paths(prefix, libdir, 'xed'),
+    install_rpath: join_paths(prefix, libdir, 'techo'),
     install: true,
-    install_dir: join_paths(libdir, 'xed', 'plugins')
+    install_dir: join_paths(libdir, 'techo', 'plugins')
 )
 
 wordcompletion_desktop = custom_target(
@@ -38,6 +38,6 @@ install_data(
 )
 
 install_data(
-    'org.x.editor.plugins.wordcompletion.gschema.xml',
+    'org.bushidos.Techo.plugins.wordcompletion.gschema.xml',
     install_dir: schema_dir
 )
