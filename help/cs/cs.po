@@ -7,7 +7,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: xed mate-2-32\n"
+"Project-Id-Version: Techo mate-2-32\n"
 "POT-Creation-Date: 2010-09-23 21:10+0000\n"
 "PO-Revision-Date: 2010-09-25 08:31+0200\n"
 "Last-Translator: Marek Černocký <marek@manet.cz>\n"
@@ -225,8 +225,8 @@ msgstr "Baris"
 
 #: C/xed.xml:85(surname)
 msgid ""
-"Cicek provided information from earlier revisions of the xed application."
-msgstr "Cicek poskytl informace z dřívějších revizích aplikace xed."
+"Cicek provided information from earlier revisions of the Techo application."
+msgstr "Cicek poskytl informace z dřívějších revizích aplikace Techo."
 
 #: C/xed.xml:86(contrib) C/xed.xml:91(contrib)
 msgid "Acknowledgements"
@@ -241,16 +241,16 @@ msgid "George provided information about plugins."
 msgstr "George poskytl informace o zásuvných modulech."
 
 #: C/xed.xml:115(revnumber)
-msgid "xed V1.0"
-msgstr "xed V1.0"
+msgid "Techo V1.0"
+msgstr "Techo V1.0"
 
 #: C/xed.xml:118(para)
 msgid "Eric Baudais <email>baudais@okstate.edu</email>"
 msgstr "Eric Baudais <email>baudais@okstate.edu</email>"
 
 #: C/xed.xml:124(revnumber)
-msgid "xed Manual V2.0"
-msgstr "Příručka aplikace xed, verze 2.0"
+msgid "Techo Manual V2.0"
+msgstr "Příručka aplikace Techo, verze 2.0"
 
 #: C/xed.xml:125(date)
 msgid "March 2002"
@@ -263,80 +263,80 @@ msgid "Sun MATE Documentation Team"
 msgstr "Dokumentační tým MATE společnosti Sun"
 
 #: C/xed.xml:132(revnumber)
-msgid "xed Manual V2.1"
-msgstr "Příručka aplikace xed, verze 2.1"
+msgid "Techo Manual V2.1"
+msgstr "Příručka aplikace Techo, verze 2.1"
 
 #: C/xed.xml:133(date)
 msgid "June 2002"
 msgstr "Červen 2002"
 
 #: C/xed.xml:140(revnumber)
-msgid "xed Manual V2.2"
-msgstr "Příručka aplikace xed, verze 2.2"
+msgid "Techo Manual V2.2"
+msgstr "Příručka aplikace Techo, verze 2.2"
 
 #: C/xed.xml:141(date)
 msgid "August 2002"
 msgstr "Srpen 2002"
 
 #: C/xed.xml:148(revnumber)
-msgid "xed Manual V2.3"
-msgstr "Příručka aplikace xed, verze 2.3"
+msgid "Techo Manual V2.3"
+msgstr "Příručka aplikace Techo, verze 2.3"
 
 #: C/xed.xml:149(date)
 msgid "September 2002"
 msgstr "Září 2002"
 
 #: C/xed.xml:156(revnumber)
-msgid "xed Manual V2.4"
-msgstr "Příručka aplikace xed, verze 2.4"
+msgid "Techo Manual V2.4"
+msgstr "Příručka aplikace Techo, verze 2.4"
 
 #: C/xed.xml:157(date)
 msgid "January 2003"
 msgstr "Leden 2003"
 
 #: C/xed.xml:164(revnumber)
-msgid "xed Manual V2.5"
-msgstr "Příručka aplikace xed, verze 2.5"
+msgid "Techo Manual V2.5"
+msgstr "Příručka aplikace Techo, verze 2.5"
 
 #: C/xed.xml:165(date)
 msgid "March 2003"
 msgstr "Březen 2003"
 
 #: C/xed.xml:172(revnumber)
-msgid "xed Manual V2.6"
-msgstr "Příručka aplikace xed, verze 2.6"
+msgid "Techo Manual V2.6"
+msgstr "Příručka aplikace Techo, verze 2.6"
 
 #: C/xed.xml:173(date)
 msgid "September 2003"
 msgstr "Září 2003"
 
 #: C/xed.xml:180(revnumber)
-msgid "xed Manual V2.7"
-msgstr "Příručka aplikace xed, verze 2.7"
+msgid "Techo Manual V2.7"
+msgstr "Příručka aplikace Techo, verze 2.7"
 
 #: C/xed.xml:181(date)
 msgid "March 2004"
 msgstr "Březen 2004"
 
 #: C/xed.xml:188(revnumber)
-msgid "xed Manual V2.8"
-msgstr "Příručka aplikace xed, verze 2.8"
+msgid "Techo Manual V2.8"
+msgstr "Příručka aplikace Techo, verze 2.8"
 
 #: C/xed.xml:189(date) C/xed.xml:197(date)
 msgid "July 2006"
 msgstr "Červenec 2006"
 
 #: C/xed.xml:196(revnumber)
-msgid "xed Manual V2.9"
-msgstr "Příručka aplikace xed, verze 2.9"
+msgid "Techo Manual V2.9"
+msgstr "Příručka aplikace Techo, verze 2.9"
 
 #: C/xed.xml:199(para)
 msgid "MATE Documentation Team"
 msgstr "Dokumentační tým MATE"
 
 #: C/xed.xml:204(releaseinfo)
-msgid "This manual describes version 2.16 of xed."
-msgstr "Tato příručka popisuje xed ve verzi 2.16."
+msgid "This manual describes version 2.16 of Techo."
+msgstr "Tato příručka popisuje Techo ve verzi 2.16."
 
 #: C/xed.xml:207(title)
 msgid "Feedback"
@@ -344,30 +344,30 @@ msgstr "Ohlasy"
 
 #: C/xed.xml:208(para)
 msgid ""
-"To report a bug or make a suggestion regarding the <application>xed</"
+"To report a bug or make a suggestion regarding the <application>Techo</"
 "application> application or this manual, follow the directions in the <ulink "
 "url=\"help:user-guide?feedback-bugs\" type=\"help\">MATE Feedback Page</"
 "ulink>."
 msgstr ""
 "Pokud chcete oznámit chybu nebo navrhnout vylepšení vztahující se k aplikaci "
-"<application>xed</application> nebo této příručce, postupujte dle "
+"<application>Techo</application> nebo této příručce, postupujte dle "
 "instrukcí na stránce <ulink url=\"help:mate-feedback\" type=\"help"
 "\">Stránka s ohlasy na MATE</ulink>."
 
 #: C/xed.xml:213(para)
 msgid ""
-"xed is a text editor for the MATE Desktop featuring basic yet robust "
+"Techo is a text editor for the MATE Desktop featuring basic yet robust "
 "capabilities such as printing, spell checking, find and replace, and syntax "
 "highlighting. More advanced features are available as plugins."
 msgstr ""
-"xed je textový editor pro pracovní prostředí MATE poskytujíc základní, "
+"Techo je textový editor pro pracovní prostředí MATE poskytujíc základní, "
 "nicméně robustní schopnosti, jako je tisk, kontrola pravopisu, hledání a "
 "nahrazování a zvýrazňování syntaxe. Další pokročilé funkce jsou k dispozici "
 "v podobě zásuvných modulů."
 
 #: C/xed.xml:218(primary)
-msgid "xed"
-msgstr "xed"
+msgid "Techo"
+msgstr "Techo"
 
 #: C/xed.xml:219(primary)
 msgid "text editor"
@@ -379,20 +379,20 @@ msgstr "Úvod"
 
 #: C/xed.xml:229(para)
 msgid ""
-"The <application>xed</application> application enables you to create and "
+"The <application>Techo</application> application enables you to create and "
 "edit text files."
 msgstr ""
-"Pomocí aplikace <application>xed</application> můžete vytvářet a upravovat "
+"Pomocí aplikace <application>Techo</application> můžete vytvářet a upravovat "
 "textové soubory."
 
 #: C/xed.xml:231(para)
 msgid ""
-"The aim of <application>xed</application> is to be a simple and easy to "
+"The aim of <application>Techo</application> is to be a simple and easy to "
 "use text editor. More powerful features can be enabled with different "
 "<firstterm>plugins</firstterm>, allowing a variety of tasks related to text-"
 "editing."
 msgstr ""
-"Aplikace <application>xed</application> se snaží být jednoduchým a snadno "
+"Aplikace <application>Techo</application> se snaží být jednoduchým a snadno "
 "použitelným textovým editorem. Složitější funkce lze doplnit různými "
 "<firstterm>zásuvnými moduly</firstterm>, což umožňuje provádět rozmanité "
 "činnosti související s úpravou textu."
@@ -402,12 +402,12 @@ msgid "Getting Started"
 msgstr "Jak začít"
 
 #: C/xed.xml:239(title)
-msgid "Starting xed"
-msgstr "Spuštění xed"
+msgid "Starting Techo"
+msgstr "Spuštění Techo"
 
 #: C/xed.xml:240(para)
-msgid "You can start <application>xed</application> in the following ways:"
-msgstr "<application>xed</application> můžete spustit následujícími způsoby:"
+msgid "You can start <application>Techo</application> in the following ways:"
+msgstr "<application>Techo</application> můžete spustit následujícími způsoby:"
 
 #: C/xed.xml:243(term)
 msgid "<guimenu>Applications</guimenu> menu"
@@ -426,41 +426,41 @@ msgid "Command line"
 msgstr "Příkazový řádek"
 
 #: C/xed.xml:251(para)
-msgid "Execute the following command: <command>xed</command>"
-msgstr "Spusťte následující příkaz: <command>xed</command>"
+msgid "Execute the following command: <command>techo</command>"
+msgstr "Spusťte následující příkaz: <command>techo</command>"
 
 #: C/xed.xml:255(para)
 msgid ""
-"By default, when you open a text document in the file manager, xed will "
+"By default, when you open a text document in the file manager, Techo will "
 "start, and display the document."
 msgstr ""
 "Standardně, pokud otevřete textový dokument ve správci souborů, tak se "
-"spustí xed a zobrazí dotyčný dokument."
+"spustí Techo a zobrazí dotyčný dokument."
 
 #: C/xed.xml:260(title)
-msgid "The xed Window"
-msgstr "Okno aplikace xed"
+msgid "The Techo Window"
+msgstr "Okno aplikace Techo"
 
 #: C/xed.xml:261(para)
 msgid ""
-"When you start <application>xed</application>, the following window is "
+"When you start <application>Techo</application>, the following window is "
 "displayed:"
 msgstr ""
-"Když spustíte <application>xed</application>, objeví se následující okno:"
+"Když spustíte <application>Techo</application>, objeví se následující okno:"
 
 #: C/xed.xml:264(title)
-msgid "xed Window"
-msgstr "Okno aplikace xed"
+msgid "Techo Window"
+msgstr "Okno aplikace Techo"
 
 #: C/xed.xml:270(phrase)
-msgid "Shows xed main window."
-msgstr "Zobrazuje hlavní okno aplikace xed."
+msgid "Shows Techo main window."
+msgstr "Zobrazuje hlavní okno aplikace Techo."
 
 #: C/xed.xml:276(para)
 msgid ""
-"The <application>xed</application> window contains the following elements:"
+"The <application>Techo</application> window contains the following elements:"
 msgstr ""
-"Okno aplikace <application>xed</application> obsahuje následující části:"
+"Okno aplikace <application>Techo</application> obsahuje následující části:"
 
 #: C/xed.xml:279(term)
 msgid "Menubar"
@@ -469,10 +469,10 @@ msgstr "Panel nabídek"
 #: C/xed.xml:281(para)
 msgid ""
 "The menus on the menubar contain all of the commands you need to work with "
-"files in <application>xed</application>."
+"files in <application>Techo</application>."
 msgstr ""
 "Nabídky v panelu nabídek obsahují všechny příkazy, které jsou zapotřebí pro "
-"práci v <application>xed</application>."
+"práci v <application>Techo</application>."
 
 #: C/xed.xml:284(term)
 msgid "Toolbar"
@@ -500,12 +500,12 @@ msgstr "Stavový řádek"
 
 #: C/xed.xml:296(para)
 msgid ""
-"The statusbar displays information about current <application>xed</"
+"The statusbar displays information about current <application>Techo</"
 "application> activity and contextual information about the menu items. The "
 "statusbar also displays the following information:"
 msgstr ""
 "Stavový řádek zobrazuje informace o současných činnostech "
-"<application>xed</application> a kontextové informace položkám nabídek. "
+"<application>Techo</application> a kontextové informace položkám nabídek. "
 "Stavový řádek rovněž obsahuje následující informace:"
 
 #: C/xed.xml:299(para)
@@ -572,39 +572,39 @@ msgstr ""
 
 #: C/xed.xml:320(para)
 msgid ""
-"When you right-click in the <application>xed</application> window, the "
+"When you right-click in the <application>Techo</application> window, the "
 "application displays a popup menu. The popup menu contains the most common "
 "text editing commands."
 msgstr ""
-"Pokud kliknete pravým tlačítkem v okně <application>xed</application>, tak "
+"Pokud kliknete pravým tlačítkem v okně <application>Techo</application>, tak "
 "aplikace zobrazí vyskakovací nabídku. Vyskakovací nabídka obsahuje "
 "nejběžnější příkazy pro úpravu textu."
 
 #: C/xed.xml:322(para)
 msgid ""
-"Like other MATE applications, actions in <application>xed</application> "
+"Like other MATE applications, actions in <application>Techo</application> "
 "can be performed in several ways: with the menu, with the toolbar, or with "
 "shortcut keys. Shortcuts keys common to all applications are listed in the "
 "<ulink type=\"help\" url=\"help:user-guide?shortcuts-apps\">User Guide</"
 "ulink>."
 msgstr ""
-"Podobně jako v jiných aplikacích MATE, můžete v <application>xed</"
+"Podobně jako v jiných aplikacích MATE, můžete v <application>Techo</"
 "application> provádět činnosti několika způsoby: s pomocí nabídek, s pomocí "
 "panelu nástrojů a nebo s pomocí klávesových zkratek. Klávesové zkratky "
 "obecné pro všechny aplikace jsou uvedené v <ulink type=\"help\" url=\"help:"
 "user-guide?shortcuts-apps\">Uživatelské přiručce</ulink>."
 
 #: C/xed.xml:327(title)
-msgid "Running xed from a Command Line"
-msgstr "Spouštění xed z příkazového řádku"
+msgid "Running Techo from a Command Line"
+msgstr "Spouštění Techo z příkazového řádku"
 
 #: C/xed.xml:328(para)
 msgid ""
-"You can run <application>xed</application> from a command line and open a "
+"You can run <application>Techo</application> from a command line and open a "
 "single file or multiple files. To open multiple files from a command line, "
 "type the following command, then press <keycap>Return</keycap>:"
 msgstr ""
-"<application>xed</application> můžete spustit z příkazového řádku a přitom "
+"<application>Techo</application> můžete spustit z příkazového řádku a přitom "
 "otevřít jeden nebo i více souborů. Pokud chcete otevřít z příkazové řádky "
 "více souborů, napište příkaz podobně jako v následujícím příkladu a "
 "stiskněte <keycap>Return</keycap>:"
@@ -614,8 +614,8 @@ msgid "file1.txt file2.txt file3.txt"
 msgstr "soubor1.txt soubor2.txt soubor3.txt"
 
 #: C/xed.xml:329(command)
-msgid "xed <placeholder-1/>"
-msgstr "xed <placeholder-1/>"
+msgid "Techo <placeholder-1/>"
+msgstr "Techo <placeholder-1/>"
 
 #: C/xed.xml:330(para)
 msgid "Alternatively, you can specify a URI instead of a filename."
@@ -623,14 +623,14 @@ msgstr "Případně můžete místo názvu souboru zadat URI."
 
 #: C/xed.xml:331(para)
 msgid ""
-"For more information on how to run <application>xed</application> from a "
-"command line, see the unix manual page for xed, <ulink url=\"man:xed\" "
-"type=\"man\"><citerefentry><refentrytitle>xed</refentrytitle><manvolnum>1</"
+"For more information on how to run <application>Techo</application> from a "
+"command line, see the unix manual page for Techo, <ulink url=\"man:techo\" "
+"type=\"man\"><citerefentry><refentrytitle>Techo</refentrytitle><manvolnum>1</"
 "manvolnum></citerefentry></ulink>."
 msgstr ""
-"Více informací o tom, jak spustit <application>xed</application> z "
-"příkazové řádky najdete v unixových manuálových stránkách xed <ulink url="
-"\"man:xed\" type=\"man\"><citerefentry><refentrytitle>xed</"
+"Více informací o tom, jak spustit <application>Techo</application> z "
+"příkazové řádky najdete v unixových manuálových stránkách Techo <ulink url="
+"\"man:techo\" type=\"man\"><citerefentry><refentrytitle>Techo</"
 "refentrytitle><manvolnum>1</manvolnum></citerefentry></ulink>."
 
 #: C/xed.xml:336(title)
@@ -645,11 +645,11 @@ msgstr "Vytváření nového dokumentu"
 msgid ""
 "To create a new document, choose <menuchoice><guimenu>File</"
 "guimenu><guimenuitem>New</guimenuitem></menuchoice>. The application "
-"displays a new blank document in the <application>xed</application> window."
+"displays a new blank document in the <application>Techo</application> window."
 msgstr ""
 "Nový dokument vytvoříte volbou <menuchoice><guimenu>Soubor</"
 "guimenu><guimenuitem>Nový</guimenuitem></menuchoice>. Aplikace "
-"<application>xed</application> zobrazí v okně nový prázdný dokument."
+"<application>Techo</application> zobrazí v okně nový prázdný dokument."
 
 #: C/xed.xml:346(title) C/xed.xml:1597(title)
 msgid "Opening a File"
@@ -660,14 +660,14 @@ msgid ""
 "To open a file, choose <menuchoice><guimenu>File</guimenu><guimenuitem>Open</"
 "guimenuitem></menuchoice> to display the <guilabel>Open File</guilabel> "
 "dialog. Select the file that you want to open, then click <guibutton>Open</"
-"guibutton>. The file is displayed in the <application>xed</application> "
+"guibutton>. The file is displayed in the <application>Techo</application> "
 "window."
 msgstr ""
 "Pokud chcete otevřít soubor, zvolte <menuchoice><guimenu>Soubor</"
 "guimenu><guimenuitem>Otevřít</guimenuitem></menuchoice> a objeví se dialog "
 "<guilabel>Otevřít soubory</guilabel>. Zvolte soubor, který chcete otevřít a "
 "klikněte na <guibutton>Otevřít</guibutton>. Soubor se zobrazí v okně "
-"<application>xed</application>."
+"<application>Techo</application>."
 
 #: C/xed.xml:349(phrase)
 msgid "Shows Recent Files menu icon."
@@ -687,13 +687,13 @@ msgstr ""
 
 #: C/xed.xml:351(para)
 msgid ""
-"You can open multiple files in <application>xed</application>. The "
+"You can open multiple files in <application>Techo</application>. The "
 "application adds a tab for each open file to the window. For more on this "
-"see <xref linkend=\"xed-tabs\"/>."
+"see <xref linkend=\"Techo-tabs\"/>."
 msgstr ""
-"V <application>xed</application> můžete otevřít více souborů naráz. "
+"V <application>Techo</application> můžete otevřít více souborů naráz. "
 "Aplikace pro každý otevřený soubor přidá do okna další kartu. Více se o tom "
-"dozvíte v <xref linkend=\"xed-tabs\"/>."
+"dozvíte v <xref linkend=\"Techo-tabs\"/>."
 
 #: C/xed.xml:357(title)
 msgid "Saving a File"
@@ -725,21 +725,21 @@ msgstr ""
 
 #: C/xed.xml:364(para)
 msgid ""
-"To save all of the files that are currently open in <application>xed</"
+"To save all of the files that are currently open in <application>Techo</"
 "application>, choose <menuchoice><guimenu>Documents</"
 "guimenu><guimenuitem>Save All</guimenuitem></menuchoice>."
 msgstr ""
-"Pokud chcete uložit všechny soubory současně otevřené v  <application>xed</"
+"Pokud chcete uložit všechny soubory současně otevřené v  <application>Techo</"
 "application>, zvolte <menuchoice><guimenu>Dokumenty</"
 "guimenu><guimenuitem>Uložit vše</guimenuitem></menuchoice>."
 
 #: C/xed.xml:367(para)
 msgid ""
-"To close all of the files that are currently open in <application>xed</"
+"To close all of the files that are currently open in <application>Techo</"
 "application>, choose <menuchoice><guimenu>Documents</"
 "guimenu><guimenuitem>Close All</guimenuitem></menuchoice>."
 msgstr ""
-"Pro zavření všech souborů, které jsou současně v <application>xed</"
+"Pro zavření všech souborů, které jsou současně v <application>Techo</"
 "application> otevřené, zvolte <menuchoice><guimenu>Dokumenty</"
 "guimenu><guimenuitem>Zavřít vše</guimenuitem></menuchoice>."
 
@@ -807,12 +807,12 @@ msgstr ""
 msgid ""
 "Saving to FTP servers can be enabled with <ulink type=\"help\" url=\"help:"
 "mateconf-editor\"><application>Configuration Editor</application></ulink>, "
-"setting the key <systemitem>/apps/xed/preferences/editor/save/"
+"setting the key <systemitem>/apps/Techo/preferences/editor/save/"
 "writable_vfs_schemes</systemitem>, but this may cause errors."
 msgstr ""
 "Ukládání na FTP servery můžete povolit v <ulink type=\"help\" url=\"help:"
 "mateconf-editor\"><application>Editoru nastavení</application></ulink> "
-"nastavením klíče <systemitem>/apps/xed/preferences/editor/save/"
+"nastavením klíče <systemitem>/apps/Techo/preferences/editor/save/"
 "writable_vfs_schemes</systemitem>, ale může to způsobovat chyby."
 
 #: C/xed.xml:395(title)
@@ -821,29 +821,29 @@ msgstr "Práce s kartami."
 
 #: C/xed.xml:397(para)
 msgid ""
-"When more than one file is open, <application>xed</application> shows a "
+"When more than one file is open, <application>Techo</application> shows a "
 "<firstterm>tab</firstterm> for each document above the display area. To "
 "switch to another document, click on its tab."
 msgstr ""
-"Pokud je otevřený víc než jeden soubor, <application>xed</application> "
+"Pokud je otevřený víc než jeden soubor, <application>Techo</application> "
 "vytvoří v zobrazovací oblasti pro každý dokument <firstterm>kartu</"
 "firstterm>. Mezi dokumenty se přepíná kliknutím na kartu."
 
 #: C/xed.xml:398(para)
 msgid ""
-"To move a document to another <application> xed</application> window, drag "
+"To move a document to another <application> Techo</application> window, drag "
 "the tab corresponding to the file to the window you want to move it to."
 msgstr ""
-"Dokumenty můžete přesouvat mezi okny <application>xed</application>, stačí "
+"Dokumenty můžete přesouvat mezi okny <application>Techo</application>, stačí "
 "jednoduše přetáhnout příslušnou kartu myší do kterého okna chcete."
 
 #: C/xed.xml:399(para)
 msgid ""
-"To move a document to a new <application> xed</application> window, either "
+"To move a document to a new <application> Techo</application> window, either "
 "drag its tab to the desktop, or choose <menuchoice><guimenu>Documents</"
 "guimenu><guimenuitem>Move to New Window</guimenuitem></menuchoice>."
 msgstr ""
-"Pokud chcete dokument přesunout do nového okna <application>xed</"
+"Pokud chcete dokument přesunout do nového okna <application>Techo</"
 "application>, tak přesuňte příslušnou kartu myší na plochu a nebo zvolte "
 "<menuchoice><guimenu>Dokumenty</guimenu><guimenuitem>Přesunout do nového "
 "okna</guimenuitem></menuchoice>."
@@ -904,12 +904,12 @@ msgid ""
 "To insert the contents of the clipboard at the cursor position, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste</guimenuitem></"
 "menuchoice>. You must cut or copy text before you can paste text into the "
-"file, either from xed or another application."
+"file, either from Techo or another application."
 msgstr ""
 "Obsah schránky vložíte na aktuální pozici kurzoru pomocí "
 "<menuchoice><guimenu>Upravit</guimenu><guimenuitem>Vložit</guimenuitem></"
 "menuchoice>. Než můžete text vložit, musíte jej nejdříve nakopírovat nebo "
-"vyjmout do schránky, ať už v xed nebo jiné aplikaci."
+"vyjmout do schránky, ať už v Techo nebo jiné aplikaci."
 
 #: C/xed.xml:422(para)
 msgid ""
@@ -941,12 +941,12 @@ msgstr "Vyhledávání a nahrazování"
 
 #: C/xed.xml:436(para)
 msgid ""
-"In <application>xed</application>, there are two ways of searching for "
+"In <application>Techo</application>, there are two ways of searching for "
 "text. You can use the <guilabel>Find</guilabel> dialog to search for a "
 "specific piece of text, or <guilabel>Incremental Search</guilabel> to "
 "highlight matching text as you type it."
 msgstr ""
-"V programu <application>xed</application> jsou dva způsoby, jak vyhledat "
+"V programu <application>Techo</application> jsou dva způsoby, jak vyhledat "
 "text. Můžete použít dialog <guilabel>Hledat</guilabel> k hledání zadané "
 "části textu nebo <guilabel>Inkrementální hledání</guilabel> ke zvýraznění "
 "textu ve shodně s textem jak jej píšete."
@@ -973,23 +973,23 @@ msgstr ""
 msgid ""
 "Type the string that you want to find in the <guilabel>Search for</guilabel> "
 "field. You can include special characters such as a new line or tab: see "
-"<xref linkend=\"xed-find-escapes\"/>."
+"<xref linkend=\"Techo-find-escapes\"/>."
 msgstr ""
 "Do pole <guilabel>Hledat</guilabel> zadejte řetězec, který chcete najít. "
 "Můžete zadat i různé speciální znaky, jako je třeba zalomení řádku nebo "
-"tabelátor, jak je uvádí <xref linkend=\"xed-find-escapes\"/>."
+"tabelátor, jak je uvádí <xref linkend=\"Techo-find-escapes\"/>."
 
 #: C/xed.xml:448(para)
 msgid ""
 "Click <guibutton>Find</guibutton> to search the file for the first "
 "occurrence of the string after your current cursor position. If "
-"<application>xed</application> finds the string, the application selects "
+"<application>Techo</application> finds the string, the application selects "
 "first occurrence of the string. Other occurrences of the string are "
 "highlighted."
 msgstr ""
 "Klikněte na <guibutton>Hledat</guibutton> a soubor se začne od současné "
 "pozice kurzoru prohledávat na výskyt zadaného řetězce. Jakmile "
-"<application>xed</application> najde první výskyt, tak nalezený řetězec "
+"<application>Techo</application> najde první výskyt, tak nalezený řetězec "
 "vybere. Ostatní výskyty se zvýrazní."
 
 #: C/xed.xml:450(para)
@@ -1107,11 +1107,11 @@ msgstr ""
 msgid ""
 "Type the string that you want to find, in the <guilabel>Search for</"
 "guilabel> field. You can include special characters such as a new line or "
-"tab: see <xref linkend=\"xed-find-escapes\"/>."
+"tab: see <xref linkend=\"Techo-find-escapes\"/>."
 msgstr ""
 "Do pole <guilabel>Hledat</guilabel> zadejte řetězec, který chcete najít. "
 "Můžete zadat i různé speciální znaky, jako je třeba zalomení řádku nebo "
-"tabelátor, jak je uvádí <xref linkend=\"xed-find-escapes\"/>."
+"tabelátor, jak je uvádí <xref linkend=\"Techo-find-escapes\"/>."
 
 #: C/xed.xml:476(para)
 msgid ""
@@ -1124,13 +1124,13 @@ msgstr ""
 #: C/xed.xml:480(para)
 msgid ""
 "To examine each occurrence of the string before replacing it, click "
-"<guibutton>Find</guibutton>. If <application>xed</application> finds the "
+"<guibutton>Find</guibutton>. If <application>Techo</application> finds the "
 "string, the application selects the string. Click <guibutton>Replace</"
 "guibutton> to replace the selected occurrence of the string. To find the "
 "next occurrence of the string, click <guibutton>Find</guibutton> again."
 msgstr ""
 "Pokud chcete každý nalezený výskyt řetězce před jeho nahrazení zkontrolovat, "
-"klikněte na <guibutton>Hledat</guibutton>. Pokud <application>xed</"
+"klikněte na <guibutton>Hledat</guibutton>. Pokud <application>Techo</"
 "application> řetězec nalezne, tak jej vybere. Vy potom kliknete na "
 "<guibutton>Nahradit</guibutton> a vybraný řetězec se nahradí. Pro "
 "pokračování na další výskyt řetězce klikněte znovu na <guibutton>Hledat</"
@@ -1316,10 +1316,10 @@ msgstr "Tisk zvýrazňování syntaxe"
 #: C/xed.xml:563(para)
 msgid ""
 "Select this option to print syntax highlighting. For more information about "
-"syntax highlighting, see <xref linkend=\"xed-set-highlightmode\"/>."
+"syntax highlighting, see <xref linkend=\"Techo-set-highlightmode\"/>."
 msgstr ""
 "Zvolte tuto možnost, pokud chcete tisknout zvýrazněnou syntaxi. Více "
-"informací o zvýrazňování syntaxe podává <xref linkend=\"xed-set-"
+"informací o zvýrazňování syntaxe podává <xref linkend=\"Techo-set-"
 "highlightmode\"/>."
 
 #: C/xed.xml:566(guilabel)
@@ -1419,10 +1419,10 @@ msgstr ""
 #: C/xed.xml:609(para)
 msgid ""
 "To reset the fonts to the default fonts for printing a file from "
-"<application>xed</application>, click <guibutton>Restore Default Fonts</"
+"<application>Techo</application>, click <guibutton>Restore Default Fonts</"
 "guibutton>."
 msgstr ""
-"Výchozí písma pro tisk souborů z <application>xed</application> nastavíte "
+"Výchozí písma pro tisk souborů z <application>Techo</application> nastavíte "
 "zpátky kliknutím na <guibutton>Obnovit výchozí písma</guibutton>."
 
 #: C/xed.xml:616(title)
@@ -1431,10 +1431,10 @@ msgstr "Tisk dokumentu"
 
 #: C/xed.xml:617(para)
 msgid ""
-"You can use <application>xed</application> to perform the following print "
+"You can use <application>Techo</application> to perform the following print "
 "operations:"
 msgstr ""
-"V <application>xed</application> můžete provádět následující tiskové "
+"V <application>Techo</application> můžete provádět následující tiskové "
 "operace:"
 
 #: C/xed.xml:619(para)
@@ -1447,11 +1447,11 @@ msgstr "Tisk výstupu zpracování tisku do souboru"
 
 #: C/xed.xml:624(para)
 msgid ""
-"If you print to a file, <application>xed</application> sends the output of "
+"If you print to a file, <application>Techo</application> sends the output of "
 "the file to a pre-press format file. The most common pre-press formats are "
 "PostScript and Portable Document Format (PDF)."
 msgstr ""
-"Pokud tisknete do souboru, <application>xed</application> posílá výstup  "
+"Pokud tisknete do souboru, <application>Techo</application> posílá výstup  "
 "do souboru v předtiskovém formátu. Nejběžnější předtiskové formáty jsou "
 "PostScript a Portable Document Format (PDF)."
 
@@ -1655,8 +1655,8 @@ msgid "State"
 msgstr "Stav"
 
 #: C/xed.xml:734(para) C/xed.xml:740(para) C/xed.xml:746(para)
-msgid "This functionality is not supported in this version of xed."
-msgstr "Tato funkcionalita není v této verzi xed podporovaná."
+msgid "This functionality is not supported in this version of Techo."
+msgstr "Tato funkcionalita není v této verzi Techo podporovaná."
 
 #: C/xed.xml:738(guilabel)
 msgid "Type"
@@ -1750,15 +1750,15 @@ msgstr "Programátorské funkce"
 
 #: C/xed.xml:801(para)
 msgid ""
-"Several of <application>xed</application>'s features for programming are "
+"Several of <application>Techo</application>'s features for programming are "
 "provided with plugins. For example, the Tag List plugin provides a list of "
-"commonly-used tags for different markup languages: see <xref linkend=\"xed-"
+"commonly-used tags for different markup languages: see <xref linkend=\"Techo-"
 "tag-list-plugin\"/>."
 msgstr ""
-"Několik programátorských funkcí je v <application>xed</application> "
+"Několik programátorských funkcí je v <application>Techo</application> "
 "nabízeno v podobě zásuvných modulů. Například zásuvný modul Seznam tagů "
 "poskytuje seznam nejpoužívanějších tagů pro různé značkovací jazyky: viz "
-"<xref linkend=\"xed-tag-list-plugin\"/>."
+"<xref linkend=\"Techo-tag-list-plugin\"/>."
 
 #: C/xed.xml:805(title)
 msgid "Syntax Highlighting"
@@ -1774,12 +1774,12 @@ msgstr ""
 
 #: C/xed.xml:808(para)
 msgid ""
-"<application>xed</application> chooses an appropriate syntax highlighting "
+"<application>Techo</application> chooses an appropriate syntax highlighting "
 "mode based on a document's type. To override the syntax highlighting mode, "
 "choose <menuchoice><guimenu>View</guimenu><guimenuitem>Highlight Mode</"
 "guimenuitem></menuchoice>, then choose one of the following menu items:"
 msgstr ""
-"<application>xed</application> zvolí příslušné zvýrazňování syntaxe na "
+"<application>Techo</application> zvolí příslušné zvýrazňování syntaxe na "
 "základě typu dokumentu. Režim můžete ručně přenastavit  volbou "
 "<menuchoice><guimenu>Zobrazit</guimenu><guimenuitem>Režim zvýrazňování</"
 "guimenuitem></menuchoice> a následným výběrem z nabídek:"
@@ -1846,23 +1846,23 @@ msgstr "Propojení výstupu příkazu do souboru"
 
 #: C/xed.xml:846(para)
 msgid ""
-"You can use <application>xed</application> to pipe the output of a command "
+"You can use <application>Techo</application> to pipe the output of a command "
 "to a text file. For example, to pipe the output of an <command>ls</command> "
-"command to a text file, type <command>ls | xed</command>, then press "
+"command to a text file, type <command>ls | Techo</command>, then press "
 "<keycap>Return</keycap>."
 msgstr ""
-"Můžete <application>xed</application> použít k propojení výstupu příkazu "
+"Můžete <application>Techo</application> použít k propojení výstupu příkazu "
 "do textového souboru. Například chcete dostat do textového souboru výstup "
-"příkazu <command>ls</command>, tak stačí napsat <command>ls | xed</"
+"příkazu <command>ls</command>, tak stačí napsat <command>ls | Techo</"
 "command> a stisknout <keycap>Return</keycap>."
 
 #: C/xed.xml:847(para)
 msgid ""
 "The output of the <command>ls</command> command is displayed in a new text "
-"file in the <application>xed</application> window."
+"file in the <application>Techo</application> window."
 msgstr ""
 "Výstup příkazu <command>ls</command> se zobrazí jako nový textový soubor v "
-"okně <application>xed</application>."
+"okně <application>Techo</application>."
 
 #: C/xed.xml:848(para)
 msgid ""
@@ -1879,12 +1879,12 @@ msgstr "Klávesové zkratky"
 #: C/xed.xml:855(para)
 msgid ""
 "Use shortcut keys to perform common tasks more quickly than with the mouse "
-"and menus. The following tables list all of <application>xed</"
+"and menus. The following tables list all of <application>Techo</"
 "application>'s shortcut keys."
 msgstr ""
 "Používejte klávesové zkratky pro provádění běžných úkonů rychleji než "
 "kdybyste pracovali s myší a nabídkami. Následující tabulky uvádějí klávesové "
-"zkratky aplikace <application>xed</application>."
+"zkratky aplikace <application>Techo</application>."
 
 #: C/xed.xml:856(para)
 msgid ""
@@ -2037,8 +2037,8 @@ msgid "Ctrl + Q"
 msgstr "Ctrl + Q"
 
 #: C/xed.xml:952(para)
-msgid "Quit Xed."
-msgstr "Ukončit Xed."
+msgid "Quit Techo."
+msgstr "Ukončit Techo."
 
 #. ============= Edit =======================
 #: C/xed.xml:959(bridgehead) C/xed.xml:1414(guimenu)
@@ -2284,9 +2284,9 @@ msgid "F1"
 msgstr "F1"
 
 #: C/xed.xml:1150(para)
-msgid "Open <application>xed</application>'s user manual."
+msgid "Open <application>Techo</application>'s user manual."
 msgstr ""
-"Otevřít uživatelskou příručku k aplikaci <application>xed</application>"
+"Otevřít uživatelskou příručku k aplikaci <application>Techo</application>"
 
 #: C/xed.xml:1162(title)
 msgid "Preferences"
@@ -2294,14 +2294,14 @@ msgstr "Volby"
 
 #: C/xed.xml:1164(para)
 msgid ""
-"To configure <application>xed</application>, choose "
+"To configure <application>Techo</application>, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Preferences</guimenuitem></"
 "menuchoice>. The <guilabel>Preferences</guilabel> dialog contains the "
 "following categories:"
 msgstr ""
-"Pokud si potřebujete <application>xed</application> nastavit, zvolte "
+"Pokud si potřebujete <application>Techo</application> nastavit, zvolte "
 "<menuchoice><guimenu>Upravit</guimenu><guimenuitem>Volby</guimenuitem></"
-"menuchoice>. Dialog <guilabel>Volby aplikace xed</guilabel> obsahuje "
+"menuchoice>. Dialog <guilabel>Volby aplikace Techo</guilabel> obsahuje "
 "následující karty:"
 
 #: C/xed.xml:1173(title)
@@ -2331,7 +2331,7 @@ msgstr ""
 #: C/xed.xml:1185(para)
 msgid ""
 "Select the <guilabel>Display line numbers</guilabel> option to display line "
-"numbers on the left side of the <application>xed</application> window."
+"numbers on the left side of the <application>Techo</application> window."
 msgstr ""
 "Zvolte <guilabel>Zobrazovat čísla řádků</guilabel>, pokud chcete na levé "
 "straně okna vypisovat čísla řádků."
@@ -2389,21 +2389,21 @@ msgstr "Volby na kartě Editor"
 #: C/xed.xml:1217(para)
 msgid ""
 "Use the <guilabel>Tab width</guilabel> spin box to specify the width of the "
-"space that <application> xed</application> inserts when you press the "
+"space that <application> Techo</application> inserts when you press the "
 "<keycap>Tab</keycap> key."
 msgstr ""
 "Použijte pole <guilabel>Šířka tabelátorů</guilabel> k určení šířky místa, "
-"které <application>xed</application> vloží, pokud stisknete klávesu "
+"které <application>Techo</application> vloží, pokud stisknete klávesu "
 "<keycap>Tab</keycap>."
 
 #: C/xed.xml:1218(para)
 msgid ""
 "Select the <guilabel>Insert spaces instead of tabs</guilabel> option to "
-"specify that <application> xed</application> inserts spaces instead of a "
+"specify that <application> Techo</application> inserts spaces instead of a "
 "tab character when you press the <keycap>Tab</keycap> key."
 msgstr ""
 "Zvolte <guilabel>Vkládat mezery místo tabelátorů</guilabel>, pokud chcete, "
-"aby <application>xed</application> vkládal mezery místo znaku tab, ve "
+"aby <application>Techo</application> vkládal mezery místo znaku tab, ve "
 "chvíli, kdy stisknete klávesu <keycap>Tab</keycap>."
 
 #: C/xed.xml:1222(guilabel)
@@ -2453,17 +2453,17 @@ msgstr "Písmo"
 #: C/xed.xml:1243(para)
 msgid ""
 "Select the <guilabel>Use default theme font</guilabel> option to use the "
-"default system font for the text in the <application>xed</application> "
+"default system font for the text in the <application>Techo</application> "
 "text window."
 msgstr ""
 "Zvolte <guilabel>Použít systémové písmo s pevnou šířkou</guilabel>, pokud "
 "chcete použít výchozí systémový font s pevnou šířkou pro text v okně "
-"<application>xed</application>."
+"<application>Techo</application>."
 
 #: C/xed.xml:1244(para)
 msgid ""
 "The <guilabel>Editor font</guilabel> field displays the font that "
-"<application>xed</application> uses to display text. Click on the button "
+"<application>Techo</application> uses to display text. Click on the button "
 "to specify the font type, style, and size to use for text."
 msgstr ""
 "<guilabel>Písmo editoru</guilabel> vám umožňuje vybrat písmo textu, pokud "
@@ -2544,13 +2544,13 @@ msgstr "Volby na kartě Zásuvné moduly"
 
 #: C/xed.xml:1292(para)
 msgid ""
-"Plugins add extra features to <application>xed</application>. For more "
+"Plugins add extra features to <application>Techo</application>. For more "
 "information on plugins and how to use the built-in plugins, see <xref "
-"linkend=\"xed-plugins-overview\"/>."
+"linkend=\"Techo-plugins-overview\"/>."
 msgstr ""
-"Zásuvné moduly přidávají do aplikace <application>xed</application> "
+"Zásuvné moduly přidávají do aplikace <application>Techo</application> "
 "dodatečnou funkcionalitu. Více informací o zásuvných modulech a o tom, jak "
-"používat zabudované zásuvné moduly, podává <xref linkend=\"xed-plugins-"
+"používat zabudované zásuvné moduly, podává <xref linkend=\"Techo-plugins-"
 "overview\"/>."
 
 #: C/xed.xml:1296(title)
@@ -2559,10 +2559,10 @@ msgstr "Povolení zásuvného modulu"
 
 #: C/xed.xml:1297(para)
 msgid ""
-"To enable a <application>xed</application> plugin, perform the following "
+"To enable a <application>Techo</application> plugin, perform the following "
 "steps:"
 msgstr ""
-"Zásuvný modul <application>xed</application> povolíte následujícím "
+"Zásuvný modul <application>Techo</application> povolíte následujícím "
 "postupem:"
 
 #: C/xed.xml:1300(para) C/xed.xml:1321(para) C/xed.xml:1643(para)
@@ -2588,7 +2588,7 @@ msgid ""
 "guilabel> dialog."
 msgstr ""
 "Kliknutím na <guibutton>Zavřít</guibutton> dialog <guilabel>Volby aplikace "
-"xed</guilabel> uzavřete."
+"Techo</guilabel> uzavřete."
 
 #: C/xed.xml:1316(title)
 msgid "Disabling a Plugin"
@@ -2596,17 +2596,17 @@ msgstr "Zakázání zásuvného modulu"
 
 #: C/xed.xml:1317(para)
 msgid ""
-"A plugin remains enabled when you quit <application>xed</application>."
+"A plugin remains enabled when you quit <application>Techo</application>."
 msgstr ""
-"Zásuvný modul zůstane povolený i když <application>xed</application> "
+"Zásuvný modul zůstane povolený i když <application>Techo</application> "
 "ukončíte."
 
 #: C/xed.xml:1318(para)
 msgid ""
-"To disable a <application>xed</application> plugin, perform the following "
+"To disable a <application>Techo</application> plugin, perform the following "
 "steps:"
 msgstr ""
-"Zásuvný modul <application>xed</application> zakážete následujícím "
+"Zásuvný modul <application>Techo</application> zakážete následujícím "
 "postupem:"
 
 #: C/xed.xml:1327(para)
@@ -2626,69 +2626,69 @@ msgstr "Práce se zásuvnými moduly"
 
 #: C/xed.xml:1342(para)
 msgid ""
-"You can add extra features to <application>xed</application> by enabling "
+"You can add extra features to <application>Techo</application> by enabling "
 "<firstterm>plugins</firstterm>. A plugin is a supplementary program that "
 "enhances the functionality of an application. Plugins add new items to the "
-"<application>xed</application> menus for the new features they provide."
+"<application>Techo</application> menus for the new features they provide."
 msgstr ""
-"Do <application>xed</application> můžete další funkce doplnit povolením "
+"Do <application>Techo</application> můžete další funkce doplnit povolením "
 "<firstterm>zásuvných modulů</firstterm>. Zásuvný modul je přídavný program, "
 "který rozšiřuje funkčnost aplikace. Zásuvné moduly přidávají do nabídek "
-"<application>xed</application> nové položky pro nové funkce, které "
+"<application>Techo</application> nové položky pro nové funkce, které "
 "poskytují."
 
 #: C/xed.xml:1344(para)
 msgid ""
-"Several plugins come built-in with <application>xed</application>, and you "
-"can install more. The <ulink type=\"http\" url=\"http://live.gnome.org/Xed/"
-"Plugins\">xed website</ulink> lists third-party plugins."
+"Several plugins come built-in with <application>Techo</application>, and you "
+"can install more. The <ulink type=\"http\" url=\"http://live.gnome.org/Techo/"
+"Plugins\">Techo website</ulink> lists third-party plugins."
 msgstr ""
-"Několik zásuvných modulů je přímo součástí <application>xed</application>, "
+"Několik zásuvných modulů je přímo součástí <application>Techo</application>, "
 "další si můžete doinstalovat. Na <ulink type=\"http\" url=\"http://live."
-"gnome.org/Xed/Plugins\">webu xed</ulink> je uvedený seznam zásuvných "
+"gnome.org/Techo/Plugins\">webu Techo</ulink> je uvedený seznam zásuvných "
 "modulů třetích stran."
 
 #: C/xed.xml:1345(para)
 msgid ""
 "To enable and disable plugins, or see which plugins are currently enabled, "
-"use the <link linkend=\"xed-prefs-plugins\">Plugins Preferences</link>."
+"use the <link linkend=\"Techo-prefs-plugins\">Plugins Preferences</link>."
 msgstr ""
 "K povolení a zakázání nebo jen zjištění, které zásuvné moduly jsou "
-"momentálně povolené, použijte <link linkend=\"xed-prefs-plugins\">Volby "
+"momentálně povolené, použijte <link linkend=\"Techo-prefs-plugins\">Volby "
 "zásuvných modulů</link>."
 
 #: C/xed.xml:1346(para)
 msgid ""
-"The following plugins come built-in with <application>xed</application>:"
+"The following plugins come built-in with <application>Techo</application>:"
 msgstr ""
-"Následující zásuvné moduly vám přináší <application>xed</application> jako "
+"Následující zásuvné moduly vám přináší <application>Techo</application> jako "
 "standardní součást:"
 
 #: C/xed.xml:1352(para)
 msgid ""
-"<link linkend=\"xed-change-case-plugin\"><application>Change Case</"
+"<link linkend=\"Techo-change-case-plugin\"><application>Change Case</"
 "application></link> allows you to change the case of the selected text."
 msgstr ""
-"<application><link linkend=\"xed-change-case-plugin\">Změnit velikost "
+"<application><link linkend=\"Techo-change-case-plugin\">Změnit velikost "
 "písmen</link></application> umožňuje změnit velikost písmen vybraného textu."
 
 #: C/xed.xml:1355(para)
 msgid ""
-"<application><link linkend=\"xed-document-statistics-plugin\">Document "
+"<application><link linkend=\"Techo-document-statistics-plugin\">Document "
 "Statistics</link></application> shows the number of lines, words, and "
 "characters in the document."
 msgstr ""
-"<application><link linkend=\"xed-document-statistics-plugin\">Statistika "
+"<application><link linkend=\"Techo-document-statistics-plugin\">Statistika "
 "dokumentu</link></application> ukazuje počet řádků, slov a znaků v dokumentu."
 
 #: C/xed.xml:1358(para)
 msgid ""
-"<application><link linkend=\"xed-external-tools-plugin\">External Tools</"
+"<application><link linkend=\"Techo-external-tools-plugin\">External Tools</"
 "link></application> allows you to execute external commands from "
-"<application>xed</application>."
+"<application>Techo</application>."
 msgstr ""
-"<application><link linkend=\"xed-external-tools-plugin\">Externí nástroje</"
-"link></application> umožňuje spustit z <application>xed</application> "
+"<application><link linkend=\"Techo-external-tools-plugin\">Externí nástroje</"
+"link></application> umožňuje spustit z <application>Techo</application> "
 "externí příkaz."
 
 #: C/xed.xml:1361(para)
@@ -2701,88 +2701,88 @@ msgstr ""
 
 #: C/xed.xml:1364(para)
 msgid ""
-"<application><link linkend=\"xed-indent-lines-plugin\">Indent Lines</"
+"<application><link linkend=\"Techo-indent-lines-plugin\">Indent Lines</"
 "link></application> adds or removes indentation from the selected lines."
 msgstr ""
-"<application><link linkend=\"xed-indent-lines-plugin\">Odsadit řádky</"
+"<application><link linkend=\"Techo-indent-lines-plugin\">Odsadit řádky</"
 "link></application> přidává nebo ruší odsazení u vybraných řádků."
 
 #: C/xed.xml:1367(para)
 msgid ""
-"<application><link linkend=\"xed-insert-date-time-plugin\">Insert Date/"
+"<application><link linkend=\"Techo-insert-date-time-plugin\">Insert Date/"
 "Time</link></application> adds the current date and time into a document."
 msgstr ""
-"<application><link linkend=\"xed-insert-date-time-plugin\">Vložit datum/"
+"<application><link linkend=\"Techo-insert-date-time-plugin\">Vložit datum/"
 "čas</link></application> přidá aktuální datum a čas do dokumentu."
 
 #: C/xed.xml:1370(para)
 msgid ""
-"<application><link linkend=\"xed-modelines-plugin\">Modelines</link></"
+"<application><link linkend=\"Techo-modelines-plugin\">Modelines</link></"
 "application> allows you to set editing preferences for individual documents, "
 "and supports <application>Emacs</application>, <application>Kate</"
 "application> and <application>Vim</application>-style modelines."
 msgstr ""
-"<application><link linkend=\"xed-modelines-plugin\">Řádky s režimem</"
+"<application><link linkend=\"Techo-modelines-plugin\">Řádky s režimem</"
 "link></application> vám umožní nastavit editační volby zvlášť pro jednotlivé "
 "dokumenty a podporuje režimy ve stylu <application>Emacs</application>, "
 "<application>Kate</application> a <application>Vim</application>."
 
 #: C/xed.xml:1373(para)
 msgid ""
-"<application><link linkend=\"xed-python-console-plugin\">Python Console</"
+"<application><link linkend=\"Techo-python-console-plugin\">Python Console</"
 "link></application> allows you to run commands in the python programming "
 "language."
 msgstr ""
-"<application><link linkend=\"xed-python-console-plugin\">Konzola Pythonu</"
+"<application><link linkend=\"Techo-python-console-plugin\">Konzola Pythonu</"
 "link></application> umožňuje spustit příkazy programovacího jazyka Python."
 
 #: C/xed.xml:1376(para)
 msgid ""
-"<application><link linkend=\"xed-snippets-plugin\">Snippets</link></"
+"<application><link linkend=\"Techo-snippets-plugin\">Snippets</link></"
 "application> allows you to store frequently-used pieces of text and insert "
 "them quickly into a document."
 msgstr ""
-"<application><link linkend=\"xed-snippets-plugin\">Úryvky</link></"
+"<application><link linkend=\"Techo-snippets-plugin\">Úryvky</link></"
 "application> vám umožní zapamatovat si často používané části textu a rychle "
 "je do dokumentu vkládat."
 
 #: C/xed.xml:1379(para)
 msgid ""
-"<application><link linkend=\"xed-sort-plugin\">Sort</link></application> "
+"<application><link linkend=\"Techo-sort-plugin\">Sort</link></application> "
 "arranges selected lines of text into alphabetical order."
 msgstr ""
-"<application><link linkend=\"xed-sort-plugin\">Řadit</link></application> "
+"<application><link linkend=\"Techo-sort-plugin\">Řadit</link></application> "
 "uspořádává vybrané řádky textu v abecedním pořadí."
 
 #: C/xed.xml:1382(para)
 msgid ""
-"<application><link linkend=\"xed-spell-checker-plugin\">Spell Checker</"
+"<application><link linkend=\"Techo-spell-checker-plugin\">Spell Checker</"
 "link></application> corrects the spelling in the selected text, or marks "
 "errors automatically in the document."
 msgstr ""
-"<application><link linkend=\"xed-spell-checker-plugin\">Kontrola "
+"<application><link linkend=\"Techo-spell-checker-plugin\">Kontrola "
 "pravopisu</link></application> opravuje překlepy ve vybraném textu nebo "
 "chyby v dokumentu automaticky označuje."
 
 #: C/xed.xml:1385(para)
 msgid ""
-"<application><link linkend=\"xed-tag-list-plugin\">Tag List</link></"
+"<application><link linkend=\"Techo-tag-list-plugin\">Tag List</link></"
 "application> lets you insert commonly-used tags for HTML and other languages "
 "from a list in the side pane."
 msgstr ""
-"<application><link linkend=\"xed-tag-list-plugin\">Seznam tagů</link></"
+"<application><link linkend=\"Techo-tag-list-plugin\">Seznam tagů</link></"
 "application> vám usnadňuje vkládání běžně používaných tagů pro HTML a další "
 "jazyky ze seznamu v postranním panelu."
 
 #: C/xed.xml:1389(para)
 msgid ""
 "For more information on creating plugins, see the <ulink type=\"http\" url="
-"\"http://live.gnome.org/Xed/Plugins\"><application>xed</application> "
+"\"http://live.gnome.org/Techo/Plugins\"><application>Techo</application> "
 "website</ulink>."
 msgstr ""
 "Více informací o tom, jak vytvářet zásuvné moduly, najdete na <ulink type="
-"\"http\" url=\"http://live.gnome.org/Xed/Plugins\">webu aplikace "
-"<application>xed</application></ulink>."
+"\"http\" url=\"http://live.gnome.org/Techo/Plugins\">webu aplikace "
+"<application>Techo</application></ulink>."
 
 #: C/xed.xml:1393(title)
 msgid "Change Case Plugin"
@@ -2927,12 +2927,12 @@ msgstr "Počet bajtů v současném dokumentu."
 
 #: C/xed.xml:1467(para)
 msgid ""
-"You can continue to update the <application>xed</application> file while "
+"You can continue to update the <application>Techo</application> file while "
 "the <guilabel>Document Statistics</guilabel> dialog is open. To refresh the "
 "contents of the <guilabel>Document Statistics</guilabel> dialog, click "
 "<guibutton>Update</guibutton>."
 msgstr ""
-"Můžete v <application>xed</application> pokračovat v další práci se "
+"Můžete v <application>Techo</application> pokračovat v další práci se "
 "souborem a dialog <guilabel>Statistika dokumentu</guilabel> přitom nechat "
 "otevřený. Obsah dialogu občerstvíte kliknutím na tlačítko "
 "<guibutton>Aktualizovat</guibutton>."
@@ -2944,13 +2944,13 @@ msgstr "Zásuvný modul Externí nástroje"
 #: C/xed.xml:1475(para)
 msgid ""
 "The <application>External Tools</application> plugin allows you to execute "
-"external commands from <application>xed</application>. You can pipe some "
+"external commands from <application>Techo</application>. You can pipe some "
 "content into a command and exploit its output (for example, "
 "<application>sed</application>), or launch a predefined command (for "
 "example, <application>make</application>)."
 msgstr ""
 "Zásuvný modul <application>Externí nástroje</application> slouží ke "
-"spouštění externích příkazů z aplikace <application>xed</application>. "
+"spouštění externích příkazů z aplikace <application>Techo</application>. "
 "Příkazu můžete předat nějaký obsah a využít jeho výstup (např. "
 "<application>sed</application>) nebo spustit předefinovaný příkaz (např. "
 "<application>make</application>)."
@@ -3068,13 +3068,13 @@ msgstr "Příkazy"
 
 #: C/xed.xml:1527(para)
 msgid ""
-"The actual commands to be run. Several <application>xed</application> "
+"The actual commands to be run. Several <application>Techo</application> "
 "environment variables can be used to pass content to these commands: see "
-"<xref linkend=\"xed-external-tools-plugin-variables\"/>."
+"<xref linkend=\"Techo-external-tools-plugin-variables\"/>."
 msgstr ""
 "Vlastní příkaz, který se má spouštět. Pokud potřebujete příkazu předat "
 "údaje, můžete použít několik proměnných prostředí definovaných programem "
-"<application>xed</application>: viz <xref linkend=\"xed-external-tools-"
+"<application>Techo</application>: viz <xref linkend=\"Techo-external-tools-"
 "plugin-variables\"/>."
 
 #: C/xed.xml:1530(term)
@@ -3244,10 +3244,10 @@ msgstr ""
 
 #: C/xed.xml:1598(para)
 msgid ""
-"To open a file in <application>xed</application>, double-click it in the "
+"To open a file in <application>Techo</application>, double-click it in the "
 "file list."
 msgstr ""
-"Pro otevření souboru v <application>xed</application> postačí dvojitě "
+"Pro otevření souboru v <application>Techo</application> postačí dvojitě "
 "kliknout na soubor v seznamu."
 
 #: C/xed.xml:1601(title)
@@ -3316,11 +3316,11 @@ msgstr ""
 msgid ""
 "The amount of space used, and whether tab character or space characters are "
 "used, depends on the <guilabel>Tab Stops</guilabel> settings in the Editor "
-"Preferences: see <xref linkend=\"xed-prefs-editor\"/>."
+"Preferences: see <xref linkend=\"Techo-prefs-editor\"/>."
 msgstr ""
 "Počet mezer a zda se mají použít mezery nebo tabelátor, je závislé na "
 "nastavení <guilabel>Tabelátory</guilabel> ve volbách editoru: viz <xref "
-"linkend=\"xed-prefs-editor\"/>."
+"linkend=\"Techo-prefs-editor\"/>."
 
 #: C/xed.xml:1630(title)
 msgid "Insert Date/Time Plugin"
@@ -3347,27 +3347,27 @@ msgstr ""
 msgid ""
 "If you have not configured the Insert Date/Time plugin to automatically "
 "insert the date/time without prompting you for the format, "
-"<application>xed</application> displays the <guilabel>Insert Date and "
+"<application>Techo</application> displays the <guilabel>Insert Date and "
 "Time</guilabel> dialog. Select the appropriate date/time format from the "
 "list. Click <guibutton>Insert</guibutton> to close the <guilabel>Insert Date "
-"and Time</guilabel> dialog. <application>xed</application> inserts the "
+"and Time</guilabel> dialog. <application>Techo</application> inserts the "
 "date/time at the cursor position in the current file."
 msgstr ""
 "Pokud nemáte zásuvný modul Vložit datum/čas nastavený tak, aby vkládal datum/"
-"čas automaticky bez ptaní na formát, <application>xed</application> "
+"čas automaticky bez ptaní na formát, <application>Techo</application> "
 "zobrazí dialog <guilabel>Vložit datum a čas</guilabel>. Ze seznamu si "
 "vyberte požadovaný formát data/času. Klikněte na <guibutton>Vložit</"
-"guibutton>, dialog se zavře a <application>xed</application> vloží datum/"
+"guibutton>, dialog se zavře a <application>Techo</application> vloží datum/"
 "čas do aktuálního souboru na pozici kurzoru."
 
 #: C/xed.xml:1635(para)
 msgid ""
-"If you have configured <application>xed</application> to use one "
+"If you have configured <application>Techo</application> to use one "
 "particular date/time format, the <guilabel>Insert Date and Time</guilabel> "
 "dialog is not displayed. The date/time is automatically entered at the "
 "cursor position in the current file."
 msgstr ""
-"Pokud máte <application>xed</application> nastavený tak, aby používal "
+"Pokud máte <application>Techo</application> nastavený tak, aby používal "
 "konkrétní formát data/času, dialog <guilabel>Vložit datum a čas</guilabel> "
 "se nezobrazí. Datum/čas se automaticky vloží na pozici kurzoru v aktuálním "
 "souboru."
@@ -3406,18 +3406,18 @@ msgstr ""
 
 #: C/xed.xml:1660(para)
 msgid ""
-"To use the same <application>xed</application>-provided date/time format "
+"To use the same <application>Techo</application>-provided date/time format "
 "each time you insert the date/time, select the <guilabel>Use the selected "
 "format</guilabel> option, then select the appropriate format from the list. "
-"When you select this option, <application>xed</application> does not "
+"When you select this option, <application>Techo</application> does not "
 "prompt you for the date/time format when you choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Insert Date and Time</"
 "guimenuitem></menuchoice>."
 msgstr ""
 "Pokud chcete při každém vkládání data/času použít stejný v "
-"<application>xed</application> předdefinovaný formát, zvolte "
+"<application>Techo</application> předdefinovaný formát, zvolte "
 "<guilabel>Použít vybraný formát</guilabel> a vyberte jeden z formátů v "
-"seznamu. Při této volbě se vás <application>xed</application> nebude při "
+"seznamu. Při této volbě se vás <application>Techo</application> nebude při "
 "vkládání dat/času na nic dotazovat."
 
 #: C/xed.xml:1663(para)
@@ -3428,7 +3428,7 @@ msgid ""
 "specify a custom format, see <ulink url=\"man:strftime\" type=\"man"
 "\"><citerefentry><refentrytitle>strftime</refentrytitle><manvolnum>3</"
 "manvolnum></citerefentry></ulink>. When you select this option, "
-"<application>xed</application> does not prompt you for the date/time "
+"<application>Techo</application> does not prompt you for the date/time "
 "format when you choose <menuchoice><guimenu>Edit</"
 "guimenu><guimenuitem>Insert Date and Time</guimenuitem></menuchoice>."
 msgstr ""
@@ -3437,7 +3437,7 @@ msgstr ""
 "zadejte požadovaný formát. Pro více informací, jak formát definovat se "
 "podívejte na <ulink url=\"man:strftime\" type=\"man"
 "\"><citerefentry><refentrytitle>strftime</refentrytitle><manvolnum>3</"
-"manvolnum></citerefentry></ulink>. Při této volbě se vás <application>xed</"
+"manvolnum></citerefentry></ulink>. Při této volbě se vás <application>Techo</"
 "application> nebude při vkládání dat/času na nic dotazovat."
 
 #: C/xed.xml:1668(para)
@@ -3465,12 +3465,12 @@ msgid ""
 "The <application>Modelines</application> plugin allows you to set "
 "preferences for individual documents. A <firstterm>modeline</firstterm> is a "
 "line of text at the start or end of the document with settings that "
-"<application>xed</application> recognises."
+"<application>Techo</application> recognises."
 msgstr ""
 "Zásuvný modul <application>Řádky s režimem</application> vám umožní nastavit "
 "volby pro jednotlivé dokumenty. <firstterm>Řádka s režimem</firstterm> je "
 "řádek textu na začátku nebo konci dokumentu  obsahující nastavení, která "
-"<application>xed</application> rozpoznává."
+"<application>Techo</application> rozpoznává."
 
 #: C/xed.xml:1680(para)
 msgid ""
@@ -3590,24 +3590,24 @@ msgstr "Zásuvný modul Konzola Pythonu"
 #: C/xed.xml:1721(para)
 msgid ""
 "The <application>Python Console</application> Plugin allows you to run "
-"commands in the python programming language from <application>xed</"
+"commands in the python programming language from <application>Techo</"
 "application>. Enabling the plugin adds a tab to the bottom pane. This shows "
 "recent output and a command prompt field."
 msgstr ""
 "Zásuvný modul <application>Konzola Pythonu</application> vám umožňuje "
 "spouštět příkazy programovacího jazyka Python z prostředí "
-"<application>xed</application>. Po povolení tohoto zásuvného modulu se "
+"<application>Techo</application>. Po povolení tohoto zásuvného modulu se "
 "přidá karta do spodního panelu. Na ní se zobrazují poslední výstupy a a "
 "výzva k příkazu."
 
 #: C/xed.xml:1722(para)
 msgid ""
 "Commands entered into the python console are not checked before they are "
-"run. It is therefore possible to hang <application>xed</application>, for "
+"run. It is therefore possible to hang <application>Techo</application>, for "
 "example by entering an infinite loop."
 msgstr ""
 "Příkazy zadané do konzoly Pythonu se před spuštěním nekontrolují. Proto "
-"mohou způsobit zatuhnutí celé aplikace <application>xed</application>, "
+"mohou způsobit zatuhnutí celé aplikace <application>Techo</application>, "
 "například když zadáte nekonečnou smyčku."
 
 #: C/xed.xml:1726(title)
@@ -3637,11 +3637,11 @@ msgstr ""
 
 #: C/xed.xml:1729(para)
 msgid ""
-"A number of built-in snippets are installed with <application>xed</"
+"A number of built-in snippets are installed with <application>Techo</"
 "application>, which can be modified."
 msgstr ""
 "Množství zabudovaných úryvků se nainstaluje spolu s aplikací "
-"<application>xed</application>, ale můžete si je upravovat."
+"<application>Techo</application>, ale můžete si je upravovat."
 
 #: C/xed.xml:1732(title)
 msgid "Inserting Snippets"
@@ -3728,11 +3728,11 @@ msgstr "Text úryvku"
 #: C/xed.xml:1760(para)
 msgid ""
 "Enter the text of the snippet in the <guilabel>Edit snippet</guilabel> text "
-"box. For special codes you can use, see <xref linkend=\"xed-snippets-"
+"box. For special codes you can use, see <xref linkend=\"Techo-snippets-"
 "plugin-syntax\"/>."
 msgstr ""
 "Do textového pole <guilabel>Upravit</guilabel> zadejte text úryvku. Můžete "
-"použít speciální kódy, jak je uvádí <xref linkend=\"xed-snippets-plugin-"
+"použít speciální kódy, jak je uvádí <xref linkend=\"Techo-snippets-plugin-"
 "syntax\"/>."
 
 #: C/xed.xml:1761(para)
@@ -3914,11 +3914,11 @@ msgstr "Proměnné prostředí"
 msgid ""
 "Environmental variable such as <literal>$PATH</literal> and <literal>$HOME</"
 "literal> are substituted in snippet text. The following variables specific "
-"to <application>xed</application> can also be used:"
+"to <application>Techo</application> can also be used:"
 msgstr ""
 "Proměnné prostředí, jako je <literal>$PATH</literal> a <literal>$HOME</"
 "literal>, se v úryvku příslušně nahradí jejich hodnotou. Navíc můžete použít "
-"následující proměnné specifické pro <application>xed</application>:"
+"následující proměnné specifické pro <application>Techo</application>:"
 
 #: C/xed.xml:1819(term)
 msgid "$XED_SELECTED_TEXT"
@@ -4114,14 +4114,14 @@ msgstr "Zásuvný modul Kontrola pravopisu"
 #: C/xed.xml:1901(para)
 msgid ""
 "The <application>Spell Checker</application> plugin checks the spelling in "
-"the selected text. You can configure <application>xed</application> to "
+"the selected text. You can configure <application>Techo</application> to "
 "check the spelling automatically, or you can check the spelling manually, in "
 "the specified language. The language setting, and the autocheck spelling "
 "properties, apply per document. To use the Spell checker plugin, perform the "
 "following steps:"
 msgstr ""
 "Zásuvný modul <application>Kontrola pravopisu</application> kontroluje "
-"překlepy ve vybraném textu. Můžete si <application>xed</application> "
+"překlepy ve vybraném textu. Můžete si <application>Techo</application> "
 "nastavit tak, aby překlepy kontroloval průběžně automaticky a nebo si "
 "kontrolu spouštět ručně, oboje v zadaném jazyce. Nastavený jazyk a "
 "automatická kontrola se vztahují na jednotlivé dokumenty. Modul "
@@ -4147,7 +4147,7 @@ msgid ""
 "guimenu><guimenuitem>Autocheck Spelling</guimenuitem></menuchoice> again. "
 "When automatic spell checking is set, an icon is displayed beside the "
 "<guimenuitem>Autocheck Spelling</guimenuitem> menu item. Automatic spell "
-"checking is unset by default, each time <application>xed</application> "
+"checking is unset by default, each time <application>Techo</application> "
 "starts."
 msgstr ""
 "Pokud chcete kontrolu provádět automaticky, zvolte "
@@ -4157,7 +4157,7 @@ msgstr ""
 "pravopis</guimenuitem></menuchoice> automatickou kontrolu vypnete. Zda je "
 "automatická kontrola zapnutá poznáte podle zaškrtnutí položky "
 "<guimenuitem>Automaticky kontrolovat pravopis</guimenuitem> v nabídce. Po "
-"každém spuštění <application>xed</application> je automatická kontrola "
+"každém spuštění <application>Techo</application> je automatická kontrola "
 "standardně vypnutá."
 
 #: C/xed.xml:1907(para)
@@ -4195,13 +4195,13 @@ msgid ""
 "longer flagged as unknown but are not added to your personal dictionary, "
 "select <menuchoice><guimenu>Spelling Suggestions</"
 "guimenu><guimenuitem>Ignore All</guimenuitem></menuchoice>. The unknown word "
-"is ignored in the current <application>xed</application> session only."
+"is ignored in the current <application>Techo</application> session only."
 msgstr ""
 "Ignorování všech výskytu tohoto neznámého slova volbou "
 "<menuchoice><guimenu>Návrhy pravopisu</guimenu><guimenuitem>Ignorovat vše</"
 "guimenuitem></menuchoice>, Slovo se potom již nebude označovat jako neznámé, "
 "ale do osobního slovníku se nepřidá. Ignorování tohoto neznámého slova bude "
-"platit jen pro současné sezení <application>xed</application>."
+"platit jen pro současné sezení <application>Techo</application>."
 
 #: C/xed.xml:1921(para)
 msgid ""
@@ -4268,12 +4268,12 @@ msgid ""
 "To ignore the current occurrence of the unknown word, click "
 "<guibutton>Ignore</guibutton>. To ignore all occurrences of the unknown "
 "word, click <guibutton>Ignore All</guibutton>. The unknown word is ignored "
-"in the current <application>xed</application> session only."
+"in the current <application>Techo</application> session only."
 msgstr ""
 "Aktuální výskyt neznámého slova můžete ignorovat kliknutím na "
 "<guibutton>Ignorovat</guibutton>. Pokud chcete ignorovat veškeré výskyty "
 "toho neznámého slova, tak klikněte na <guibutton>Ignorovat vše</guibutton>. "
-"Neznáme slovo se bude ignorovat pouze v tomto sezení <application>xed</"
+"Neznáme slovo se bude ignorovat pouze v tomto sezení <application>Techo</"
 "application>."
 
 #: C/xed.xml:1940(para)

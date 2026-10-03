@@ -219,8 +219,8 @@ msgid "Baris"
 msgstr "Baris"
 
 #: C/xed.xml:85(surname)
-msgid "Cicek provided information from earlier revisions of the xed application."
-msgstr "Cicek információt nyújtott a xed alkalmazás korábbi változatairól."
+msgid "Cicek provided information from earlier revisions of the Techo application."
+msgstr "Cicek információt nyújtott a Techo alkalmazás korábbi változatairól."
 
 #: C/xed.xml:86(contrib) C/xed.xml:91(contrib)
 msgid "Acknowledgements"
@@ -235,16 +235,16 @@ msgid "George provided information about plugins."
 msgstr "George a bővítményekről nyújtott információt."
 
 #: C/xed.xml:115(revnumber)
-msgid "xed V1.0"
-msgstr "xed 1.0"
+msgid "Techo V1.0"
+msgstr "Techo 1.0"
 
 #: C/xed.xml:118(para)
 msgid "Eric Baudais <email>baudais@okstate.edu</email>"
 msgstr "Eric Baudais <email>baudais@okstate.edu</email>"
 
 #: C/xed.xml:124(revnumber)
-msgid "xed Manual V2.0"
-msgstr "xed kézikönyv 2.0"
+msgid "Techo Manual V2.0"
+msgstr "Techo kézikönyv 2.0"
 
 #: C/xed.xml:125(date)
 msgid "March 2002"
@@ -257,80 +257,80 @@ msgid "Sun MATE Documentation Team"
 msgstr "Sun MATE dokumentációs csapat"
 
 #: C/xed.xml:132(revnumber)
-msgid "xed Manual V2.1"
-msgstr "xed kézikönyv 2.1"
+msgid "Techo Manual V2.1"
+msgstr "Techo kézikönyv 2.1"
 
 #: C/xed.xml:133(date)
 msgid "June 2002"
 msgstr "2002. június"
 
 #: C/xed.xml:140(revnumber)
-msgid "xed Manual V2.2"
-msgstr "xed kézikönyv 2.2"
+msgid "Techo Manual V2.2"
+msgstr "Techo kézikönyv 2.2"
 
 #: C/xed.xml:141(date)
 msgid "August 2002"
 msgstr "2002. augusztus"
 
 #: C/xed.xml:148(revnumber)
-msgid "xed Manual V2.3"
-msgstr "xed kézikönyv 2.3"
+msgid "Techo Manual V2.3"
+msgstr "Techo kézikönyv 2.3"
 
 #: C/xed.xml:149(date)
 msgid "September 2002"
 msgstr "2002. szeptember"
 
 #: C/xed.xml:156(revnumber)
-msgid "xed Manual V2.4"
-msgstr "xed kézikönyv 2.4"
+msgid "Techo Manual V2.4"
+msgstr "Techo kézikönyv 2.4"
 
 #: C/xed.xml:157(date)
 msgid "January 2003"
 msgstr "2003. január"
 
 #: C/xed.xml:164(revnumber)
-msgid "xed Manual V2.5"
-msgstr "xed kézikönyv 2.5"
+msgid "Techo Manual V2.5"
+msgstr "Techo kézikönyv 2.5"
 
 #: C/xed.xml:165(date)
 msgid "March 2003"
 msgstr "2003. március"
 
 #: C/xed.xml:172(revnumber)
-msgid "xed Manual V2.6"
-msgstr "xed kézikönyv 2.6"
+msgid "Techo Manual V2.6"
+msgstr "Techo kézikönyv 2.6"
 
 #: C/xed.xml:173(date)
 msgid "September 2003"
 msgstr "2003. szeptember"
 
 #: C/xed.xml:180(revnumber)
-msgid "xed Manual V2.7"
-msgstr "xed kézikönyv 2.7"
+msgid "Techo Manual V2.7"
+msgstr "Techo kézikönyv 2.7"
 
 #: C/xed.xml:181(date)
 msgid "March 2004"
 msgstr "2004. március"
 
 #: C/xed.xml:188(revnumber)
-msgid "xed Manual V2.8"
-msgstr "xed kézikönyv 2.8"
+msgid "Techo Manual V2.8"
+msgstr "Techo kézikönyv 2.8"
 
 #: C/xed.xml:189(date) C/xed.xml:197(date)
 msgid "July 2006"
 msgstr "2006. július"
 
 #: C/xed.xml:196(revnumber)
-msgid "xed Manual V2.9"
-msgstr "xed kézikönyv 2.9"
+msgid "Techo Manual V2.9"
+msgstr "Techo kézikönyv 2.9"
 
 #: C/xed.xml:199(para)
 msgid "MATE Documentation Team"
 msgstr "MATE dokumentációs csapat"
 
 #: C/xed.xml:204(releaseinfo)
-msgid "This manual describes version 2.16 of xed."
-msgstr "Ez a kézikönyv a xed 2.16-os verzióját írja le."
+msgid "This manual describes version 2.16 of Techo."
+msgstr "Ez a kézikönyv a Techo 2.16-os verzióját írja le."
 
 #: C/xed.xml:207(title)
 msgid "Feedback"
@@ -338,29 +338,29 @@ msgstr "Visszajelzés"
 
 #: C/xed.xml:208(para)
 msgid ""
-"To report a bug or make a suggestion regarding the <application>xed</"
+"To report a bug or make a suggestion regarding the <application>Techo</"
 "application> application or this manual, follow the directions in the <ulink "
 "url=\"help:user-guide?feedback-bugs\" type=\"help\">MATE Feedback Page</"
 "ulink>."
 msgstr ""
-"A <application>xed</application> alkalmazás vagy dokumentáció hibáiról "
+"A <application>Techo</application> alkalmazás vagy dokumentáció hibáiról "
 "bejelentést, illetve javaslatokat a <ulink url=\"help:user-guide?feedback-"
 "bugs\" type=\"help\">MATE visszajelzés oldal</ulink> leírása alapján tehet."
 
 #: C/xed.xml:213(para)
 msgid ""
-"xed is a text editor for the MATE Desktop featuring basic yet robust "
+"Techo is a text editor for the MATE Desktop featuring basic yet robust "
 "capabilities such as printing, spell checking, find and replace, and syntax "
 "highlighting. More advanced features are available as plugins."
 msgstr ""
-"A xed egy szövegszerkesztő a MATE asztali környezethez, amely alapvető és "
+"A Techo egy szövegszerkesztő a MATE asztali környezethez, amely alapvető és "
 "robusztus képességekkel rendelkezik, mint például a nyomtatás, helyesírás-"
 "ellenőrzés, keresés és csere, szintaxiskiemelés. További szolgáltatások "
 "érhetők el a bővítmények formájában."
 
 #: C/xed.xml:218(primary)
-msgid "xed"
-msgstr "xed"
+msgid "Techo"
+msgstr "Techo"
 
 #: C/xed.xml:219(primary)
 msgid "text editor"
@@ -372,20 +372,20 @@ msgstr "Bevezetés"
 
 #: C/xed.xml:229(para)
 msgid ""
-"The <application>xed</application> application enables you to create and "
+"The <application>Techo</application> application enables you to create and "
 "edit text files."
 msgstr ""
-"A <application>xed</application> lehetővé teszi szövegfájlok készítését és "
+"A <application>Techo</application> lehetővé teszi szövegfájlok készítését és "
 "szerkesztését."
 
 #: C/xed.xml:231(para)
 msgid ""
-"The aim of <application>xed</application> is to be a simple and easy to "
+"The aim of <application>Techo</application> is to be a simple and easy to "
 "use text editor. More powerful features can be enabled with different "
 "<firstterm>plugins</firstterm>, allowing a variety of tasks related to text-"
 "editing."
 msgstr ""
-"A <application>xed</application> célja az egyszerűség és a könnyű "
+"A <application>Techo</application> célja az egyszerűség és a könnyű "
 "használat. Hatékonyabb eszközöket a <firstterm>bővítmények</firstterm> "
 "nyújtanak, lehetővé téve szövegszerkesztési feladatok széles körének "
 "végrehajtását."
@@ -395,11 +395,11 @@ msgid "Getting Started"
 msgstr "Kezdeti lépések"
 
 #: C/xed.xml:239(title)
-msgid "Starting xed"
-msgstr "A xed indítása"
+msgid "Starting Techo"
+msgstr "A Techo indítása"
 
 #: C/xed.xml:240(para)
-msgid "You can start <application>xed</application> in the following ways:"
+msgid "You can start <application>Techo</application> in the following ways:"
 msgstr "A következő módokon lehet elindítani a <application>xedet</application>:"
 
 #: C/xed.xml:243(term)
@@ -420,40 +420,40 @@ msgid "Command line"
 msgstr "Parancssor"
 
 #: C/xed.xml:251(para)
-msgid "Execute the following command: <command>xed</command>"
-msgstr "Adja ki a <command>xed</command> parancsot."
+msgid "Execute the following command: <command>techo</command>"
+msgstr "Adja ki a <command>techo</command> parancsot."
 
 #: C/xed.xml:255(para)
 msgid ""
-"By default, when you open a text document in the file manager, xed will "
+"By default, when you open a text document in the file manager, Techo will "
 "start, and display the document."
 msgstr ""
-"Alapértelmezésben a fájlkezelőben megnyitott szövegfájlokat a xed jeleníti "
+"Alapértelmezésben a fájlkezelőben megnyitott szövegfájlokat a Techo jeleníti "
 "meg."
 
 #: C/xed.xml:260(title)
-msgid "The xed Window"
-msgstr "A xed ablaka"
+msgid "The Techo Window"
+msgstr "A Techo ablaka"
 
 #: C/xed.xml:261(para)
 msgid ""
-"When you start <application>xed</application>, the following window is "
+"When you start <application>Techo</application>, the following window is "
 "displayed:"
 msgstr ""
-"A <application>xed</application> elindításakor a következő ablak jelenik "
+"A <application>Techo</application> elindításakor a következő ablak jelenik "
 "meg:"
 
 #: C/xed.xml:264(title)
-msgid "xed Window"
-msgstr "A xed ablaka"
+msgid "Techo Window"
+msgstr "A Techo ablaka"
 
 #: C/xed.xml:270(phrase)
-msgid "Shows xed main window."
-msgstr "A xed főablaka."
+msgid "Shows Techo main window."
+msgstr "A Techo főablaka."
 
 #: C/xed.xml:276(para)
-msgid "The <application>xed</application> window contains the following elements:"
-msgstr "A <application>xed</application> ablak a következő elemekből áll:"
+msgid "The <application>Techo</application> window contains the following elements:"
+msgstr "A <application>Techo</application> ablak a következő elemekből áll:"
 
 #: C/xed.xml:279(term)
 msgid "Menubar"
@@ -462,7 +462,7 @@ msgstr "Menüsor"
 #: C/xed.xml:281(para)
 msgid ""
 "The menus on the menubar contain all of the commands you need to work with "
-"files in <application>xed</application>."
+"files in <application>Techo</application>."
 msgstr ""
 "A menüsor menüi az összes parancsot tartalmazzák, amire szükség lehet a "
 "fájlok kezeléséhez a <application>xedtel</application>."
@@ -491,12 +491,12 @@ msgstr "Állapotsor"
 
 #: C/xed.xml:296(para)
 msgid ""
-"The statusbar displays information about current <application>xed</"
+"The statusbar displays information about current <application>Techo</"
 "application> activity and contextual information about the menu items. The "
 "statusbar also displays the following information:"
 msgstr ""
 "Az állapotsor a pillanatnyi munkáról és környezeti információkról "
-"tájékoztat. A <application>xed</application> állapotsora a következőket is "
+"tájékoztat. A <application>Techo</application> állapotsora a következőket is "
 "tartalmazza:"
 
 #: C/xed.xml:299(para)
@@ -564,17 +564,17 @@ msgstr ""
 
 #: C/xed.xml:320(para)
 msgid ""
-"When you right-click in the <application>xed</application> window, the "
+"When you right-click in the <application>Techo</application> window, the "
 "application displays a popup menu. The popup menu contains the most common "
 "text editing commands."
 msgstr ""
-"Ha a jobb gombbal kattint a <application>xed</application> ablakra, "
+"Ha a jobb gombbal kattint a <application>Techo</application> ablakra, "
 "megjelenik egy helyi menü. Ez a helyi menü a legfontosabb szövegszerkesztő-"
 "parancsokat tartalmazza."
 
 #: C/xed.xml:322(para)
 msgid ""
-"Like other MATE applications, actions in <application>xed</application> "
+"Like other MATE applications, actions in <application>Techo</application> "
 "can be performed in several ways: with the menu, with the toolbar, or with "
 "shortcut keys. Shortcuts keys common to all applications are listed in the "
 "<ulink type=\"help\" url=\"help:user-guide?shortcuts-apps\">User Guide</"
@@ -587,12 +587,12 @@ msgstr ""
 "kézikönyv</ulink> sorolja fel."
 
 #: C/xed.xml:327(title)
-msgid "Running xed from a Command Line"
-msgstr "A xed futtatása parancssorból"
+msgid "Running Techo from a Command Line"
+msgstr "A Techo futtatása parancssorból"
 
 #: C/xed.xml:328(para)
 msgid ""
-"You can run <application>xed</application> from a command line and open a "
+"You can run <application>Techo</application> from a command line and open a "
 "single file or multiple files. To open multiple files from a command line, "
 "type the following command, then press <keycap>Return</keycap>:"
 msgstr ""
@@ -606,8 +606,8 @@ msgid "file1.txt file2.txt file3.txt"
 msgstr "első_fájl.txt második_fájl.txt harmadik_fájl.txt"
 
 #: C/xed.xml:329(command)
-msgid "xed <placeholder-1/>"
-msgstr "xed <placeholder-1/>"
+msgid "Techo <placeholder-1/>"
+msgstr "Techo <placeholder-1/>"
 
 #: C/xed.xml:330(para)
 msgid "Alternatively, you can specify a URI instead of a filename."
@@ -615,14 +615,14 @@ msgstr "Lehetőség van a fájlnév helyett URI használatára."
 
 #: C/xed.xml:331(para)
 msgid ""
-"For more information on how to run <application>xed</application> from a "
-"command line, see the unix manual page for xed, <ulink url=\"man:xed\" "
-"type=\"man\"><citerefentry><refentrytitle>xed</refentrytitle><manvolnum>1</"
+"For more information on how to run <application>Techo</application> from a "
+"command line, see the unix manual page for Techo, <ulink url=\"man:techo\" "
+"type=\"man\"><citerefentry><refentrytitle>Techo</refentrytitle><manvolnum>1</"
 "manvolnum></citerefentry></ulink>."
 msgstr ""
-"További, a <application>xed</application> parancssori használatáról szóló "
-"információért tekintse meg a xed unix kézikönyvoldalát, a <ulink url=\"man:"
-"xed\" type=\"man\"><citerefentry><refentrytitle>xed</"
+"További, a <application>Techo</application> parancssori használatáról szóló "
+"információért tekintse meg a Techo unix kézikönyvoldalát, a <ulink url=\"man:"
+"Techo\" type=\"man\"><citerefentry><refentrytitle>Techo</"
 "refentrytitle><manvolnum>1</manvolnum></citerefentry></ulink>-et."
 
 #: C/xed.xml:336(title)
@@ -637,11 +637,11 @@ msgstr "Új dokumentum létrehozása"
 msgid ""
 "To create a new document, choose <menuchoice><guimenu>File</"
 "guimenu><guimenuitem>New</guimenuitem></menuchoice>. The application "
-"displays a new blank document in the <application>xed</application> window."
+"displays a new blank document in the <application>Techo</application> window."
 msgstr ""
 "Új dokumentum létrehozásához válassza a <menuchoice><guimenu>Fájl</"
 "guimenu><guimenuitem>Új</guimenuitem></menuchoice> menüpontot. Az alkalmazás "
-"egy új üres dokumentumot fog megjeleníteni a <application>xed</"
+"egy új üres dokumentumot fog megjeleníteni a <application>Techo</"
 "application> ablakban."
 
 #: C/xed.xml:346(title) C/xed.xml:1597(title)
@@ -653,14 +653,14 @@ msgid ""
 "To open a file, choose <menuchoice><guimenu>File</guimenu><guimenuitem>Open</"
 "guimenuitem></menuchoice> to display the <guilabel>Open File</guilabel> "
 "dialog. Select the file that you want to open, then click <guibutton>Open</"
-"guibutton>. The file is displayed in the <application>xed</application> "
+"guibutton>. The file is displayed in the <application>Techo</application> "
 "window."
 msgstr ""
 "Fájl megnyitásához válassza a <menuchoice><guimenu>Fájl</"
 "guimenu><guimenuitem>Megnyitás…</guimenuitem></menuchoice> menüpontot a "
 "<guilabel>Fájl megnyitása…</guilabel> ablak megjelenítéséhez. Válassza ki a "
 "megnyitandó fájlt és kattintson a <guibutton>Megnyitás</guibutton> gombra. A "
-"fájl megjelenik a <application>xed</application> ablakban."
+"fájl megjelenik a <application>Techo</application> ablakban."
 
 #: C/xed.xml:349(phrase)
 msgid "Shows Recent Files menu icon."
@@ -680,13 +680,13 @@ msgstr ""
 
 #: C/xed.xml:351(para)
 msgid ""
-"You can open multiple files in <application>xed</application>. The "
+"You can open multiple files in <application>Techo</application>. The "
 "application adds a tab for each open file to the window. For more on this "
-"see <xref linkend=\"xed-tabs\"/>."
+"see <xref linkend=\"Techo-tabs\"/>."
 msgstr ""
 "A <application>xedtel</application> egyszerre több fájlt is meg lehet "
 "nyitni. Ekkor minden megnyitott fájl új lapra kerül. Erről további "
-"részleteket a <xref linkend=\"xed-tabs\"/> tartalmaz."
+"részleteket a <xref linkend=\"Techo-tabs\"/> tartalmaz."
 
 #: C/xed.xml:357(title)
 msgid "Saving a File"
@@ -719,7 +719,7 @@ msgstr ""
 
 #: C/xed.xml:364(para)
 msgid ""
-"To save all of the files that are currently open in <application>xed</"
+"To save all of the files that are currently open in <application>Techo</"
 "application>, choose <menuchoice><guimenu>Documents</"
 "guimenu><guimenuitem>Save All</guimenuitem></menuchoice>."
 msgstr ""
@@ -729,7 +729,7 @@ msgstr ""
 
 #: C/xed.xml:367(para)
 msgid ""
-"To close all of the files that are currently open in <application>xed</"
+"To close all of the files that are currently open in <application>Techo</"
 "application>, choose <menuchoice><guimenu>Documents</"
 "guimenu><guimenuitem>Close All</guimenuitem></menuchoice>."
 msgstr ""
@@ -802,12 +802,12 @@ msgstr ""
 msgid ""
 "Saving to FTP servers can be enabled with <ulink type=\"help\" url=\"help:"
 "mateconf-editor\"><application>Configuration Editor</application></ulink>, "
-"setting the key <systemitem>/apps/xed/preferences/editor/save/"
+"setting the key <systemitem>/apps/Techo/preferences/editor/save/"
 "writable_vfs_schemes</systemitem>, but this may cause errors."
 msgstr ""
 "Az FTP kiszolgálókra való mentés a <ulink type=\"help\" url=\"help:mateconf-"
 "editor\"><application>Konfigurációszerkesztővel</application></ulink> "
-"kapcsolható be. A <systemitem>/apps/xed/preferences/editor/save/"
+"kapcsolható be. A <systemitem>/apps/Techo/preferences/editor/save/"
 "writable_vfs_schemes</systemitem> kulcsot kell beállítani, de ez hibákat "
 "okozhat."
 
@@ -817,29 +817,29 @@ msgstr "Lapok kezelése"
 
 #: C/xed.xml:397(para)
 msgid ""
-"When more than one file is open, <application>xed</application> shows a "
+"When more than one file is open, <application>Techo</application> shows a "
 "<firstterm>tab</firstterm> for each document above the display area. To "
 "switch to another document, click on its tab."
 msgstr ""
-"Ha több fájl van megnyitva, akkor a <application>xed</application> minden "
+"Ha több fájl van megnyitva, akkor a <application>Techo</application> minden "
 "dokumentumot külön lapon jelenít meg a megjelenítő ablaktáblán. Másik "
 "dokumentumra váltáshoz kattintson a hozzá tartozó fülre."
 
 #: C/xed.xml:398(para)
 msgid ""
-"To move a document to another <application> xed</application> window, drag "
+"To move a document to another <application> Techo</application> window, drag "
 "the tab corresponding to the file to the window you want to move it to."
 msgstr ""
-"A dokumentumok <application>xed</application> ablakok közti mozgatása az "
+"A dokumentumok <application>Techo</application> ablakok közti mozgatása az "
 "adott fájlhoz tartozó fül másik ablakba húzásával lehetséges."
 
 #: C/xed.xml:399(para)
 msgid ""
-"To move a document to a new <application> xed</application> window, either "
+"To move a document to a new <application> Techo</application> window, either "
 "drag its tab to the desktop, or choose <menuchoice><guimenu>Documents</"
 "guimenu><guimenuitem>Move to New Window</guimenuitem></menuchoice>."
 msgstr ""
-"Dokumentum új <application>xed</application> ablakba való mozgatásához "
+"Dokumentum új <application>Techo</application> ablakba való mozgatásához "
 "húzza a fület az Asztalra vagy válassza a <menuchoice><guimenu>Dokumentumok</"
 "guimenu><guimenuitem>Áthelyezés új ablakba</guimenuitem></menuchoice> "
 "menüpontot."
@@ -901,7 +901,7 @@ msgid ""
 "To insert the contents of the clipboard at the cursor position, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste</guimenuitem></"
 "menuchoice>. You must cut or copy text before you can paste text into the "
-"file, either from xed or another application."
+"file, either from Techo or another application."
 msgstr ""
 "A vágólap tartalmának beszúrása a jelenlegi kurzorpozícióban a "
 "<menuchoice><guimenu>Szerkesztés</guimenu><guimenuitem>Beillesztés</"
@@ -941,7 +941,7 @@ msgstr "Keresés és csere"
 
 #: C/xed.xml:436(para)
 msgid ""
-"In <application>xed</application>, there are two ways of searching for "
+"In <application>Techo</application>, there are two ways of searching for "
 "text. You can use the <guilabel>Find</guilabel> dialog to search for a "
 "specific piece of text, or <guilabel>Incremental Search</guilabel> to "
 "highlight matching text as you type it."
@@ -972,23 +972,23 @@ msgstr ""
 msgid ""
 "Type the string that you want to find in the <guilabel>Search for</guilabel> "
 "field. You can include special characters such as a new line or tab: see "
-"<xref linkend=\"xed-find-escapes\"/>."
+"<xref linkend=\"Techo-find-escapes\"/>."
 msgstr ""
 "Gépelje be a keresett karakterláncot a <guilabel>Keresés erre</guilabel> "
 "mezőbe. Lehetséges speciális karakterek, például újsor vagy tabulátor "
-"beszúrása is. További információkért tekintse meg a <xref linkend=\"xed-"
+"beszúrása is. További információkért tekintse meg a <xref linkend=\"Techo-"
 "find-escapes\"/> részt."
 
 #: C/xed.xml:448(para)
 msgid ""
 "Click <guibutton>Find</guibutton> to search the file for the first "
 "occurrence of the string after your current cursor position. If "
-"<application>xed</application> finds the string, the application selects "
+"<application>Techo</application> finds the string, the application selects "
 "first occurrence of the string. Other occurrences of the string are "
 "highlighted."
 msgstr ""
 "Kattintson a <guibutton>Keresés</guibutton> gombra. A beírt szöveg aktuális "
-"kurzorhely utáni első előfordulását a <application>xed</application> "
+"kurzorhely utáni első előfordulását a <application>Techo</application> "
 "kijelöli, a többi találatot pedig kiemeli."
 
 #: C/xed.xml:450(para)
@@ -1108,11 +1108,11 @@ msgstr ""
 msgid ""
 "Type the string that you want to find, in the <guilabel>Search for</"
 "guilabel> field. You can include special characters such as a new line or "
-"tab: see <xref linkend=\"xed-find-escapes\"/>."
+"tab: see <xref linkend=\"Techo-find-escapes\"/>."
 msgstr ""
 "Írja be a keresett karakterláncot a <guilabel>Keresés erre</guilabel> "
 "mezőbe. Speciális karaktereket, például újsort vagy tabulátort is "
-"használhat. További információkért tekintse meg a <xref linkend=\"xed-find-"
+"használhat. További információkért tekintse meg a <xref linkend=\"Techo-find-"
 "escapes\"/> részt."
 
 #: C/xed.xml:476(para)
@@ -1126,13 +1126,13 @@ msgstr ""
 #: C/xed.xml:480(para)
 msgid ""
 "To examine each occurrence of the string before replacing it, click "
-"<guibutton>Find</guibutton>. If <application>xed</application> finds the "
+"<guibutton>Find</guibutton>. If <application>Techo</application> finds the "
 "string, the application selects the string. Click <guibutton>Replace</"
 "guibutton> to replace the selected occurrence of the string. To find the "
 "next occurrence of the string, click <guibutton>Find</guibutton> again."
 msgstr ""
 "A karakterlánc minden előfordulásának megvizsgálásához kattintson a "
-"<guibutton>Keresés</guibutton> gombra. Ha a <application>xed</application> "
+"<guibutton>Keresés</guibutton> gombra. Ha a <application>Techo</application> "
 "előfordulást talál, kijelöli azt. Ilyenkor a <guibutton>Csere</guibutton> "
 "gombra kattintva az alkalmazás a kijelölt előfordulást lecseréli. A "
 "következő előfordulásra lépéshez kattintson ismét a <guibutton>Keresés</"
@@ -1319,11 +1319,11 @@ msgstr "Szintaxiskiemelés nyomtatása"
 #: C/xed.xml:563(para)
 msgid ""
 "Select this option to print syntax highlighting. For more information about "
-"syntax highlighting, see <xref linkend=\"xed-set-highlightmode\"/>."
+"syntax highlighting, see <xref linkend=\"Techo-set-highlightmode\"/>."
 msgstr ""
 "Ezt a lehetőséget kijelölve az alkalmazás kinyomtatja a szintaxiskiemelést. "
 "További információért a szintaxiskiemelésről tekintse meg a <xref linkend="
-"\"xed-set-highlightmode\"/> részt."
+"\"Techo-set-highlightmode\"/> részt."
 
 #: C/xed.xml:566(guilabel)
 msgid "Print page headers"
@@ -1422,10 +1422,10 @@ msgstr ""
 #: C/xed.xml:609(para)
 msgid ""
 "To reset the fonts to the default fonts for printing a file from "
-"<application>xed</application>, click <guibutton>Restore Default Fonts</"
+"<application>Techo</application>, click <guibutton>Restore Default Fonts</"
 "guibutton>."
 msgstr ""
-"A <application>xed</application> nyomtatáshoz használt betűkészleteinek "
+"A <application>Techo</application> nyomtatáshoz használt betűkészleteinek "
 "alapértelmezettre állításához kattintson az <guibutton>Alapértelmezett "
 "betűkészletek visszaállítása</guibutton> gombra."
 
@@ -1435,10 +1435,10 @@ msgstr "Dokumentum nyomtatása"
 
 #: C/xed.xml:617(para)
 msgid ""
-"You can use <application>xed</application> to perform the following print "
+"You can use <application>Techo</application> to perform the following print "
 "operations:"
 msgstr ""
-"A <application>xed</application> segítségével a következő nyomtatási "
+"A <application>Techo</application> segítségével a következő nyomtatási "
 "műveleteket hajthatja végre:"
 
 #: C/xed.xml:619(para)
@@ -1451,11 +1451,11 @@ msgstr "A nyomtatási parancs kimenetének fájlba nyomtatása."
 
 #: C/xed.xml:624(para)
 msgid ""
-"If you print to a file, <application>xed</application> sends the output of "
+"If you print to a file, <application>Techo</application> sends the output of "
 "the file to a pre-press format file. The most common pre-press formats are "
 "PostScript and Portable Document Format (PDF)."
 msgstr ""
-"Ha fájlba nyomtat, a <application>xed</application> a nyomtatási parancs "
+"Ha fájlba nyomtat, a <application>Techo</application> a nyomtatási parancs "
 "kimenetét egy nyomtatási fájlba küldi. A legáltalánosabb nyomtatási "
 "fájlformátumok a PostScript és a PDF."
 
@@ -1659,8 +1659,8 @@ msgid "State"
 msgstr "Állapot"
 
 #: C/xed.xml:734(para) C/xed.xml:740(para) C/xed.xml:746(para)
-msgid "This functionality is not supported in this version of xed."
-msgstr "Ez a funkció nem támogatott ebben a xed verzióban."
+msgid "This functionality is not supported in this version of Techo."
+msgstr "Ez a funkció nem támogatott ebben a Techo verzióban."
 
 #: C/xed.xml:738(guilabel)
 msgid "Type"
@@ -1751,15 +1751,15 @@ msgstr "Programozási szolgáltatások"
 
 #: C/xed.xml:801(para)
 msgid ""
-"Several of <application>xed</application>'s features for programming are "
+"Several of <application>Techo</application>'s features for programming are "
 "provided with plugins. For example, the Tag List plugin provides a list of "
-"commonly-used tags for different markup languages: see <xref linkend=\"xed-"
+"commonly-used tags for different markup languages: see <xref linkend=\"Techo-"
 "tag-list-plugin\"/>."
 msgstr ""
-"A <application>xed</application> több programozást segítő szolgáltatása "
+"A <application>Techo</application> több programozást segítő szolgáltatása "
 "bővítmény formájában érhető el. Például az elemlista bővítmény egyes "
 "leírónyelvek gyakran használt elemeit sorolja fel. További részletekért "
-"tekintse meg a <xref linkend=\"xed-tag-list-plugin\"/> részt."
+"tekintse meg a <xref linkend=\"Techo-tag-list-plugin\"/> részt."
 
 #: C/xed.xml:805(title)
 msgid "Syntax Highlighting"
@@ -1775,12 +1775,12 @@ msgstr ""
 
 #: C/xed.xml:808(para)
 msgid ""
-"<application>xed</application> chooses an appropriate syntax highlighting "
+"<application>Techo</application> chooses an appropriate syntax highlighting "
 "mode based on a document's type. To override the syntax highlighting mode, "
 "choose <menuchoice><guimenu>View</guimenu><guimenuitem>Highlight Mode</"
 "guimenuitem></menuchoice>, then choose one of the following menu items:"
 msgstr ""
-"A <application>xed</application> kiválasztja a megfelelő "
+"A <application>Techo</application> kiválasztja a megfelelő "
 "szintaxiskiemelési módot a dokumentum típusa alapján, de ez felülbírálható a "
 "<menuchoice><guimenu>Nézet</guimenu><guimenuitem>Kiemelési üzemmód</"
 "guimenuitem></menuchoice> menüpont alatt:"
@@ -1848,23 +1848,23 @@ msgstr "Parancs kimenetének fájlba irányítása"
 
 #: C/xed.xml:846(para)
 msgid ""
-"You can use <application>xed</application> to pipe the output of a command "
+"You can use <application>Techo</application> to pipe the output of a command "
 "to a text file. For example, to pipe the output of an <command>ls</command> "
-"command to a text file, type <command>ls | xed</command>, then press "
+"command to a text file, type <command>ls | Techo</command>, then press "
 "<keycap>Return</keycap>."
 msgstr ""
 "Egy parancs kimenetét átirányítás használatával átadhatja a "
 "<application>xednek</application>. Például az <command>ls</command> "
-"parancs kimenetét az <command>ls | xed</command> parancs begépelésével és "
+"parancs kimenetét az <command>ls | Techo</command> parancs begépelésével és "
 "az <keycap>Enter</keycap> megnyomásával lehet egy új szövegfájlba küldeni."
 
 #: C/xed.xml:847(para)
 msgid ""
 "The output of the <command>ls</command> command is displayed in a new text "
-"file in the <application>xed</application> window."
+"file in the <application>Techo</application> window."
 msgstr ""
 "Az <command>ls</command> parancs kimenete egy új szövegfájlban jelenik meg a "
-"<application>xed</application> ablakában."
+"<application>Techo</application> ablakában."
 
 #: C/xed.xml:848(para)
 msgid ""
@@ -1881,12 +1881,12 @@ msgstr "Gyorsbillentyűk"
 #: C/xed.xml:855(para)
 msgid ""
 "Use shortcut keys to perform common tasks more quickly than with the mouse "
-"and menus. The following tables list all of <application>xed</"
+"and menus. The following tables list all of <application>Techo</"
 "application>'s shortcut keys."
 msgstr ""
 "A gyorsbillentyűk segítségével a gyakori feladatok az egér és menük "
 "használatánál gyorsabban végezhetők el. A következő táblázatok felsorolják a "
-"<application>xed</application> összes gyorsbillentyűjét."
+"<application>Techo</application> összes gyorsbillentyűjét."
 
 #: C/xed.xml:856(para)
 msgid ""
@@ -2042,7 +2042,7 @@ msgid "Ctrl + Q"
 msgstr "Ctrl + Q"
 
 #: C/xed.xml:952(para)
-msgid "Quit Xed."
+msgid "Quit Techo."
 msgstr "Kilépés a xedből."
 
 #. ============= Edit =======================
@@ -2292,8 +2292,8 @@ msgid "F1"
 msgstr "F1"
 
 #: C/xed.xml:1150(para)
-msgid "Open <application>xed</application>'s user manual."
-msgstr "A <application>xed</application> felhasználói kézikönyvének megnyitása."
+msgid "Open <application>Techo</application>'s user manual."
+msgstr "A <application>Techo</application> felhasználói kézikönyvének megnyitása."
 
 #: C/xed.xml:1162(title)
 msgid "Preferences"
@@ -2301,12 +2301,12 @@ msgstr "Beállítások"
 
 #: C/xed.xml:1164(para)
 msgid ""
-"To configure <application>xed</application>, choose "
+"To configure <application>Techo</application>, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Preferences</guimenuitem></"
 "menuchoice>. The <guilabel>Preferences</guilabel> dialog contains the "
 "following categories:"
 msgstr ""
-"A <application>xed</application> beállításához válassza a "
+"A <application>Techo</application> beállításához válassza a "
 "<menuchoice><guimenu>Szerkesztés</guimenu><guimenuitem>Beállítások</"
 "guimenuitem></menuchoice> menüpontot. A <guilabel>Beállítások</guilabel> "
 "ablak a következő kategóriákból áll:"
@@ -2337,10 +2337,10 @@ msgstr ""
 #: C/xed.xml:1185(para)
 msgid ""
 "Select the <guilabel>Display line numbers</guilabel> option to display line "
-"numbers on the left side of the <application>xed</application> window."
+"numbers on the left side of the <application>Techo</application> window."
 msgstr ""
 "Válassza ki a <guilabel>Sorok számának megjelenítése</guilabel> lehetőséget "
-"a sorok számainak megjelenítéséhez a <application>xed</application> ablak "
+"a sorok számainak megjelenítéséhez a <application>Techo</application> ablak "
 "bal oldalán."
 
 #: C/xed.xml:1189(guilabel)
@@ -2396,21 +2396,21 @@ msgstr "Szerkesztő beállításai"
 #: C/xed.xml:1217(para)
 msgid ""
 "Use the <guilabel>Tab width</guilabel> spin box to specify the width of the "
-"space that <application> xed</application> inserts when you press the "
+"space that <application> Techo</application> inserts when you press the "
 "<keycap>Tab</keycap> key."
 msgstr ""
 "A <guilabel>Tabulátorok szélessége</guilabel> léptetőmezőben meghatározható "
-"a tabulátorok (<keycap>Tab</keycap> billentyű) helyén a <application>xed</"
+"a tabulátorok (<keycap>Tab</keycap> billentyű) helyén a <application>Techo</"
 "application> által kihagyott hely szélességét."
 
 #: C/xed.xml:1218(para)
 msgid ""
 "Select the <guilabel>Insert spaces instead of tabs</guilabel> option to "
-"specify that <application> xed</application> inserts spaces instead of a "
+"specify that <application> Techo</application> inserts spaces instead of a "
 "tab character when you press the <keycap>Tab</keycap> key."
 msgstr ""
 "A <guilabel>Szóközök beillesztése tabulátorok helyett</guilabel> mező "
-"kiválasztásával megadható, hogy a <application>xed</application> "
+"kiválasztásával megadható, hogy a <application>Techo</application> "
 "szóközöket használjon a tabulátor karakterek helyett a <keycap>Tab</keycap> "
 "leütésekor."
 
@@ -2463,21 +2463,21 @@ msgstr "Betűkészlet"
 #: C/xed.xml:1243(para)
 msgid ""
 "Select the <guilabel>Use default theme font</guilabel> option to use the "
-"default system font for the text in the <application>xed</application> "
+"default system font for the text in the <application>Techo</application> "
 "text window."
 msgstr ""
 "Válassza ki a <guilabel>Rendszer rögzített szélességű betűkészletének "
 "használata</guilabel> lehetőséget az alapértelmezett betűkészlet "
-"használatához a <application>xed</application> megjelenítő ablaktáblában."
+"használatához a <application>Techo</application> megjelenítő ablaktáblában."
 
 #: C/xed.xml:1244(para)
 msgid ""
 "The <guilabel>Editor font</guilabel> field displays the font that "
-"<application>xed</application> uses to display text. Click on the button "
+"<application>Techo</application> uses to display text. Click on the button "
 "to specify the font type, style, and size to use for text."
 msgstr ""
 "A <guilabel>Szerkesztő betűkészlete</guilabel> mező megjeleníti a "
-"<application>xed</application> által a szöveg megjelenítésére használt "
+"<application>Techo</application> által a szöveg megjelenítésére használt "
 "betűkészletet. Kattintson a gombra a betűtípus, -stílus és -méret "
 "beállításához."
 
@@ -2555,13 +2555,13 @@ msgstr "Bővítmények beállításai"
 
 #: C/xed.xml:1292(para)
 msgid ""
-"Plugins add extra features to <application>xed</application>. For more "
+"Plugins add extra features to <application>Techo</application>. For more "
 "information on plugins and how to use the built-in plugins, see <xref "
-"linkend=\"xed-plugins-overview\"/>."
+"linkend=\"Techo-plugins-overview\"/>."
 msgstr ""
 "A bővítmények további szolgáltatásokat adnak a <application>xedhez</"
 "application>. A bővítményekről és a beépített bővítményekről szóló további "
-"információkért tekintse meg a <xref linkend=\"xed-plugins-overview\"/> "
+"információkért tekintse meg a <xref linkend=\"Techo-plugins-overview\"/> "
 "részt."
 
 #: C/xed.xml:1296(title)
@@ -2570,10 +2570,10 @@ msgstr "Bővítmény engedélyezése"
 
 #: C/xed.xml:1297(para)
 msgid ""
-"To enable a <application>xed</application> plugin, perform the following "
+"To enable a <application>Techo</application> plugin, perform the following "
 "steps:"
 msgstr ""
-"Egy <application>xed</application> bővítmény engedélyezéséhez tegye a "
+"Egy <application>Techo</application> bővítmény engedélyezéséhez tegye a "
 "következőket:"
 
 #: C/xed.xml:1300(para) C/xed.xml:1321(para) C/xed.xml:1643(para)
@@ -2605,17 +2605,17 @@ msgid "Disabling a Plugin"
 msgstr "Bővítmény tiltása"
 
 #: C/xed.xml:1317(para)
-msgid "A plugin remains enabled when you quit <application>xed</application>."
+msgid "A plugin remains enabled when you quit <application>Techo</application>."
 msgstr ""
 "A bővítmények a <application>xedből</application> való kilépés után is "
 "engedélyezve maradnak."
 
 #: C/xed.xml:1318(para)
 msgid ""
-"To disable a <application>xed</application> plugin, perform the following "
+"To disable a <application>Techo</application> plugin, perform the following "
 "steps:"
 msgstr ""
-"Egy <application>xed</application> bővítmény tiltásához tegye a "
+"Egy <application>Techo</application> bővítmény tiltásához tegye a "
 "következőket:"
 
 #: C/xed.xml:1327(para)
@@ -2634,69 +2634,69 @@ msgstr "Bővítmények használata"
 
 #: C/xed.xml:1342(para)
 msgid ""
-"You can add extra features to <application>xed</application> by enabling "
+"You can add extra features to <application>Techo</application> by enabling "
 "<firstterm>plugins</firstterm>. A plugin is a supplementary program that "
 "enhances the functionality of an application. Plugins add new items to the "
-"<application>xed</application> menus for the new features they provide."
+"<application>Techo</application> menus for the new features they provide."
 msgstr ""
-"A <firstterm>bővítmények</firstterm> engedélyezésével a <application>xed</"
+"A <firstterm>bővítmények</firstterm> engedélyezésével a <application>Techo</"
 "application> szolgáltatásai kiegészíthetőek továbbiakkal. A bővítmény egy "
 "olyan járulékos program, amelyik bővíti egy alkalmazás funkcionalitását. A "
-"bővítmények új <application>xed</application> menüpontokat hoznak létre az "
+"bővítmények új <application>Techo</application> menüpontokat hoznak létre az "
 "új szolgáltatásokhoz."
 
 #: C/xed.xml:1344(para)
 msgid ""
-"Several plugins come built-in with <application>xed</application>, and you "
-"can install more. The <ulink type=\"http\" url=\"http://live.gnome.org/Xed/"
-"Plugins\">xed website</ulink> lists third-party plugins."
+"Several plugins come built-in with <application>Techo</application>, and you "
+"can install more. The <ulink type=\"http\" url=\"http://live.gnome.org/Techo/"
+"Plugins\">Techo website</ulink> lists third-party plugins."
 msgstr ""
-"Néhány bővítményt alapértelmezetten tartalmaz a <application>xed</"
+"Néhány bővítményt alapértelmezetten tartalmaz a <application>Techo</"
 "application>, de továbbiakat is telepíthet. Harmadik fél által készített "
 "bővítmények tölthetőek le a <ulink type=\"http\" url=\"http://live.gnome.org/"
-"Xed/Plugins\">xed weboldaláról</ulink>."
+"Techo/Plugins\">Techo weboldaláról</ulink>."
 
 #: C/xed.xml:1345(para)
 msgid ""
 "To enable and disable plugins, or see which plugins are currently enabled, "
-"use the <link linkend=\"xed-prefs-plugins\">Plugins Preferences</link>."
+"use the <link linkend=\"Techo-prefs-plugins\">Plugins Preferences</link>."
 msgstr ""
 "A bővítmények engedélyezéséről és tiltásáról, illetve állapotuk "
-"megtekintéséről a <link linkend=\"xed-prefs-plugins\">Bővítmények "
+"megtekintéséről a <link linkend=\"Techo-prefs-plugins\">Bővítmények "
 "beállításai</link> oldalon olvashat."
 
 #: C/xed.xml:1346(para)
-msgid "The following plugins come built-in with <application>xed</application>:"
+msgid "The following plugins come built-in with <application>Techo</application>:"
 msgstr ""
 "A következő bővítmények érkeznek alapértelmezésben a <application>xedtel</"
 "application>:"
 
 #: C/xed.xml:1352(para)
 msgid ""
-"<link linkend=\"xed-change-case-plugin\"><application>Change Case</"
+"<link linkend=\"Techo-change-case-plugin\"><application>Change Case</"
 "application></link> allows you to change the case of the selected text."
 msgstr ""
-"A <link linkend=\"xed-change-case-plugin\"><application>Kis- és nagybetű "
+"A <link linkend=\"Techo-change-case-plugin\"><application>Kis- és nagybetű "
 "módosítása</application></link> lehetővé teszi kijelölt szövegrész "
 "kisbetűssé vagy nagybetűssé alakítását."
 
 #: C/xed.xml:1355(para)
 msgid ""
-"<application><link linkend=\"xed-document-statistics-plugin\">Document "
+"<application><link linkend=\"Techo-document-statistics-plugin\">Document "
 "Statistics</link></application> shows the number of lines, words, and "
 "characters in the document."
 msgstr ""
-"A <application><link linkend=\"xed-document-statistics-plugin"
+"A <application><link linkend=\"Techo-document-statistics-plugin"
 "\">Statisztika a dokumentumról</link></application> kijelzi a dokumentum "
 "sorainak, szavainak és karaktereinek számát."
 
 #: C/xed.xml:1358(para)
 msgid ""
-"<application><link linkend=\"xed-external-tools-plugin\">External Tools</"
+"<application><link linkend=\"Techo-external-tools-plugin\">External Tools</"
 "link></application> allows you to execute external commands from "
-"<application>xed</application>."
+"<application>Techo</application>."
 msgstr ""
-"A <application><link linkend=\"xed-external-tools-plugin\">Külső eszközök</"
+"A <application><link linkend=\"Techo-external-tools-plugin\">Külső eszközök</"
 "link></application> lehetővé teszik külső parancsok végrehajtását a "
 "<application>xedből</application>."
 
@@ -2710,30 +2710,30 @@ msgstr ""
 
 #: C/xed.xml:1364(para)
 msgid ""
-"<application><link linkend=\"xed-indent-lines-plugin\">Indent Lines</"
+"<application><link linkend=\"Techo-indent-lines-plugin\">Indent Lines</"
 "link></application> adds or removes indentation from the selected lines."
 msgstr ""
-"A <application><link linkend=\"xed-indent-lines-plugin\">Sorok behúzása</"
+"A <application><link linkend=\"Techo-indent-lines-plugin\">Sorok behúzása</"
 "link></application> a behúzás növelését és csökkentését teszi lehetővé a "
 "kijelölt sorokban."
 
 #: C/xed.xml:1367(para)
 msgid ""
-"<application><link linkend=\"xed-insert-date-time-plugin\">Insert Date/"
+"<application><link linkend=\"Techo-insert-date-time-plugin\">Insert Date/"
 "Time</link></application> adds the current date and time into a document."
 msgstr ""
-"A <application><link linkend=\"xed-insert-date-time-plugin\">Dátum és idő "
+"A <application><link linkend=\"Techo-insert-date-time-plugin\">Dátum és idő "
 "beszúrása</link></application> a jelenlegi dátumot és időt szúrja be a "
 "dokumentumba."
 
 #: C/xed.xml:1370(para)
 msgid ""
-"<application><link linkend=\"xed-modelines-plugin\">Modelines</link></"
+"<application><link linkend=\"Techo-modelines-plugin\">Modelines</link></"
 "application> allows you to set editing preferences for individual documents, "
 "and supports <application>Emacs</application>, <application>Kate</"
 "application> and <application>Vim</application>-style modelines."
 msgstr ""
-"A <application><link linkend=\"xed-modelines-plugin\">Módsorok</link></"
+"A <application><link linkend=\"Techo-modelines-plugin\">Módsorok</link></"
 "application> lehetővé teszi az egyedi dokumentumok szerkesztési "
 "beállításainak kezelését. <application>Emacs</application>, "
 "<application>Kate</application> és <application>Vim</application> stílusú "
@@ -2741,60 +2741,60 @@ msgstr ""
 
 #: C/xed.xml:1373(para)
 msgid ""
-"<application><link linkend=\"xed-python-console-plugin\">Python Console</"
+"<application><link linkend=\"Techo-python-console-plugin\">Python Console</"
 "link></application> allows you to run commands in the python programming "
 "language."
 msgstr ""
-"A <application><link linkend=\"xed-python-console-plugin\">Python konzol</"
+"A <application><link linkend=\"Techo-python-console-plugin\">Python konzol</"
 "link></application> lehetővé teszi python programozási nyelven írt parancsok "
 "végrehajtását."
 
 #: C/xed.xml:1376(para)
 msgid ""
-"<application><link linkend=\"xed-snippets-plugin\">Snippets</link></"
+"<application><link linkend=\"Techo-snippets-plugin\">Snippets</link></"
 "application> allows you to store frequently-used pieces of text and insert "
 "them quickly into a document."
 msgstr ""
-"A <application><link linkend=\"xed-snippets-plugin\">Töredékek</link></"
+"A <application><link linkend=\"Techo-snippets-plugin\">Töredékek</link></"
 "application> lehetővé teszi gyakran használt szövegdarabok tárolását, és "
 "azok egyszerű és gyors beillesztését a dokumentumba."
 
 #: C/xed.xml:1379(para)
 msgid ""
-"<application><link linkend=\"xed-sort-plugin\">Sort</link></application> "
+"<application><link linkend=\"Techo-sort-plugin\">Sort</link></application> "
 "arranges selected lines of text into alphabetical order."
 msgstr ""
-"A <application><link linkend=\"xed-sort-plugin\">Rendezés</link></"
+"A <application><link linkend=\"Techo-sort-plugin\">Rendezés</link></"
 "application> a dokumentum kijelölt sorait betűrendbe rendezi."
 
 #: C/xed.xml:1382(para)
 msgid ""
-"<application><link linkend=\"xed-spell-checker-plugin\">Spell Checker</"
+"<application><link linkend=\"Techo-spell-checker-plugin\">Spell Checker</"
 "link></application> corrects the spelling in the selected text, or marks "
 "errors automatically in the document."
 msgstr ""
-"A <application><link linkend=\"xed-spell-checker-plugin\">Helyesírás-"
+"A <application><link linkend=\"Techo-spell-checker-plugin\">Helyesírás-"
 "ellenőrző</link></application> javítja a kijelölt szövegrész helyesírását, "
 "és automatikusan jelöli a hibákat a dokumentumban."
 
 #: C/xed.xml:1385(para)
 msgid ""
-"<application><link linkend=\"xed-tag-list-plugin\">Tag List</link></"
+"<application><link linkend=\"Techo-tag-list-plugin\">Tag List</link></"
 "application> lets you insert commonly-used tags for HTML and other languages "
 "from a list in the side pane."
 msgstr ""
-"Az <application><link linkend=\"xed-tag-list-plugin\">Elemlista</link></"
+"Az <application><link linkend=\"Techo-tag-list-plugin\">Elemlista</link></"
 "application> lehetővé teszi gyakran használt HTML és más nyelvi elemek "
 "beszúrását az oldalsó ablaktáblán megjelenő felsorolásból."
 
 #: C/xed.xml:1389(para)
 msgid ""
 "For more information on creating plugins, see the <ulink type=\"http\" url="
-"\"http://live.gnome.org/Xed/Plugins\"><application>xed</application> "
+"\"http://live.gnome.org/Techo/Plugins\"><application>Techo</application> "
 "website</ulink>."
 msgstr ""
 "A bővítménykészítésről további angol nyelvű információt a <ulink type=\"http"
-"\" url=\"http://live.gnome.org/Xed/Plugins\"><application>xed</"
+"\" url=\"http://live.gnome.org/Techo/Plugins\"><application>Techo</"
 "application> weblapon</ulink> találhat."
 
 #: C/xed.xml:1393(title)
@@ -2938,7 +2938,7 @@ msgstr "A dokumentum mérete bájtban mérve."
 
 #: C/xed.xml:1467(para)
 msgid ""
-"You can continue to update the <application>xed</application> file while "
+"You can continue to update the <application>Techo</application> file while "
 "the <guilabel>Document Statistics</guilabel> dialog is open. To refresh the "
 "contents of the <guilabel>Document Statistics</guilabel> dialog, click "
 "<guibutton>Update</guibutton>."
@@ -2955,7 +2955,7 @@ msgstr "Külső eszközök bővítmény"
 #: C/xed.xml:1475(para)
 msgid ""
 "The <application>External Tools</application> plugin allows you to execute "
-"external commands from <application>xed</application>. You can pipe some "
+"external commands from <application>Techo</application>. You can pipe some "
 "content into a command and exploit its output (for example, "
 "<application>sed</application>), or launch a predefined command (for "
 "example, <application>make</application>)."
@@ -3079,12 +3079,12 @@ msgstr "Parancsok"
 
 #: C/xed.xml:1527(para)
 msgid ""
-"The actual commands to be run. Several <application>xed</application> "
+"The actual commands to be run. Several <application>Techo</application> "
 "environment variables can be used to pass content to these commands: see "
-"<xref linkend=\"xed-external-tools-plugin-variables\"/>."
+"<xref linkend=\"Techo-external-tools-plugin-variables\"/>."
 msgstr ""
-"A futtatandó parancsok. Néhány <application>xed</application> környezeti "
-"változó is használható. Lásd <xref linkend=\"xed-external-tools-plugin-"
+"A futtatandó parancsok. Néhány <application>Techo</application> környezeti "
+"változó is használható. Lásd <xref linkend=\"Techo-external-tools-plugin-"
 "variables\"/>."
 
 #: C/xed.xml:1530(term)
@@ -3250,7 +3250,7 @@ msgstr ""
 
 #: C/xed.xml:1598(para)
 msgid ""
-"To open a file in <application>xed</application>, double-click it in the "
+"To open a file in <application>Techo</application>, double-click it in the "
 "file list."
 msgstr ""
 "Egy fájl <application>xedben</application> való megnyitásához kattintson "
@@ -3323,11 +3323,11 @@ msgstr ""
 msgid ""
 "The amount of space used, and whether tab character or space characters are "
 "used, depends on the <guilabel>Tab Stops</guilabel> settings in the Editor "
-"Preferences: see <xref linkend=\"xed-prefs-editor\"/>."
+"Preferences: see <xref linkend=\"Techo-prefs-editor\"/>."
 msgstr ""
 "A behúzáshoz használt szóközök száma, illetve a tabulátor karakter "
 "használata a <guilabel>Tabulátorok</guilabel> beállításától függ, ami a "
-"Beállítások ablak Szerkesztő lapján található. Lásd <xref linkend=\"xed-"
+"Beállítások ablak Szerkesztő lapján található. Lásd <xref linkend=\"Techo-"
 "prefs-editor\"/>."
 
 #: C/xed.xml:1630(title)
@@ -3356,23 +3356,23 @@ msgstr ""
 msgid ""
 "If you have not configured the Insert Date/Time plugin to automatically "
 "insert the date/time without prompting you for the format, "
-"<application>xed</application> displays the <guilabel>Insert Date and "
+"<application>Techo</application> displays the <guilabel>Insert Date and "
 "Time</guilabel> dialog. Select the appropriate date/time format from the "
 "list. Click <guibutton>Insert</guibutton> to close the <guilabel>Insert Date "
-"and Time</guilabel> dialog. <application>xed</application> inserts the "
+"and Time</guilabel> dialog. <application>Techo</application> inserts the "
 "date/time at the cursor position in the current file."
 msgstr ""
 "Ha nem állította be, hogy a Dátum és idő beszúrása bővítmény kérdés nélkül "
-"egy bizonyos dátum- és időformátumot használjon, a <application>xed</"
+"egy bizonyos dátum- és időformátumot használjon, a <application>Techo</"
 "application> egy <guilabel>Dátum és idő beszúrása</guilabel> című ablakot "
 "jelenít meg. Válassza ki a kívánt formátumot a felsorolásból. Kattintson a "
 "<guibutton>Beszúrás</guibutton> gombra a <guilabel>Dátum és idő beszúrása</"
-"guilabel> ablak bezárásához. A <application>xed</application> beszúrja a "
+"guilabel> ablak bezárásához. A <application>Techo</application> beszúrja a "
 "az aktuális dátumot és időt a kurzorhoz."
 
 #: C/xed.xml:1635(para)
 msgid ""
-"If you have configured <application>xed</application> to use one "
+"If you have configured <application>Techo</application> to use one "
 "particular date/time format, the <guilabel>Insert Date and Time</guilabel> "
 "dialog is not displayed. The date/time is automatically entered at the "
 "cursor position in the current file."
@@ -3416,18 +3416,18 @@ msgstr ""
 
 #: C/xed.xml:1660(para)
 msgid ""
-"To use the same <application>xed</application>-provided date/time format "
+"To use the same <application>Techo</application>-provided date/time format "
 "each time you insert the date/time, select the <guilabel>Use the selected "
 "format</guilabel> option, then select the appropriate format from the list. "
-"When you select this option, <application>xed</application> does not "
+"When you select this option, <application>Techo</application> does not "
 "prompt you for the date/time format when you choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Insert Date and Time</"
 "guimenuitem></menuchoice>."
 msgstr ""
-"A dátum és idő formátumának egy <application>xed</application> által "
+"A dátum és idő formátumának egy <application>Techo</application> által "
 "javasolt formátumra rögzítéséhez válassza az <guilabel>A kiválasztott "
 "formátum használata</guilabel> lehetőséget, majd válassza ki a kívánt "
-"formátumot a listából. Ha ezt a lehetőséget választja, a <application>xed</"
+"formátumot a listából. Ha ezt a lehetőséget választja, a <application>Techo</"
 "application> nem fogja megkérdezni a <menuchoice><guimenu>Szerkesztés</"
 "guimenu><guimenuitem>Dátum és idő beszúrása</guimenuitem></menuchoice> "
 "menüpont kiválasztásakor a beszúrandó formátumot."
@@ -3440,7 +3440,7 @@ msgid ""
 "specify a custom format, see <ulink url=\"man:strftime\" type=\"man"
 "\"><citerefentry><refentrytitle>strftime</refentrytitle><manvolnum>3</"
 "manvolnum></citerefentry></ulink>. When you select this option, "
-"<application>xed</application> does not prompt you for the date/time "
+"<application>Techo</application> does not prompt you for the date/time "
 "format when you choose <menuchoice><guimenu>Edit</"
 "guimenu><guimenuitem>Insert Date and Time</guimenuitem></menuchoice>."
 msgstr ""
@@ -3449,7 +3449,7 @@ msgstr ""
 "a szövegmezőbe. Ennek módjáról a <ulink url=\"man:strftime\" type=\"man"
 "\"><citerefentry><refentrytitle>strftime</refentrytitle><manvolnum></"
 "manvolnum></citerefentry></ulink> oldalon olvashat. Ha ezt a lehetőséget "
-"választja, a <application>xed</application> nem fogja megkérdezni a "
+"választja, a <application>Techo</application> nem fogja megkérdezni a "
 "<menuchoice><guimenu>Szerkesztés</guimenu><guimenuitem>Dátum és idő "
 "beszúrása</guimenuitem></menuchoice> menüpont kiválasztásakor a beszúrandó "
 "formátumot."
@@ -3479,12 +3479,12 @@ msgid ""
 "The <application>Modelines</application> plugin allows you to set "
 "preferences for individual documents. A <firstterm>modeline</firstterm> is a "
 "line of text at the start or end of the document with settings that "
-"<application>xed</application> recognises."
+"<application>Techo</application> recognises."
 msgstr ""
 "A <application>Módsorok</application> bővítmény lehetővé teszi a "
 "dokumentumonkénti szerkesztésibeállítás-megadást. <firstterm>Módsor</"
 "firstterm> alatt egy olyan sornyi szöveg a dokumentum elején vagy végén, "
-"amely a <application>xed</application> által értelmezhető beállításokat "
+"amely a <application>Techo</application> által értelmezhető beállításokat "
 "tartalmaz."
 
 #: C/xed.xml:1680(para)
@@ -3604,7 +3604,7 @@ msgstr "Python konzol bővítmény"
 #: C/xed.xml:1721(para)
 msgid ""
 "The <application>Python Console</application> Plugin allows you to run "
-"commands in the python programming language from <application>xed</"
+"commands in the python programming language from <application>Techo</"
 "application>. Enabling the plugin adds a tab to the bottom pane. This shows "
 "recent output and a command prompt field."
 msgstr ""
@@ -3616,11 +3616,11 @@ msgstr ""
 #: C/xed.xml:1722(para)
 msgid ""
 "Commands entered into the python console are not checked before they are "
-"run. It is therefore possible to hang <application>xed</application>, for "
+"run. It is therefore possible to hang <application>Techo</application>, for "
 "example by entering an infinite loop."
 msgstr ""
 "A konzolra beírt parancsok nem kerülnek végrehajtás előtt ellenőrzésre. A "
-"<application>xed</application> kiakasztása is lehetséges, például egy "
+"<application>Techo</application> kiakasztása is lehetséges, például egy "
 "végtelen ciklusba való belépéssel."
 
 #: C/xed.xml:1726(title)
@@ -3650,7 +3650,7 @@ msgstr ""
 
 #: C/xed.xml:1729(para)
 msgid ""
-"A number of built-in snippets are installed with <application>xed</"
+"A number of built-in snippets are installed with <application>Techo</"
 "application>, which can be modified."
 msgstr ""
 "Számos beépített töredék érkezik a <application>xedtel</application>, "
@@ -3742,11 +3742,11 @@ msgstr "Töredék szövege"
 #: C/xed.xml:1760(para)
 msgid ""
 "Enter the text of the snippet in the <guilabel>Edit snippet</guilabel> text "
-"box. For special codes you can use, see <xref linkend=\"xed-snippets-"
+"box. For special codes you can use, see <xref linkend=\"Techo-snippets-"
 "plugin-syntax\"/>."
 msgstr ""
 "Írja be a töredék szövegét a <guilabel>Töredék szerkesztése</guilabel> "
-"szövegdobozba. A speciális kódokról lásd <xref linkend=\"xed-snippets-"
+"szövegdobozba. A speciális kódokról lásd <xref linkend=\"Techo-snippets-"
 "plugin-syntax\"/>."
 
 #: C/xed.xml:1761(para)
@@ -3926,11 +3926,11 @@ msgstr "Környezeti változók"
 msgid ""
 "Environmental variable such as <literal>$PATH</literal> and <literal>$HOME</"
 "literal> are substituted in snippet text. The following variables specific "
-"to <application>xed</application> can also be used:"
+"to <application>Techo</application> can also be used:"
 msgstr ""
 "A környezeti változók – mint a <literal>$PATH</literal> és a <literal>$HOME</"
 "literal> – behelyettesítésre kerülnek a töredék szövegében. A következő "
-"<application>xed</application>-specifikus változók érhetőek el:"
+"<application>Techo</application>-specifikus változók érhetőek el:"
 
 #: C/xed.xml:1819(term)
 msgid "$XED_SELECTED_TEXT"
@@ -4130,7 +4130,7 @@ msgstr "Helyesírás-ellenőrző bővítmény"
 #: C/xed.xml:1901(para)
 msgid ""
 "The <application>Spell Checker</application> plugin checks the spelling in "
-"the selected text. You can configure <application>xed</application> to "
+"the selected text. You can configure <application>Techo</application> to "
 "check the spelling automatically, or you can check the spelling manually, in "
 "the specified language. The language setting, and the autocheck spelling "
 "properties, apply per document. To use the Spell checker plugin, perform the "
@@ -4165,7 +4165,7 @@ msgid ""
 "guimenu><guimenuitem>Autocheck Spelling</guimenuitem></menuchoice> again. "
 "When automatic spell checking is set, an icon is displayed beside the "
 "<guimenuitem>Autocheck Spelling</guimenuitem> menu item. Automatic spell "
-"checking is unset by default, each time <application>xed</application> "
+"checking is unset by default, each time <application>Techo</application> "
 "starts."
 msgstr ""
 "A helyesírás automatikus ellenőrzéséhez válassza az "
@@ -4176,7 +4176,7 @@ msgstr ""
 "menuchoice> menüpontot. Amennyiben be van kapcsolva, az "
 "<guimenuitem>Helyesírás automatikus ellenőrzése</guimenuitem> menüpont "
 "mellett megjelenik egy pipa. A helyesírás automatikus ellenőrzése a "
-"<application>xed</application> minden indításakor automatikusan ki van "
+"<application>Techo</application> minden indításakor automatikusan ki van "
 "kapcsolva."
 
 #: C/xed.xml:1907(para)
@@ -4214,12 +4214,12 @@ msgid ""
 "longer flagged as unknown but are not added to your personal dictionary, "
 "select <menuchoice><guimenu>Spelling Suggestions</"
 "guimenu><guimenuitem>Ignore All</guimenuitem></menuchoice>. The unknown word "
-"is ignored in the current <application>xed</application> session only."
+"is ignored in the current <application>Techo</application> session only."
 msgstr ""
 "A hibajelzés megszüntetéséhez a hibásnak jelzett szó minden előfordulásánál "
 "válassza a <menuchoice><guimenu>Helyesírási javaslatok</"
 "guimenu><guimenuitem>Mindet átugorja</guimenuitem></menuchoice> menüpontot. "
-"Így a szó nem kerül be a személyes szótárba, de <application>xed</"
+"Így a szó nem kerül be a személyes szótárba, de <application>Techo</"
 "application> munkamenet végéig nem lesz hibásnak jelölve."
 
 #: C/xed.xml:1921(para)
@@ -4289,12 +4289,12 @@ msgid ""
 "To ignore the current occurrence of the unknown word, click "
 "<guibutton>Ignore</guibutton>. To ignore all occurrences of the unknown "
 "word, click <guibutton>Ignore All</guibutton>. The unknown word is ignored "
-"in the current <application>xed</application> session only."
+"in the current <application>Techo</application> session only."
 msgstr ""
 "A hibásnak jelölt szó jelen előfordulásának figyelmen kívül hagyásához "
 "kattintson a <guibutton>Kihagyás</guibutton> gombra. A szó összes "
 "előfordulásának figyelmen kívül hagyásához kattintson a <guibutton>Mindet "
-"kihagyja</guibutton> gombra. A szó csak a jelenlegi <application>xed</"
+"kihagyja</guibutton> gombra. A szó csak a jelenlegi <application>Techo</"
 "application> munkamenetben kerül figyelmen kívül hagyásra."
 
 #: C/xed.xml:1940(para)

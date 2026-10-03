@@ -13,7 +13,7 @@
 # NB.  Farveskemaer som henvises til nedenfor kommer fra gtksourceview
 msgid ""
 msgstr ""
-"Project-Id-Version: xed Manual V.2.16\n"
+"Project-Id-Version: Techo Manual V.2.16\n"
 "POT-Creation-Date: 2010-03-28 23:52+0200\n"
 "PO-Revision-Date: 2010-03-28 19:08+0200\n"
 "Last-Translator: Ask Hjorth Larsen <asklarsen@gmail.com>\n"
@@ -230,9 +230,9 @@ msgstr "Baris"
 
 #: ../C/xed.xml:85(surname)
 msgid ""
-"Cicek provided information from earlier revisions of the xed application."
+"Cicek provided information from earlier revisions of the Techo application."
 msgstr ""
-"Cicek bidrog med information fra tidligere versioner af programmet xed."
+"Cicek bidrog med information fra tidligere versioner af programmet Techo."
 
 #: ../C/xed.xml:86(contrib) ../C/xed.xml:91(contrib)
 msgid "Acknowledgements"
@@ -247,16 +247,16 @@ msgid "George provided information about plugins."
 msgstr "George bidrog med information om udvidelsesmoduler."
 
 #: ../C/xed.xml:115(revnumber)
-msgid "xed V1.0"
-msgstr "xed v. 1.0"
+msgid "Techo V1.0"
+msgstr "Techo v. 1.0"
 
 #: ../C/xed.xml:118(para)
 msgid "Eric Baudais <email>baudais@okstate.edu</email>"
 msgstr "Eric Baudais <email>baudais@okstate.edu</email>"
 
 #: ../C/xed.xml:124(revnumber)
-msgid "xed Manual V2.0"
-msgstr "Manual til xed v. 2.0"
+msgid "Techo Manual V2.0"
+msgstr "Manual til Techo v. 2.0"
 
 #: ../C/xed.xml:125(date)
 msgid "March 2002"
@@ -269,76 +269,76 @@ msgid "Sun MATE Documentation Team"
 msgstr "Sun MATE-dokumentationsholdet"
 
 #: ../C/xed.xml:132(revnumber)
-msgid "xed Manual V2.1"
-msgstr "Manual til xed v. 2.1"
+msgid "Techo Manual V2.1"
+msgstr "Manual til Techo v. 2.1"
 
 #: ../C/xed.xml:133(date)
 msgid "June 2002"
 msgstr "Juni 2002"
 
 #: ../C/xed.xml:140(revnumber)
-msgid "xed Manual V2.2"
-msgstr "Manual til xed v. 2.2"
+msgid "Techo Manual V2.2"
+msgstr "Manual til Techo v. 2.2"
 
 #: ../C/xed.xml:141(date)
 msgid "August 2002"
 msgstr "August 2002"
 
 #: ../C/xed.xml:148(revnumber)
-msgid "xed Manual V2.3"
-msgstr "Manual til xed v. 2.3"
+msgid "Techo Manual V2.3"
+msgstr "Manual til Techo v. 2.3"
 
 #: ../C/xed.xml:149(date)
 msgid "September 2002"
 msgstr "September 2002"
 
 #: ../C/xed.xml:156(revnumber)
-msgid "xed Manual V2.4"
-msgstr "Manual til xed v. 2.4"
+msgid "Techo Manual V2.4"
+msgstr "Manual til Techo v. 2.4"
 
 #: ../C/xed.xml:157(date)
 msgid "January 2003"
 msgstr "Januar 2003"
 
 #: ../C/xed.xml:164(revnumber)
-msgid "xed Manual V2.5"
-msgstr "Manual til xed v. 2.5"
+msgid "Techo Manual V2.5"
+msgstr "Manual til Techo v. 2.5"
 
 #: ../C/xed.xml:165(date)
 msgid "March 2003"
 msgstr "Marts 2003"
 
 #: ../C/xed.xml:172(revnumber)
-msgid "xed Manual V2.6"
-msgstr "Manual til xed v. 2.6"
+msgid "Techo Manual V2.6"
+msgstr "Manual til Techo v. 2.6"
 
 #: ../C/xed.xml:173(date)
 msgid "September 2003"
 msgstr "September 2003"
 
 #: ../C/xed.xml:180(revnumber)
-msgid "xed Manual V2.7"
-msgstr "Manual til xed v. 2.7"
+msgid "Techo Manual V2.7"
+msgstr "Manual til Techo v. 2.7"
 
 #: ../C/xed.xml:181(date)
 msgid "March 2004"
 msgstr "Marts 2004"
 
 #: ../C/xed.xml:188(revnumber)
-msgid "xed Manual V2.8"
-msgstr "Manual til xed v. 2.8"
+msgid "Techo Manual V2.8"
+msgstr "Manual til Techo v. 2.8"
 
 #: ../C/xed.xml:196(revnumber)
-msgid "xed Manual V2.9"
-msgstr "Manual til xed v. 2.9"
+msgid "Techo Manual V2.9"
+msgstr "Manual til Techo v. 2.9"
 
 #: ../C/xed.xml:199(para)
 msgid "MATE Documentation Team"
 msgstr "MATE-dokumentationsholdet"
 
 #: ../C/xed.xml:204(releaseinfo)
-msgid "This manual describes version 2.16 of xed."
-msgstr "Denne manual beskriver version 2.16 af xed."
+msgid "This manual describes version 2.16 of Techo."
+msgstr "Denne manual beskriver version 2.16 af Techo."
 
 #: ../C/xed.xml:207(title)
 msgid "Feedback"
@@ -346,30 +346,30 @@ msgstr "Feedback"
 
 #: ../C/xed.xml:208(para)
 msgid ""
-"To report a bug or make a suggestion regarding the <application>xed</"
+"To report a bug or make a suggestion regarding the <application>Techo</"
 "application> application or this manual, follow the directions in the <ulink "
 "url=\"help:user-guide?feedback-bugs\" type=\"help\">MATE Feedback Page</"
 "ulink>."
 msgstr ""
 "For at rapportere fejl eller foreslå forbedringer vedrørende programmet "
-"<application>xed</application> eller denne manual, bør du følge "
+"<application>Techo</application> eller denne manual, bør du følge "
 "instruktionerne på <ulink url=\"help:user-guide?feedback-bugs\" type=\"help"
 "\">MATE-Feedbacksiden</ulink>."
 
 #: ../C/xed.xml:213(para)
 msgid ""
-"xed is a text editor for the MATE Desktop featuring basic yet robust "
+"Techo is a text editor for the MATE Desktop featuring basic yet robust "
 "capabilities such as printing, spell checking, find and replace, and syntax "
 "highlighting. More advanced features are available as plugins."
 msgstr ""
-"xed er et tekstredigeringsprogram for MATE-skrivebordet med basal men "
+"Techo er et tekstredigeringsprogram for MATE-skrivebordet med basal men "
 "robust funktionalitet såsom udskrivning, stavekontrol, søg og erstat og "
 "synteksfremhævning. Mere avanceret funktionalitet er tilgængelig i form af "
 "udvidelsesmoduler."
 
 #: ../C/xed.xml:218(primary)
-msgid "xed"
-msgstr "xed"
+msgid "Techo"
+msgstr "Techo"
 
 #: ../C/xed.xml:219(primary)
 msgid "text editor"
@@ -381,20 +381,20 @@ msgstr "Introduktion"
 
 #: ../C/xed.xml:229(para)
 msgid ""
-"The <application>xed</application> application enables you to create and "
+"The <application>Techo</application> application enables you to create and "
 "edit text files."
 msgstr ""
-"Programmet <application>xed</application> gør dig i stand til at oprette "
+"Programmet <application>Techo</application> gør dig i stand til at oprette "
 "og redigere i tekstfiler."
 
 #: ../C/xed.xml:231(para)
 msgid ""
-"The aim of <application>xed</application> is to be a simple and easy to "
+"The aim of <application>Techo</application> is to be a simple and easy to "
 "use text editor. More powerful features can be enabled with different "
 "<firstterm>plugins</firstterm>, allowing a variety of tasks related to text-"
 "editing."
 msgstr ""
-"Målet med <application>xed</application> er, at det skal være et simpelt "
+"Målet med <application>Techo</application> er, at det skal være et simpelt "
 "tekstredigeringsprogram, som er let at bruge. Mere avancerede funktioner kan "
 "aktiveres ved hjælp af diverse <firstterm>udvidelsesmoduler</firstterm>, som "
 "kan give programmet mange nye tekstredigeringsrelaterede funktioner."
@@ -404,12 +404,12 @@ msgid "Getting Started"
 msgstr "Kom godt i gang"
 
 #: ../C/xed.xml:239(title)
-msgid "Starting xed"
-msgstr "Opstart af xed"
+msgid "Starting Techo"
+msgstr "Opstart af Techo"
 
 #: ../C/xed.xml:240(para)
-msgid "You can start <application>xed</application> in the following ways:"
-msgstr "Du kan starte <application>xed</application> på følgende måder:"
+msgid "You can start <application>Techo</application> in the following ways:"
+msgstr "Du kan starte <application>Techo</application> på følgende måder:"
 
 #: ../C/xed.xml:243(term)
 msgid "<guimenu>Applications</guimenu> menu"
@@ -428,42 +428,42 @@ msgid "Command line"
 msgstr "Kommandolinje"
 
 #: ../C/xed.xml:251(para)
-msgid "Execute the following command: <command>xed</command>"
-msgstr "Udfør den følgende kommando: <command>xed</command>"
+msgid "Execute the following command: <command>techo</command>"
+msgstr "Udfør den følgende kommando: <command>techo</command>"
 
 #: ../C/xed.xml:255(para)
 msgid ""
-"By default, when you open a text document in the file manager, xed will "
+"By default, when you open a text document in the file manager, Techo will "
 "start, and display the document."
 msgstr ""
-"Som standard, når du åbner et tekstdokument, vil xed starte op og vise "
+"Som standard, når du åbner et tekstdokument, vil Techo starte op og vise "
 "dokumentets indhold."
 
 #: ../C/xed.xml:260(title)
-msgid "The xed Window"
-msgstr "xed-vinduet"
+msgid "The Techo Window"
+msgstr "Techo-vinduet"
 
 #: ../C/xed.xml:261(para)
 msgid ""
-"When you start <application>xed</application>, the following window is "
+"When you start <application>Techo</application>, the following window is "
 "displayed:"
 msgstr ""
-"Når du starter <application>xed</application>, vil det følgende vindue "
+"Når du starter <application>Techo</application>, vil det følgende vindue "
 "blive vist:"
 
 #: ../C/xed.xml:264(title)
-msgid "xed Window"
-msgstr "xed-vindue"
+msgid "Techo Window"
+msgstr "Techo-vindue"
 
 #: ../C/xed.xml:270(phrase)
-msgid "Shows xed main window."
+msgid "Shows Techo main window."
 msgstr "Viser xeds hovedvindue."
 
 #: ../C/xed.xml:276(para)
 msgid ""
-"The <application>xed</application> window contains the following elements:"
+"The <application>Techo</application> window contains the following elements:"
 msgstr ""
-"<application>xed</application>-vinduet indeholder følgende elementer:"
+"<application>Techo</application>-vinduet indeholder følgende elementer:"
 
 #: ../C/xed.xml:279(term)
 msgid "Menubar"
@@ -472,10 +472,10 @@ msgstr "Menulinje"
 #: ../C/xed.xml:281(para)
 msgid ""
 "The menus on the menubar contain all of the commands you need to work with "
-"files in <application>xed</application>."
+"files in <application>Techo</application>."
 msgstr ""
 "Menuerne på menulinjen indeholder alle de kommandoer du behøver for at kunne "
-"arbejde med filer i <application>xed</application>."
+"arbejde med filer i <application>Techo</application>."
 
 #: ../C/xed.xml:284(term)
 msgid "Toolbar"
@@ -503,11 +503,11 @@ msgstr "Statuslinje"
 
 #: ../C/xed.xml:296(para)
 msgid ""
-"The statusbar displays information about current <application>xed</"
+"The statusbar displays information about current <application>Techo</"
 "application> activity and contextual information about the menu items. The "
 "statusbar also displays the following information:"
 msgstr ""
-"Statuslinjen viser information om nuværende aktivitet i <application>xed</"
+"Statuslinjen viser information om nuværende aktivitet i <application>Techo</"
 "application> samt kontekstuel information om menuobjekterne. Statuslinjen "
 "viser også den følgende information:"
 
@@ -582,40 +582,40 @@ msgstr ""
 
 #: ../C/xed.xml:320(para)
 msgid ""
-"When you right-click in the <application>xed</application> window, the "
+"When you right-click in the <application>Techo</application> window, the "
 "application displays a popup menu. The popup menu contains the most common "
 "text editing commands."
 msgstr ""
-"Når du højreklikker i <application>xed</application>-vinduet, viser "
+"Når du højreklikker i <application>Techo</application>-vinduet, viser "
 "programmet en popup-menu. Popup-menuen indeholder de oftest brugte "
 "tekstredigeringskommandoer."
 
 #: ../C/xed.xml:322(para)
 msgid ""
-"Like other MATE applications, actions in <application>xed</application> "
+"Like other MATE applications, actions in <application>Techo</application> "
 "can be performed in several ways: with the menu, with the toolbar, or with "
 "shortcut keys. Shortcuts keys common to all applications are listed in the "
 "<ulink type=\"help\" url=\"help:user-guide?shortcuts-apps\">User Guide</"
 "ulink>."
 msgstr ""
-"Ligesom i andre MATE-programmer kan handlinger i <application>xed</"
+"Ligesom i andre MATE-programmer kan handlinger i <application>Techo</"
 "application> udføres på flere forskellige måder: med menuen, med "
 "værktøjslinjen eller med genvejstasterne. Genvejstaster, som er generelle "
 "for alle programmer, er vist i <ulink type=\"help\" url=\"help:user-guide?"
 "shortcuts-apps\">brugervejledningen</ulink>."
 
 #: ../C/xed.xml:327(title)
-msgid "Running xed from a Command Line"
-msgstr "Opstart af xed fra en kommandolinje"
+msgid "Running Techo from a Command Line"
+msgstr "Opstart af Techo fra en kommandolinje"
 
 # Er lidt usikker på hvad tasten officielt hedder på dansk, men jeg og alle jeg kender har altid brugt "Enter"
 #: ../C/xed.xml:328(para)
 msgid ""
-"You can run <application>xed</application> from a command line and open a "
+"You can run <application>Techo</application> from a command line and open a "
 "single file or multiple files. To open multiple files from a command line, "
 "type the following command, then press <keycap>Return</keycap>:"
 msgstr ""
-"Du kan køre <application>xed</application> fra en kommandolinje og åbne en "
+"Du kan køre <application>Techo</application> fra en kommandolinje og åbne en "
 "enkelt eller flere filer. For at åbne flere filer fra en kommandolinje skal "
 "du skrive den følgende kommando og afslutte med et tryk på <keycap>Enter</"
 "keycap>:"
@@ -626,8 +626,8 @@ msgstr "fil1.txt fil2.txt fil3.txt"
 
 # Kommando, bør næppe oversættes
 #: ../C/xed.xml:329(command)
-msgid "xed <placeholder-1/>"
-msgstr "xed <placeholder-1/>"
+msgid "Techo <placeholder-1/>"
+msgstr "Techo <placeholder-1/>"
 
 #: ../C/xed.xml:330(para)
 msgid "Alternatively, you can specify a URI instead of a filename."
@@ -635,14 +635,14 @@ msgstr "Alternativt kan du angive en URI i stedet for et filnavn."
 
 #: ../C/xed.xml:331(para)
 msgid ""
-"For more information on how to run <application>xed</application> from a "
-"command line, see the unix manual page for xed, <ulink url=\"man:xed\" "
-"type=\"man\"><citerefentry><refentrytitle>xed</refentrytitle><manvolnum>1</"
+"For more information on how to run <application>Techo</application> from a "
+"command line, see the unix manual page for Techo, <ulink url=\"man:techo\" "
+"type=\"man\"><citerefentry><refentrytitle>Techo</refentrytitle><manvolnum>1</"
 "manvolnum></citerefentry></ulink>."
 msgstr ""
-"For yderligere information om hvordan du kører <application>xed</"
+"For yderligere information om hvordan du kører <application>Techo</"
 "application> fra en kommandolinje, se programmets unix-manual, <ulink url="
-"\"man:xed\" type=\"man\"><citerefentry><refentrytitle>xed</"
+"\"man:techo\" type=\"man\"><citerefentry><refentrytitle>Techo</"
 "refentrytitle><manvolnum>1</manvolnum></citerefentry></ulink>."
 
 #: ../C/xed.xml:336(title)
@@ -657,11 +657,11 @@ msgstr "Opret et nyt dokument"
 msgid ""
 "To create a new document, choose <menuchoice><guimenu>File</"
 "guimenu><guimenuitem>New</guimenuitem></menuchoice>. The application "
-"displays a new blank document in the <application>xed</application> window."
+"displays a new blank document in the <application>Techo</application> window."
 msgstr ""
 "For at oprette et nyt dokument skal du vælge <menuchoice><guimenu>Fil</"
 "guimenu><guimenuitem>Ny</guimenuitem></menuchoice>. Programmet viser et nyt, "
-"tomt dokument i <application>xed</application>-vinduet."
+"tomt dokument i <application>Techo</application>-vinduet."
 
 #: ../C/xed.xml:346(title) ../C/xed.xml:1589(title)
 msgid "Opening a File"
@@ -672,14 +672,14 @@ msgid ""
 "To open a file, choose <menuchoice><guimenu>File</guimenu><guimenuitem>Open</"
 "guimenuitem></menuchoice> to display the <guilabel>Open File</guilabel> "
 "dialog. Select the file that you want to open, then click <guibutton>Open</"
-"guibutton>. The file is displayed in the <application>xed</application> "
+"guibutton>. The file is displayed in the <application>Techo</application> "
 "window."
 msgstr ""
 "Hvis du vil åbne en eksisterende fil skal du vælge <menuchoice><guimenu>Fil</"
 "guimenu><guimenuitem>Åbn...</guimenuitem></menuchoice> for at vise dialogen "
 "<guilabel>Åbn filer</guilabel>. Vælg den fil som du ønsker at åbne og klik "
 "derefter på <guibutton>Åbn</guibutton>. Filen vises herefter i "
-"<application>xed</application>-vinduet."
+"<application>Techo</application>-vinduet."
 
 #: ../C/xed.xml:349(phrase)
 msgid "Shows Recent Files menu icon."
@@ -700,13 +700,13 @@ msgstr ""
 
 #: ../C/xed.xml:351(para)
 msgid ""
-"You can open multiple files in <application>xed</application>. The "
+"You can open multiple files in <application>Techo</application>. The "
 "application adds a tab for each open file to the window. For more on this "
-"see <xref linkend=\"xed-tabs\"/>."
+"see <xref linkend=\"Techo-tabs\"/>."
 msgstr ""
-"Du kan åbne flere filer i <application>xed</application>. Programmet "
+"Du kan åbne flere filer i <application>Techo</application>. Programmet "
 "tilføjer et ekstra faneblad i vinduet for hver åben fil. Se <xref linkend="
-"\"xed-tabs\"/> for yderligere information."
+"\"Techo-tabs\"/> for yderligere information."
 
 #: ../C/xed.xml:357(title)
 msgid "Saving a File"
@@ -740,23 +740,23 @@ msgstr ""
 
 #: ../C/xed.xml:364(para)
 msgid ""
-"To save all of the files that are currently open in <application>xed</"
+"To save all of the files that are currently open in <application>Techo</"
 "application>, choose <menuchoice><guimenu>Documents</"
 "guimenu><guimenuitem>Save All</guimenuitem></menuchoice>."
 msgstr ""
 "Hvis du ønsker at gemme alle de filer, som du i øjeblikket har åbne i "
-"<application>xed</application>, skal du vælge "
+"<application>Techo</application>, skal du vælge "
 "<menuchoice><guimenu>Dokumenter</guimenu><guimenuitem>Gem alle</"
 "guimenuitem></menuchoice>."
 
 #: ../C/xed.xml:367(para)
 msgid ""
-"To close all of the files that are currently open in <application>xed</"
+"To close all of the files that are currently open in <application>Techo</"
 "application>, choose <menuchoice><guimenu>Documents</"
 "guimenu><guimenuitem>Close All</guimenuitem></menuchoice>."
 msgstr ""
 "For at lukke alle de filer, som du i øjeblikket har åbne i "
-"<application>xed</application>, skal du vælge "
+"<application>Techo</application>, skal du vælge "
 "<menuchoice><guimenu>Dokumenter</guimenu><guimenuitem>Luk alle</"
 "guimenuitem></menuchoice>."
 
@@ -824,12 +824,12 @@ msgstr ""
 msgid ""
 "Saving to FTP servers can be enabled with <ulink type=\"help\" url=\"help:"
 "mateconf-editor\"><application>Configuration Editor</application></ulink>, "
-"setting the key <systemitem>/apps/xed/preferences/editor/save/"
+"setting the key <systemitem>/apps/Techo/preferences/editor/save/"
 "writable_vfs_schemes</systemitem>, but this may cause errors."
 msgstr ""
 "At gemme til FTP-servere kan aktiveres med <ulink type=\"help\" url=\"help:"
 "mateconf-editor\"><application>Konfigurationsredigering</application></ulink> "
-"ved at sætte nøglen <systemitem>/apps/xed/preferences/editor/save/"
+"ved at sætte nøglen <systemitem>/apps/Techo/preferences/editor/save/"
 "writable_vfs_schemes</systemitem>, men dette kan give fejlmeddelelser."
 
 #: ../C/xed.xml:395(title)
@@ -838,29 +838,29 @@ msgstr "Arbejde med faneblade"
 
 #: ../C/xed.xml:397(para)
 msgid ""
-"When more than one file is open, <application>xed</application> shows a "
+"When more than one file is open, <application>Techo</application> shows a "
 "<firstterm>tab</firstterm> for each document above the display area. To "
 "switch to another document, click on its tab."
 msgstr ""
-"Når du har mere end en fil åben, viser <application>xed</application> et "
+"Når du har mere end en fil åben, viser <application>Techo</application> et "
 "<firstterm>faneblad</firstterm> for hvert dokument over visningsområdet. For "
 "at skifte til et andet dokument skal du blot klikke på dets faneblad."
 
 #: ../C/xed.xml:398(para)
 msgid ""
-"To move a document to another <application> xed</application> window, drag "
+"To move a document to another <application> Techo</application> window, drag "
 "the tab corresponding to the file to the window you want to move it to."
 msgstr ""
-"For at flytte et dokument til et andet <application>xed</application>-"
+"For at flytte et dokument til et andet <application>Techo</application>-"
 "vindue skal du trække filens faneblad til det vindue du vil flytte den til."
 
 #: ../C/xed.xml:399(para)
 msgid ""
-"To move a document to a new <application> xed</application> window, either "
+"To move a document to a new <application> Techo</application> window, either "
 "drag its tab to the desktop, or choose <menuchoice><guimenu>Documents</"
 "guimenu><guimenuitem>Move to New Window</guimenuitem></menuchoice>."
 msgstr ""
-"For at flytte et dokument til et nyt <application>xed</application>-vindue "
+"For at flytte et dokument til et nyt <application>Techo</application>-vindue "
 "kan du enten trække dets faneblad ud på skrivebordet eller vælge "
 "<menuchoice><guimenu>Dokumenter</guimenu><guimenuitem>Flyt til nyt vindue</"
 "guimenuitem></menuchoice>."
@@ -923,12 +923,12 @@ msgid ""
 "To insert the contents of the clipboard at the cursor position, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste</guimenuitem></"
 "menuchoice>. You must cut or copy text before you can paste text into the "
-"file, either from xed or another application."
+"file, either from Techo or another application."
 msgstr ""
 "For at indsætte indholdet af udklipsholderen på det punkt, hvor markøren er "
 "placeret, skal du vælge <menuchoice><guimenu>Redigér</"
 "guimenu><guimenuitem>Indsæt</guimenuitem></menuchoice>. Du skal klippe eller "
-"kopiere teksten du vil indsætte, enten fra xed eller fra et andet program, "
+"kopiere teksten du vil indsætte, enten fra Techo eller fra et andet program, "
 "før du kan indsætte den i filen."
 
 #: ../C/xed.xml:422(para)
@@ -962,12 +962,12 @@ msgstr "Find og erstat"
 
 #: ../C/xed.xml:436(para)
 msgid ""
-"In <application>xed</application>, there are two ways of searching for "
+"In <application>Techo</application>, there are two ways of searching for "
 "text. You can use the <guilabel>Find</guilabel> dialog to search for a "
 "specific piece of text, or <guilabel>Incremental Search</guilabel> to "
 "highlight matching text as you type it."
 msgstr ""
-"I <application>xed</application> er der to måder at kunne søge efter tekst "
+"I <application>Techo</application> er der to måder at kunne søge efter tekst "
 "på. Du kan bruge dialogen <guilabel>Find</guilabel> til at søge efter et "
 "specifikt stykke tekst, eller <guilabel>Løbende søgning...</guilabel> til at "
 "fremhæve matchende tekst efterhånden som du skriver den."
@@ -993,23 +993,23 @@ msgstr ""
 msgid ""
 "Type the string that you want to find in the <guilabel>Search for</guilabel> "
 "field. You can include special characters such as a new line or tab: see "
-"<xref linkend=\"xed-find-escapes\"/>."
+"<xref linkend=\"Techo-find-escapes\"/>."
 msgstr ""
 "Skriv det tekststykke, som du ønsker at finde, i <guilabel>Søg efter</"
 "guilabel>-feltet. Din søgning kan godt indeholde specielle tegn såsom en ny "
-"linje eller indryk: se <xref linkend=\"xed-find-escapes\"/>."
+"linje eller indryk: se <xref linkend=\"Techo-find-escapes\"/>."
 
 #: ../C/xed.xml:448(para)
 msgid ""
 "Click <guibutton>Find</guibutton> to search the file for the first "
 "occurrence of the string after your current cursor position. If "
-"<application>xed</application> finds the string, the application selects "
+"<application>Techo</application> finds the string, the application selects "
 "first occurrence of the string. Other occurrences of the string are "
 "highlighted."
 msgstr ""
 "Klik <guibutton>Find</guibutton> for at søge i filen efter første sted efter "
 "den nuværende markørposition hvor den ønskede tekst figurerer. Hvis "
-"<application>xed</application> finder teksten, vælger programmet det "
+"<application>Techo</application> finder teksten, vælger programmet det "
 "første sted hvor teksten forekommer. Andre forekomster af teksten fremhæves."
 
 #: ../C/xed.xml:450(para)
@@ -1126,11 +1126,11 @@ msgstr ""
 msgid ""
 "Type the string that you want to find, in the <guilabel>Search for</"
 "guilabel> field. You can include special characters such as a new line or "
-"tab: see <xref linkend=\"xed-find-escapes\"/>."
+"tab: see <xref linkend=\"Techo-find-escapes\"/>."
 msgstr ""
 "Indtast den tekststreng, som du ønsker at finde, i <guilabel>Søg efter</"
 "guilabel>-feltet. Du kan godt bruge specielle tegn såsom ny linje eller "
-"indryk: se <xref linkend=\"xed-find-escapes\"/>."
+"indryk: se <xref linkend=\"Techo-find-escapes\"/>."
 
 #: ../C/xed.xml:476(para)
 msgid ""
@@ -1143,13 +1143,13 @@ msgstr ""
 #: ../C/xed.xml:480(para)
 msgid ""
 "To examine each occurrence of the string before replacing it, click "
-"<guibutton>Find</guibutton>. If <application>xed</application> finds the "
+"<guibutton>Find</guibutton>. If <application>Techo</application> finds the "
 "string, the application selects the string. Click <guibutton>Replace</"
 "guibutton> to replace the selected occurrence of the string. To find the "
 "next occurrence of the string, click <guibutton>Find</guibutton> again."
 msgstr ""
 "For at undersøge hver enkelt forekomst af tekststrengen før du erstatter den "
-"skal du klikke på <guibutton>Find</guibutton>. Hvis <application>xed</"
+"skal du klikke på <guibutton>Find</guibutton>. Hvis <application>Techo</"
 "application> finder teksten markerer programmet den automatisk. Klik på "
 "<guibutton>Erstat</guibutton> for at erstatte den markerede forekomst af "
 "tekststrengen. For at finde den næste forekomst klikker du blot "
@@ -1338,10 +1338,10 @@ msgstr "Udskriv syntaksfremhævning"
 #: ../C/xed.xml:563(para)
 msgid ""
 "Select this option to print syntax highlighting. For more information about "
-"syntax highlighting, see <xref linkend=\"xed-set-highlightmode\"/>."
+"syntax highlighting, see <xref linkend=\"Techo-set-highlightmode\"/>."
 msgstr ""
 "Vælg denne mulighed for at udskrive syntaksfremhævning. Se <xref linkend="
-"\"xed-set-highlightmode\"/> for yderligere information."
+"\"Techo-set-highlightmode\"/> for yderligere information."
 
 #: ../C/xed.xml:566(guilabel)
 msgid "Print page headers"
@@ -1445,10 +1445,10 @@ msgstr ""
 #: ../C/xed.xml:609(para)
 msgid ""
 "To reset the fonts to the default fonts for printing a file from "
-"<application>xed</application>, click <guibutton>Restore Default Fonts</"
+"<application>Techo</application>, click <guibutton>Restore Default Fonts</"
 "guibutton>."
 msgstr ""
-"For at gendanne standardskrifttyperne for udskrifter i <application>xed</"
+"For at gendanne standardskrifttyperne for udskrifter i <application>Techo</"
 "application> skal du klikke på <guibutton>Gendan standardskrifttyper</"
 "guibutton>."
 
@@ -1458,10 +1458,10 @@ msgstr "Udskriv et dokument"
 
 #: ../C/xed.xml:617(para)
 msgid ""
-"You can use <application>xed</application> to perform the following print "
+"You can use <application>Techo</application> to perform the following print "
 "operations:"
 msgstr ""
-"Du kan bruge <application>xed</application> til at udføre følgende "
+"Du kan bruge <application>Techo</application> til at udføre følgende "
 "udskrivningsfunktioner:"
 
 #: ../C/xed.xml:619(para)
@@ -1474,11 +1474,11 @@ msgstr "Udskriv output fra udskrivningskommandoen til en fil."
 
 #: ../C/xed.xml:624(para)
 msgid ""
-"If you print to a file, <application>xed</application> sends the output of "
+"If you print to a file, <application>Techo</application> sends the output of "
 "the file to a pre-press format file. The most common pre-press formats are "
 "PostScript and Portable Document Format (PDF)."
 msgstr ""
-"Hvis du udskriver til en fil vil <application>xed</application> sende "
+"Hvis du udskriver til en fil vil <application>Techo</application> sende "
 "filens output til en præ-pres-formatfil. De mest brugte præ-pres-formater er "
 "PostScript og Portable Document Format (PDF)."
 
@@ -1687,8 +1687,8 @@ msgid "State"
 msgstr "Tilstand"
 
 #: ../C/xed.xml:734(para) ../C/xed.xml:740(para) ../C/xed.xml:746(para)
-msgid "This functionality is not supported in this version of xed."
-msgstr "Denne funktionalitet understøttes ikke i denne version af xed."
+msgid "This functionality is not supported in this version of Techo."
+msgstr "Denne funktionalitet understøttes ikke i denne version af Techo."
 
 #: ../C/xed.xml:738(guilabel)
 msgid "Type"
@@ -1783,15 +1783,15 @@ msgstr "Programmeringsfaciliteter"
 
 #: ../C/xed.xml:801(para)
 msgid ""
-"Several of <application>xed</application>'s features for programming are "
+"Several of <application>Techo</application>'s features for programming are "
 "provided with plugins. For example, the Tag List plugin provides a list of "
-"commonly-used tags for different markup languages: see <xref linkend=\"xed-"
+"commonly-used tags for different markup languages: see <xref linkend=\"Techo-"
 "tag-list-plugin\"/>."
 msgstr ""
-"Flere af <application>xed</application>s programmeringsfaciliteter ydes "
+"Flere af <application>Techo</application>s programmeringsfaciliteter ydes "
 "via udvidelsesmoduler. For eksempel giver Mærkeliste-modulet en liste over "
 "de oftest brugte mærker for diverse opmærkningssprog: se <xref linkend="
-"\"xed-tag-list-plugin\"/>."
+"\"Techo-tag-list-plugin\"/>."
 
 #: ../C/xed.xml:805(title)
 msgid "Syntax Highlighting"
@@ -1807,12 +1807,12 @@ msgstr ""
 
 #: ../C/xed.xml:808(para)
 msgid ""
-"<application>xed</application> chooses an appropriate syntax highlighting "
+"<application>Techo</application> chooses an appropriate syntax highlighting "
 "mode based on a document's type. To override the syntax highlighting mode, "
 "choose <menuchoice><guimenu>View</guimenu><guimenuitem>Highlight Mode</"
 "guimenuitem></menuchoice>, then choose one of the following menu items:"
 msgstr ""
-"<application>xed</application> vælger en passende syntaksfremhævning "
+"<application>Techo</application> vælger en passende syntaksfremhævning "
 "baseret på et dokuments type. For at tvinge en bestemt syntaksfremhævning "
 "igennem skal du vælge <menuchoice><guimenu>Vis</"
 "guimenu><guimenuitem>Fremhævningstilstand</guimenuitem></menuchoice>, og "
@@ -1880,23 +1880,23 @@ msgstr "Videreled et kommandooutput til en fil"
 
 #: ../C/xed.xml:846(para)
 msgid ""
-"You can use <application>xed</application> to pipe the output of a command "
+"You can use <application>Techo</application> to pipe the output of a command "
 "to a text file. For example, to pipe the output of an <command>ls</command> "
-"command to a text file, type <command>ls | xed</command>, then press "
+"command to a text file, type <command>ls | Techo</command>, then press "
 "<keycap>Return</keycap>."
 msgstr ""
-"Du kan bruge <application>xed</application> til at viderelede en kommandos "
+"Du kan bruge <application>Techo</application> til at viderelede en kommandos "
 "output til en tekstfil. Hvis du for eksempel vil viderelede output af en "
 "<command>ls</command>-kommando til en tekstfil skal du skrive <command>ls | "
-"xed</command>, og derefter trykke <keycap>Enter</keycap>."
+"Techo</command>, og derefter trykke <keycap>Enter</keycap>."
 
 #: ../C/xed.xml:847(para)
 msgid ""
 "The output of the <command>ls</command> command is displayed in a new text "
-"file in the <application>xed</application> window."
+"file in the <application>Techo</application> window."
 msgstr ""
 "Output af kommandoen <command>ls</command> vises i en ny tekstfil i "
-"<application>xed</application>-vinduet."
+"<application>Techo</application>-vinduet."
 
 #: ../C/xed.xml:848(para)
 msgid ""
@@ -1913,12 +1913,12 @@ msgstr "Genvejstaster"
 #: ../C/xed.xml:855(para)
 msgid ""
 "Use shortcut keys to perform common tasks more quickly than with the mouse "
-"and menus. The following tables list all of <application>xed</"
+"and menus. The following tables list all of <application>Techo</"
 "application>'s shortcut keys."
 msgstr ""
 "Brug genvejstaster til at udføre almindelige opgaver hurtigere end med musen "
 "og menuerne. De følgende tabeller viser alle tastekombinationerne i "
-"<application>xed</application>."
+"<application>Techo</application>."
 
 #: ../C/xed.xml:856(para)
 msgid ""
@@ -2071,8 +2071,8 @@ msgid "Ctrl + Q"
 msgstr "Ctrl + Q"
 
 #: ../C/xed.xml:952(para)
-msgid "Quit Xed."
-msgstr "Luk xed."
+msgid "Quit Techo."
+msgstr "Luk Techo."
 
 #. ============= Edit =======================
 #: ../C/xed.xml:959(bridgehead) ../C/xed.xml:1406(guimenu)
@@ -2302,8 +2302,8 @@ msgid "F1"
 msgstr "F1"
 
 #: ../C/xed.xml:1142(para)
-msgid "Open <application>xed</application>'s user manual."
-msgstr "Åbn <application>xed</application>s brugermanual."
+msgid "Open <application>Techo</application>'s user manual."
+msgstr "Åbn <application>Techo</application>s brugermanual."
 
 #: ../C/xed.xml:1154(title)
 msgid "Preferences"
@@ -2311,12 +2311,12 @@ msgstr "Indstillinger"
 
 #: ../C/xed.xml:1156(para)
 msgid ""
-"To configure <application>xed</application>, choose "
+"To configure <application>Techo</application>, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Preferences</guimenuitem></"
 "menuchoice>. The <guilabel>Preferences</guilabel> dialog contains the "
 "following categories:"
 msgstr ""
-"For at konfigurere <application>xed</application> skal du vælge "
+"For at konfigurere <application>Techo</application> skal du vælge "
 "<menuchoice><guimenu>Redigér</guimenu><guimenuitem>Indstillinger</"
 "guimenuitem></menuchoice>. Dialogen <guilabel>Indstillinger</guilabel> "
 "indeholder de følgende kategorier:"
@@ -2349,10 +2349,10 @@ msgstr ""
 #: ../C/xed.xml:1177(para)
 msgid ""
 "Select the <guilabel>Display line numbers</guilabel> option to display line "
-"numbers on the left side of the <application>xed</application> window."
+"numbers on the left side of the <application>Techo</application> window."
 msgstr ""
 "Vælg <guilabel>Vis linjenumre</guilabel> for at få vist linjenumre i venstre "
-"side af <application>xed</application>-vinduet."
+"side af <application>Techo</application>-vinduet."
 
 #: ../C/xed.xml:1181(guilabel)
 msgid "Current Line"
@@ -2407,21 +2407,21 @@ msgstr "Redigering"
 #: ../C/xed.xml:1209(para)
 msgid ""
 "Use the <guilabel>Tab width</guilabel> spin box to specify the width of the "
-"space that <application> xed</application> inserts when you press the "
+"space that <application> Techo</application> inserts when you press the "
 "<keycap>Tab</keycap> key."
 msgstr ""
 "Brug rulleboksen <guilabel>Tabulatorbredde</guilabel> til at angive bredde "
-"på det mellemrum, som <application>xed</application> indsætter når du "
+"på det mellemrum, som <application>Techo</application> indsætter når du "
 "trykker på <keycap>Tab</keycap>-tasten."
 
 #: ../C/xed.xml:1210(para)
 msgid ""
 "Select the <guilabel>Insert spaces instead of tabs</guilabel> option to "
-"specify that <application> xed</application> inserts spaces instead of a "
+"specify that <application> Techo</application> inserts spaces instead of a "
 "tab character when you press the <keycap>Tab</keycap> key."
 msgstr ""
 "Vælg <guilabel>Indsæt mellemrum i stedet for tabulatorer</guilabel> for at "
-"angive at <application>xed</application> skal indsætte mellemrumstegn i "
+"angive at <application>Techo</application> skal indsætte mellemrumstegn i "
 "stedet for et enkelt tabulatortegn når du trykker på <keycap>Tab</keycap>-"
 "knappen."
 
@@ -2473,21 +2473,21 @@ msgstr "Skrifttype"
 #: ../C/xed.xml:1235(para)
 msgid ""
 "Select the <guilabel>Use default theme font</guilabel> option to use the "
-"default system font for the text in the <application>xed</application> "
+"default system font for the text in the <application>Techo</application> "
 "text window."
 msgstr ""
 "Vælg <guilabel>Benyt standardskrifttype</guilabel> for at bruge systemets "
-"standardskrifttype til teksten i <application>xed</application>s "
+"standardskrifttype til teksten i <application>Techo</application>s "
 "tekstvindue."
 
 #: ../C/xed.xml:1236(para)
 msgid ""
 "The <guilabel>Editor font</guilabel> field displays the font that "
-"<application>xed</application> uses to display text. Click on the button "
+"<application>Techo</application> uses to display text. Click on the button "
 "to specify the font type, style, and size to use for text."
 msgstr ""
 "Feltet <guilabel>Skrifttype for tekst</guilabel> viser den skrifttype som "
-"<application>xed</application> bruger til at vise tekst. Klik på knappen "
+"<application>Techo</application> bruger til at vise tekst. Klik på knappen "
 "for at angive skrifttype, stil og størrelse til brug på tekst."
 
 #: ../C/xed.xml:1240(guilabel)
@@ -2565,13 +2565,13 @@ msgstr "Udvidelsesmoduler"
 
 #: ../C/xed.xml:1284(para)
 msgid ""
-"Plugins add extra features to <application>xed</application>. For more "
+"Plugins add extra features to <application>Techo</application>. For more "
 "information on plugins and how to use the built-in plugins, see <xref "
-"linkend=\"xed-plugins-overview\"/>."
+"linkend=\"Techo-plugins-overview\"/>."
 msgstr ""
-"Udvidelsesmoduler tilføjer ekstra funktioner til <application>xed</"
+"Udvidelsesmoduler tilføjer ekstra funktioner til <application>Techo</"
 "application>. For yderligere information om udvidelsesmoduler og hvordan man "
-"bruger de indbyggede udvidelsesmoduler kan du læse <xref linkend=\"xed-"
+"bruger de indbyggede udvidelsesmoduler kan du læse <xref linkend=\"Techo-"
 "plugins-overview\"/>."
 
 #: ../C/xed.xml:1288(title)
@@ -2580,10 +2580,10 @@ msgstr "Aktivér et udvidelsesmodul"
 
 #: ../C/xed.xml:1289(para)
 msgid ""
-"To enable a <application>xed</application> plugin, perform the following "
+"To enable a <application>Techo</application> plugin, perform the following "
 "steps:"
 msgstr ""
-"For at aktivere et udvidelsesmodul til <application>xed</application> skal "
+"For at aktivere et udvidelsesmodul til <application>Techo</application> skal "
 "du gøre følgende:"
 
 #: ../C/xed.xml:1292(para) ../C/xed.xml:1313(para)
@@ -2621,17 +2621,17 @@ msgstr "Deaktivér et udvidelsesmodul"
 
 #: ../C/xed.xml:1309(para)
 msgid ""
-"A plugin remains enabled when you quit <application>xed</application>."
+"A plugin remains enabled when you quit <application>Techo</application>."
 msgstr ""
-"Et udvidelsesmodul forbliver aktiveret når du lukker <application>xed</"
+"Et udvidelsesmodul forbliver aktiveret når du lukker <application>Techo</"
 "application>."
 
 #: ../C/xed.xml:1310(para)
 msgid ""
-"To disable a <application>xed</application> plugin, perform the following "
+"To disable a <application>Techo</application> plugin, perform the following "
 "steps:"
 msgstr ""
-"For at deaktivere et udvidelsesmodul til <application>xed</application> "
+"For at deaktivere et udvidelsesmodul til <application>Techo</application> "
 "skal du gøre følgende:"
 
 #: ../C/xed.xml:1319(para)
@@ -2652,72 +2652,72 @@ msgstr "Arbejde med udvidelsesmoduler"
 
 #: ../C/xed.xml:1334(para)
 msgid ""
-"You can add extra features to <application>xed</application> by enabling "
+"You can add extra features to <application>Techo</application> by enabling "
 "<firstterm>plugins</firstterm>. A plugin is a supplementary program that "
 "enhances the functionality of an application. Plugins add new items to the "
-"<application>xed</application> menus for the new features they provide."
+"<application>Techo</application> menus for the new features they provide."
 msgstr ""
-"Du kan tilføje ekstra funktioner til <application>xed</application> ved at "
+"Du kan tilføje ekstra funktioner til <application>Techo</application> ved at "
 "aktivere <firstterm>udvidelsesmoduler</firstterm>. Et udvidelsesmodul kan "
 "ses som et supplementprogram som forbedrer et programs funktionalitet. "
-"Udvidelsesmoduler tilføjer nye elementer til menuerne i <application>xed</"
+"Udvidelsesmoduler tilføjer nye elementer til menuerne i <application>Techo</"
 "application> for de nye funktioner som de yder."
 
 #: ../C/xed.xml:1336(para)
 msgid ""
-"Several plugins come built-in with <application>xed</application>, and you "
-"can install more. The <ulink type=\"http\" url=\"http://live.gnome.org/Xed/"
-"Plugins\">xed website</ulink> lists third-party plugins."
+"Several plugins come built-in with <application>Techo</application>, and you "
+"can install more. The <ulink type=\"http\" url=\"http://live.gnome.org/Techo/"
+"Plugins\">Techo website</ulink> lists third-party plugins."
 msgstr ""
-"Flere udvidelsesmoduler kommer indbygget i <application>xed</application>, "
+"Flere udvidelsesmoduler kommer indbygget i <application>Techo</application>, "
 "og du kan installere flere. <ulink type=\"http\" url=\"http://live.gnome.org/"
-"Xed/Plugins\">xeds hjemmeside</ulink> har en liste over "
+"Techo/Plugins\">xeds hjemmeside</ulink> har en liste over "
 "udvidelsesmoduler fra tredjepart."
 
 #: ../C/xed.xml:1337(para)
 msgid ""
 "To enable and disable plugins, or see which plugins are currently enabled, "
-"use the <link linkend=\"xed-prefs-plugins\">Plugins Preferences</link>."
+"use the <link linkend=\"Techo-prefs-plugins\">Plugins Preferences</link>."
 msgstr ""
 "For at aktivere og deaktivere udvidelsesmoduler, eller se hvilke "
 "udvidelsesmoduler der aktuelt er aktiverede, kan du bruge <link linkend="
-"\"xed-prefs-plugins\">indstillingerne for udvidelsesmoduler</link>."
+"\"Techo-prefs-plugins\">indstillingerne for udvidelsesmoduler</link>."
 
 #: ../C/xed.xml:1338(para)
 msgid ""
-"The following plugins come built-in with <application>xed</application>:"
+"The following plugins come built-in with <application>Techo</application>:"
 msgstr ""
-"De følgende udvidelsesmoduler er indbygget i <application>xed</"
+"De følgende udvidelsesmoduler er indbygget i <application>Techo</"
 "application>:"
 
 #: ../C/xed.xml:1344(para)
 msgid ""
-"<link linkend=\"xed-change-case-plugin\"><application>Change Case</"
+"<link linkend=\"Techo-change-case-plugin\"><application>Change Case</"
 "application></link> allows you to change the case of the selected text."
 msgstr ""
-"<link linkend=\"xed-change-case-plugin\"><application>Skift bogstaver</"
+"<link linkend=\"Techo-change-case-plugin\"><application>Skift bogstaver</"
 "application></link> lader dig skifte mellem store/små bogstaver i den "
 "markerede tekst."
 
 #: ../C/xed.xml:1347(para)
 msgid ""
-"<application><link linkend=\"xed-document-statistics-plugin\">Document "
+"<application><link linkend=\"Techo-document-statistics-plugin\">Document "
 "Statistics</link></application> shows the number of lines, words, and "
 "characters in the document."
 msgstr ""
-"<application><link linkend=\"xed-document-statistics-plugin"
+"<application><link linkend=\"Techo-document-statistics-plugin"
 "\">Dokumentstatistik</link></application> viser antallet af linjer, ord og "
 "tegn i dokumentet."
 
 #: ../C/xed.xml:1350(para)
 msgid ""
-"<application><link linkend=\"xed-external-tools-plugin\">External Tools</"
+"<application><link linkend=\"Techo-external-tools-plugin\">External Tools</"
 "link></application> allows you to execute external commands from "
-"<application>xed</application>."
+"<application>Techo</application>."
 msgstr ""
-"<application><link linkend=\"xed-external-tools-plugin\">Eksterne "
+"<application><link linkend=\"Techo-external-tools-plugin\">Eksterne "
 "værktøjer</link></application> lader dig udføre eksterne kommandoer fra "
-"<application>xed</application>."
+"<application>Techo</application>."
 
 #: ../C/xed.xml:1353(para)
 msgid ""
@@ -2729,28 +2729,28 @@ msgstr ""
 
 #: ../C/xed.xml:1356(para)
 msgid ""
-"<application><link linkend=\"xed-indent-lines-plugin\">Indent Lines</"
+"<application><link linkend=\"Techo-indent-lines-plugin\">Indent Lines</"
 "link></application> adds or removes indentation from the selected lines."
 msgstr ""
-"<application><link linkend=\"xed-indent-lines-plugin\">Indryk linjer</"
+"<application><link linkend=\"Techo-indent-lines-plugin\">Indryk linjer</"
 "link></application> tilføjer eller fjerner indrykning af markerede linjer."
 
 #: ../C/xed.xml:1359(para)
 msgid ""
-"<application><link linkend=\"xed-insert-date-time-plugin\">Insert Date/"
+"<application><link linkend=\"Techo-insert-date-time-plugin\">Insert Date/"
 "Time</link></application> adds the current date and time into a document."
 msgstr ""
-"<application><link linkend=\"xed-insert-date-time-plugin\">Indsæt dato/"
+"<application><link linkend=\"Techo-insert-date-time-plugin\">Indsæt dato/"
 "tid</link></application> tilføjer den aktuelle dato og tid til et dokument."
 
 #: ../C/xed.xml:1362(para)
 msgid ""
-"<application><link linkend=\"xed-modelines-plugin\">Modelines</link></"
+"<application><link linkend=\"Techo-modelines-plugin\">Modelines</link></"
 "application> allows you to set editing preferences for individual documents, "
 "and supports <application>Emacs</application>, <application>Kate</"
 "application> and <application>Vim</application>-style modelines."
 msgstr ""
-"<application><link linkend=\"xed-modelines-plugin\">Tilstandslinjer</"
+"<application><link linkend=\"Techo-modelines-plugin\">Tilstandslinjer</"
 "link></application> lader dig sætte redigeringsindstillinger for "
 "individuelle dokumenter, og understøtter tilstandslinjer i stil med "
 "<application>Emacs</application>, <application>Kate</application> og "
@@ -2758,60 +2758,60 @@ msgstr ""
 
 #: ../C/xed.xml:1365(para)
 msgid ""
-"<application><link linkend=\"xed-python-console-plugin\">Python Console</"
+"<application><link linkend=\"Techo-python-console-plugin\">Python Console</"
 "link></application> allows you to run commands in the python programming "
 "language."
 msgstr ""
-"<application><link linkend=\"xed-python-console-plugin\">Python-konsol</"
+"<application><link linkend=\"Techo-python-console-plugin\">Python-konsol</"
 "link></application> lader dig køre kommandoer i programmeringssproget python."
 
 #: ../C/xed.xml:1368(para)
 msgid ""
-"<application><link linkend=\"xed-snippets-plugin\">Snippets</link></"
+"<application><link linkend=\"Techo-snippets-plugin\">Snippets</link></"
 "application> allows you to store frequently-used pieces of text and insert "
 "them quickly into a document."
 msgstr ""
-"<application><link linkend=\"xed-snippets-plugin\">Tekststumper</link></"
+"<application><link linkend=\"Techo-snippets-plugin\">Tekststumper</link></"
 "application> lader dig opbevare ofte-brugte stykker af tekst og indsætte dem "
 "nemt og hurtigt i et dokument."
 
 #: ../C/xed.xml:1371(para)
 msgid ""
-"<application><link linkend=\"xed-sort-plugin\">Sort</link></application> "
+"<application><link linkend=\"Techo-sort-plugin\">Sort</link></application> "
 "arranges selected lines of text into alphabetical order."
 msgstr ""
-"<application><link linkend=\"xed-sort-plugin\">Sortér</link></application> "
+"<application><link linkend=\"Techo-sort-plugin\">Sortér</link></application> "
 "arrangerer markerede tekstlinjer i alfabetisk orden."
 
 #: ../C/xed.xml:1374(para)
 msgid ""
-"<application><link linkend=\"xed-spell-checker-plugin\">Spell Checker</"
+"<application><link linkend=\"Techo-spell-checker-plugin\">Spell Checker</"
 "link></application> corrects the spelling in the selected text, or marks "
 "errors automatically in the document."
 msgstr ""
-"<application><link linkend=\"xed-spell-checker-plugin\">Stavekontrol</"
+"<application><link linkend=\"Techo-spell-checker-plugin\">Stavekontrol</"
 "link></application> retter stavningen i den markerede tekst, eller markerer "
 "automatisk fejl i dokumentet."
 
 #: ../C/xed.xml:1377(para)
 msgid ""
-"<application><link linkend=\"xed-tag-list-plugin\">Tag List</link></"
+"<application><link linkend=\"Techo-tag-list-plugin\">Tag List</link></"
 "application> lets you insert commonly-used tags for HTML and other languages "
 "from a list in the side pane."
 msgstr ""
-"<application><link linkend=\"xed-tag-list-plugin\">Mærkeliste</link></"
+"<application><link linkend=\"Techo-tag-list-plugin\">Mærkeliste</link></"
 "application> lader dig indsætte ofte-brugte mærker for HTML og andre sprog "
 "fra en liste i sidepanelet."
 
 #: ../C/xed.xml:1381(para)
 msgid ""
 "For more information on creating plugins, see the <ulink type=\"http\" url="
-"\"http://live.gnome.org/Xed/Plugins\"><application>xed</application> "
+"\"http://live.gnome.org/Techo/Plugins\"><application>Techo</application> "
 "website</ulink>."
 msgstr ""
 "Mere information om oprettelse af udvidelsesmoduler kan findes på <ulink "
-"type=\"http\" url=\"http://live.gnome.org/Xed/Plugins\">hjemmesiden for "
-"<application>xed</application></ulink>."
+"type=\"http\" url=\"http://live.gnome.org/Techo/Plugins\">hjemmesiden for "
+"<application>Techo</application></ulink>."
 
 #: ../C/xed.xml:1385(title)
 msgid "Change Case Plugin"
@@ -2956,12 +2956,12 @@ msgstr "Antal bytes i det aktuelle dokument."
 
 #: ../C/xed.xml:1459(para)
 msgid ""
-"You can continue to update the <application>xed</application> file while "
+"You can continue to update the <application>Techo</application> file while "
 "the <guilabel>Document Statistics</guilabel> dialog is open. To refresh the "
 "contents of the <guilabel>Document Statistics</guilabel> dialog, click "
 "<guibutton>Update</guibutton>."
 msgstr ""
-"Du kan fortsætte med at opdatere den aktuelle tekstfil i <application>xed</"
+"Du kan fortsætte med at opdatere den aktuelle tekstfil i <application>Techo</"
 "application> samtidig med at dialogen <guilabel>Dokumentstatistik</guilabel> "
 "er åben. For at opdatere indholdet i dialogen <guilabel>Dokumentstatistik</"
 "guilabel> skal du klikke på<guibutton>Opdatér</guibutton>."
@@ -2973,13 +2973,13 @@ msgstr "Udvidelsesmodulet Eksterne værktøjer"
 #: ../C/xed.xml:1467(para)
 msgid ""
 "The <application>External Tools</application> plugin allows you to execute "
-"external commands from <application>xed</application>. You can pipe some "
+"external commands from <application>Techo</application>. You can pipe some "
 "content into a command and exploit its output (for example, "
 "<application>sed</application>), or launch a predefined command (for "
 "example, <application>make</application>)."
 msgstr ""
 "Udvidelsesmodulet <application>Eksterne værktøjer</application> lader dig "
-"køre eksterne kommandoer fra <application>xed</application>. Du kan "
+"køre eksterne kommandoer fra <application>Techo</application>. Du kan "
 "viderelede noget indhold i en kommando og benytte dig af dens output (for "
 "eksempel, <application>sed</application>), eller køre en foruddefineret "
 "kommando (for eksempel, <application>make</application>)."
@@ -3106,13 +3106,13 @@ msgstr "Kommandoer"
 
 #: ../C/xed.xml:1519(para)
 msgid ""
-"The actual commands to be run. Several <application>xed</application> "
+"The actual commands to be run. Several <application>Techo</application> "
 "environment variables can be used to pass content to these commands: see "
-"<xref linkend=\"xed-external-tools-plugin-variables\"/>."
+"<xref linkend=\"Techo-external-tools-plugin-variables\"/>."
 msgstr ""
 "De faktiske kommandoer som skal køres. Flere miljøvariabler i "
-"<application>xed</application> kan bruges til at videresende data til "
-"disse kommandoer: se <xref linkend=\"xed-external-tools-plugin-variables\"/"
+"<application>Techo</application> kan bruges til at videresende data til "
+"disse kommandoer: se <xref linkend=\"Techo-external-tools-plugin-variables\"/"
 ">."
 
 # Ja, jeg ved godt at der står "Inddata", men jeg satser på at vi skrotter den inden længe!
@@ -3284,10 +3284,10 @@ msgstr ""
 
 #: ../C/xed.xml:1590(para)
 msgid ""
-"To open a file in <application>xed</application>, double-click it in the "
+"To open a file in <application>Techo</application>, double-click it in the "
 "file list."
 msgstr ""
-"For at åbne en fil i <application>xed</application> skal du dobbeltklikke "
+"For at åbne en fil i <application>Techo</application> skal du dobbeltklikke "
 "på den i fillisten."
 
 #: ../C/xed.xml:1593(title)
@@ -3356,11 +3356,11 @@ msgstr ""
 msgid ""
 "The amount of space used, and whether tab character or space characters are "
 "used, depends on the <guilabel>Tab Stops</guilabel> settings in the Editor "
-"Preferences: see <xref linkend=\"xed-prefs-editor\"/>."
+"Preferences: see <xref linkend=\"Techo-prefs-editor\"/>."
 msgstr ""
 "Mængden af mellemrum der bruges, og hvorvidt der anvendes tabulatortegn "
 "eller mellemrumstegn, afhænger af indstillingerne <guilabel>Tabulatorstop</"
-"guilabel> i indstillingerne: se <xref linkend=\"xed-prefs-editor\"/>."
+"guilabel> i indstillingerne: se <xref linkend=\"Techo-prefs-editor\"/>."
 
 #: ../C/xed.xml:1622(title)
 msgid "Insert Date/Time Plugin"
@@ -3389,27 +3389,27 @@ msgstr ""
 msgid ""
 "If you have not configured the Insert Date/Time plugin to automatically "
 "insert the date/time without prompting you for the format, "
-"<application>xed</application> displays the <guilabel>Insert Date and "
+"<application>Techo</application> displays the <guilabel>Insert Date and "
 "Time</guilabel> dialog. Select the appropriate date/time format from the "
 "list. Click <guibutton>Insert</guibutton> to close the <guilabel>Insert Date "
-"and Time</guilabel> dialog. <application>xed</application> inserts the "
+"and Time</guilabel> dialog. <application>Techo</application> inserts the "
 "date/time at the cursor position in the current file."
 msgstr ""
 "Hvis du ikke har konfigureret Indsæt dato/tid til automatisk at indsætte "
-"dato/tid uden at spørge dig om format, vil <application>xed</application> "
+"dato/tid uden at spørge dig om format, vil <application>Techo</application> "
 "vise dialogen <guilabel>Indsæt dato og tid</guilabel>. Vælg det passende "
 "dato/tid-format fra listen. Klik på <guibutton>Indsæt</guibutton> for at "
-"lukke dialogen <guilabel>Indsæt dato og tid</guilabel>. <application>xed</"
+"lukke dialogen <guilabel>Indsæt dato og tid</guilabel>. <application>Techo</"
 "application> indsætter dato/tid ved markørens placering i den aktuelle fil."
 
 #: ../C/xed.xml:1627(para)
 msgid ""
-"If you have configured <application>xed</application> to use one "
+"If you have configured <application>Techo</application> to use one "
 "particular date/time format, the <guilabel>Insert Date and Time</guilabel> "
 "dialog is not displayed. The date/time is automatically entered at the "
 "cursor position in the current file."
 msgstr ""
-"Hvis du har konfigureret <application>xed</application> til at bruge et "
+"Hvis du har konfigureret <application>Techo</application> til at bruge et "
 "bestemt dato/tid-format, vises dialogen <guilabel>Indsæt dato og tid</"
 "guilabel> ikke. Dato/tid indsættes automatisk ved markørens placering i den "
 "aktuelle fil."
@@ -3449,18 +3449,18 @@ msgstr ""
 
 #: ../C/xed.xml:1652(para)
 msgid ""
-"To use the same <application>xed</application>-provided date/time format "
+"To use the same <application>Techo</application>-provided date/time format "
 "each time you insert the date/time, select the <guilabel>Use the selected "
 "format</guilabel> option, then select the appropriate format from the list. "
-"When you select this option, <application>xed</application> does not "
+"When you select this option, <application>Techo</application> does not "
 "prompt you for the date/time format when you choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Insert Date and Time</"
 "guimenuitem></menuchoice>."
 msgstr ""
-"For at bruge det samme <application>xed</application>-leverede dato/tid-"
+"For at bruge det samme <application>Techo</application>-leverede dato/tid-"
 "format hver gang du indsætter dato/tid, skal du vælge <guilabel>Benyt det "
 "valgte format</guilabel> og derefter vælge det ønskede format fra listen. "
-"Når du benytter dig af denne mulighed vil  <application>xed</application> "
+"Når du benytter dig af denne mulighed vil  <application>Techo</application> "
 "ikke spørge efter dato/tid-format når du vælger "
 "<menuchoice><guimenu>Redigér</guimenu><guimenuitem>Indsæt dato og tid...</"
 "guimenuitem></menuchoice>."
@@ -3473,7 +3473,7 @@ msgid ""
 "specify a custom format, see <ulink url=\"man:strftime\" type=\"man"
 "\"><citerefentry><refentrytitle>strftime</refentrytitle><manvolnum>3</"
 "manvolnum></citerefentry></ulink>. When you select this option, "
-"<application>xed</application> does not prompt you for the date/time "
+"<application>Techo</application> does not prompt you for the date/time "
 "format when you choose <menuchoice><guimenu>Edit</"
 "guimenu><guimenuitem>Insert Date and Time</guimenuitem></menuchoice>."
 msgstr ""
@@ -3483,7 +3483,7 @@ msgstr ""
 "information om hvordan man angiver et tilpasset format kan du se <ulink url="
 "\"man:strftime\" type=\"man\"><citerefentry><refentrytitle>strftime</"
 "refentrytitle><manvolnum>3</manvolnum></citerefentry></ulink>. Når du vælger "
-"denne mulighed vil <application>xed</application> ikke spørge om dato/tid-"
+"denne mulighed vil <application>Techo</application> ikke spørge om dato/tid-"
 "format når du vælger <menuchoice><guimenu>Redigér</"
 "guimenu><guimenuitem>Indsæt dato og tid...</guimenuitem></menuchoice>."
 
@@ -3500,7 +3500,7 @@ msgid ""
 "To close the <guilabel>Preferences</guilabel> dialog, click "
 "<guibutton>Close</guibutton>."
 msgstr ""
-"For at lukke dialogen <guilabel>Indstillinger for xed</guilabel> skal du "
+"For at lukke dialogen <guilabel>Indstillinger for Techo</guilabel> skal du "
 "klikke på <guibutton>Luk</guibutton>."
 
 #: ../C/xed.xml:1670(title)
@@ -3512,12 +3512,12 @@ msgid ""
 "The <application>Modelines</application> plugin allows you to set "
 "preferences for individual documents. A <firstterm>modeline</firstterm> is a "
 "line of text at the start or end of the document with settings that "
-"<application>xed</application> recognises."
+"<application>Techo</application> recognises."
 msgstr ""
 "Udvidelsesmodulet <application>Tilstandslinjer</application> lader dig "
 "redigere indstillinger for enkelte dokumenter. En <firstterm>tilstandslinje</"
 "firstterm> er en linje af tekst i begyndelsen af dokumentet med "
-"indstillinger, som <application>xed</application> genkender."
+"indstillinger, som <application>Techo</application> genkender."
 
 #: ../C/xed.xml:1672(para)
 msgid ""
@@ -3640,23 +3640,23 @@ msgstr "Udvidelsesmodulet Python-konsol"
 #: ../C/xed.xml:1713(para)
 msgid ""
 "The <application>Python Console</application> Plugin allows you to run "
-"commands in the python programming language from <application>xed</"
+"commands in the python programming language from <application>Techo</"
 "application>. Enabling the plugin adds a tab to the bottom pane. This shows "
 "recent output and a command prompt field."
 msgstr ""
 "Udvidelsesmodulet <application>Python-konsol</application> lader dig køre "
-"kommandoer i programmeringssproget Python fra <application>xed</"
+"kommandoer i programmeringssproget Python fra <application>Techo</"
 "application>. Når dette udvidelsesmodul aktiveres, føjes et faneblad til "
 "bundpanelet. Dette viser den seneste udskrift og et kommandoindtastningsfelt."
 
 #: ../C/xed.xml:1714(para)
 msgid ""
 "Commands entered into the python console are not checked before they are "
-"run. It is therefore possible to hang <application>xed</application>, for "
+"run. It is therefore possible to hang <application>Techo</application>, for "
 "example by entering an infinite loop."
 msgstr ""
 "Kommandoer som indtastes i Python-konsollen kontrolleres ikke før de køres. "
-"Det er derfor muligt at få <application>xed</application> til at gå i stå "
+"Det er derfor muligt at få <application>Techo</application> til at gå i stå "
 "ved, for eksempel, at indtaste en uendelig løkke."
 
 #: ../C/xed.xml:1718(title)
@@ -3687,11 +3687,11 @@ msgstr ""
 
 #: ../C/xed.xml:1721(para)
 msgid ""
-"A number of built-in snippets are installed with <application>xed</"
+"A number of built-in snippets are installed with <application>Techo</"
 "application>, which can be modified."
 msgstr ""
 "En samling af indbyggede tekststumper installeres sammen med "
-"<application>xed</application>, og kan redigeres."
+"<application>Techo</application>, og kan redigeres."
 
 #: ../C/xed.xml:1724(title)
 msgid "Inserting Snippets"
@@ -3781,11 +3781,11 @@ msgstr "Tekststump"
 #: ../C/xed.xml:1752(para)
 msgid ""
 "Enter the text of the snippet in the <guilabel>Edit snippet</guilabel> text "
-"box. For special codes you can use, see <xref linkend=\"xed-snippets-"
+"box. For special codes you can use, see <xref linkend=\"Techo-snippets-"
 "plugin-syntax\"/>."
 msgstr ""
 "Indtast selve stumpen af tekst i <guilabel>Redigér</guilabel>-tekstfeltet. "
-"Du kan her anvende specielle koder - se <xref linkend=\"xed-snippets-"
+"Du kan her anvende specielle koder - se <xref linkend=\"Techo-snippets-"
 "plugin-syntax\"/>."
 
 #: ../C/xed.xml:1753(para)
@@ -3971,10 +3971,10 @@ msgstr "Miljøvariable"
 msgid ""
 "Environmental variable such as <literal>$PATH</literal> and <literal>$HOME</"
 "literal> are substituted in snippet text. The following variables specific "
-"to <application>xed</application> can also be used:"
+"to <application>Techo</application> can also be used:"
 msgstr ""
 "Miljøvariable såsom <literal>$PATH</literal> og <literal>$HOME</literal> "
-"substitueres i tekststumpen. Specielt kan der i <application>xed</"
+"substitueres i tekststumpen. Specielt kan der i <application>Techo</"
 "application> også anvendes følgende variable:"
 
 #: ../C/xed.xml:1811(term)
@@ -4176,14 +4176,14 @@ msgstr "Udvidelsesmodulet Stavekontrol"
 #: ../C/xed.xml:1893(para)
 msgid ""
 "The <application>Spell Checker</application> plugin checks the spelling in "
-"the selected text. You can configure <application>xed</application> to "
+"the selected text. You can configure <application>Techo</application> to "
 "check the spelling automatically, or you can check the spelling manually, in "
 "the specified language. The language setting, and the autocheck spelling "
 "properties, apply per document. To use the Spell checker plugin, perform the "
 "following steps:"
 msgstr ""
 "Udvidelsesmodulet <application>Stavekontrol</application> kontrollerer "
-"stavningen i den valgte tekst. Du kan konfigurere <application>xed</"
+"stavningen i den valgte tekst. Du kan konfigurere <application>Techo</"
 "application> til at kontrollere stavningen automatisk, eller du kan køre "
 "stavekontrol manuelt på det angivne sprog. Sprogindstillingen og "
 "autokontrolegenskaberne gælder dokumentvis. For at bruge udvidelsesmodulet "
@@ -4209,7 +4209,7 @@ msgid ""
 "guimenu><guimenuitem>Autocheck Spelling</guimenuitem></menuchoice> again. "
 "When automatic spell checking is set, an icon is displayed beside the "
 "<guimenuitem>Autocheck Spelling</guimenuitem> menu item. Automatic spell "
-"checking is unset by default, each time <application>xed</application> "
+"checking is unset by default, each time <application>Techo</application> "
 "starts."
 msgstr ""
 "Hvis du vil anvende automatisk stavekontrol, så vælg "
@@ -4219,7 +4219,7 @@ msgstr ""
 "stavning</guimenuitem></menuchoice> igen. Når automatisk stavekontrol er "
 "slået til, vil et ikon vises ved siden af menuelementet "
 "<guimenuitem>Kontrollér automatisk stavning</guimenuitem>. Automatisk "
-"stavekontrol er som standard slået fra når <application>xed</application> "
+"stavekontrol er som standard slået fra når <application>Techo</application> "
 "startes."
 
 #: ../C/xed.xml:1899(para)
@@ -4257,13 +4257,13 @@ msgid ""
 "longer flagged as unknown but are not added to your personal dictionary, "
 "select <menuchoice><guimenu>Spelling Suggestions</"
 "guimenu><guimenuitem>Ignore All</guimenuitem></menuchoice>. The unknown word "
-"is ignored in the current <application>xed</application> session only."
+"is ignored in the current <application>Techo</application> session only."
 msgstr ""
 "Hvis du vil ignorere alle forekomster af den ukendte stavemåde, således at "
 "de ikke længere bliver markeret som ukendt, men heller ikke føjes til din "
 "personlige ordbog, så vælg <menuchoice><guimenu>Stavningsforslag</"
 "guimenu><guimenuitem>Ignorér alle</guimenuitem></menuchoice>. Det ukendte "
-"ord vil så kun blive ignoreret i den aktuelle <application>xed</"
+"ord vil så kun blive ignoreret i den aktuelle <application>Techo</"
 "application>-session."
 
 #: ../C/xed.xml:1913(para)
@@ -4331,12 +4331,12 @@ msgid ""
 "To ignore the current occurrence of the unknown word, click "
 "<guibutton>Ignore</guibutton>. To ignore all occurrences of the unknown "
 "word, click <guibutton>Ignore All</guibutton>. The unknown word is ignored "
-"in the current <application>xed</application> session only."
+"in the current <application>Techo</application> session only."
 msgstr ""
 "Klik på <guibutton>Ignorér</guibutton> for at ignorere den aktuelle "
 "forekomst af det ukendte ord. Klik på <guibutton>Ignorér alle</guibutton> "
 "for at ignorere alle forekomster af det ukendte ord. Det ukendte ord vil så "
-"blive ignoreret i den aktuelle <application>xed</application>-session."
+"blive ignoreret i den aktuelle <application>Techo</application>-session."
 
 #: ../C/xed.xml:1932(para)
 msgid ""

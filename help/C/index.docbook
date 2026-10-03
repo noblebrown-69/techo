@@ -4,7 +4,7 @@
   <!ENTITY appversion "3.2.2">
   <!ENTITY manrevision "3.1">
   <!ENTITY date "January 2022">
-  <!ENTITY app "xed">
+  <!ENTITY app "Techo">
 ]>
 
 <!-- =============Document Header ============================= -->
@@ -23,7 +23,7 @@
 <!-- Remember to remove the &manrevision; entity from the revision entries other
    than the current revision. -->
 		<revision>
-		  <revnumber>xed V1.0</revnumber>
+		  <revnumber>Techo V1.0</revnumber>
 		  <date>2000</date>
 		  <revdescription>
 			 <para role="author">Eric Baudais <email>baudais@okstate.edu</email>
@@ -32,7 +32,7 @@
 		  </revdescription>
 		</revision>
 		<revision>
-		  <revnumber>xed Manual V2.0</revnumber>
+		  <revnumber>Techo Manual V2.0</revnumber>
 		  <date>March 2002</date>
 		  <revdescription>
 			 <para role="author">Sun GNOME Documentation Team</para>
@@ -40,7 +40,7 @@
 		  </revdescription>
 		</revision>
 		<revision>
-		  <revnumber>xed Manual V2.1</revnumber>
+		  <revnumber>Techo Manual V2.1</revnumber>
 		  <date>June 2002</date>
 		  <revdescription>
 			 <para role="author">Sun GNOME Documentation Team</para>
@@ -48,7 +48,7 @@
 		  </revdescription>
 		</revision>
 		<revision>
-		  <revnumber>xed Manual V2.2</revnumber>
+		  <revnumber>Techo Manual V2.2</revnumber>
 		  <date>August 2002</date>
 		  <revdescription>
 			 <para role="author">Sun GNOME Documentation Team</para>
@@ -56,7 +56,7 @@
 		  </revdescription>
 		</revision>
 		<revision>
-		  <revnumber>xed Manual V2.3</revnumber>
+		  <revnumber>Techo Manual V2.3</revnumber>
 		  <date>September 2002</date>
 		  <revdescription>
 			 <para role="author">Sun GNOME Documentation Team</para>
@@ -64,7 +64,7 @@
 		  </revdescription>
 		</revision>
 		<revision>
-		  <revnumber>xed Manual V2.4</revnumber>
+		  <revnumber>Techo Manual V2.4</revnumber>
 		  <date>January 2003</date>
 		  <revdescription>
 			 <para role="author">Sun GNOME Documentation Team</para>
@@ -72,7 +72,7 @@
 		  </revdescription>
 		</revision>
 		<revision>
-		  <revnumber>xed Manual V2.5</revnumber>
+		  <revnumber>Techo Manual V2.5</revnumber>
 		  <date>March 2003</date>
 		  <revdescription>
 			 <para role="author">Sun GNOME Documentation Team</para>
@@ -80,7 +80,7 @@
 		  </revdescription>
 		</revision>
 		<revision>
-		  <revnumber>xed Manual V2.6</revnumber>
+		  <revnumber>Techo Manual V2.6</revnumber>
 		  <date>September 2003</date>
 		  <revdescription>
 			 <para role="author">Sun GNOME Documentation Team</para>
@@ -88,7 +88,7 @@
 		  </revdescription>
 		</revision>
 		<revision>
-		  <revnumber>xed Manual V2.7</revnumber>
+		  <revnumber>Techo Manual V2.7</revnumber>
 		  <date>March 2004</date>
 		  <revdescription>
 			 <para role="author">Sun GNOME Documentation Team</para>
@@ -131,7 +131,7 @@
 	 <releaseinfo> This manual describes version &appversion; of &app;.
 		</releaseinfo>
   </articleinfo>
-  <indexterm><primary>xed</primary></indexterm>
+  <indexterm><primary>Techo</primary></indexterm>
   <indexterm><primary>text editor</primary></indexterm>
 
 <!-- ============= Document Body ============================= -->
@@ -150,7 +150,7 @@
   <sect1 id="xed-getting-started">
 	 <title>Getting Started</title>
 
-<!-- ============= To Start xed ============================ -->
+<!-- ============= To Start Techo ============================ -->
 	 <sect2 id="xed-to-start">
 		<title>Starting &app;</title>
 		<para>You can start <application>&app;</application> in the following ways:</para>
@@ -164,11 +164,11 @@
     		<varlistentry>
     		<term>Command line</term>
     		<listitem>
-    		<para>Execute the following command: <command>xed</command></para>
+    		<para>Execute the following command: <command>techo</command></para>
     		</listitem>
     		</varlistentry>
     	</variablelist>
-    <para>By default, when you open a text document in the file manager, xed will start, and display the document.</para>
+    <para>By default, when you open a text document in the file manager, Techo will start, and display the document.</para>
 	</sect2>
 
 	<sect2 id="xed-when-you-start">
@@ -183,7 +183,7 @@
 				<imageobject>
 				  <imagedata fileref="figures/xed_window.png" format="PNG"/>
 					 </imageobject>
-				<textobject> <phrase>Shows xed main window.</phrase>
+				<textobject> <phrase>Shows Techo main window.</phrase>
 				</textobject>
 			</mediaobject>
 		  </screenshot>
@@ -235,9 +235,9 @@
 	 <sect2 id="xed-run-from-cmd-line">
 		<title>Running &app; from a Command Line</title>
 		<para>You can run <application>&app;</application> from a command line and open a single file or multiple files. To open multiple files from a command line, type the following command, then press <keycap>Return</keycap>:</para>
-		<para><command>xed <replaceable>file1.txt file2.txt file3.txt</replaceable></command></para>
+		<para><command>techo <replaceable>file1.txt file2.txt file3.txt</replaceable></command></para>
 		<para>Alternatively, you can specify a URI instead of a filename.</para>
-    <para>For more information on how to run <application>&app;</application> from a command line, see the unix manual page for &app;, <ulink url="man:xed" type="man"><citerefentry><refentrytitle>&app;</refentrytitle><manvolnum>1</manvolnum></citerefentry></ulink>.</para>
+    <para>For more information on how to run <application>&app;</application> from a command line, see the unix manual page for &app;, <ulink url="man:techo" type="man"><citerefentry><refentrytitle>&app;</refentrytitle><manvolnum>1</manvolnum></citerefentry></ulink>.</para>
 	 </sect2>
   </sect1>
 <!-- ================ Usage ================================ -->
@@ -605,7 +605,7 @@
                       </row>
                       <row valign="top">
                         <entry><para>Ctrl + Q</para></entry>
-                        <entry><para>Quit Xed.</para></entry>
+                        <entry><para>Quit Techo.</para></entry>
                       </row>
                     </tbody>
                   </tgroup>
@@ -1089,7 +1089,7 @@
       <title>Plugins Preferences</title>
       <para>Plugins add extra features to <application>&app;</application>. For more information on plugins and how to use the built-in plugins, see <xref linkend="xed-plugins-overview"/>.</para>
 
-<!-- ============= To Load xed Plugins ========================= -->
+<!-- ============= To Load Techo Plugins ========================= -->
 	 <sect3 id="xed-install-plugins">
 		<title>Enabling a Plugin</title>
 		<para>To enable a <application>&app;</application> plugin, perform the following steps:</para>
@@ -1109,7 +1109,7 @@
                 </orderedlist>
 	 </sect3>
 
-<!-- ============= To Remove xed Plugins ========================= -->
+<!-- ============= To Remove Techo Plugins ========================= -->
   	 <sect3 id="xed-remove-plugins">
   		<title>Disabling a Plugin</title>
   		<para>A plugin remains enabled when you quit <application>&app;</application>. </para>
@@ -1132,7 +1132,7 @@
 	 </sect2>
 
  </sect1>
-<!-- ============= To Use the xed Plugins ========================= -->
+<!-- ============= To Use the Techo Plugins ========================= -->
 	 <sect1 id="xed-plugins">
 		<title>Plugins</title>
 		<sect2 id="xed-plugins-overview">
@@ -1453,7 +1453,7 @@
 
 <sect2 id="xed-tag-list-plugin" xreflabel="Tag List">
 <title>Tag List Plugin</title>
-	<para>The <application>Tag List</application> plugin allows you to insert common tags  (i.e. pieces of text) from a list in the side pane. This is most useful probably for XML or HTML types of files where sets of tags are used to identify formatting for different sections of text.  Such tags are typing intensive.   A number of standard tag lists come by default with &app;, and other tag lists can be configured.  Configuration is done by creating a file in the user's configuration directory (~/.config/xed/taglist/).  The file suffix is ".tags". The format of this type of XML file is beyond the scope of this help document, but example tag list files can be found in the installation files (e.g. .../share/xed/plugins/taglist/*)</para>
+	<para>The <application>Tag List</application> plugin allows you to insert common tags  (i.e. pieces of text) from a list in the side pane. This is most useful probably for XML or HTML types of files where sets of tags are used to identify formatting for different sections of text.  Such tags are typing intensive.   A number of standard tag lists come by default with &app;, and other tag lists can be configured.  Configuration is done by creating a file in the user's configuration directory (~/.config/techo/taglist/).  The file suffix is ".tags". The format of this type of XML file is beyond the scope of this help document, but example tag list files can be found in the installation files (e.g. .../share/techo/plugins/taglist/*)</para>
   <para>To use the Tag List plugin, perform the following steps:</para>
 		<orderedlist>
 		  <listitem><para>Choose <menuchoice> <guimenu>View</guimenu> <guimenuitem>Side Pane</guimenuitem> </menuchoice>.

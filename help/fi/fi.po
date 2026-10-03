@@ -7,7 +7,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: xed\n"
+"Project-Id-Version: Techo\n"
 "POT-Creation-Date: 2009-05-17 18:37+0000\n"
 "PO-Revision-Date: 2009-09-12 19:31+0300\n"
 "Last-Translator: Tommi Vainikainen <thv@iki.fi>\n"
@@ -199,8 +199,8 @@ msgstr "Baris"
 
 #: C/xed.xml:85(surname)
 msgid ""
-"Cicek provided information from earlier revisions of the xed application."
-msgstr "Cicek tarjoaa tietoa aikaisemmista xed-sovelluksen uudistuksista."
+"Cicek provided information from earlier revisions of the Techo application."
+msgstr "Cicek tarjoaa tietoa aikaisemmista Techo-sovelluksen uudistuksista."
 
 #: C/xed.xml:86(contrib) C/xed.xml:91(contrib)
 msgid "Acknowledgements"
@@ -215,16 +215,16 @@ msgid "George provided information about plugins."
 msgstr "George tarjoaa tietoa liitännäisistä."
 
 #: C/xed.xml:115(revnumber)
-msgid "xed V1.0"
-msgstr "xed V1.0"
+msgid "Techo V1.0"
+msgstr "Techo V1.0"
 
 #: C/xed.xml:118(para)
 msgid "Eric Baudais <email>baudais@okstate.edu</email>"
 msgstr "Eric Baudais <email>baudais@okstate.edu</email>"
 
 #: C/xed.xml:124(revnumber)
-msgid "xed Manual V2.0"
-msgstr "xed-opas V2.0"
+msgid "Techo Manual V2.0"
+msgstr "Techo-opas V2.0"
 
 #: C/xed.xml:125(date)
 msgid "March 2002"
@@ -237,80 +237,80 @@ msgid "Sun MATE Documentation Team"
 msgstr "Sun MATE Documentation Team"
 
 #: C/xed.xml:132(revnumber)
-msgid "xed Manual V2.1"
-msgstr "xed-käyttöopas V2.1"
+msgid "Techo Manual V2.1"
+msgstr "Techo-käyttöopas V2.1"
 
 #: C/xed.xml:133(date)
 msgid "June 2002"
 msgstr "Kesäkuu 2002"
 
 #: C/xed.xml:140(revnumber)
-msgid "xed Manual V2.2"
-msgstr "xed-käyttöopas V2.2"
+msgid "Techo Manual V2.2"
+msgstr "Techo-käyttöopas V2.2"
 
 #: C/xed.xml:141(date)
 msgid "August 2002"
 msgstr "Elokuu 2002"
 
 #: C/xed.xml:148(revnumber)
-msgid "xed Manual V2.3"
-msgstr "xed-käyttöopas V2.3"
+msgid "Techo Manual V2.3"
+msgstr "Techo-käyttöopas V2.3"
 
 #: C/xed.xml:149(date)
 msgid "September 2002"
 msgstr "Syyskuu 2002"
 
 #: C/xed.xml:156(revnumber)
-msgid "xed Manual V2.4"
-msgstr "xed-käyttöopas V2.4"
+msgid "Techo Manual V2.4"
+msgstr "Techo-käyttöopas V2.4"
 
 #: C/xed.xml:157(date)
 msgid "January 2003"
 msgstr "Tammikuu 2003"
 
 #: C/xed.xml:164(revnumber)
-msgid "xed Manual V2.5"
-msgstr "xed-käyttöopas V2.5"
+msgid "Techo Manual V2.5"
+msgstr "Techo-käyttöopas V2.5"
 
 #: C/xed.xml:165(date)
 msgid "March 2003"
 msgstr "Maaliskuu 2003"
 
 #: C/xed.xml:172(revnumber)
-msgid "xed Manual V2.6"
-msgstr "xed-käyttöopas V2.6"
+msgid "Techo Manual V2.6"
+msgstr "Techo-käyttöopas V2.6"
 
 #: C/xed.xml:173(date)
 msgid "September 2003"
 msgstr "Syyskuu 2003"
 
 #: C/xed.xml:180(revnumber)
-msgid "xed Manual V2.7"
-msgstr "xed-käyttöopas V2.7"
+msgid "Techo Manual V2.7"
+msgstr "Techo-käyttöopas V2.7"
 
 #: C/xed.xml:181(date)
 msgid "March 2004"
 msgstr "Maaliskuu 2004"
 
 #: C/xed.xml:188(revnumber)
-msgid "xed Manual V2.8"
-msgstr "xed-käyttöopas V2.8"
+msgid "Techo Manual V2.8"
+msgstr "Techo-käyttöopas V2.8"
 
 #: C/xed.xml:189(date) C/xed.xml:197(date)
 msgid "July 2006"
 msgstr "Heinäkuu 2006"
 
 #: C/xed.xml:196(revnumber)
-msgid "xed Manual V2.9"
-msgstr "xed-käyttöopas V2.9"
+msgid "Techo Manual V2.9"
+msgstr "Techo-käyttöopas V2.9"
 
 #: C/xed.xml:199(para)
 msgid "MATE Documentation Team"
 msgstr "MATE:n dokumentointitiimi"
 
 #: C/xed.xml:204(releaseinfo)
-msgid "This manual describes version 2.16 of xed."
-msgstr "Tämä käyttöopas kertoo xed:in versiosta 2.16"
+msgid "This manual describes version 2.16 of Techo."
+msgstr "Tämä käyttöopas kertoo Techo:in versiosta 2.16"
 
 #: C/xed.xml:207(title)
 msgid "Feedback"
@@ -318,26 +318,26 @@ msgstr "Palaute"
 
 #: C/xed.xml:208(para)
 msgid ""
-"To report a bug or make a suggestion regarding the <application>xed</"
+"To report a bug or make a suggestion regarding the <application>Techo</"
 "application> application or this manual, follow the directions in the <ulink "
 "url=\"help:user-guide?feedback-bugs\" type=\"help\">MATE Feedback Page</"
 "ulink>."
-msgstr "Ilmoittaaksesi viasta tai ehdottaaksesi jotakin <application>xed</application>-sovellukseen tai tähän käyttöoppaaseen, seuraa opasteita <ulink url=\"help:user-guide?feedback-bugs\" type=\"help\">MATE:n palautesivulle</ulink>."
+msgstr "Ilmoittaaksesi viasta tai ehdottaaksesi jotakin <application>Techo</application>-sovellukseen tai tähän käyttöoppaaseen, seuraa opasteita <ulink url=\"help:user-guide?feedback-bugs\" type=\"help\">MATE:n palautesivulle</ulink>."
 
 #: C/xed.xml:213(para)
 msgid ""
-"xed is a text editor for the MATE Desktop featuring basic yet robust "
+"Techo is a text editor for the MATE Desktop featuring basic yet robust "
 "capabilities such as printing, spell checking, find and replace, and syntax "
 "highlighting. More advanced features are available as plugins."
 msgstr ""
-"xed on tekstinmuokkain MATE-työpöydälle. Se tarjoaa toistaiseksi helppoja "
+"Techo on tekstinmuokkain MATE-työpöydälle. Se tarjoaa toistaiseksi helppoja "
 "runkotoimintoja, kuten tulostuksen, oikeinkirjoituksen tarkistuksen, etsi ja "
 "korvaa-toiminnon ja syntaksikorostimen. Lisää kehittyneitä toimintoja on "
 "saatavilla liitännäisinä."
 
 #: C/xed.xml:218(primary)
-msgid "xed"
-msgstr "xed"
+msgid "Techo"
+msgstr "Techo"
 
 #: C/xed.xml:219(primary)
 msgid "text editor"
@@ -349,20 +349,20 @@ msgstr "Johdanto"
 
 #: C/xed.xml:229(para)
 msgid ""
-"The <application>xed</application> application enables you to create and "
+"The <application>Techo</application> application enables you to create and "
 "edit text files."
 msgstr ""
-"<application>xed</application>-sovellus tarjoaa sinulle mahdollisuuden "
+"<application>Techo</application>-sovellus tarjoaa sinulle mahdollisuuden "
 "luoda ja muokata tekstitiedostoja."
 
 #: C/xed.xml:231(para)
 msgid ""
-"The aim of <application>xed</application> is to be a simple and easy to "
+"The aim of <application>Techo</application> is to be a simple and easy to "
 "use text editor. More powerful features can be enabled with different "
 "<firstterm>plugins</firstterm>, allowing a variety of tasks related to text-"
 "editing."
 msgstr ""
-"<application>xed</application>:in tarkoitus on olla yksinkertainen ja "
+"<application>Techo</application>:in tarkoitus on olla yksinkertainen ja "
 "helppokäyttöinen tekstinmuokkain. Lisää tehokkaita toimintoja saadaan "
 "erilaisilla <firstterm>liitännäisillä</firstterm>, mahdollistaen erilaisten "
 "asioiden tekemisen liittyen tekstin muokkaukseen."
@@ -372,13 +372,13 @@ msgid "Getting Started"
 msgstr "Aluksi"
 
 #: C/xed.xml:239(title)
-msgid "Starting xed"
-msgstr "Xed:in käynnistys"
+msgid "Starting Techo"
+msgstr "Techo:in käynnistys"
 
 #: C/xed.xml:240(para)
-msgid "You can start <application>xed</application> in the following ways:"
+msgid "You can start <application>Techo</application> in the following ways:"
 msgstr ""
-"Voit käynnistää <application>xed</application>:in seuraavilla tavoilla:"
+"Voit käynnistää <application>Techo</application>:in seuraavilla tavoilla:"
 
 #: C/xed.xml:243(term)
 msgid "<guimenu>Applications</guimenu> menu"
@@ -397,41 +397,41 @@ msgid "Command line"
 msgstr "Komentorivi"
 
 #: C/xed.xml:251(para)
-msgid "Execute the following command: <command>xed</command>"
-msgstr "Suorita seuraava komento: <command>xed</command>"
+msgid "Execute the following command: <command>techo</command>"
+msgstr "Suorita seuraava komento: <command>techo</command>"
 
 #: C/xed.xml:255(para)
 msgid ""
-"By default, when you open a text document in the file manager, xed will "
+"By default, when you open a text document in the file manager, Techo will "
 "start, and display the document."
 msgstr ""
-"Oletuksena, kun avaat tekstitiedoston tiedostohallinnassa, xed käynnistyy "
+"Oletuksena, kun avaat tekstitiedoston tiedostohallinnassa, Techo käynnistyy "
 "ja näyttää tiedoston."
 
 #: C/xed.xml:260(title)
-msgid "The xed Window"
-msgstr "xed-ikkuna"
+msgid "The Techo Window"
+msgstr "Techo-ikkuna"
 
 #: C/xed.xml:261(para)
 msgid ""
-"When you start <application>xed</application>, the following window is "
+"When you start <application>Techo</application>, the following window is "
 "displayed:"
 msgstr ""
-"Kun käynnistät <application>xed</application>in, seuraavanlainen ikkuna "
+"Kun käynnistät <application>Techo</application>in, seuraavanlainen ikkuna "
 "näytetään:"
 
 #: C/xed.xml:264(title)
-msgid "xed Window"
-msgstr "xed-ikkuna"
+msgid "Techo Window"
+msgstr "Techo-ikkuna"
 
 #: C/xed.xml:270(phrase)
-msgid "Shows xed main window."
-msgstr "Näyttää xed:in pääikkunan"
+msgid "Shows Techo main window."
+msgstr "Näyttää Techo:in pääikkunan"
 
 #: C/xed.xml:276(para)
 msgid ""
-"The <application>xed</application> window contains the following elements:"
-msgstr "<application>xed</application>-ikkuna sisältää seuraavat osat:"
+"The <application>Techo</application> window contains the following elements:"
+msgstr "<application>Techo</application>-ikkuna sisältää seuraavat osat:"
 
 #: C/xed.xml:279(term)
 msgid "Menubar"
@@ -440,10 +440,10 @@ msgstr "Valikkopalkki"
 #: C/xed.xml:281(para)
 msgid ""
 "The menus on the menubar contain all of the commands you need to work with "
-"files in <application>xed</application>."
+"files in <application>Techo</application>."
 msgstr ""
 "Valikkopalkin valikot sisältävät kaikki komennot, joita tarvitset "
-"tiedostoillesi <application>xed</application>:ssä."
+"tiedostoillesi <application>Techo</application>:ssä."
 
 #: C/xed.xml:284(term)
 msgid "Toolbar"
@@ -471,11 +471,11 @@ msgstr "Tilarivi"
 
 #: C/xed.xml:296(para)
 msgid ""
-"The statusbar displays information about current <application>xed</"
+"The statusbar displays information about current <application>Techo</"
 "application> activity and contextual information about the menu items. The "
 "statusbar also displays the following information:"
 msgstr ""
-"Tilarivi näyttää tietoa <application>xed</application>:in tämänhetkisistä "
+"Tilarivi näyttää tietoa <application>Techo</application>:in tämänhetkisistä "
 "tapahtumista ja lisätietoa valikkokohdista. Tilarivi näyttää myös seuraavat "
 "tiedot:"
 
@@ -543,39 +543,39 @@ msgstr ""
 
 #: C/xed.xml:320(para)
 msgid ""
-"When you right-click in the <application>xed</application> window, the "
+"When you right-click in the <application>Techo</application> window, the "
 "application displays a popup menu. The popup menu contains the most common "
 "text editing commands."
 msgstr ""
-"Kun klikkaat oikealla hiirenpainikkeella <application>xed</application>-"
+"Kun klikkaat oikealla hiirenpainikkeella <application>Techo</application>-"
 "ikkunaa, sovellus näyttää ponnahdusvalikon. Valikko sisältää yleisimmät "
 "tekstinmuokkauskomennot."
 
 #: C/xed.xml:322(para)
 msgid ""
-"Like other MATE applications, actions in <application>xed</application> "
+"Like other MATE applications, actions in <application>Techo</application> "
 "can be performed in several ways: with the menu, with the toolbar, or with "
 "shortcut keys. Shortcuts keys common to all applications are listed in the "
 "<ulink type=\"help\" url=\"help:user-guide?shortcuts-apps\">User Guide</"
 "ulink>."
 msgstr ""
 "Kuten muissakin MATE-sovelluksissa, toimintoja voidaan suorittaa "
-"<application>xed</application>issäkin muutamin tavoin: valikosta, "
+"<application>Techo</application>issäkin muutamin tavoin: valikosta, "
 "työkalupalkista ja tai pikanäppäimistä. Yleiset pikanäppäinkomennot kaikille "
 "sovelluksille löytyy listattuna <ulink type=\"help\" url=\"help:user-guide?"
 "shortcuts-apps\">Käyttäjän oppaasta</ulink>."
 
 #: C/xed.xml:327(title)
-msgid "Running xed from a Command Line"
-msgstr "Xed:in ajaminen komentoriviltä"
+msgid "Running Techo from a Command Line"
+msgstr "Techo:in ajaminen komentoriviltä"
 
 #: C/xed.xml:328(para)
 msgid ""
-"You can run <application>xed</application> from a command line and open a "
+"You can run <application>Techo</application> from a command line and open a "
 "single file or multiple files. To open multiple files from a command line, "
 "type the following command, then press <keycap>Return</keycap>:"
 msgstr ""
-"Voit avata <application>xed</application>:iä komentoriviltä ja avata "
+"Voit avata <application>Techo</application>:iä komentoriviltä ja avata "
 "yksittäisiä tai useita tiedostoja. Avataksesi useita tiedostoja "
 "komentoriviltä, kirjoita seuraava komento ja paina <keycap>Enter</keycap>:"
 
@@ -584,8 +584,8 @@ msgid "file1.txt file2.txt file3.txt"
 msgstr "tiedosto1.txt tiedosto2.txt tiedosto3.txt"
 
 #: C/xed.xml:329(command)
-msgid "xed <placeholder-1/>"
-msgstr "xed <placeholder-1/>"
+msgid "Techo <placeholder-1/>"
+msgstr "Techo <placeholder-1/>"
 
 #: C/xed.xml:330(para)
 msgid "Alternatively, you can specify a URI instead of a filename."
@@ -593,14 +593,14 @@ msgstr "Vaihtoehtoisesti, voit määrittää URI-osoitteen tiedostonimen sijaan.
 
 #: C/xed.xml:331(para)
 msgid ""
-"For more information on how to run <application>xed</application> from a "
-"command line, see the unix manual page for xed, <ulink url=\"man:xed\" "
-"type=\"man\"><citerefentry><refentrytitle>xed</refentrytitle><manvolnum>1</"
+"For more information on how to run <application>Techo</application> from a "
+"command line, see the unix manual page for Techo, <ulink url=\"man:techo\" "
+"type=\"man\"><citerefentry><refentrytitle>Techo</refentrytitle><manvolnum>1</"
 "manvolnum></citerefentry></ulink>."
 msgstr ""
-"Saadaksesi lisätietoa <application>xed</application>:in ajamisesta "
-"komentorivillä, katso unix-käyttöoppaan <ulink url=\"man:xed\" type=\"man"
-"\"><citerefentry><refentrytitle>xed</refentrytitle><manvolnum>1</"
+"Saadaksesi lisätietoa <application>Techo</application>:in ajamisesta "
+"komentorivillä, katso unix-käyttöoppaan <ulink url=\"man:techo\" type=\"man"
+"\"><citerefentry><refentrytitle>Techo</refentrytitle><manvolnum>1</"
 "manvolnum></citerefentry></ulink>-sivu."
 
 #: C/xed.xml:336(title)
@@ -615,11 +615,11 @@ msgstr "Uuden asiakirjan luonti"
 msgid ""
 "To create a new document, choose <menuchoice><guimenu>File</"
 "guimenu><guimenuitem>New</guimenuitem></menuchoice>. The application "
-"displays a new blank document in the <application>xed</application> window."
+"displays a new blank document in the <application>Techo</application> window."
 msgstr ""
 "Tehdäksesi uuden asiakirjan, valitse <menuchoice><guimenu>Tiedosto</"
 "guimenu><guimenuitem>Uusi</guimenuitem></menuchoice>. Sovellus näyttää uuden "
-"tyhjän asiakirjan <application>xed</application>-ikkunassa."
+"tyhjän asiakirjan <application>Techo</application>-ikkunassa."
 
 #: C/xed.xml:346(title) C/xed.xml:1589(title)
 msgid "Opening a File"
@@ -630,14 +630,14 @@ msgid ""
 "To open a file, choose <menuchoice><guimenu>File</guimenu><guimenuitem>Open</"
 "guimenuitem></menuchoice> to display the <guilabel>Open File</guilabel> "
 "dialog. Select the file that you want to open, then click <guibutton>Open</"
-"guibutton>. The file is displayed in the <application>xed</application> "
+"guibutton>. The file is displayed in the <application>Techo</application> "
 "window."
 msgstr ""
 "Avataksesi tiedoston, valitse <menuchoice><guimenu>Tiedosto</"
 "guimenu><guimenuitem>Avaa</guimenuitem></menuchoice>, <guilabel>Avaa "
 "tiedostoja</guilabel>-dialogin näyttämiseksi. Valitse tiedostot, jotka "
 "haluat avata, napsauta sitten <guibutton>Avaa</guibutton>-painiketta. "
-"Tiedosto näytetään <application>xed</application>-ikkunassa."
+"Tiedosto näytetään <application>Techo</application>-ikkunassa."
 
 #: C/xed.xml:349(phrase)
 msgid "Shows Recent Files menu icon."
@@ -657,13 +657,13 @@ msgstr ""
 
 #: C/xed.xml:351(para)
 msgid ""
-"You can open multiple files in <application>xed</application>. The "
+"You can open multiple files in <application>Techo</application>. The "
 "application adds a tab for each open file to the window. For more on this "
-"see <xref linkend=\"xed-tabs\"/>."
+"see <xref linkend=\"Techo-tabs\"/>."
 msgstr ""
-"Voit avata useita tiedostoja <application>xed</application>:ssä. Sovellus "
+"Voit avata useita tiedostoja <application>Techo</application>:ssä. Sovellus "
 "lisää välilehden jokaiselle avatulle ikkunalle. Lisätietoa:  <xref linkend="
-"\"xed-tabs\"/>."
+"\"Techo-tabs\"/>."
 
 #: C/xed.xml:357(title)
 msgid "Saving a File"
@@ -697,21 +697,21 @@ msgstr ""
 
 #: C/xed.xml:364(para)
 msgid ""
-"To save all of the files that are currently open in <application>xed</"
+"To save all of the files that are currently open in <application>Techo</"
 "application>, choose <menuchoice><guimenu>Documents</"
 "guimenu><guimenuitem>Save All</guimenuitem></menuchoice>."
 msgstr ""
-"Tallentaaksesi kaikki <application>xed</application>:issä avoinna olevat "
+"Tallentaaksesi kaikki <application>Techo</application>:issä avoinna olevat "
 "tiedostot, valitse <menuchoice><guimenu>Asiakirjat</"
 "guimenu><guimenuitem>Tallenna kaikki</guimenuitem></menuchoice>."
 
 #: C/xed.xml:367(para)
 msgid ""
-"To close all of the files that are currently open in <application>xed</"
+"To close all of the files that are currently open in <application>Techo</"
 "application>, choose <menuchoice><guimenu>Documents</"
 "guimenu><guimenuitem>Close All</guimenuitem></menuchoice>."
 msgstr ""
-"Sulkeaksesi kaikki <application>xed</application>:issä auki olevat "
+"Sulkeaksesi kaikki <application>Techo</application>:issä auki olevat "
 "tiedostot, valitse <menuchoice><guimenu>Asiakirjat</"
 "guimenu><guimenuitem>Sulje kaikki</guimenuitem></menuchoice>."
 
@@ -779,12 +779,12 @@ msgstr ""
 msgid ""
 "Saving to FTP servers can be enabled with <ulink type=\"help\" url=\"help:"
 "mateconf-editor\"><application>Configuration Editor</application></ulink>, "
-"setting the key <systemitem>/apps/xed/preferences/editor/save/"
+"setting the key <systemitem>/apps/Techo/preferences/editor/save/"
 "writable_vfs_schemes</systemitem>, but this may cause errors."
 msgstr ""
 "FTP-palvelimille tallentaminen voidaan kytkeä päälle <ulink type=\"help\" "
 "url=\"help:mateconf-editor\"><application>Asetusten muokkaimella</"
-"application></ulink> asettamalla avain <systemitem>/apps/xed/preferences/"
+"application></ulink> asettamalla avain <systemitem>/apps/Techo/preferences/"
 "editor/save/writable_vfs_schemes</systemitem>, mutta tämä voi tuottaa "
 "virheitä."
 
@@ -794,29 +794,29 @@ msgstr "Välilehtien käyttö"
 
 #: C/xed.xml:397(para)
 msgid ""
-"When more than one file is open, <application>xed</application> shows a "
+"When more than one file is open, <application>Techo</application> shows a "
 "<firstterm>tab</firstterm> for each document above the display area. To "
 "switch to another document, click on its tab."
 msgstr ""
-"Kun useita tiedostoja on auki, <application>xed</application> näyttää "
+"Kun useita tiedostoja on auki, <application>Techo</application> näyttää "
 "<firstterm>välilehden</firstterm> jokaiselle asiakirjalle näyttöalueen "
 "yläosassa. Vaihtaaksesi toiseen asiakirjaan, napsauta sen välilehteä."
 
 #: C/xed.xml:398(para)
 msgid ""
-"To move a document to another <application> xed</application> window, drag "
+"To move a document to another <application> Techo</application> window, drag "
 "the tab corresponding to the file to the window you want to move it to."
 msgstr ""
-"Siirtääksesi asiakirjan toiseen <application> xed</application>-ikkunan, "
+"Siirtääksesi asiakirjan toiseen <application> Techo</application>-ikkunan, "
 "vedä tiedoston välilehti ikkunaan, johon haluat sen siirtää."
 
 #: C/xed.xml:399(para)
 msgid ""
-"To move a document to a new <application> xed</application> window, either "
+"To move a document to a new <application> Techo</application> window, either "
 "drag its tab to the desktop, or choose <menuchoice><guimenu>Documents</"
 "guimenu><guimenuitem>Move to New Window</guimenuitem></menuchoice>."
 msgstr ""
-"Siirtääksesi asiakirjan uuteen <application>xed</application>-ikkunaan, "
+"Siirtääksesi asiakirjan uuteen <application>Techo</application>-ikkunaan, "
 "vedä sen välilehti työpöydälle, tai valitse <menuchoice><guimenu>Asiakirjat</"
 "guimenu><guimenuitem>Siirrä uuteen ikkunaan</guimenuitem></menuchoice>."
 
@@ -877,12 +877,12 @@ msgid ""
 "To insert the contents of the clipboard at the cursor position, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste</guimenuitem></"
 "menuchoice>. You must cut or copy text before you can paste text into the "
-"file, either from xed or another application."
+"file, either from Techo or another application."
 msgstr ""
 "Lisätäksesi leikepöydän sisällön osoittimen osoittamalle paikalle, valitse "
 "<menuchoice><guimenu>Muokkaa</guimenu><guimenuitem>Liitä</guimenuitem></"
 "menuchoice>. Sinun täytyy leikata tai kopioida tekstiä, ennen kuin voit "
-"liittää sitä tiedostoon, joko xed:isä tai toisesta sovelluksesta."
+"liittää sitä tiedostoon, joko Techo:isä tai toisesta sovelluksesta."
 
 #: C/xed.xml:422(para)
 msgid ""
@@ -915,12 +915,12 @@ msgstr "Etsi ja korvaa"
 
 #: C/xed.xml:436(para)
 msgid ""
-"In <application>xed</application>, there are two ways of searching for "
+"In <application>Techo</application>, there are two ways of searching for "
 "text. You can use the <guilabel>Find</guilabel> dialog to search for a "
 "specific piece of text, or <guilabel>Incremental Search</guilabel> to "
 "highlight matching text as you type it."
 msgstr ""
-"<application>xed</application>:ssä, on kaksi tapaa etsiä tekstiä. Voit "
+"<application>Techo</application>:ssä, on kaksi tapaa etsiä tekstiä. Voit "
 "käyttää <guilabel>Etsi</guilabel>-dialogia etsiäksesi tietyltä alueelta "
 "tekstiä, tai <guilabel>Incremental Search</guilabel> korostaaksesi sopivan "
 "tekstin kirjoittaessasi."
@@ -945,19 +945,19 @@ msgstr ""
 msgid ""
 "Type the string that you want to find in the <guilabel>Search for</guilabel> "
 "field. You can include special characters such as a new line or tab: see "
-"<xref linkend=\"xed-find-escapes\"/>."
-msgstr "Kirjoita merkkijono, jonka haluat etsiä <guilabel>Hakusana</guilabel>-kenttään. Voit sisällyttää erikoismerkkejä kuten rivinvaihdon tai sarkaimen: katso <xref linkend=\"xed-find-escapes\"/>."
+"<xref linkend=\"Techo-find-escapes\"/>."
+msgstr "Kirjoita merkkijono, jonka haluat etsiä <guilabel>Hakusana</guilabel>-kenttään. Voit sisällyttää erikoismerkkejä kuten rivinvaihdon tai sarkaimen: katso <xref linkend=\"Techo-find-escapes\"/>."
 
 #: C/xed.xml:448(para)
 msgid ""
 "Click <guibutton>Find</guibutton> to search the file for the first "
 "occurrence of the string after your current cursor position. If "
-"<application>xed</application> finds the string, the application selects "
+"<application>Techo</application> finds the string, the application selects "
 "first occurrence of the string. Other occurrences of the string are "
 "highlighted."
 msgstr ""
 "Napsauta <guibutton>Etsi</guibutton> etsiäksesi tiedostosta ensimmäistä "
-"sopivaa merkkijonoa osoittimesi sijainnin jälkeen. Jos <application>xed</"
+"sopivaa merkkijonoa osoittimesi sijainnin jälkeen. Jos <application>Techo</"
 "application> löytää merkkijonon, sovellus valitsee ensimmäisen merkkijonon "
 "sijainnin. Muut sijainnit korostetaan."
 
@@ -1074,11 +1074,11 @@ msgstr ""
 msgid ""
 "Type the string that you want to find, in the <guilabel>Search for</guilabel> "
 "field. You can include special characters such as a new line or tab: see "
-"<xref linkend=\"xed-find-escapes\"/>."
+"<xref linkend=\"Techo-find-escapes\"/>."
 msgstr ""
 "Kirjoita merkkijono, jonka haluat etsiä <guilabel>Etsi Hakusana</guilabel> "
 "-kenttään. Voit sisällyttää erikoismerkkejä kuten rivinvaihdon tai "
-"sarkaimen: katso <xref linkend=\"xed-find-escapes\"/>."
+"sarkaimen: katso <xref linkend=\"Techo-find-escapes\"/>."
 
 #: C/xed.xml:476(para)
 msgid ""
@@ -1091,13 +1091,13 @@ msgstr ""
 #: C/xed.xml:480(para)
 msgid ""
 "To examine each occurrence of the string before replacing it, click "
-"<guibutton>Find</guibutton>. If <application>xed</application> finds the "
+"<guibutton>Find</guibutton>. If <application>Techo</application> finds the "
 "string, the application selects the string. Click <guibutton>Replace</"
 "guibutton> to replace the selected occurrence of the string. To find the "
 "next occurrence of the string, click <guibutton>Find</guibutton> again."
 msgstr ""
 "Tutkiaksesi jokaista merkkijono-osumaa ennen korvaamista, napsauta "
-"<guibutton>Etsi</guibutton>. Jos <application>xed</application> löytää "
+"<guibutton>Etsi</guibutton>. Jos <application>Techo</application> löytää "
 "merkkijonon, sovellus valitsee tämän merkkijonon. Napsauta "
 "<guibutton>Korvaa</guibutton> korvataksesi valitun merkkijono-osuman. "
 "Etsiäksesi seuraava merkkijono-osuman, napsauta <guibutton>Etsi</guibutton> "
@@ -1284,10 +1284,10 @@ msgstr "Tulosta syntaksiväritys"
 #: C/xed.xml:563(para)
 msgid ""
 "Select this option to print syntax highlighting. For more information about "
-"syntax highlighting, see <xref linkend=\"xed-set-highlightmode\"/>."
+"syntax highlighting, see <xref linkend=\"Techo-set-highlightmode\"/>."
 msgstr ""
 "Valitse tämä valinta tulostaaksesi syntaksivärityksen. Lisätietoja "
-"syntaksivärityksestä: <xref linkend=\"xed-set-highlightmode\"/>."
+"syntaksivärityksestä: <xref linkend=\"Techo-set-highlightmode\"/>."
 
 #: C/xed.xml:566(guilabel)
 msgid "Print page headers"
@@ -1387,11 +1387,11 @@ msgstr ""
 #: C/xed.xml:609(para)
 msgid ""
 "To reset the fonts to the default fonts for printing a file from "
-"<application>xed</application>, click <guibutton>Restore Default Fonts</"
+"<application>Techo</application>, click <guibutton>Restore Default Fonts</"
 "guibutton>."
 msgstr ""
 "Palauttaaksesi oletuskirjasinasetukset tiedoston tulostukseen "
-"<application>xed</application>:llä, napsauta <guibutton>Palauta "
+"<application>Techo</application>:llä, napsauta <guibutton>Palauta "
 "oletuskirjasimet</guibutton>."
 
 #: C/xed.xml:616(title)
@@ -1400,10 +1400,10 @@ msgstr "Asiakirjan tulostus"
 
 #: C/xed.xml:617(para)
 msgid ""
-"You can use <application>xed</application> to perform the following print "
+"You can use <application>Techo</application> to perform the following print "
 "operations:"
 msgstr ""
-"Voit käyttää <application>xed</application>:iä seuraavien "
+"Voit käyttää <application>Techo</application>:iä seuraavien "
 "tulostustehtävien suoritukseen."
 
 #: C/xed.xml:619(para)
@@ -1416,11 +1416,11 @@ msgstr "Tulosta tiedostoon."
 
 #: C/xed.xml:624(para)
 msgid ""
-"If you print to a file, <application>xed</application> sends the output of "
+"If you print to a file, <application>Techo</application> sends the output of "
 "the file to a pre-press format file. The most common pre-press formats are "
 "PostScript and Portable Document Format (PDF)."
 msgstr ""
-"Jos tulostat tiedostoon, <application>xed</application> lähettää tiedoston "
+"Jos tulostat tiedostoon, <application>Techo</application> lähettää tiedoston "
 "tulosteen esimuotoiltuun tiedostoon. Yleisimmät esimuotoilutiedostomuodot "
 "ovat PostScript ja Portable Document Format (PDF)."
 
@@ -1623,8 +1623,8 @@ msgid "State"
 msgstr "Tila."
 
 #: C/xed.xml:734(para) C/xed.xml:740(para) C/xed.xml:746(para)
-msgid "This functionality is not supported in this version of xed."
-msgstr "Tämä toiminto ei ole tuettu tässä xed:in versiossa."
+msgid "This functionality is not supported in this version of Techo."
+msgstr "Tämä toiminto ei ole tuettu tässä Techo:in versiossa."
 
 #: C/xed.xml:738(guilabel)
 msgid "Type"
@@ -1714,15 +1714,15 @@ msgstr "Ohjelmointiominaisuudet"
 
 #: C/xed.xml:801(para)
 msgid ""
-"Several of <application>xed</application>'s features for programming are "
+"Several of <application>Techo</application>'s features for programming are "
 "provided with plugins. For example, the Tag List plugin provides a list of "
-"commonly-used tags for different markup languages: see <xref linkend=\"xed-"
+"commonly-used tags for different markup languages: see <xref linkend=\"Techo-"
 "tag-list-plugin\"/>."
 msgstr ""
-"Muutamat <application>xed</application>:in ohjelmointiominaisuudet "
+"Muutamat <application>Techo</application>:in ohjelmointiominaisuudet "
 "tarjotaan liitännäisinä. Esimerkiksi Tag List -liitännäinen tarjoaa listan "
 "yleisimmin käytetyistä merkinnöistä eri merkintäkielissä: katso <xref "
-"linkend=\"xed-tag-list-plugin\"/>."
+"linkend=\"Techo-tag-list-plugin\"/>."
 
 #: C/xed.xml:805(title)
 msgid "Syntax Highlighting"
@@ -1738,12 +1738,12 @@ msgstr ""
 
 #: C/xed.xml:808(para)
 msgid ""
-"<application>xed</application> chooses an appropriate syntax highlighting "
+"<application>Techo</application> chooses an appropriate syntax highlighting "
 "mode based on a document's type. To override the syntax highlighting mode, "
 "choose <menuchoice><guimenu>View</guimenu><guimenuitem>Highlight Mode</"
 "guimenuitem></menuchoice>, then choose one of the following menu items:"
 msgstr ""
-"<application>xed</application> valitsee sopivan syntaksiväritystilan "
+"<application>Techo</application> valitsee sopivan syntaksiväritystilan "
 "asiakirjan tyypin mukaan. Muuttaaksesi syntaksiväritystilaa, valitse "
 "<menuchoice><guimenu>Näytä</guimenu><guimenuitem>Väritystila</guimenuitem></"
 "menuchoice> ja valitse yksi seuraavista valikkovalinnoista:"
@@ -1813,23 +1813,23 @@ msgstr "Komennon tulosteen ohjaus tiedostoon"
 
 #: C/xed.xml:846(para)
 msgid ""
-"You can use <application>xed</application> to pipe the output of a command "
+"You can use <application>Techo</application> to pipe the output of a command "
 "to a text file. For example, to pipe the output of an <command>ls</command> "
-"command to a text file, type <command>ls | xed</command>, then press "
+"command to a text file, type <command>ls | Techo</command>, then press "
 "<keycap>Return</keycap>."
 msgstr ""
-"Voit käyttää <application>xed</application>:iä ohjataksesi komennon "
+"Voit käyttää <application>Techo</application>:iä ohjataksesi komennon "
 "tulosteen tiedostoon. Esimerkiksi, tulostaaksesi <command>ls</command>-"
-"komennon tekstitiedostoon, kirjoita <command>ls | xed</command>, ja paina "
+"komennon tekstitiedostoon, kirjoita <command>ls | Techo</command>, ja paina "
 "<keycap>Return</keycap>."
 
 #: C/xed.xml:847(para)
 msgid ""
 "The output of the <command>ls</command> command is displayed in a new text "
-"file in the <application>xed</application> window."
+"file in the <application>Techo</application> window."
 msgstr ""
 "Komennon <command>ls</command> tuloste näytetään uudessa tekstitiedostossa "
-"<application>xed</application>-ikkunassa."
+"<application>Techo</application>-ikkunassa."
 
 #: C/xed.xml:848(para)
 msgid ""
@@ -1846,12 +1846,12 @@ msgstr "Pikanäppäimet"
 #: C/xed.xml:855(para)
 msgid ""
 "Use shortcut keys to perform common tasks more quickly than with the mouse "
-"and menus. The following tables list all of <application>xed</"
+"and menus. The following tables list all of <application>Techo</"
 "application>'s shortcut keys."
 msgstr ""
 "Käytä pikanäppäimiä yleisten tehtävien suorittamiseen nopeammin kuin "
 "hiirellä ja valikoilla. Seuraavat taulukot luettelevat kaikki "
-"<application>xed</application>in pikanäppäimet."
+"<application>Techo</application>in pikanäppäimet."
 
 #: C/xed.xml:856(para)
 msgid ""
@@ -2004,8 +2004,8 @@ msgid "Ctrl + Q"
 msgstr "Ctrl + Q"
 
 #: C/xed.xml:952(para)
-msgid "Quit Xed."
-msgstr "Sulkee Xed:in."
+msgid "Quit Techo."
+msgstr "Sulkee Techo:in."
 
 #. ============= Edit =======================
 #: C/xed.xml:959(bridgehead) C/xed.xml:1406(guimenu)
@@ -2236,8 +2236,8 @@ msgid "F1"
 msgstr "F1"
 
 #: C/xed.xml:1142(para)
-msgid "Open <application>xed</application>'s user manual."
-msgstr "Avaa <application>xed</application>:in käyttöoppaan."
+msgid "Open <application>Techo</application>'s user manual."
+msgstr "Avaa <application>Techo</application>:in käyttöoppaan."
 
 #: C/xed.xml:1154(title)
 msgid "Preferences"
@@ -2245,12 +2245,12 @@ msgstr "Asetukset"
 
 #: C/xed.xml:1156(para)
 msgid ""
-"To configure <application>xed</application>, choose "
+"To configure <application>Techo</application>, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Preferences</guimenuitem></"
 "menuchoice>. The <guilabel>Preferences</guilabel> dialog contains the "
 "following categories:"
 msgstr ""
-"Säätääksesi <application>xed</application>:iä, valitse "
+"Säätääksesi <application>Techo</application>:iä, valitse "
 "<menuchoice><guimenu>Muokkaa</guimenu><guimenuitem>Asetukset</guimenuitem></"
 "menuchoice>. <guilabel>Asetukset</guilabel>-dialogi sisältää seuraavat "
 "alaluokat:"
@@ -2282,10 +2282,10 @@ msgstr ""
 #: C/xed.xml:1177(para)
 msgid ""
 "Select the <guilabel>Display line numbers</guilabel> option to display line "
-"numbers on the left side of the <application>xed</application> window."
+"numbers on the left side of the <application>Techo</application> window."
 msgstr ""
 "Valitse <guilabel>Näytä rivinumerot</guilabel> -asetus näyttääksesi "
-"rivinumerot <application>xed</application>-ikkunan vasemmalla puolella."
+"rivinumerot <application>Techo</application>-ikkunan vasemmalla puolella."
 
 #: C/xed.xml:1181(guilabel)
 msgid "Current Line"
@@ -2340,21 +2340,21 @@ msgstr "Muokkain-välilehti"
 #: C/xed.xml:1209(para)
 msgid ""
 "Use the <guilabel>Tab width</guilabel> spin box to specify the width of the "
-"space that <application> xed</application> inserts when you press the "
+"space that <application> Techo</application> inserts when you press the "
 "<keycap>Tab</keycap> key."
 msgstr ""
 "Käytä <guilabel>Sarkainleveys</guilabel>-lukurullaa määrittääksesi "
 "syötettävän välin leveyden painettaessa <keycap>Sarkain</keycap>-näppäintä "
-"<application>xed</application>issä."
+"<application>Techo</application>issä."
 
 #: C/xed.xml:1210(para)
 msgid ""
 "Select the <guilabel>Insert spaces instead of tabs</guilabel> option to "
-"specify that <application> xed</application> inserts spaces instead of a "
+"specify that <application> Techo</application> inserts spaces instead of a "
 "tab character when you press the <keycap>Tab</keycap> key."
 msgstr ""
 "Valitse <guilabel>Lisää välilyöntejä sarkaimien sijaan</guilabel>-asetus "
-"määrittääksesi <application>xed</application>in syöttämään tyhjämerkkejä "
+"määrittääksesi <application>Techo</application>in syöttämään tyhjämerkkejä "
 "sarkainmerkin sijaan painettaessa <keycap>Sarkain</keycap>-näppäintä."
 
 #: C/xed.xml:1214(guilabel)
@@ -2406,21 +2406,21 @@ msgstr "Kirjasin"
 #: C/xed.xml:1235(para)
 msgid ""
 "Select the <guilabel>Use default theme font</guilabel> option to use the "
-"default system font for the text in the <application>xed</application> "
+"default system font for the text in the <application>Techo</application> "
 "text window."
 msgstr ""
 "Valitse <guilabel>Käytä järjestelmän tasalevyistä kirjasinta</guilabel>-"
 "asetus käyttääksesi järjestelmän oletuskirjasinta tekstissä "
-"<application>xed</application>-teksti-ikkunassa."
+"<application>Techo</application>-teksti-ikkunassa."
 
 #: C/xed.xml:1236(para)
 msgid ""
 "The <guilabel>Editor font</guilabel> field displays the font that "
-"<application>xed</application> uses to display text. Click on the button "
+"<application>Techo</application> uses to display text. Click on the button "
 "to specify the font type, style, and size to use for text."
 msgstr ""
 "<guilabel>Muokkaimen kirjasin</guilabel>-kenttä näyttää kirjasimen, jota "
-"<application>xed</application> käyttää tekstin näyttämiseen. Napsauta "
+"<application>Techo</application> käyttää tekstin näyttämiseen. Napsauta "
 "painiketta määrittääksesi kirjasimen tyypin, tyylin ja koon käytettäväksi "
 "tekstissä."
 
@@ -2492,13 +2492,13 @@ msgstr "Liitännäisasetukset"
 
 #: C/xed.xml:1284(para)
 msgid ""
-"Plugins add extra features to <application>xed</application>. For more "
+"Plugins add extra features to <application>Techo</application>. For more "
 "information on plugins and how to use the built-in plugins, see <xref "
-"linkend=\"xed-plugins-overview\"/>."
+"linkend=\"Techo-plugins-overview\"/>."
 msgstr ""
-"Liitännäiset lisäävät lisäominaisuuksia <application>xed</application>:"
+"Liitännäiset lisäävät lisäominaisuuksia <application>Techo</application>:"
 "iin. Lisätietoa liitännäisistä ja sisäänrakennettujen liitännäisten "
-"käytöstä: <xref linkend=\"xed-plugins-overview\"/>."
+"käytöstä: <xref linkend=\"Techo-plugins-overview\"/>."
 
 #: C/xed.xml:1288(title)
 msgid "Enabling a Plugin"
@@ -2506,10 +2506,10 @@ msgstr "Liitännäisten kytkeminen päälle"
 
 #: C/xed.xml:1289(para)
 msgid ""
-"To enable a <application>xed</application> plugin, perform the following "
+"To enable a <application>Techo</application> plugin, perform the following "
 "steps:"
 msgstr ""
-"Kytkeäksesi <application>xed</application>-liitännäisen päälle, toimi "
+"Kytkeäksesi <application>Techo</application>-liitännäisen päälle, toimi "
 "seuraavien ohjeiden mukaisesti:"
 
 #: C/xed.xml:1292(para) C/xed.xml:1313(para) C/xed.xml:1635(para)
@@ -2545,17 +2545,17 @@ msgstr "Liitännäisen kytkeminen pois päältä"
 
 #: C/xed.xml:1309(para)
 msgid ""
-"A plugin remains enabled when you quit <application>xed</application>."
+"A plugin remains enabled when you quit <application>Techo</application>."
 msgstr ""
-"Liitännäinen pysyy kytkettynä, kun suljet <application>xed</application>:"
+"Liitännäinen pysyy kytkettynä, kun suljet <application>Techo</application>:"
 "in."
 
 #: C/xed.xml:1310(para)
 msgid ""
-"To disable a <application>xed</application> plugin, perform the following "
+"To disable a <application>Techo</application> plugin, perform the following "
 "steps:"
 msgstr ""
-"Kytkeäksesi <application>xed</application>-liitännäisen pois päältä, toimi "
+"Kytkeäksesi <application>Techo</application>-liitännäisen pois päältä, toimi "
 "seuraavien ohjeiden mukaisesti:"
 
 #: C/xed.xml:1319(para)
@@ -2576,70 +2576,70 @@ msgstr "Liitännäisten kanssa toiminen"
 
 #: C/xed.xml:1334(para)
 msgid ""
-"You can add extra features to <application>xed</application> by enabling "
+"You can add extra features to <application>Techo</application> by enabling "
 "<firstterm>plugins</firstterm>. A plugin is a supplementary program that "
 "enhances the functionality of an application. Plugins add new items to the "
-"<application>xed</application> menus for the new features they provide."
+"<application>Techo</application> menus for the new features they provide."
 msgstr ""
-"Voit lisätä lisätoimintoja <application>xed</application>:iin kytkemällä "
+"Voit lisätä lisätoimintoja <application>Techo</application>:iin kytkemällä "
 "<firstterm>liitännäisiä</firstterm> päälle. Liitännäinen on täydentävä "
 "ohjelma, joka parantaa sovelluksen toiminnallisuutta. Liitännäiset lisäävät "
-"uusia valintoja <application>xed</application>:in uusille toiminnoilleen."
+"uusia valintoja <application>Techo</application>:in uusille toiminnoilleen."
 
 #: C/xed.xml:1336(para)
 msgid ""
-"Several plugins come built-in with <application>xed</application>, and you "
-"can install more. The <ulink type=\"http\" url=\"http://live.gnome.org/Xed/"
-"Plugins\">xed website</ulink> lists third-party plugins."
+"Several plugins come built-in with <application>Techo</application>, and you "
+"can install more. The <ulink type=\"http\" url=\"http://live.gnome.org/Techo/"
+"Plugins\">Techo website</ulink> lists third-party plugins."
 msgstr ""
-"Muutamia liitännäisiä on <application>xed</application>:ssä "
+"Muutamia liitännäisiä on <application>Techo</application>:ssä "
 "sisäänrakennettuna ja voit asentaa niitä myös lisää. <ulink type=\"http\" "
-"url=\"http://live.gnome.org/Xed/Plugins\">Xed:in verkkosivustolta</"
+"url=\"http://live.gnome.org/Techo/Plugins\">Techo:in verkkosivustolta</"
 "ulink> löydät listan 3. osapuolen tarjoamista liitännäisistä."
 
 #: C/xed.xml:1337(para)
 msgid ""
 "To enable and disable plugins, or see which plugins are currently enabled, "
-"use the <link linkend=\"xed-prefs-plugins\">Plugins Preferences</link>."
+"use the <link linkend=\"Techo-prefs-plugins\">Plugins Preferences</link>."
 msgstr ""
 "Kytkeäksesi liitännäisiä päälle tai pois, tai katsoaksesi, mitkä "
-"liitännäiset ovat tällä hetkellä päällä, mene <link linkend=\"xed-prefs-"
+"liitännäiset ovat tällä hetkellä päällä, mene <link linkend=\"Techo-prefs-"
 "plugins\">Liitännäisasetuksiin</link>."
 
 #: C/xed.xml:1338(para)
 msgid ""
-"The following plugins come built-in with <application>xed</application>:"
+"The following plugins come built-in with <application>Techo</application>:"
 msgstr ""
-"Seuraavat liitännäiset ovat sisäänrakennettuina <application>xed</"
+"Seuraavat liitännäiset ovat sisäänrakennettuina <application>Techo</"
 "application>:ssä:"
 
 #: C/xed.xml:1344(para)
 msgid ""
-"<link linkend=\"xed-change-case-plugin\"><application>Change Case</"
+"<link linkend=\"Techo-change-case-plugin\"><application>Change Case</"
 "application></link> allows you to change the case of the selected text."
 msgstr ""
-"<link linkend=\"xed-change-case-plugin\"><application>Muuta kirjainkokoa</"
+"<link linkend=\"Techo-change-case-plugin\"><application>Muuta kirjainkokoa</"
 "application></link> mahdollista kirjainkoon vaihtamisen tekstissä."
 
 #: C/xed.xml:1347(para)
 msgid ""
-"<application><link linkend=\"xed-document-statistics-plugin\">Document "
+"<application><link linkend=\"Techo-document-statistics-plugin\">Document "
 "Statistics</link></application> shows the number of lines, words, and "
 "characters in the document."
 msgstr ""
-"<application><link linkend=\"xed-document-statistics-plugin"
+"<application><link linkend=\"Techo-document-statistics-plugin"
 "\">Asiakirjatilastot</link></application> näyttää rivien, sanojen, ja "
 "merkkien määrän asiakirjassa."
 
 #: C/xed.xml:1350(para)
 msgid ""
-"<application><link linkend=\"xed-external-tools-plugin\">External Tools</"
+"<application><link linkend=\"Techo-external-tools-plugin\">External Tools</"
 "link></application> allows you to execute external commands from "
-"<application>xed</application>."
+"<application>Techo</application>."
 msgstr ""
-"<application><link linkend=\"xed-external-tools-plugin\">Ulkoiset "
+"<application><link linkend=\"Techo-external-tools-plugin\">Ulkoiset "
 "työkalut</link></application> mahdollistaa lisäkomentojen suorittamisen "
-"<application>xed</application>:ssä."
+"<application>Techo</application>:ssä."
 
 #: C/xed.xml:1353(para)
 msgid ""
@@ -2651,86 +2651,86 @@ msgstr ""
 
 #: C/xed.xml:1356(para)
 msgid ""
-"<application><link linkend=\"xed-indent-lines-plugin\">Indent Lines</"
+"<application><link linkend=\"Techo-indent-lines-plugin\">Indent Lines</"
 "link></application> adds or removes indentation from the selected lines."
 msgstr ""
-"<application><link linkend=\"xed-indent-lines-plugin\">Indent Lines</"
+"<application><link linkend=\"Techo-indent-lines-plugin\">Indent Lines</"
 "link></application> adds or removes indentation from the selected lines."
 
 #: C/xed.xml:1359(para)
 msgid ""
-"<application><link linkend=\"xed-insert-date-time-plugin\">Insert Date/"
+"<application><link linkend=\"Techo-insert-date-time-plugin\">Insert Date/"
 "Time</link></application> adds the current date and time into a document."
 msgstr ""
-"<application><link linkend=\"xed-insert-date-time-plugin\">Päiväys/Aika</"
+"<application><link linkend=\"Techo-insert-date-time-plugin\">Päiväys/Aika</"
 "link></application> lisää aikaleiman asiakirjaan."
 
 #: C/xed.xml:1362(para)
 msgid ""
-"<application><link linkend=\"xed-modelines-plugin\">Modelines</link></"
+"<application><link linkend=\"Techo-modelines-plugin\">Modelines</link></"
 "application> allows you to set editing preferences for individual documents, "
 "and supports <application>Emacs</application>, <application>Kate</"
 "application> and <application>Vim</application>-style modelines."
 msgstr ""
-"<application><link linkend=\"xed-modelines-plugin\">Tilarivit</link></"
+"<application><link linkend=\"Techo-modelines-plugin\">Tilarivit</link></"
 "application> mahdollistaa muokkausasetusten asettamisen eri asiakirjoille, "
 "ja se tukee <application>Emacs</application>, <application>Kate</"
 "application> ja <application>Vim</application>-tyylisiä tilarivejä."
 
 #: C/xed.xml:1365(para)
 msgid ""
-"<application><link linkend=\"xed-python-console-plugin\">Python Console</"
+"<application><link linkend=\"Techo-python-console-plugin\">Python Console</"
 "link></application> allows you to run commands in the python programming "
 "language."
 msgstr ""
-"<application><link linkend=\"xed-python-console-plugin\">Python-konsoli</"
+"<application><link linkend=\"Techo-python-console-plugin\">Python-konsoli</"
 "link></application> mahdollistaa python-ohjelmointikielen komentojen "
 "ajamisen."
 
 #: C/xed.xml:1368(para)
 msgid ""
-"<application><link linkend=\"xed-snippets-plugin\">Snippets</link></"
+"<application><link linkend=\"Techo-snippets-plugin\">Snippets</link></"
 "application> allows you to store frequently-used pieces of text and insert "
 "them quickly into a document."
 msgstr ""
-"<application><link linkend=\"xed-snippets-plugin\">Tekstileikkeet</link></"
+"<application><link linkend=\"Techo-snippets-plugin\">Tekstileikkeet</link></"
 "application> mahdollistaa yleisten tekstinpätkien tallentamisen ja "
 "syöttämisen nopeasti asiakirjaan."
 
 #: C/xed.xml:1371(para)
 msgid ""
-"<application><link linkend=\"xed-sort-plugin\">Sort</link></application> "
+"<application><link linkend=\"Techo-sort-plugin\">Sort</link></application> "
 "arranges selected lines of text into alphabetical order."
 msgstr ""
-"<application><link linkend=\"xed-sort-plugin\">Lajittelu</link></"
+"<application><link linkend=\"Techo-sort-plugin\">Lajittelu</link></"
 "application> järjestää valitut tekstirivit aakkosjärjestykseen."
 
 #: C/xed.xml:1374(para)
 msgid ""
-"<application><link linkend=\"xed-spell-checker-plugin\">Spell Checker</"
+"<application><link linkend=\"Techo-spell-checker-plugin\">Spell Checker</"
 "link></application> corrects the spelling in the selected text, or marks "
 "errors automatically in the document."
 msgstr ""
-"<application><link linkend=\"xed-spell-checker-plugin\">Oikoluku</link></"
+"<application><link linkend=\"Techo-spell-checker-plugin\">Oikoluku</link></"
 "application> korjaa kirjoitusvirheet valitussa tekstissä, tai merkitsee "
 "virheet automaattisesti asiakirjaan."
 
 #: C/xed.xml:1377(para)
 msgid ""
-"<application><link linkend=\"xed-tag-list-plugin\">Tag List</link></"
+"<application><link linkend=\"Techo-tag-list-plugin\">Tag List</link></"
 "application> lets you insert commonly-used tags for HTML and other languages "
 "from a list in the side pane."
 msgstr ""
-"<application><link linkend=\"xed-tag-list-plugin\">Merkintälista</link></"
+"<application><link linkend=\"Techo-tag-list-plugin\">Merkintälista</link></"
 "application> mahdollistaa yleisten eri kielien (esim. HTML) merkintöjen "
 "lisäämisen listasta sivupaneelista."
 
 #: C/xed.xml:1381(para)
 msgid ""
 "For more information on creating plugins, see the <ulink type=\"http\" url="
-"\"http://live.gnome.org/Xed/Plugins\"><application>xed</application> "
+"\"http://live.gnome.org/Techo/Plugins\"><application>Techo</application> "
 "website</ulink>."
-msgstr "Lisätietoa liitännäisten luomisesta, katso <ulink type=\"http\" url=\"http://live.gnome.org/Xed/Plugins\"><application>xed</application>:in web-sivusto</ulink>."
+msgstr "Lisätietoa liitännäisten luomisesta, katso <ulink type=\"http\" url=\"http://live.gnome.org/Techo/Plugins\"><application>Techo</application>:in web-sivusto</ulink>."
 
 #: C/xed.xml:1385(title)
 msgid "Change Case Plugin"
@@ -2872,12 +2872,12 @@ msgstr "Tavujen määrän asiakirjassa."
 
 #: C/xed.xml:1459(para)
 msgid ""
-"You can continue to update the <application>xed</application> file while "
+"You can continue to update the <application>Techo</application> file while "
 "the <guilabel>Document Statistics</guilabel> dialog is open. To refresh the "
 "contents of the <guilabel>Document Statistics</guilabel> dialog, click "
 "<guibutton>Update</guibutton>."
 msgstr ""
-"Voit jatkaa <application>xed</application>-tiedoston päivittämistä "
+"Voit jatkaa <application>Techo</application>-tiedoston päivittämistä "
 "<guilabel>Asiakirjan tilastot</guilabel>-dialogin ollessa avoinna. "
 "Päivittääksesi <guilabel>Asiakirjan tilastot</guilabel>-dialogin sisällön, "
 "napsauta <guibutton>Päivitä</guibutton>."
@@ -2889,13 +2889,13 @@ msgstr "Ulkoiset työkalut -liitännäinen"
 #: C/xed.xml:1467(para)
 msgid ""
 "The <application>External Tools</application> plugin allows you to execute "
-"external commands from <application>xed</application>. You can pipe some "
+"external commands from <application>Techo</application>. You can pipe some "
 "content into a command and exploit its output (for example, "
 "<application>sed</application>), or launch a predefined command (for "
 "example, <application>make</application>)."
 msgstr ""
 "<application>Ulkoiset työkalut</application> -liitännäinen sallii ulkoisten "
-"komentojen suorittamisen <application>xed</application>:stä. Voit ohjata "
+"komentojen suorittamisen <application>Techo</application>:stä. Voit ohjata "
 "sisältöä komentoon ja lisätä sen tulostetta (esim. <application>sed</"
 "application>), tai käynnistää määritellyn komennon (esim, <application>make</"
 "application>)."
@@ -3013,13 +3013,13 @@ msgstr "Komennot"
 
 #: C/xed.xml:1519(para)
 msgid ""
-"The actual commands to be run. Several <application>xed</application> "
+"The actual commands to be run. Several <application>Techo</application> "
 "environment variables can be used to pass content to these commands: see "
-"<xref linkend=\"xed-external-tools-plugin-variables\"/>."
+"<xref linkend=\"Techo-external-tools-plugin-variables\"/>."
 msgstr ""
-"Varsinaiset ajettavat komennot. Muutamia <application>xed</application>:in "
+"Varsinaiset ajettavat komennot. Muutamia <application>Techo</application>:in "
 "ympäristömuuttujia voidaan käyttää komentojen sisältönä. Lisätietoa: <xref "
-"linkend=\"xed-external-tools-plugin-variables\"/>."
+"linkend=\"Techo-external-tools-plugin-variables\"/>."
 
 #: C/xed.xml:1522(term)
 msgid "Input"
@@ -3186,10 +3186,10 @@ msgstr ""
 
 #: C/xed.xml:1590(para)
 msgid ""
-"To open a file in <application>xed</application>, double-click it in the "
+"To open a file in <application>Techo</application>, double-click it in the "
 "file list."
 msgstr ""
-"Avataksesi tiedoston <application>xed</application>:ssä, kaksoisnapsauta "
+"Avataksesi tiedoston <application>Techo</application>:ssä, kaksoisnapsauta "
 "sitä tiedostolistassa."
 
 #: C/xed.xml:1593(title)
@@ -3258,11 +3258,11 @@ msgstr ""
 msgid ""
 "The amount of space used, and whether tab character or space characters are "
 "used, depends on the <guilabel>Tab Stops</guilabel> settings in the Editor "
-"Preferences: see <xref linkend=\"xed-prefs-editor\"/>."
+"Preferences: see <xref linkend=\"Techo-prefs-editor\"/>."
 msgstr ""
 "Käytettyjen välilyöntien määrää ja käytettävä merkki (sarkain tai "
 "välilyönti) riippuvat <guilabel>Sarkaimet</guilabel>-asetuksista "
-"muokkainasetuksista. Lisätietoa: <xref linkend=\"xed-prefs-editor\"/>."
+"muokkainasetuksista. Lisätietoa: <xref linkend=\"Techo-prefs-editor\"/>."
 
 #: C/xed.xml:1622(title)
 msgid "Insert Date/Time Plugin"
@@ -3290,26 +3290,26 @@ msgstr ""
 msgid ""
 "If you have not configured the Insert Date/Time plugin to automatically "
 "insert the date/time without prompting you for the format, "
-"<application>xed</application> displays the <guilabel>Insert Date and "
+"<application>Techo</application> displays the <guilabel>Insert Date and "
 "Time</guilabel> dialog. Select the appropriate date/time format from the "
 "list. Click <guibutton>Insert</guibutton> to close the <guilabel>Insert Date "
-"and Time</guilabel> dialog. <application>xed</application> inserts the "
+"and Time</guilabel> dialog. <application>Techo</application> inserts the "
 "date/time at the cursor position in the current file."
 msgstr ""
 "Jos et ole asettanut päiväys/aika -liitännäistä syöttämään päiväystä/aikaa "
-"automaattisesti kysymättä muotoa, <application>xed</application> näyttää "
-"<guilabel>Lisää päiväys/aika</guilabel>-dialogin. <application>xed</"
+"automaattisesti kysymättä muotoa, <application>Techo</application> näyttää "
+"<guilabel>Lisää päiväys/aika</guilabel>-dialogin. <application>Techo</"
 "application> syöttää päiväyksen/ajan sen hetkisen sijaintiin aktiivisessa "
 "tiedostossa."
 
 #: C/xed.xml:1627(para)
 msgid ""
-"If you have configured <application>xed</application> to use one "
+"If you have configured <application>Techo</application> to use one "
 "particular date/time format, the <guilabel>Insert Date and Time</guilabel> "
 "dialog is not displayed. The date/time is automatically entered at the "
 "cursor position in the current file."
 msgstr ""
-"Jos olet asettanut <application>xed</application>:in käyttämään "
+"Jos olet asettanut <application>Techo</application>:in käyttämään "
 "määritettyä päiväys/aika-muotoa, <guilabel>Lisää päiväys/aika</guilabel>-"
 "dialogia ei näytetä. Päiväys/aika syötetään automaattisesti sen hetkiseen "
 "sijaintiin aktiivisessa tiedostossa."
@@ -3348,18 +3348,18 @@ msgstr ""
 
 #: C/xed.xml:1652(para)
 msgid ""
-"To use the same <application>xed</application>-provided date/time format "
+"To use the same <application>Techo</application>-provided date/time format "
 "each time you insert the date/time, select the <guilabel>Use the selected "
 "format</guilabel> option, then select the appropriate format from the list. "
-"When you select this option, <application>xed</application> does not "
+"When you select this option, <application>Techo</application> does not "
 "prompt you for the date/time format when you choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Insert Date and Time</"
 "guimenuitem></menuchoice>."
 msgstr ""
-"Käyttääksesi aina samaa <application>xed</application>:in valikoimasta "
+"Käyttääksesi aina samaa <application>Techo</application>:in valikoimasta "
 "löytyvää päiväys/aika-muotoilua päiväystä/aikaa syötettäessä, valitse "
 "<guilabel>Käytä valittua muotoilua</guilabel>-asetus ja valitse sitten "
-"sopiva muotoilu listasta. Kun valitset tämän asetuksen,<application>xed</"
+"sopiva muotoilu listasta. Kun valitset tämän asetuksen,<application>Techo</"
 "application> ei kysy sinulta päiväys/aika-muotoilua, kun "
 "valitset<menuchoice><guimenu>Muokkaa</guimenu><guimenuitem>Lisää päiväys/"
 "aika</guimenuitem></menuchoice>."
@@ -3372,7 +3372,7 @@ msgid ""
 "specify a custom format, see <ulink url=\"man:strftime\" type=\"man"
 "\"><citerefentry><refentrytitle>strftime</refentrytitle><manvolnum>3</"
 "manvolnum></citerefentry></ulink>. When you select this option, "
-"<application>xed</application> does not prompt you for the date/time "
+"<application>Techo</application> does not prompt you for the date/time "
 "format when you choose <menuchoice><guimenu>Edit</"
 "guimenu><guimenuitem>Insert Date and Time</guimenuitem></menuchoice>."
 msgstr ""
@@ -3382,7 +3382,7 @@ msgstr ""
 "muotoilusta:  <ulink url=\"man:strftime\" type=\"man"
 "\"><citerefentry><refentrytitle>strftime</refentrytitle><manvolnum>3</"
 "manvolnum></citerefentry></ulink>. Kun valitset tämän asetuksen, "
-"<application>xed</application> ei kysy sinulta muotoilua valitessasi "
+"<application>Techo</application> ei kysy sinulta muotoilua valitessasi "
 "<menuchoice><guimenu>Muokkaa</guimenu><guimenuitem>Lisää päiväys/aika</"
 "guimenuitem></menuchoice>."
 
@@ -3411,11 +3411,11 @@ msgid ""
 "The <application>Modelines</application> plugin allows you to set "
 "preferences for individual documents. A <firstterm>modeline</firstterm> is a "
 "line of text at the start or end of the document with settings that "
-"<application>xed</application> recognises."
+"<application>Techo</application> recognises."
 msgstr ""
 "<application>Tilarivit</application>-liitännäinen mahdollistaa asetusten "
 "asettamisen yksilöllisille asiakirjoille. <firstterm>Tilarivi</firstterm> on "
-"rivi tekstiä asiakirjan alussa tai lopussa, jonka <application>xed</"
+"rivi tekstiä asiakirjan alussa tai lopussa, jonka <application>Techo</"
 "application> tunnistaa."
 
 #: C/xed.xml:1672(para)
@@ -3533,23 +3533,23 @@ msgstr "Python-konsoli -liitännäinen"
 #: C/xed.xml:1713(para)
 msgid ""
 "The <application>Python Console</application> Plugin allows you to run "
-"commands in the python programming language from <application>xed</"
+"commands in the python programming language from <application>Techo</"
 "application>. Enabling the plugin adds a tab to the bottom pane. This shows "
 "recent output and a command prompt field."
 msgstr ""
 "<application>Python-konsoli</application>-liitännäinen mahdollistaa "
-"komentojen jaon Python-ohjelmointikielellä <application>xed</application>:"
+"komentojen jaon Python-ohjelmointikielellä <application>Techo</application>:"
 "stä. Liitännäisen kytkeminen lisää välilehden alapaneeliin. Se näyttää "
 "viimeisimmän tulosteen ja komentorivikentän."
 
 #: C/xed.xml:1714(para)
 msgid ""
 "Commands entered into the python console are not checked before they are "
-"run. It is therefore possible to hang <application>xed</application>, for "
+"run. It is therefore possible to hang <application>Techo</application>, for "
 "example by entering an infinite loop."
 msgstr ""
 "Python-konsoliin syötettäviä komentoja ei tarkisteta ennen ajamista. On "
-"mahdollista, että <application>xed</application> jumiutuu, esimerkiksi "
+"mahdollista, että <application>Techo</application> jumiutuu, esimerkiksi "
 "loputtomasta silmukasta."
 
 #: C/xed.xml:1718(title)
@@ -3580,10 +3580,10 @@ msgstr ""
 
 #: C/xed.xml:1721(para)
 msgid ""
-"A number of built-in snippets are installed with <application>xed</"
+"A number of built-in snippets are installed with <application>Techo</"
 "application>, which can be modified."
 msgstr ""
-"Muutamia sisäänrakennettuja tekstileikkeitä asentuu <application>xed</"
+"Muutamia sisäänrakennettuja tekstileikkeitä asentuu <application>Techo</"
 "application>:in mukana. Niitä voi muokata."
 
 #: C/xed.xml:1724(title)
@@ -3669,11 +3669,11 @@ msgstr "Leiketeksti"
 #: C/xed.xml:1752(para)
 msgid ""
 "Enter the text of the snippet in the <guilabel>Edit snippet</guilabel> text "
-"box. For special codes you can use, see <xref linkend=\"xed-snippets-"
+"box. For special codes you can use, see <xref linkend=\"Techo-snippets-"
 "plugin-syntax\"/>."
 msgstr ""
 "Syötä leikkeen teksti <guilabel>Muokkaa tekstileikettä</guilabel>-"
-"tekstikenttään. Sallitut erikoismerkit: <xref linkend=\"xed-snippets-"
+"tekstikenttään. Sallitut erikoismerkit: <xref linkend=\"Techo-snippets-"
 "plugin-syntax\"/>."
 
 #: C/xed.xml:1753(para)
@@ -3855,10 +3855,10 @@ msgstr "Ympäristömuuttujat"
 msgid ""
 "Environmental variable such as <literal>$PATH</literal> and <literal>$HOME</"
 "literal> are substituted in snippet text. The following variables specific "
-"to <application>xed</application> can also be used:"
+"to <application>Techo</application> can also be used:"
 msgstr ""
 "Ympäristömuuttuja, kuten <literal>$PATH</literal> ja <literal>$HOME</"
-"literal> korvataan tekstileikkeissä. Seuraavia <application>xed</"
+"literal> korvataan tekstileikkeissä. Seuraavia <application>Techo</"
 "application>-riippuvaisia muuttujia voidaan myös käyttää:"
 
 #: C/xed.xml:1811(term)
@@ -4057,14 +4057,14 @@ msgstr "Oikoluku-liitännäinen"
 #: C/xed.xml:1893(para)
 msgid ""
 "The <application>Spell Checker</application> plugin checks the spelling in "
-"the selected text. You can configure <application>xed</application> to "
+"the selected text. You can configure <application>Techo</application> to "
 "check the spelling automatically, or you can check the spelling manually, in "
 "the specified language. The language setting, and the autocheck spelling "
 "properties, apply per document. To use the Spell checker plugin, perform the "
 "following steps:"
 msgstr ""
 "<application>Oikoluku</application>-liitännäinen tarkistaa valitun tekstin "
-"oikeinkirjoitus. Voit säätää <application>xed</application> tarkistamaan "
+"oikeinkirjoitus. Voit säätää <application>Techo</application> tarkistamaan "
 "oikeinkirjoituksen automaattisesti tai voit tarkistaa sen itse, haluamallasi "
 "kielellä. Kieliasetus ja automaattisen tarkistuksen asetukset ovat "
 "asiakirjakohtaisia. Käyttääksesi Oikoluku-liitännäistä, toimi seuraavasti:"
@@ -4089,7 +4089,7 @@ msgid ""
 "guimenu><guimenuitem>Autocheck Spelling</guimenuitem></menuchoice> again. "
 "When automatic spell checking is set, an icon is displayed beside the "
 "<guimenuitem>Autocheck Spelling</guimenuitem> menu item. Automatic spell "
-"checking is unset by default, each time <application>xed</application> "
+"checking is unset by default, each time <application>Techo</application> "
 "starts."
 msgstr ""
 "Tarkistaaksesi oikeinkirjoituksen automaattisesti, valitse "
@@ -4099,7 +4099,7 @@ msgstr ""
 "guimenuitem></menuchoice> uudestaan. Kun automaattinen oikoluku on valittu, "
 "kuvake näytetään <guimenuitem>Automaattinen oikoluku</guimenuitem>-valikon "
 "vieressä. Automaattinen oikoluku ei ole automaattisesti kytketty, kun "
-"<application>xed</application> käynnistyy."
+"<application>Techo</application> käynnistyy."
 
 #: C/xed.xml:1899(para)
 msgid ""
@@ -4137,13 +4137,13 @@ msgid ""
 "longer flagged as unknown but are not added to your personal dictionary, "
 "select <menuchoice><guimenu>Spelling Suggestions</"
 "guimenu><guimenuitem>Ignore All</guimenuitem></menuchoice>. The unknown word "
-"is ignored in the current <application>xed</application> session only."
+"is ignored in the current <application>Techo</application> session only."
 msgstr ""
 "Ohittaaksesi kaikki tuntemattomat kirjoitusasut, ettei niitä myöskään "
 "myöhemmin merkitä tuntemattomiksi, mutta niitä ei myöskään lisätä "
 "sanakirjaasi, valitse <menuchoice><guimenu>Kirjoitusehdotuksia</"
 "guimenu><guimenuitem>Ohita kaikki</guimenuitem></menuchoice>. Tuntematon "
-"sana ohitetaan ainoastaan nykyisessä <application>xed</application>-"
+"sana ohitetaan ainoastaan nykyisessä <application>Techo</application>-"
 "istunnossa."
 
 #: C/xed.xml:1913(para)
@@ -4214,12 +4214,12 @@ msgid ""
 "To ignore the current occurrence of the unknown word, click "
 "<guibutton>Ignore</guibutton>. To ignore all occurrences of the unknown "
 "word, click <guibutton>Ignore All</guibutton>. The unknown word is ignored "
-"in the current <application>xed</application> session only."
+"in the current <application>Techo</application> session only."
 msgstr ""
 "Ohittaaksesi nykyisen tuntemattoman sanan osuman, napsauta <guibutton>Ohita</"
 "guibutton>. Ohittaaksesi kaikki tuntemattoman sanan osumat, napsauta "
 "<guibutton>Ohita kaikki</guibutton>. Tuntematon sana ohitetaan vain "
-"nykyisessä <application>xed</application>-istunnossa."
+"nykyisessä <application>Techo</application>-istunnossa."
 
 #: C/xed.xml:1932(para)
 msgid ""

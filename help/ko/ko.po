@@ -3,7 +3,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: xed-help\n"
+"Project-Id-Version: Techo-help\n"
 "POT-Creation-Date: 2008-02-01 21:04+0000\n"
 "PO-Revision-Date: 2010-04-16 01:32+0900\n"
 "Last-Translator: Changwoo Ryu <cwryu@debian.org>\n"
@@ -245,8 +245,8 @@ msgstr "Baris"
 
 #: C/xed.xml:85(surname)
 msgid ""
-"Cicek provided information from earlier revisions of the xed application."
-msgstr "Cicek가 이전 버전의 xed 응용 프로그램의 정보를 알려주었습니다."
+"Cicek provided information from earlier revisions of the Techo application."
+msgstr "Cicek가 이전 버전의 Techo 응용 프로그램의 정보를 알려주었습니다."
 
 #: C/xed.xml:86(contrib) C/xed.xml:91(contrib)
 msgid "Acknowledgements"
@@ -261,16 +261,16 @@ msgid "George provided information about plugins."
 msgstr "George가 플러그인에 관한 정보를 알려주었습니다."
 
 #: C/xed.xml:115(revnumber)
-msgid "xed V1.0"
-msgstr "xed 버전 1.0"
+msgid "Techo V1.0"
+msgstr "Techo 버전 1.0"
 
 #: C/xed.xml:118(para)
 msgid "Eric Baudais <email>baudais@okstate.edu</email>"
 msgstr "Eric Baudais <email>baudais@okstate.edu</email>"
 
 #: C/xed.xml:124(revnumber)
-msgid "xed Manual V2.0"
-msgstr "xed 설명서 버전 2.0"
+msgid "Techo Manual V2.0"
+msgstr "Techo 설명서 버전 2.0"
 
 #: C/xed.xml:125(date)
 msgid "March 2002"
@@ -283,80 +283,80 @@ msgid "Sun MATE Documentation Team"
 msgstr "Sun 그놈 문서 팀"
 
 #: C/xed.xml:132(revnumber)
-msgid "xed Manual V2.1"
-msgstr "xed 설명서 버전 2.1"
+msgid "Techo Manual V2.1"
+msgstr "Techo 설명서 버전 2.1"
 
 #: C/xed.xml:133(date)
 msgid "June 2002"
 msgstr "2002년 6월"
 
 #: C/xed.xml:140(revnumber)
-msgid "xed Manual V2.2"
-msgstr "xed 설명서 버전 2.2"
+msgid "Techo Manual V2.2"
+msgstr "Techo 설명서 버전 2.2"
 
 #: C/xed.xml:141(date)
 msgid "August 2002"
 msgstr "2002년 8월"
 
 #: C/xed.xml:148(revnumber)
-msgid "xed Manual V2.3"
-msgstr "xed 설명서 버전 2.3"
+msgid "Techo Manual V2.3"
+msgstr "Techo 설명서 버전 2.3"
 
 #: C/xed.xml:149(date)
 msgid "September 2002"
 msgstr "2002년 9월"
 
 #: C/xed.xml:156(revnumber)
-msgid "xed Manual V2.4"
-msgstr "xed 설명서 버전 2.4"
+msgid "Techo Manual V2.4"
+msgstr "Techo 설명서 버전 2.4"
 
 #: C/xed.xml:157(date)
 msgid "January 2003"
 msgstr "2003년 1월"
 
 #: C/xed.xml:164(revnumber)
-msgid "xed Manual V2.5"
-msgstr "xed 설명서 버전 2.5"
+msgid "Techo Manual V2.5"
+msgstr "Techo 설명서 버전 2.5"
 
 #: C/xed.xml:165(date)
 msgid "March 2003"
 msgstr "2003년 3월"
 
 #: C/xed.xml:172(revnumber)
-msgid "xed Manual V2.6"
-msgstr "xed 설명서 버전 2.6"
+msgid "Techo Manual V2.6"
+msgstr "Techo 설명서 버전 2.6"
 
 #: C/xed.xml:173(date)
 msgid "September 2003"
 msgstr "2003 9월"
 
 #: C/xed.xml:180(revnumber)
-msgid "xed Manual V2.7"
-msgstr "xed 설명서 버전 2.7"
+msgid "Techo Manual V2.7"
+msgstr "Techo 설명서 버전 2.7"
 
 #: C/xed.xml:181(date)
 msgid "March 2004"
 msgstr "2004 3월"
 
 #: C/xed.xml:188(revnumber)
-msgid "xed Manual V2.8"
-msgstr "xed 설명서 버전 2.8"
+msgid "Techo Manual V2.8"
+msgstr "Techo 설명서 버전 2.8"
 
 #: C/xed.xml:189(date) C/xed.xml:197(date)
 msgid "July 2006"
 msgstr "2006년 6월"
 
 #: C/xed.xml:196(revnumber)
-msgid "xed Manual V2.9"
-msgstr "xed 설명서 버전 2.9"
+msgid "Techo Manual V2.9"
+msgstr "Techo 설명서 버전 2.9"
 
 #: C/xed.xml:199(para)
 msgid "MATE Documentation Team"
 msgstr "그놈 문서 팀"
 
 #: C/xed.xml:204(releaseinfo)
-msgid "This manual describes version 2.16 of xed."
-msgstr "이 설명서는 xed 버전 2.16에 대해 설명합니다."
+msgid "This manual describes version 2.16 of Techo."
+msgstr "이 설명서는 Techo 버전 2.16에 대해 설명합니다."
 
 #: C/xed.xml:207(title)
 msgid "Feedback"
@@ -364,21 +364,21 @@ msgstr "피드백"
 
 #: C/xed.xml:208(para)
 msgid ""
-"To report a bug or make a suggestion regarding the <application>xed</"
+"To report a bug or make a suggestion regarding the <application>Techo</"
 "application> application or this manual, follow the directions in the <ulink "
 "url=\"help:mate-feedback\" type=\"help\">MATE Feedback Page</ulink>."
 msgstr ""
-"<application>xed</application> 또는 이 설명서에 대한 버그를 알려 주시거나 "
+"<application>Techo</application> 또는 이 설명서에 대한 버그를 알려 주시거나 "
 "의견을 제시하려면 <ulink url=\"help:user-guide?feedback-bugs\" type=\"help"
 "\">그놈 피드백 페이지</ulink>에 있는 대로 해 주십시오."
 
 #: C/xed.xml:213(para)
-msgid "xed is the MATE text editor."
+msgid "Techo is the MATE text editor."
 msgstr "xed는 그놈 텍스트 편집기입니다."
 
 #: C/xed.xml:216(primary)
-msgid "xed"
-msgstr "xed"
+msgid "Techo"
+msgstr "Techo"
 
 #: C/xed.xml:217(primary)
 msgid "text editor"
@@ -390,20 +390,20 @@ msgstr "소개"
 
 #: C/xed.xml:227(para)
 msgid ""
-"The <application>xed</application> application enables you to create and "
+"The <application>Techo</application> application enables you to create and "
 "edit text files."
 msgstr ""
-"<application>xed</application> 응용 프로그램으로 텍스트 파일을 만들고 편집"
+"<application>Techo</application> 응용 프로그램으로 텍스트 파일을 만들고 편집"
 "할 수 있습니다."
 
 #: C/xed.xml:229(para)
 msgid ""
-"The aim of <application>xed</application> is to be a simple and easy to "
+"The aim of <application>Techo</application> is to be a simple and easy to "
 "use text editor. More powerful features can be enabled with different "
 "<firstterm>plugins</firstterm>, allowing a variety of tasks related to text-"
 "editing."
 msgstr ""
-"<application>xed</application>의 목표는 간단하고 사용하기 쉬운 텍스트 편집"
+"<application>Techo</application>의 목표는 간단하고 사용하기 쉬운 텍스트 편집"
 "기입니다. <firstterm>플러그인</firstterm>을 사용해 더 강력한 기능을 사용할 "
 "수 있습니다. 플러그인에 텍스트 편집과 관련된 여러가지 기능이 들어 있습니다."
 
@@ -412,12 +412,12 @@ msgid "Getting Started"
 msgstr "시작하기"
 
 #: C/xed.xml:237(title)
-msgid "Starting xed"
-msgstr "xed 시작하기"
+msgid "Starting Techo"
+msgstr "Techo 시작하기"
 
 #: C/xed.xml:238(para)
-msgid "You can start <application>xed</application> in the following ways:"
-msgstr "다음 방법으로 <application>xed</application>를 시작할 수 있습니다:"
+msgid "You can start <application>Techo</application> in the following ways:"
+msgstr "다음 방법으로 <application>Techo</application>를 시작할 수 있습니다:"
 
 #: C/xed.xml:241(term)
 msgid "<guimenu>Applications</guimenu> menu"
@@ -436,39 +436,39 @@ msgid "Command line"
 msgstr "명령행"
 
 #: C/xed.xml:249(para)
-msgid "Execute the following command: <command>xed</command>"
-msgstr "다음 명령을 실행합니다: <command>xed</command>"
+msgid "Execute the following command: <command>techo</command>"
+msgstr "다음 명령을 실행합니다: <command>techo</command>"
 
 #: C/xed.xml:253(para)
 msgid ""
-"By default, when you open a text document in the file manager, xed will "
+"By default, when you open a text document in the file manager, Techo will "
 "start, and display the document."
 msgstr ""
 "기본값으로, 파일 관리자에서 텍스트 문서를 열면 xed가 시작하고 그 문서를 표"
 "시합니다."
 
 #: C/xed.xml:258(title)
-msgid "The xed Window"
-msgstr "xed 창"
+msgid "The Techo Window"
+msgstr "Techo 창"
 
 #: C/xed.xml:259(para)
 msgid ""
-"When you start <application>xed</application>, the following window is "
+"When you start <application>Techo</application>, the following window is "
 "displayed:"
-msgstr "<application>xed</application>를 시작하면 다음 창이 나타납니다:"
+msgstr "<application>Techo</application>를 시작하면 다음 창이 나타납니다:"
 
 #: C/xed.xml:262(title)
-msgid "xed Window"
-msgstr "xed 창"
+msgid "Techo Window"
+msgstr "Techo 창"
 
 #: C/xed.xml:268(phrase)
-msgid "Shows xed main window."
-msgstr "xed 메인 창을 표시합니다."
+msgid "Shows Techo main window."
+msgstr "Techo 메인 창을 표시합니다."
 
 #: C/xed.xml:274(para)
 msgid ""
-"The <application>xed</application> window contains the following elements:"
-msgstr "<application>xed</application> 창에는 다음이 들어 있습니다:"
+"The <application>Techo</application> window contains the following elements:"
+msgstr "<application>Techo</application> 창에는 다음이 들어 있습니다:"
 
 #: C/xed.xml:277(term)
 msgid "Menubar"
@@ -477,9 +477,9 @@ msgstr "메뉴 모음"
 #: C/xed.xml:279(para)
 msgid ""
 "The menus on the menubar contain all of the commands you need to work with "
-"files in <application>xed</application>."
+"files in <application>Techo</application>."
 msgstr ""
-"메뉴 모음의 메뉴에는 <application>xed</application>에서 파일 작업을 하는 "
+"메뉴 모음의 메뉴에는 <application>Techo</application>에서 파일 작업을 하는 "
 "데 필요한 명령이 모두 들어있습니다."
 
 #: C/xed.xml:282(term)
@@ -507,11 +507,11 @@ msgstr "상태 표시줄"
 
 #: C/xed.xml:294(para)
 msgid ""
-"The statusbar displays information about current <application>xed</"
+"The statusbar displays information about current <application>Techo</"
 "application> activity and contextual information about the menu items. The "
 "statusbar also displays the following information:"
 msgstr ""
-"상태 표시줄에는 현재 <application>xed</application> 동작에 대한 정보와 메"
+"상태 표시줄에는 현재 <application>Techo</application> 동작에 대한 정보와 메"
 "뉴 항목의 컨텍스트 정보를 표시합니다. 상태 표시줄에는 다음 정보도 표시합니다:"
 
 #: C/xed.xml:297(para)
@@ -573,45 +573,45 @@ msgstr "기본값으로 아래 창은 표시하지 않습니다. 아래 창을 �
 
 #: C/xed.xml:318(para)
 msgid ""
-"When you right-click in the <application>xed</application> window, the "
+"When you right-click in the <application>Techo</application> window, the "
 "application displays a popup menu. The popup menu contains the most common "
 "text editing commands."
 msgstr ""
-"<application>xed</application> 창에 마우스 오른쪽 단추를 누르면, 팝업 메뉴"
+"<application>Techo</application> 창에 마우스 오른쪽 단추를 누르면, 팝업 메뉴"
 "를 표시합니다. 이 팝업 메뉴에 자주 사용하는 텍스트 편집 명령이 들어 있습니다."
 
 #: C/xed.xml:320(para)
 msgid ""
-"Like other MATE applications, actions in <application>xed</application> "
+"Like other MATE applications, actions in <application>Techo</application> "
 "can be performed in several ways: with the menu, with the toolbar, or with "
 "shortcut keys. Shortcuts keys common to all applications are listed in the "
 "<ulink type=\"help\" url=\"help:user-guide?shortcuts-apps\">User Guide</"
 "ulink>."
 msgstr ""
-"다른 그놈 프로그램과 마찬가지로, <application>xed</application> 동작은 여러"
+"다른 그놈 프로그램과 마찬가지로, <application>Techo</application> 동작은 여러"
 "가지 방법으로 할 수 있습니다. 메뉴로도 할 수 있고, 도구 모음으로도 할 수 있"
 "고, 바로 가기 키로도 할 수 있습니다. 모든 응용 프로그램에서 공통으로 사용할 "
 "수 있는 바로 가기 키 목록이 <ulink type=\"help\" url=\"help:user-guide?"
 "shortcuts-apps\">사용자 안내서</ulink>에 있습니다."
 
 #: C/xed.xml:325(title)
-msgid "Running xed from a Command Line"
-msgstr "명령행에서 xed 실행하기"
+msgid "Running Techo from a Command Line"
+msgstr "명령행에서 Techo 실행하기"
 
 #: C/xed.xml:326(para)
 msgid ""
-"You can run <application>xed</application> from a command line and open a "
+"You can run <application>Techo</application> from a command line and open a "
 "single file or multiple files. To open multiple files from a command line, "
 "type the following command, then press <keycap>Return</keycap>:"
-msgstr "명령행에서 <application>xed</application>를 실행해서 파일 한 개 혹은 여러 개를 열 수 있습니다. 명령행에서 여러 개 파일을 열려면, 다음 명령어를 입력하고 <keycap>Return</keycap> 키를 누르십시오:"
+msgstr "명령행에서 <application>Techo</application>를 실행해서 파일 한 개 혹은 여러 개를 열 수 있습니다. 명령행에서 여러 개 파일을 열려면, 다음 명령어를 입력하고 <keycap>Return</keycap> 키를 누르십시오:"
 
 #: C/xed.xml:327(replaceable)
 msgid "file1.txt file2.txt file3.txt"
 msgstr "file1.txt file2.txt file3.txt"
 
 #: C/xed.xml:327(command)
-msgid "xed <placeholder-1/>"
-msgstr "xed <placeholder-1/>"
+msgid "Techo <placeholder-1/>"
+msgstr "Techo <placeholder-1/>"
 
 #: C/xed.xml:328(para)
 msgid "Alternatively, you can specify a URI instead of a filename."
@@ -619,14 +619,14 @@ msgstr "다른 방법으로, 파일 이름 대신에 URI를 지정할 수도 있
 
 #: C/xed.xml:329(para)
 msgid ""
-"For more information on how to run <application>xed</application> from a "
-"command line, see the unix manual page for xed, <ulink url=\"man:xed\" "
-"type=\"man\"><citerefentry><refentrytitle>xed</refentrytitle><manvolnum>1</"
+"For more information on how to run <application>Techo</application> from a "
+"command line, see the unix manual page for Techo, <ulink url=\"man:techo\" "
+"type=\"man\"><citerefentry><refentrytitle>Techo</refentrytitle><manvolnum>1</"
 "manvolnum></citerefentry></ulink>."
 msgstr ""
-"명령행에서 <application>xed</application> 실행하는 방법에 대해 좀 더 알고 "
-"싶으시면, geidt의 유닉스 맨 페이지를 (<ulink url=\"man:xed\" type=\"man"
-"\"><citerefentry><refentrytitle>xed</refentrytitle><manvolnum>1</"
+"명령행에서 <application>Techo</application> 실행하는 방법에 대해 좀 더 알고 "
+"싶으시면, geidt의 유닉스 맨 페이지를 (<ulink url=\"man:techo\" type=\"man"
+"\"><citerefentry><refentrytitle>Techo</refentrytitle><manvolnum>1</"
 "manvolnum></citerefentry></ulink>.) 참고하십시오."
 
 #: C/xed.xml:334(title)
@@ -641,10 +641,10 @@ msgstr "새 문서 만들기"
 msgid ""
 "To create a new document, choose <menuchoice><guimenu>File</"
 "guimenu><guimenuitem>New</guimenuitem></menuchoice>. The application "
-"displays a new blank document in the <application>xed</application> window."
+"displays a new blank document in the <application>Techo</application> window."
 msgstr ""
 "새 문서를 만드려면, <menuchoice><guimenu>파일</guimenu><guimenuitem>새로 만들"
-"기</guimenuitem></menuchoice>를 선택하십시오. <application>xed</"
+"기</guimenuitem></menuchoice>를 선택하십시오. <application>Techo</"
 "application> 창에 비어 있는 새 문서를 표시합니다."
 
 #: C/xed.xml:344(title) C/xed.xml:1674(title)
@@ -656,13 +656,13 @@ msgid ""
 "To open a file, choose <menuchoice><guimenu>File</guimenu><guimenuitem>Open</"
 "guimenuitem></menuchoice> to display the <guilabel>Open File</guilabel> "
 "dialog. Select the file that you want to open, then click <guibutton>Open</"
-"guibutton>. The file is displayed in the <application>xed</application> "
+"guibutton>. The file is displayed in the <application>Techo</application> "
 "window."
 msgstr ""
 "파일을 열려면, <menuchoice><guimenu>파일</guimenu><guimenuitem>열기</"
 "guimenuitem></menuchoice>를 선택해 <guilabel>파일 열기</guilabel> 대화 상자"
 "를 표시합니다. 열려는 파일을 선택하고 <guibutton>확인</guibutton>을 누르십시"
-"오. 해당 파일이 <application>xed</application> 창에 표시됩니다."
+"오. 해당 파일이 <application>Techo</application> 창에 표시됩니다."
 
 #: C/xed.xml:347(phrase)
 msgid "Shows Recent Files menu icon."
@@ -682,13 +682,13 @@ msgstr ""
 
 #: C/xed.xml:349(para)
 msgid ""
-"You can open multiple files in <application>xed</application>. The "
+"You can open multiple files in <application>Techo</application>. The "
 "application adds a tab for each open file to the window. For more on this "
-"see <xref linkend=\"xed-tabs\"/>."
+"see <xref linkend=\"Techo-tabs\"/>."
 msgstr ""
-"<application>xed</application>에 여러 개의 파일을 열 수 있습니다. 파일을 하"
+"<application>Techo</application>에 여러 개의 파일을 열 수 있습니다. 파일을 하"
 "나씩 열 때마다 창에 탭을 하나씩 추가합니다. 좀 더 알고 싶으시면, <xref "
-"linkend=\"xed-tabs\"/> 부분을 참고하십시오."
+"linkend=\"Techo-tabs\"/> 부분을 참고하십시오."
 
 #: C/xed.xml:355(title)
 msgid "Saving a File"
@@ -721,21 +721,21 @@ msgstr ""
 
 #: C/xed.xml:362(para)
 msgid ""
-"To save all of the files that are currently open in <application>xed</"
+"To save all of the files that are currently open in <application>Techo</"
 "application>, choose <menuchoice><guimenu>Documents</"
 "guimenu><guimenuitem>Save All</guimenuitem></menuchoice>."
 msgstr ""
-"현재 <application>xed</application>에 열려 있는 파일을 모두 저장하려면 "
+"현재 <application>Techo</application>에 열려 있는 파일을 모두 저장하려면 "
 "<menuchoice><guimenu>문서</guimenu><guimenuitem>모두 저장</guimenuitem></"
 "menuchoice>을 선택하십시오."
 
 #: C/xed.xml:365(para)
 msgid ""
-"To close all of the files that are currently open in <application>xed</"
+"To close all of the files that are currently open in <application>Techo</"
 "application>, choose <menuchoice><guimenu>Documents</"
 "guimenu><guimenuitem>Close All</guimenuitem></menuchoice>."
 msgstr ""
-"현재 <application>xed</application>에 열려 있는 파일을 모두 닫으려면, "
+"현재 <application>Techo</application>에 열려 있는 파일을 모두 닫으려면, "
 "<menuchoice><guimenu>문서</guimenu><guimenuitem>모두 닫기</guimenuitem></"
 "menuchoice>를 선택하십시오."
 
@@ -800,12 +800,12 @@ msgstr ""
 msgid ""
 "Saving to FTP servers can be enabled with <ulink type=\"help\" url=\"help:"
 "mateconf-editor\"><application>Configuration Editor</application></ulink>, "
-"setting the key <systemitem>/apps/xed/preferences/editor/save/"
+"setting the key <systemitem>/apps/Techo/preferences/editor/save/"
 "writable_vfs_schemes</systemitem>, but this may cause errors."
 msgstr ""
 "FTP 서버로 저장하는 기능은 <ulink type=\"help\" url=\"help:mateconf-editor"
 "\"><application>설정 편집기</application></ulink>로 저장할 수 있게 바꿀 수 있"
-"습니다. <systemitem>/apps/xed/preferences/editor/save/"
+"습니다. <systemitem>/apps/Techo/preferences/editor/save/"
 "writable_vfs_schemes</systemitem>키를 설정하면 되지만, 이 기능때문에 오류가 "
 "발생할 수도 있습니다."
 
@@ -815,29 +815,29 @@ msgstr "탭 작업하기"
 
 #: C/xed.xml:395(para)
 msgid ""
-"When more than one file is open, <application>xed</application> shows a "
+"When more than one file is open, <application>Techo</application> shows a "
 "<firstterm>tab</firstterm> for each document above the display area. To "
 "switch to another document, click on its tab."
 msgstr ""
-"여러 개 파일을 연 경우, <application>xed</application>의 표시 영역 위에 문"
+"여러 개 파일을 연 경우, <application>Techo</application>의 표시 영역 위에 문"
 "서 하나마다 탭을 하나씩 표시합니다. 다른 문서로 이동하려면, 해당하는 탭을 누"
 "르십시오."
 
 #: C/xed.xml:396(para)
 msgid ""
-"To move a document to another <application> xed</application> window, drag "
+"To move a document to another <application> Techo</application> window, drag "
 "the tab corresponding to the file to the window you want to move it to."
 msgstr ""
-"문서를 다른 <application>xed</application> 창으로 옮기려면, 그 파일에 해당"
+"문서를 다른 <application>Techo</application> 창으로 옮기려면, 그 파일에 해당"
 "하는 탭을 옮기려는 창으로 끌어 놓으십시오."
 
 #: C/xed.xml:397(para)
 msgid ""
-"To move a document to a new <application> xed</application> window, either "
+"To move a document to a new <application> Techo</application> window, either "
 "drag its tab to the desktop, or choose <menuchoice><guimenu>Documents</"
 "guimenu><guimenuitem>Move to New Window</guimenuitem></menuchoice>."
 msgstr ""
-"문서를 새 <application>xed</application> 창으로 옮기려면, 탭을 바탕 화면으"
+"문서를 새 <application>Techo</application> 창으로 옮기려면, 탭을 바탕 화면으"
 "로 끌어 놓거나, <menuchoice><guimenu>문서</guimenu><guimenuitem>새 창으로 옮"
 "기기</guimenuitem></menuchoice>를 선택하십시오."
 
@@ -896,7 +896,7 @@ msgid ""
 "To insert the contents of the clipboard at the cursor position, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste</guimenuitem></"
 "menuchoice>. You must cut or copy text before you can paste text into the "
-"file, either from xed or another application."
+"file, either from Techo or another application."
 msgstr ""
 "클리보드의 내용을 커서 위치에 넣으려면 <menuchoice><guimenu>편집</"
 "guimenu><guimenuitem>붙여 넣기</guimenuitem></menuchoice>를 선택하십시오. 붙"
@@ -929,12 +929,12 @@ msgstr "찾기 및 바꾸기"
 
 #: C/xed.xml:434(para)
 msgid ""
-"In <application>xed</application>, there are two ways of searching for "
+"In <application>Techo</application>, there are two ways of searching for "
 "text. You can use the <guilabel>Find</guilabel> dialog to search for a "
 "specific piece of text, or <guilabel>Incremental Search</guilabel> to "
 "highlight matching text as you type it."
 msgstr ""
-"<application>xed</application>에서 텍스트를 찾는 방법은 두 가지가 있습니"
+"<application>Techo</application>에서 텍스트를 찾는 방법은 두 가지가 있습니"
 "다. <guilabel>찾기</guilabel> 대화 창을 사용해 특정 텍스트를 찾아 볼 수 있"
 "고, <guilabel>바로 찾기</guilabel>를 사용해 입력하는 텍스트에 맞는 글자를 강"
 "조할 수 있습니다."
@@ -959,17 +959,17 @@ msgstr ""
 msgid ""
 "Type the string that you want to find in the <guilabel>Search for</guilabel> "
 "field. You can include special characters such as a new line or tab: see "
-"<xref linkend=\"xed-find-escapes\"/>."
+"<xref linkend=\"Techo-find-escapes\"/>."
 msgstr ""
 "찾으려는 문자열을 <guilabel>찾을 문자열</guilabel> 입력란에 입력하십시오. 줄"
-"바꿈이나 탭 문자같은 특수 문자를 넣을 수도 있습니다. <xref linkend=\"xed-"
+"바꿈이나 탭 문자같은 특수 문자를 넣을 수도 있습니다. <xref linkend=\"Techo-"
 "find-escapes\"/> 부분을 참고하십시오."
 
 #: C/xed.xml:446(para)
 msgid ""
 "Click <guibutton>Find</guibutton> to search the file for the first "
 "occurrence of the string after your current cursor position. If "
-"<application>xed</application> finds the string, the application selects "
+"<application>Techo</application> finds the string, the application selects "
 "first occurrence of the string. Other occurrences of the string are "
 "highlighted."
 msgstr ""
@@ -1082,10 +1082,10 @@ msgstr ""
 msgid ""
 "Type the string that you want to find, in the <guilabel>Search for</"
 "guilabel> field. You can include special characters such as a new line or "
-"tab: see <xref linkend=\"xed-find-escapes\"/>."
+"tab: see <xref linkend=\"Techo-find-escapes\"/>."
 msgstr ""
 "찾으려는 문자열을 <guilabel>찾을 문자열</guilabel> 입력란에 입력하십시오. 줄"
-"바꿈이나 탭 문자같은 특수 문자를 넣을 수도 있습니다. <xref linkend=\"xed-"
+"바꿈이나 탭 문자같은 특수 문자를 넣을 수도 있습니다. <xref linkend=\"Techo-"
 "find-escapes\"/> 부분을 참고하십시오."
 
 #: C/xed.xml:474(para)
@@ -1099,7 +1099,7 @@ msgstr ""
 #: C/xed.xml:478(para)
 msgid ""
 "To examine each occurrence of the string before replacing it, click "
-"<guibutton>Find</guibutton>. If <application>xed</application> finds the "
+"<guibutton>Find</guibutton>. If <application>Techo</application> finds the "
 "string, the application selects the string. Click <guibutton>Replace</"
 "guibutton> to replace the selected occurrence of the string. To find the "
 "next occurrence of the string, click <guibutton>Find</guibutton> again."
@@ -1261,10 +1261,10 @@ msgstr "구문 강조 인쇄"
 #: C/xed.xml:551(para)
 msgid ""
 "Select this option to print syntax highlighting. For more information about "
-"syntax highlighting, see <xref linkend=\"xed-set-highlightmode\"/>."
+"syntax highlighting, see <xref linkend=\"Techo-set-highlightmode\"/>."
 msgstr ""
 "이 옵션을 선택하면 구문 강조를 인쇄합니다. 구문 강조에 대해 좀 더 알고 싶으시"
-"면, <xref linkend=\"xed-set-highlightmode\"/> 부분을 참고하십시오."
+"면, <xref linkend=\"Techo-set-highlightmode\"/> 부분을 참고하십시오."
 
 #: C/xed.xml:554(guilabel)
 msgid "Print page headers"
@@ -1359,7 +1359,7 @@ msgstr ""
 #: C/xed.xml:597(para)
 msgid ""
 "To reset the fonts to the default fonts for printing a file from "
-"<application>xed</application>, click <guibutton>Restore Default Fonts</"
+"<application>Techo</application>, click <guibutton>Restore Default Fonts</"
 "guibutton>."
 msgstr ""
 "파일 인쇄할 때 사용할 글꼴을 기본값 글꼴로 리셋하려면, <guibutton>기본 글꼴"
@@ -1371,10 +1371,10 @@ msgstr "문서 인쇄하기"
 
 #: C/xed.xml:605(para)
 msgid ""
-"You can use <application>xed</application> to perform the following print "
+"You can use <application>Techo</application> to perform the following print "
 "operations:"
 msgstr ""
-"<application>xed</application>을 사용해 다음 인쇄 작업을 할 수 있습니다:"
+"<application>Techo</application>을 사용해 다음 인쇄 작업을 할 수 있습니다:"
 
 #: C/xed.xml:607(para)
 msgid "Print a document to a printer."
@@ -1386,7 +1386,7 @@ msgstr "인쇄 명령의 결과를 파일로 인쇄합니다."
 
 #: C/xed.xml:612(para)
 msgid ""
-"If you print to a file, <application>xed</application> sends the output of "
+"If you print to a file, <application>Techo</application> sends the output of "
 "the file to a pre-press format file. The most common pre-press formats are "
 "PostScript and Portable Document Format (PDF)."
 msgstr ""
@@ -1589,7 +1589,7 @@ msgid "State"
 msgstr "상태"
 
 #: C/xed.xml:722(para) C/xed.xml:728(para) C/xed.xml:734(para)
-msgid "This functionality is not supported in this version of xed."
+msgid "This functionality is not supported in this version of Techo."
 msgstr "이 기능은 이 버전의 xed가 지원하지 않습니다."
 
 #: C/xed.xml:726(guilabel)
@@ -1678,14 +1678,14 @@ msgstr "프로그래밍 기능"
 
 #: C/xed.xml:789(para)
 msgid ""
-"Several of <application>xed</application>'s features for programming are "
+"Several of <application>Techo</application>'s features for programming are "
 "provided with plugins. For example, the Tag List plugin provides a list of "
-"commonly-used tags for different markup languages: see <xref linkend=\"xed-"
+"commonly-used tags for different markup languages: see <xref linkend=\"Techo-"
 "tag-list-plugin\"/>."
 msgstr ""
-"<application>xed</application>의 프로그래밍을 위한 몇 가지 기능이 플러그인"
+"<application>Techo</application>의 프로그래밍을 위한 몇 가지 기능이 플러그인"
 "에 들어 있습니다. 예를 들어 태그 목록 플러그인에는 여러가지 마크업 언어에서 "
-"많이 사용하는 태그 목록이 들어 있습니다. <xref linkend=\"xed-tag-list-"
+"많이 사용하는 태그 목록이 들어 있습니다. <xref linkend=\"Techo-tag-list-"
 "plugin\"/> 부분을 참고하십시오."
 
 #: C/xed.xml:793(title)
@@ -1702,7 +1702,7 @@ msgstr ""
 
 #: C/xed.xml:796(para)
 msgid ""
-"<application>xed</application> chooses an appropriate syntax highlighting "
+"<application>Techo</application> chooses an appropriate syntax highlighting "
 "mode based on a document's type. To override the syntax highlighting mode, "
 "choose <menuchoice><guimenu>View</guimenu><guimenuitem>Highlight Mode</"
 "guimenuitem></menuchoice>, then choose one of the following menu items:"
@@ -1772,9 +1772,9 @@ msgstr ""
 #: C/xed.xml:829(para)
 msgid ""
 "For more information about how to configure syntax highlighting, see <xref "
-"linkend=\"xed-prefs-syntax\"/>."
+"linkend=\"Techo-prefs-syntax\"/>."
 msgstr ""
-"구문 분석을 설정하는 방법에 대해 좀 더 알고 싶으시면, <xref linkend=\"xed-"
+"구문 분석을 설정하는 방법에 대해 좀 더 알고 싶으시면, <xref linkend=\"Techo-"
 "prefs-syntax\"/> 부분을 참고하십시오."
 
 #: C/xed.xml:835(title)
@@ -1783,18 +1783,18 @@ msgstr "명령어 출력을 파일로 돌려 넣기"
 
 #: C/xed.xml:836(para)
 msgid ""
-"You can use <application>xed</application> to pipe the output of a command "
+"You can use <application>Techo</application> to pipe the output of a command "
 "to a text file. For example, to pipe the output of an <command>ls</command> "
-"command to a text file, type <command>ls | xed</command>, then press "
+"command to a text file, type <command>ls | Techo</command>, then press "
 "<keycap>Return</keycap>."
-msgstr "<application>xed</application>를 사용해 어떤 명령어의 출력을 텍스트 파일로 돌려 넣을 수 있습니다. 예를 들어 <command>ls</command> 명령의 출력을 텍스트 파일로 돌려 넣으려면, <command>ls | xed</command>라고 입력하고 <keycap>Return</keycap> 키를 누르십시오."
+msgstr "<application>Techo</application>를 사용해 어떤 명령어의 출력을 텍스트 파일로 돌려 넣을 수 있습니다. 예를 들어 <command>ls</command> 명령의 출력을 텍스트 파일로 돌려 넣으려면, <command>ls | Techo</command>라고 입력하고 <keycap>Return</keycap> 키를 누르십시오."
 
 #: C/xed.xml:837(para)
 msgid ""
 "The output of the <command>ls</command> command is displayed in a new text "
-"file in the <application>xed</application> window."
+"file in the <application>Techo</application> window."
 msgstr ""
-"<application>xed</application> 창에서 <command>ls</command> 명령의 출력을 "
+"<application>Techo</application> 창에서 <command>ls</command> 명령의 출력을 "
 "새 텍스트 파일로 표시합니다."
 
 #: C/xed.xml:838(para)
@@ -1812,11 +1812,11 @@ msgstr "바로 가기 키"
 #: C/xed.xml:845(para)
 msgid ""
 "Use shortcut keys to perform common tasks more quickly than with the mouse "
-"and menus. The following tables list all of <application>xed</"
+"and menus. The following tables list all of <application>Techo</"
 "application>'s shortcut keys."
 msgstr ""
 "바로 가기 키를 사용하면 마우스나 메뉴보다 더 빠르게 많이 사용하는 작업을 할 "
-"수 있습니다. 다음 표에 <application>xed</application>의 모든 바로 가기 키"
+"수 있습니다. 다음 표에 <application>Techo</application>의 모든 바로 가기 키"
 "의 목록이 있습니다."
 
 #: C/xed.xml:846(para)
@@ -1966,7 +1966,7 @@ msgid "Ctrl + Q"
 msgstr "Ctrl + Q"
 
 #: C/xed.xml:942(para)
-msgid "Quit Xed."
+msgid "Quit Techo."
 msgstr "xed를 끝냅니다."
 
 #. ============= Edit =======================
@@ -2189,8 +2189,8 @@ msgid "F1"
 msgstr "F1"
 
 #: C/xed.xml:1128(para)
-msgid "Open <application>xed</application>'s user manual."
-msgstr "<application>xed</application> 사용자 설명서를 엽니다."
+msgid "Open <application>Techo</application>'s user manual."
+msgstr "<application>Techo</application> 사용자 설명서를 엽니다."
 
 #: C/xed.xml:1140(title)
 msgid "Preferences"
@@ -2198,12 +2198,12 @@ msgstr "기본 설정"
 
 #: C/xed.xml:1142(para)
 msgid ""
-"To configure <application>xed</application>, choose "
+"To configure <application>Techo</application>, choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Preferences</guimenuitem></"
 "menuchoice>. The <guilabel>Preferences</guilabel> dialog contains the "
 "following categories:"
 msgstr ""
-"<application>xed</application>를 설정하려면 <menuchoice><guimenu>편집</"
+"<application>Techo</application>를 설정하려면 <menuchoice><guimenu>편집</"
 "guimenu><guimenuitem>기본 설정</guimenuitem></menuchoice>을 선택하십시오. "
 "<guilabel>기본 설정</guilabel> 대화 상자에는 다음 분류가 들어 있습니다:"
 
@@ -2234,9 +2234,9 @@ msgstr ""
 #: C/xed.xml:1164(para)
 msgid ""
 "Select the <guilabel>Display line numbers</guilabel> option to display line "
-"numbers on the left side of the <application>xed</application> window."
+"numbers on the left side of the <application>Techo</application> window."
 msgstr ""
-"<guilabel>줄 번호 표시</guilabel> 옵션을 선택하면 <application>xed</"
+"<guilabel>줄 번호 표시</guilabel> 옵션을 선택하면 <application>Techo</"
 "application> 창의 왼 쪽에 줄 번호를 표시합니다."
 
 #: C/xed.xml:1168(guilabel)
@@ -2287,7 +2287,7 @@ msgstr "편집기 기본 설정"
 #: C/xed.xml:1195(para)
 msgid ""
 "Use the <guilabel>Tab width</guilabel> spin box to specify the width of the "
-"space that <application> xed</application> inserts when you press the "
+"space that <application> Techo</application> inserts when you press the "
 "<keycap>Tab</keycap> key."
 msgstr ""
 "<guilabel>탭 너비</guilabel> 스핀 상자를 사용해 <keycap>Tab</keycap> 키를 누"
@@ -2296,7 +2296,7 @@ msgstr ""
 #: C/xed.xml:1196(para)
 msgid ""
 "Select the <guilabel>Insert spaces instead of tabs</guilabel> option to "
-"specify that <application> xed</application> inserts spaces instead of a "
+"specify that <application> Techo</application> inserts spaces instead of a "
 "tab character when you press the <keycap>Tab</keycap> key."
 msgstr ""
 "<guilabel>탭 대신 공백 넣기</guilabel> 옵션을 사용해 <keycap>Tab</keycap> 키"
@@ -2349,16 +2349,16 @@ msgstr "글꼴"
 #: C/xed.xml:1217(para)
 msgid ""
 "Select the <guilabel>Use default theme font</guilabel> option to use the "
-"default system font for the text in the <application>xed</application> "
+"default system font for the text in the <application>Techo</application> "
 "text window."
 msgstr ""
-"<guilabel>기본 테마 색 사용</guilabel> 옵션을 선택하면 <application>xed</"
+"<guilabel>기본 테마 색 사용</guilabel> 옵션을 선택하면 <application>Techo</"
 "application> 텍스트 창의 텍스트에 기본 시스템 글꼴을 사용합니다."
 
 #: C/xed.xml:1218(para)
 msgid ""
 "The <guilabel>Editor font</guilabel> field displays the font that "
-"<application>xed</application> uses to display text. Click on the button "
+"<application>Techo</application> uses to display text. Click on the button "
 "to specify the font type, style, and size to use for text."
 msgstr ""
 "<guilabel>편집기 글꼴</guilabel> 부분은 텍스트를 표시할 때 사용하는 글꼴을 표"
@@ -2371,29 +2371,29 @@ msgstr "색"
 #: C/xed.xml:1223(para)
 msgid ""
 "Select the <guilabel>Use default theme colors</guilabel> option to use the "
-"default theme colors in the <application>xed</application> text window."
+"default theme colors in the <application>Techo</application> text window."
 msgstr ""
-"<guilabel>기본 테마 색 사용</guilabel> 옵션을 선택하면 <application>xed</"
+"<guilabel>기본 테마 색 사용</guilabel> 옵션을 선택하면 <application>Techo</"
 "application> 텍스트 창에서 기본 테마 색을 사용합니다."
 
 #: C/xed.xml:1224(para)
 msgid ""
 "Click on the <guibutton>Normal text color</guibutton> color button to "
 "display the color selector dialog. Select a color to use to display normal "
-"text in the <application>xed</application> text window."
+"text in the <application>Techo</application> text window."
 msgstr ""
 "<guibutton>일반 텍스트 색</guibutton> 색 단추를 누르면 색 선택 대화 창을 표시"
-"합니다. <application>xed</application> 텍스트 창에서 일반 텍스트를 표시할 "
+"합니다. <application>Techo</application> 텍스트 창에서 일반 텍스트를 표시할 "
 "때 사용할 색을 고르십시오."
 
 #: C/xed.xml:1225(para)
 msgid ""
 "Click on the <guibutton>Background color</guibutton> color button to display "
 "the color selector dialog. Select a background color for the "
-"<application>xed</application> text window."
+"<application>Techo</application> text window."
 msgstr ""
 "<guibutton>배경색</guibutton> 색 단추를 누르면 색 선택 대화 창을 표시합니다. "
-"<application>xed</application> 텍스트 창에서 배경색을 표시할 때 사용할 색"
+"<application>Techo</application> 텍스트 창에서 배경색을 표시할 때 사용할 색"
 "을 고르십시오."
 
 #: C/xed.xml:1226(para)
@@ -2536,13 +2536,13 @@ msgstr "플러그인 기본 설정"
 
 #: C/xed.xml:1366(para)
 msgid ""
-"Plugins add extra features to <application>xed</application>. For more "
+"Plugins add extra features to <application>Techo</application>. For more "
 "information on plugins and how to use the built-in plugins, see <xref "
-"linkend=\"xed-plugins-overview\"/>."
+"linkend=\"Techo-plugins-overview\"/>."
 msgstr ""
-"플러그인은 <application>xed</application>에 부가적인 기능을 추가합니다. 플"
+"플러그인은 <application>Techo</application>에 부가적인 기능을 추가합니다. 플"
 "러그인 및 내장 플러그인 사용법에 대해 좀 더 알고 싶으시면, <xref linkend="
-"\"xed-plugins-overview\"/> 부분을 참고하십시오."
+"\"Techo-plugins-overview\"/> 부분을 참고하십시오."
 
 #: C/xed.xml:1371(title)
 msgid "Enabling a Plugin"
@@ -2550,10 +2550,10 @@ msgstr "플러그인 사용하기"
 
 #: C/xed.xml:1372(para)
 msgid ""
-"To enable a <application>xed</application> plugin, perform the following "
+"To enable a <application>Techo</application> plugin, perform the following "
 "steps:"
 msgstr ""
-"<application>xed</application> 플러그인을 사용하려면, 다음 순서대로 하십시"
+"<application>Techo</application> 플러그인을 사용하려면, 다음 순서대로 하십시"
 "오:"
 
 #: C/xed.xml:1375(para) C/xed.xml:1396(para) C/xed.xml:1720(para)
@@ -2587,17 +2587,17 @@ msgstr "플러그인 사용하지 않기"
 
 #: C/xed.xml:1392(para)
 msgid ""
-"A plugin remains enabled when you quit <application>xed</application>."
+"A plugin remains enabled when you quit <application>Techo</application>."
 msgstr ""
-"<application>xed</application>을 끝내더라도 플러그인은 계속 사용하는 상태"
+"<application>Techo</application>을 끝내더라도 플러그인은 계속 사용하는 상태"
 "로 남아 있습니다."
 
 #: C/xed.xml:1393(para)
 msgid ""
-"To disable a <application>xed</application> plugin, perform the following "
+"To disable a <application>Techo</application> plugin, perform the following "
 "steps:"
 msgstr ""
-"<application>xed</application> 플러그인을 사용하지 않으려면, 다음 순서대로 "
+"<application>Techo</application> 플러그인을 사용하지 않으려면, 다음 순서대로 "
 "하십시오:"
 
 #: C/xed.xml:1402(para)
@@ -2617,67 +2617,67 @@ msgstr "플러그인 작업하기"
 
 #: C/xed.xml:1417(para)
 msgid ""
-"You can add extra features to <application>xed</application> by enabling "
+"You can add extra features to <application>Techo</application> by enabling "
 "<firstterm>plugins</firstterm>. A plugin is a supplementary program that "
 "enhances the functionality of an application. Plugins add new items to the "
-"<application>xed</application> menus for the new features they provide."
+"<application>Techo</application> menus for the new features they provide."
 msgstr ""
-"<firstterm>플러그인</firstterm>을 사용해 <application>xed</application>에 "
+"<firstterm>플러그인</firstterm>을 사용해 <application>Techo</application>에 "
 "부가적인 기능을 추가할 수 있습니다. 플러그인은 어떤 응용 프로그램의 기능을 향"
 "상시켜 주는 보조 프로그램입니다. 플러그인을 사용하면 그 플러그인에 들어 있는 "
-"기능에 해당하는 메뉴 항목을 <application>xed</application> 메뉴에 새로 추가"
+"기능에 해당하는 메뉴 항목을 <application>Techo</application> 메뉴에 새로 추가"
 "합니다."
 
 #: C/xed.xml:1419(para)
 msgid ""
-"Several plugins come built-in with <application>xed</application>, and you "
-"can install more. The <ulink type=\"http\" url=\"http://live.gnome.org/Xed/"
-"Plugins\">xed website</ulink> lists third-party plugins."
+"Several plugins come built-in with <application>Techo</application>, and you "
+"can install more. The <ulink type=\"http\" url=\"http://live.gnome.org/Techo/"
+"Plugins\">Techo website</ulink> lists third-party plugins."
 msgstr ""
-"몇 가지 플러그인이 <application>xed</application>에 내장되어 있고, 플러그인"
+"몇 가지 플러그인이 <application>Techo</application>에 내장되어 있고, 플러그인"
 "을 더 설치할 수도 있습니다. <ulink type=\"http\" url=\"http://live.gnome.org/"
-"Xed/Plugins\">xed 웹사이트</ulink>에 외부에서 만든 플러그인의 목록이 있습"
+"Techo/Plugins\">Techo 웹사이트</ulink>에 외부에서 만든 플러그인의 목록이 있습"
 "니다."
 
 #: C/xed.xml:1420(para)
 msgid ""
 "To enable and disable plugins, or see which plugins are currently enabled, "
-"use the <link linkend=\"xed-prefs-plugins\">Plugins Preferences</link>."
+"use the <link linkend=\"Techo-prefs-plugins\">Plugins Preferences</link>."
 msgstr ""
 "플러그인을 사용하거나 사용하지 않으려면, 아니면 현재 사용하고 있는 플러그인"
-"을 보려면, <link linkend=\"xed-prefs-plugins\">플러그인 기본 설정</link>을 "
+"을 보려면, <link linkend=\"Techo-prefs-plugins\">플러그인 기본 설정</link>을 "
 "사용하십시오."
 
 #: C/xed.xml:1421(para)
 msgid ""
-"The following plugins come built-in with <application>xed</application>:"
-msgstr "다음 플러그인이 <application>xed</application>에 내장되어 있습니다:"
+"The following plugins come built-in with <application>Techo</application>:"
+msgstr "다음 플러그인이 <application>Techo</application>에 내장되어 있습니다:"
 
 #: C/xed.xml:1427(para)
 msgid ""
-"<link linkend=\"xed-change-case-plugin\"><application>Change Case</"
+"<link linkend=\"Techo-change-case-plugin\"><application>Change Case</"
 "application></link> allows you to change the case of the selected text."
 msgstr ""
-"<link linkend=\"xed-change-case-plugin\"><application>대소문자 바꾸기</"
+"<link linkend=\"Techo-change-case-plugin\"><application>대소문자 바꾸기</"
 "application></link>로 선택한 텍스트의 대소문자를 바꿀 수 있습니다."
 
 #: C/xed.xml:1430(para)
 msgid ""
-"<application><link linkend=\"xed-document-statistics-plugin\">Document "
+"<application><link linkend=\"Techo-document-statistics-plugin\">Document "
 "Statistics</link></application> shows the number of lines, words, and "
 "characters in the document."
 msgstr ""
-"<application><link linkend=\"xed-document-statistics-plugin\">문서 통계</"
+"<application><link linkend=\"Techo-document-statistics-plugin\">문서 통계</"
 "link></application>는 문서에 들어 있는 줄, 단어, 문자의 개수를 표시합니다."
 
 #: C/xed.xml:1433(para)
 msgid ""
-"<application><link linkend=\"xed-external-tools-plugin\">External Tools</"
+"<application><link linkend=\"Techo-external-tools-plugin\">External Tools</"
 "link></application> allows you to execute external commands from "
-"<application>xed</application>."
+"<application>Techo</application>."
 msgstr ""
-"<application><link linkend=\"xed-external-tools-plugin\">외부 도구</link></"
-"application>로 <application>xed</application>에서 외부의 명령어를 실행할 "
+"<application><link linkend=\"Techo-external-tools-plugin\">외부 도구</link></"
+"application>로 <application>Techo</application>에서 외부의 명령어를 실행할 "
 "수 있습니다."
 
 # FIXME: "File Browser Pane" in the program
@@ -2691,86 +2691,86 @@ msgstr ""
 
 #: C/xed.xml:1439(para)
 msgid ""
-"<application><link linkend=\"xed-indent-lines-plugin\">Indent Lines</"
+"<application><link linkend=\"Techo-indent-lines-plugin\">Indent Lines</"
 "link></application> adds or removes indentation from the selected lines."
 msgstr ""
-"<application><link linkend=\"xed-indent-lines-plugin\">줄 들여쓰기</link></"
+"<application><link linkend=\"Techo-indent-lines-plugin\">줄 들여쓰기</link></"
 "application>로 선택한 줄의 들여 쓰기를 더하거나 뺄 수 있습니다."
 
 #: C/xed.xml:1442(para)
 msgid ""
-"<application><link linkend=\"xed-insert-date-time-plugin\">Insert Date/"
+"<application><link linkend=\"Techo-insert-date-time-plugin\">Insert Date/"
 "Time</link></application> adds the current date and time into a document."
 msgstr ""
-"<application><link linkend=\"xed-insert-date-time-plugin\">날짜/시간 넣기</"
+"<application><link linkend=\"Techo-insert-date-time-plugin\">날짜/시간 넣기</"
 "link></application>으로 현재 날짜와 시간을 문서 안에 써 넣습니다."
 
 #: C/xed.xml:1445(para)
 msgid ""
-"<application><link linkend=\"xed-modelines-plugin\">Modelines</link></"
+"<application><link linkend=\"Techo-modelines-plugin\">Modelines</link></"
 "application> allows you to set editing preferences for individual documents, "
 "and supports <application>Emacs</application>, <application>Kate</"
 "application> and <application>Vim</application>-style modelines."
 msgstr ""
-"<application><link linkend=\"xed-modelines-plugin\">모드라인</link></"
+"<application><link linkend=\"Techo-modelines-plugin\">모드라인</link></"
 "application>을 사용하면 문서마다 편집 설정을 따로 할 수 있고, "
 "<application>Emacs</application>와 <application>Kate</application>와 "
 "<application>Vim</application> 스타일의 모드라인을 지원합니다."
 
 #: C/xed.xml:1448(para)
 msgid ""
-"<application><link linkend=\"xed-python-console-plugin\">Python Console</"
+"<application><link linkend=\"Techo-python-console-plugin\">Python Console</"
 "link></application> allows you to run commands in the python programming "
 "language."
 msgstr ""
-"<application><link linkend=\"xed-python-console-plugin\">파이썬 콘솔</"
+"<application><link linkend=\"Techo-python-console-plugin\">파이썬 콘솔</"
 "link></application>을 사용하면 파이썬 프로그래밍 언어로 명령어를 실행할 수 있"
 "습니다."
 
 #: C/xed.xml:1451(para)
 msgid ""
-"<application><link linkend=\"xed-snippets-plugin\">Snippets</link></"
+"<application><link linkend=\"Techo-snippets-plugin\">Snippets</link></"
 "application> allows you to store frequently-used pieces of text and insert "
 "them quickly into a document."
 msgstr ""
-"<application><link linkend=\"xed-snippets-plugin\">관용구</link></"
+"<application><link linkend=\"Techo-snippets-plugin\">관용구</link></"
 "application>를 사용하면, 자주 사용하는 텍스트를 저장해 놓고 빠르게 문서에 입"
 "력할 수 있습니다."
 
 #: C/xed.xml:1454(para)
 msgid ""
-"<application><link linkend=\"xed-sort-plugin\">Sort</link></application> "
+"<application><link linkend=\"Techo-sort-plugin\">Sort</link></application> "
 "arranges selected lines of text into alphabetical order."
 msgstr ""
-"<application><link linkend=\"xed-sort-plugin\">정렬</link></application>은 "
+"<application><link linkend=\"Techo-sort-plugin\">정렬</link></application>은 "
 "선택한 텍스트 줄을 사전 순서로 정렬합니다."
 
 #: C/xed.xml:1457(para)
 msgid ""
-"<application><link linkend=\"xed-spell-checker-plugin\">Spell Checker</"
+"<application><link linkend=\"Techo-spell-checker-plugin\">Spell Checker</"
 "link></application> corrects the spelling in the selected text, or marks "
 "errors automatically in the document."
 msgstr ""
-"<application><link linkend=\"xed-spell-checker-plugin\">맞춤법 검사</"
+"<application><link linkend=\"Techo-spell-checker-plugin\">맞춤법 검사</"
 "link></application>는 선택한 텍스트의 맞춤법을 바로잡고, 문서에서 틀린 사항"
 "을 자동으로 표시해 줍니다."
 
 #: C/xed.xml:1460(para)
 msgid ""
-"<application><link linkend=\"xed-tag-list-plugin\">Tag List</link></"
+"<application><link linkend=\"Techo-tag-list-plugin\">Tag List</link></"
 "application> lets you insert commonly-used tags for HTML and other languages "
 "from a list in the side pane."
 msgstr ""
-"<application><link linkend=\"xed-tag-list-plugin\">태그 목록</link></"
+"<application><link linkend=\"Techo-tag-list-plugin\">태그 목록</link></"
 "application>을 사용하면 HTML 및 기타 언어에서 자주 사용하는 태그를 가장자리 "
 "창의 목록에서 입력할 수 있습니다."
 
 #: C/xed.xml:1463(para)
 msgid ""
-"<application><link linkend=\"xed-user-name-plugin\">User Name</link></"
+"<application><link linkend=\"Techo-user-name-plugin\">User Name</link></"
 "application> inserts the username of the current user into the document."
 msgstr ""
-"<application><link linkend=\"xed-user-name-plugin\">사용자 이름</link></"
+"<application><link linkend=\"Techo-user-name-plugin\">사용자 이름</link></"
 "application>은 현재 사용자의 사용자 이름을 문서에 입력합니다."
 
 #: C/xed.xml:1470(title)
@@ -2909,13 +2909,13 @@ msgstr "현재 문서의 바이트 수."
 
 #: C/xed.xml:1544(para)
 msgid ""
-"You can continue to update the <application>xed</application> file while "
+"You can continue to update the <application>Techo</application> file while "
 "the <guilabel>Document Statistics</guilabel> dialog is open. To refresh the "
 "contents of the <guilabel>Document Statistics</guilabel> dialog, click "
 "<guibutton>Update</guibutton>."
 msgstr ""
 "<guilabel>문서 통계</guilabel> 대화 창이 열려 있는 도중에도 "
-"<application>xed</application>의 파일을 편집할 수 있습니다. <guilabel>문서 "
+"<application>Techo</application>의 파일을 편집할 수 있습니다. <guilabel>문서 "
 "통계</guilabel> 대화 창의 내용을 다시 읽어들이려면, <guibutton>업데이트</"
 "guibutton>를 누르십시오."
 
@@ -2926,12 +2926,12 @@ msgstr "외부 도구 플러그인"
 #: C/xed.xml:1552(para)
 msgid ""
 "The <application>External Tools</application> plugin allows you to execute "
-"external commands from <application>xed</application>. You can pipe some "
+"external commands from <application>Techo</application>. You can pipe some "
 "content into a command and exploit its output (for example, "
 "<application>sed</application>), or launch a predefined command (for "
 "example, <application>make</application>)."
 msgstr ""
-"<application>외부 도구</application> 플러그인을 사용해 <application>xed</"
+"<application>외부 도구</application> 플러그인을 사용해 <application>Techo</"
 "application>에서 외부 명령어를 실행할 수 있습니다. 어떤 내용을 파이프를 통해 "
 "명령어로 돌려 넣어서 그 출력을 알아볼 수도 있고 (예를 들어 <application>sed</"
 "application>), 미리 정의한 명령어를 실행할 수도 (예를 들어 "
@@ -3054,12 +3054,12 @@ msgstr "명령"
 
 #: C/xed.xml:1604(para)
 msgid ""
-"The actual commands to be run. Several <application>xed</application> "
+"The actual commands to be run. Several <application>Techo</application> "
 "environment variables can be used to pass content to these commands: see "
-"<xref linkend=\"xed-external-tools-plugin-variables\"/>."
+"<xref linkend=\"Techo-external-tools-plugin-variables\"/>."
 msgstr ""
-"실행할 명령어. <application>xed</application> 환경 변수를 사용해 이 명령어"
-"에 데이터를 전달할 수 있습니다. <xref linkend=\"xed-external-tools-plugin-"
+"실행할 명령어. <application>Techo</application> 환경 변수를 사용해 이 명령어"
+"에 데이터를 전달할 수 있습니다. <xref linkend=\"Techo-external-tools-plugin-"
 "variables\"/> 부분을 참고하십시오."
 
 #: C/xed.xml:1607(term)
@@ -3226,10 +3226,10 @@ msgstr ""
 
 #: C/xed.xml:1675(para)
 msgid ""
-"To open a file in <application>xed</application>, double-click it in the "
+"To open a file in <application>Techo</application>, double-click it in the "
 "file list."
 msgstr ""
-"<application>xed</application>에서 파일을 열려면, 파일 목록에서 파일을 두 "
+"<application>Techo</application>에서 파일을 열려면, 파일 목록에서 파일을 두 "
 "번 누르십시오."
 
 #: C/xed.xml:1678(title)
@@ -3294,11 +3294,11 @@ msgstr ""
 msgid ""
 "The amount of space used, and whether tab character or space characters are "
 "used, depends on the <guilabel>Tab Stops</guilabel> settings in the Editor "
-"Preferences: see <xref linkend=\"xed-prefs-editor\"/>."
+"Preferences: see <xref linkend=\"Techo-prefs-editor\"/>."
 msgstr ""
 "몇 칸의 공백을 사용할 지, 또 탭 문자와 공백 문자 중 무엇을 사용할 지는 편집"
 "기 기본 설정의 <guilabel>탭 위치</guilabel> 설정에 따라 다릅니다. <xref "
-"linkend=\"xed-prefs-editor\"/> 부분을 보십시오."
+"linkend=\"Techo-prefs-editor\"/> 부분을 보십시오."
 
 #: C/xed.xml:1707(title)
 msgid "Insert Date/Time Plugin"
@@ -3326,14 +3326,14 @@ msgstr ""
 msgid ""
 "If you have not configured the Insert Date/Time plugin to automatically "
 "insert the date/time without prompting you for the format, "
-"<application>xed</application> displays the <guilabel>Insert Date and "
+"<application>Techo</application> displays the <guilabel>Insert Date and "
 "Time</guilabel> dialog. Select the appropriate date/time format from the "
 "list. Click <guibutton>Insert</guibutton> to close the <guilabel>Insert Date "
-"and Time</guilabel> dialog. <application>xed</application> inserts the "
+"and Time</guilabel> dialog. <application>Techo</application> inserts the "
 "date/time at the cursor position in the current file."
 msgstr ""
 "날짜/시간 넣기 플러그인에서 형식을 물어보지 않고 날짜/시간을 넣도록 설정하지 "
-"않은 상태라면, <application>xed</application>에서 <guilabel>날짜 및 시간 넣"
+"않은 상태라면, <application>Techo</application>에서 <guilabel>날짜 및 시간 넣"
 "기</guilabel> 대화 창을 표시합니다. 목록에서 적당한 날짜/시간 형식을 고르십시"
 "오. <guibutton>넣기</guibutton>는 눌러 <guilabel>날짜 및 시간 넣기</"
 "guilabel> 대화 창을 닫으십시오. 그러면 날짜/시간을 현재 파일의 커서 위치에 입"
@@ -3341,12 +3341,12 @@ msgstr ""
 
 #: C/xed.xml:1712(para)
 msgid ""
-"If you have configured <application>xed</application> to use one "
+"If you have configured <application>Techo</application> to use one "
 "particular date/time format, the <guilabel>Insert Date and Time</guilabel> "
 "dialog is not displayed. The date/time is automatically entered at the "
 "cursor position in the current file."
 msgstr ""
-"한 가지 특정 날짜/시간 형식을 사용하도록 <application>xed</application>를 "
+"한 가지 특정 날짜/시간 형식을 사용하도록 <application>Techo</application>를 "
 "설정했다면, <guilabel>날짜 및 시간 넣기</guilabel> 대화 창은 표시하지 않습니"
 "다. 날짜/시간을 자동으로 현재 파일의 커서 위치에 입력합니다."
 
@@ -3384,10 +3384,10 @@ msgstr ""
 
 #: C/xed.xml:1737(para)
 msgid ""
-"To use the same <application>xed</application>-provided date/time format "
+"To use the same <application>Techo</application>-provided date/time format "
 "each time you insert the date/time, select the <guilabel>Use the selected "
 "format</guilabel> option, then select the appropriate format from the list. "
-"When you select this option, <application>xed</application> does not "
+"When you select this option, <application>Techo</application> does not "
 "prompt you for the date/time format when you choose "
 "<menuchoice><guimenu>Edit</guimenu><guimenuitem>Insert Date and Time</"
 "guimenuitem></menuchoice>."
@@ -3406,7 +3406,7 @@ msgid ""
 "specify a custom format, see <ulink url=\"man:strftime\" type=\"man"
 "\"><citerefentry><refentrytitle>strftime</refentrytitle><manvolnum>3</"
 "manvolnum></citerefentry></ulink>. When you select this option, "
-"<application>xed</application> does not prompt you for the date/time "
+"<application>Techo</application> does not prompt you for the date/time "
 "format when you choose <menuchoice><guimenu>Edit</"
 "guimenu><guimenuitem>Insert Date and Time</guimenuitem></menuchoice>."
 msgstr ""
@@ -3444,11 +3444,11 @@ msgid ""
 "The <application>Modelines</application> plugin allows you to set "
 "preferences for individual documents. A <firstterm>modeline</firstterm> is a "
 "line of text at the start or end of the document with settings that "
-"<application>xed</application> recognises."
+"<application>Techo</application> recognises."
 msgstr ""
 "<application>모드라인</application> 플러그인으로 각 문서마다 설정을 할 수 있"
 "습니다. <firstterm>모드라인</firstterm>은 문서의 처음이나 끝에 쓰여 있는 한 "
-"줄짜리 텍스트로, 그 텍스트를 <application>xed</application>가 인식해서 그 "
+"줄짜리 텍스트로, 그 텍스트를 <application>Techo</application>가 인식해서 그 "
 "문서의 설정을 합니다."
 
 #: C/xed.xml:1757(para)
@@ -3558,11 +3558,11 @@ msgstr "파이썬 콘솔 플러그인"
 #: C/xed.xml:1798(para)
 msgid ""
 "The <application>Python Console</application> Plugin allows you to run "
-"commands in the python programming language from <application>xed</"
+"commands in the python programming language from <application>Techo</"
 "application>. Enabling the plugin adds a tab to the bottom pane. This shows "
 "recent output and a command prompt field."
 msgstr ""
-"<application>파이썬 콘솔</application> 플러그인으로 <application>xed</"
+"<application>파이썬 콘솔</application> 플러그인으로 <application>Techo</"
 "application> 안에서 파이썬 프로그래밍 언어로 작성한 명령을 실행할 수 있습니"
 "다. 이 플러그인을 사용하면 아래 창에 탭을 하나 추가합니다. 이 탭에서 최근의 "
 "출력과 명령어 프롬프트를 표시합니다."
@@ -3570,11 +3570,11 @@ msgstr ""
 #: C/xed.xml:1799(para)
 msgid ""
 "Commands entered into the python console are not checked before they are "
-"run. It is therefore possible to hang <application>xed</application>, for "
+"run. It is therefore possible to hang <application>Techo</application>, for "
 "example by entering an infinite loop."
 msgstr ""
 "파이썬 콘솔에 입력한 명령어는 실행하기 전에 검사하지 않습니다. 즉 파이썬 명령"
-"때문에 <application>xed</application>가 멈출 수 있습니다. 예를 들어 무한 루"
+"때문에 <application>Techo</application>가 멈출 수 있습니다. 예를 들어 무한 루"
 "프에 들어갈 수 있습니다."
 
 #: C/xed.xml:1803(title)
@@ -3604,10 +3604,10 @@ msgstr ""
 
 #: C/xed.xml:1806(para)
 msgid ""
-"A number of built-in snippets are installed with <application>xed</"
+"A number of built-in snippets are installed with <application>Techo</"
 "application>, which can be modified."
 msgstr ""
-"<application>xed</application>에 여러가지 내장 관용구가 설치되어 있고, 이 "
+"<application>Techo</application>에 여러가지 내장 관용구가 설치되어 있고, 이 "
 "관용구를 바꿀 수도 있습니다."
 
 #: C/xed.xml:1809(title)
@@ -3688,11 +3688,11 @@ msgstr "관용구 텍스트"
 #: C/xed.xml:1837(para)
 msgid ""
 "Enter the text of the snippet in the <guilabel>Edit snippet</guilabel> text "
-"box. For special codes you can use, see <xref linkend=\"xed-snippets-"
+"box. For special codes you can use, see <xref linkend=\"Techo-snippets-"
 "plugin-syntax\"/>."
 msgstr ""
 "<guilabel>관용구 편집</guilabel> 텍스트 상자에서 관용구의 텍스트를 입력하십시"
-"오. 사용할 수 있는 특수 코드에 대해서는, <xref linkend=\"xed-snippets-"
+"오. 사용할 수 있는 특수 코드에 대해서는, <xref linkend=\"Techo-snippets-"
 "plugin-syntax\"/> 부분을 참고하십시오."
 
 #: C/xed.xml:1838(para)
@@ -3857,10 +3857,10 @@ msgstr "환경 변수"
 msgid ""
 "Environmental variable such as <literal>$PATH</literal> and <literal>$HOME</"
 "literal> are substituted in snippet text. The following variables specific "
-"to <application>xed</application> can also be used:"
+"to <application>Techo</application> can also be used:"
 msgstr ""
 "<literal>$PATH</literal>와 <literal>$HOME</literal>과 같은 환경 변수를 관용구"
-"에서 사용할 수 있습니다. <application>xed</application> 전용의 다음과 같은 "
+"에서 사용할 수 있습니다. <application>Techo</application> 전용의 다음과 같은 "
 "변수도 사용할 수 있습니다:"
 
 #: C/xed.xml:1896(term)
@@ -4050,12 +4050,12 @@ msgstr "맞춤법 검사 플러그인"
 #: C/xed.xml:1978(para)
 msgid ""
 "The <application>Spell Checker</application> plugin checks the spelling in "
-"the selected text. You can configure <application>xed</application> to "
+"the selected text. You can configure <application>Techo</application> to "
 "check the spelling automatically, or you can check the spelling manually, in "
 "the specified language. The language setting, and the autocheck spelling "
 "properties, apply per document. To use the Spell checker plugin, perform the "
 "following steps:"
-msgstr "<application>맞춤법 검사</application> 플러그인은 선택한 텍스트의 맞춤법을 검사합니다. 자동으로 맞춤법을 검사하도록 <application>xed</application>를 설정할 수 있고, 수동으로 맞춤법을 지정한 언어로 검사할 수도 있습니다. 언어 설정 및 맞춤법 자동 검사 속성은 문서마다 적용됩니다. 맞춤법 검사 플러그인을 사용하려면, 다음 순서대로 하십시오:"
+msgstr "<application>맞춤법 검사</application> 플러그인은 선택한 텍스트의 맞춤법을 검사합니다. 자동으로 맞춤법을 검사하도록 <application>Techo</application>를 설정할 수 있고, 수동으로 맞춤법을 지정한 언어로 검사할 수도 있습니다. 언어 설정 및 맞춤법 자동 검사 속성은 문서마다 적용됩니다. 맞춤법 검사 플러그인을 사용하려면, 다음 순서대로 하십시오:"
 
 #: C/xed.xml:1980(para)
 msgid ""
@@ -4077,9 +4077,9 @@ msgid ""
 "guimenu><guimenuitem>Autocheck Spelling</guimenuitem></menuchoice> again. "
 "When automatic spell checking is set, an icon is displayed beside the "
 "<guimenuitem>Autocheck Spelling</guimenuitem> menu item. Automatic spell "
-"checking is unset by default, each time <application>xed</application> "
+"checking is unset by default, each time <application>Techo</application> "
 "starts."
-msgstr "맞춤법을 자동으로 검사하려면, <menuchoice><guimenu>도구</guimenu><guimenuitem>맞춤법 자동 검사</guimenuitem></menuchoice>를 선택하십시오. 맞춤법 자동 검사를 사용하지 않으려면, <menuchoice><guimenu>도구</guimenu><guimenuitem>맞춤법 자동 검사</guimenuitem></menuchoice>를 다시 선택하십시오. 맞춤법 자동 검사를 사용하면, <guimenuitem>맞춤법 자동 검사</guimenuitem>를 메뉴 항목 옆에 아이콘을 표시합니다. 맞춤법 자동 검사는 <application>xed</application>를 시작할 때 기본값으로 사용하지 않는 상태입니다."
+msgstr "맞춤법을 자동으로 검사하려면, <menuchoice><guimenu>도구</guimenu><guimenuitem>맞춤법 자동 검사</guimenuitem></menuchoice>를 선택하십시오. 맞춤법 자동 검사를 사용하지 않으려면, <menuchoice><guimenu>도구</guimenu><guimenuitem>맞춤법 자동 검사</guimenuitem></menuchoice>를 다시 선택하십시오. 맞춤법 자동 검사를 사용하면, <guimenuitem>맞춤법 자동 검사</guimenuitem>를 메뉴 항목 옆에 아이콘을 표시합니다. 맞춤법 자동 검사는 <application>Techo</application>를 시작할 때 기본값으로 사용하지 않는 상태입니다."
 
 #: C/xed.xml:1984(para)
 msgid ""
@@ -4115,12 +4115,12 @@ msgid ""
 "longer flagged as unknown but are not added to your personal dictionary, "
 "select <menuchoice><guimenu>Spelling Suggestions</"
 "guimenu><guimenuitem>Ignore All</guimenuitem></menuchoice>. The unknown word "
-"is ignored in the current <application>xed</application> session only."
+"is ignored in the current <application>Techo</application> session only."
 msgstr ""
 "알려지지 않은 맞춤법을 모두 무시해서 알려지지 않았다고 표시하지 않게 하면서 "
 "개인 사전에는 추가하지 않으려면, <menuchoice><guimenu>맞춤법 추천</"
 "guimenu><guimenuitem>모두 무시</guimenuitem></menuchoice>를 선택하십시오. 현"
-"재 <application>xed</application> 세션에서만 알려지지 않은 단어를 무시합니"
+"재 <application>Techo</application> 세션에서만 알려지지 않은 단어를 무시합니"
 "다."
 
 #: C/xed.xml:1998(para)
@@ -4186,11 +4186,11 @@ msgid ""
 "To ignore the current occurrence of the unknown word, click "
 "<guibutton>Ignore</guibutton>. To ignore all occurrences of the unknown "
 "word, click <guibutton>Ignore All</guibutton>. The unknown word is ignored "
-"in the current <application>xed</application> session only."
+"in the current <application>Techo</application> session only."
 msgstr ""
 "현재 알려지지 않은 단어를 무시하려면, <guibutton>무시</guibutton>를 누르십시"
 "오. 알려지지 않은 단어를 모두 무시하려면, <guibutton>모두 무시</guibutton>를 "
-"누르십시오. 현재 <application>xed</application> 세션에서만 알려지지 않은 단"
+"누르십시오. 현재 <application>Techo</application> 세션에서만 알려지지 않은 단"
 "어를 무시합니다."
 
 #: C/xed.xml:2017(para)
@@ -4314,12 +4314,12 @@ msgstr ""
 msgid ""
 "This plugin is mostly provided as an example of how to create your own "
 "plugins. For more information on creating plugins, see the <ulink type=\"http"
-"\" url=\"http://live.gnome.org/Xed/Plugins\"><application>xed</"
+"\" url=\"http://live.gnome.org/Techo/Plugins\"><application>Techo</"
 "application> website</ulink>."
 msgstr ""
 "자기만의 플러그인을 만드는 방법에 대한 예제로서의 기능이 이 플러그인의 주된 "
 "목적입니다. 플러그인을 만드는 방법에 대해 좀 더 알고 싶으시면, <ulink type="
-"\"http\" url=\"http://live.gnome.org/Xed/Plugins\"><application>xed</"
+"\"http\" url=\"http://live.gnome.org/Techo/Plugins\"><application>Techo</"
 "application> 웹사이트</ulink>를 참고하십시오."
 
 #. Put one translator per line, in the form of NAME <EMAIL>, YEAR1, YEAR2.

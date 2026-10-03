@@ -149,8 +149,8 @@ msgid "Baris"
 msgstr "Baris"
 
 #: C/xed.xml:85(surname)
-msgid "Cicek provided information from earlier revisions of the xed application."
-msgstr "O Cicek έδωσε τις πληροφορίες για τις προηγούμενες αναθεωρήσεις της εφαρμογής Xed."
+msgid "Cicek provided information from earlier revisions of the Techo application."
+msgstr "O Cicek έδωσε τις πληροφορίες για τις προηγούμενες αναθεωρήσεις της εφαρμογής Techo."
 
 #: C/xed.xml:86(contrib)
 #: C/xed.xml:91(contrib)
@@ -166,16 +166,16 @@ msgid "George provided information about plugins."
 msgstr "Ο George έδωσε τις πληροφορίες για τις πρόσθετες λειτουργίες."
 
 #: C/xed.xml:115(revnumber)
-msgid "xed V1.0"
-msgstr "Έκδοση 1.0 του Xed"
+msgid "Techo V1.0"
+msgstr "Έκδοση 1.0 του Techo"
 
 #: C/xed.xml:118(para)
 msgid "Eric Baudais <email>baudais@okstate.edu</email>"
 msgstr "Eric Baudais <email>baudais@okstate.edu</email>"
 
 #: C/xed.xml:124(revnumber)
-msgid "xed Manual V2.0"
-msgstr "Εγχειρίδιο του Xed, Έκδοση 2.0"
+msgid "Techo Manual V2.0"
+msgstr "Εγχειρίδιο του Techo, Έκδοση 2.0"
 
 #: C/xed.xml:125(date)
 msgid "March 2002"
@@ -193,64 +193,64 @@ msgid "Sun MATE Documentation Team"
 msgstr "Ομάδα της Sun για την τεκμηρίωση του MATE"
 
 #: C/xed.xml:132(revnumber)
-msgid "xed Manual V2.1"
-msgstr "Εγχειρίδιο του Xed, Έκδοση 2.1"
+msgid "Techo Manual V2.1"
+msgstr "Εγχειρίδιο του Techo, Έκδοση 2.1"
 
 #: C/xed.xml:133(date)
 msgid "June 2002"
 msgstr "Ιούνιος 2002"
 
 #: C/xed.xml:140(revnumber)
-msgid "xed Manual V2.2"
-msgstr "Εγχειρίδιο του Xed, Έκδοση 2.2"
+msgid "Techo Manual V2.2"
+msgstr "Εγχειρίδιο του Techo, Έκδοση 2.2"
 
 #: C/xed.xml:141(date)
 msgid "August 2002"
 msgstr "Αύγουστος 2002"
 
 #: C/xed.xml:148(revnumber)
-msgid "xed Manual V2.3"
-msgstr "Εγχειρίδιο του Xed, Έκδοση 2.3"
+msgid "Techo Manual V2.3"
+msgstr "Εγχειρίδιο του Techo, Έκδοση 2.3"
 
 #: C/xed.xml:149(date)
 msgid "September 2002"
 msgstr "Σεπτέμβριος 2002"
 
 #: C/xed.xml:156(revnumber)
-msgid "xed Manual V2.4"
-msgstr "Εγχειρίδιο του Xed, Έκδοση 2.4"
+msgid "Techo Manual V2.4"
+msgstr "Εγχειρίδιο του Techo, Έκδοση 2.4"
 
 #: C/xed.xml:157(date)
 msgid "January 2003"
 msgstr "Ιανουάριος 2003"
 
 #: C/xed.xml:164(revnumber)
-msgid "xed Manual V2.5"
-msgstr "Εγχειρίδιο του Xed, Έκδοση 2.5"
+msgid "Techo Manual V2.5"
+msgstr "Εγχειρίδιο του Techo, Έκδοση 2.5"
 
 #: C/xed.xml:165(date)
 msgid "March 2003"
 msgstr "Μάρτιος 2003"
 
 #: C/xed.xml:172(revnumber)
-msgid "xed Manual V2.6"
-msgstr "Εγχειρίδιο του Xed, Έκδοση 2.6"
+msgid "Techo Manual V2.6"
+msgstr "Εγχειρίδιο του Techo, Έκδοση 2.6"
 
 #: C/xed.xml:173(date)
 msgid "September 2003"
 msgstr "Σεπτέμβριος 2003"
 
 #: C/xed.xml:180(revnumber)
-msgid "xed Manual V2.7"
-msgstr "Εγχειρίδιο του Xed, Έκδοση 2.7"
+msgid "Techo Manual V2.7"
+msgstr "Εγχειρίδιο του Techo, Έκδοση 2.7"
 
 #: C/xed.xml:181(date)
 msgid "March 2004"
 msgstr "Μάρτιος 2004"
 
 #: C/xed.xml:188(revnumber)
-msgid "xed Manual V2.8"
-msgstr "Εγχειρίδιο του Xed, Έκδοση 2.8"
+msgid "Techo Manual V2.8"
+msgstr "Εγχειρίδιο του Techo, Έκδοση 2.8"
 
 #: C/xed.xml:189(date)
 #: C/xed.xml:197(date)
@@ -258,32 +258,32 @@ msgid "July 2006"
 msgstr "Ιούλιος 2006"
 
 #: C/xed.xml:196(revnumber)
-msgid "xed Manual V2.9"
-msgstr "Εγχειρίδιο του Xed, Έκδοση 2.9"
+msgid "Techo Manual V2.9"
+msgstr "Εγχειρίδιο του Techo, Έκδοση 2.9"
 
 #: C/xed.xml:199(para)
 msgid "MATE Documentation Team"
 msgstr "Ομάδα τεκμηρίωσης του MATE"
 
 #: C/xed.xml:204(releaseinfo)
-msgid "This manual describes version 2.16 of xed."
-msgstr "Αυτό το εγχειρίδιο περιγράφει την έκδοση 2.16 του Xed."
+msgid "This manual describes version 2.16 of Techo."
+msgstr "Αυτό το εγχειρίδιο περιγράφει την έκδοση 2.16 του Techo."
 
 #: C/xed.xml:207(title)
 msgid "Feedback"
 msgstr "Ανάδραση"
 
 #: C/xed.xml:208(para)
-msgid "To report a bug or make a suggestion regarding the <application>xed</application> application or this manual, follow the directions in the <ulink url=\"help:user-guide?feedback-bugs\" type=\"help\">MATE Feedback Page</ulink>."
-msgstr "Για να αναφέρετε ένα σφάλμα ή να κάνετε μια εισήγηση σχετικά με την εφαρμογή <application>xed</application> ή με αυτό το έγγραφο, ακολουθήστε τις οδηγίες στη <ulink url=\"help:user-guide?feedback-bugs\" type=\"help\">Σελίδα ανάδρασης του MATE</ulink>."
+msgid "To report a bug or make a suggestion regarding the <application>Techo</application> application or this manual, follow the directions in the <ulink url=\"help:user-guide?feedback-bugs\" type=\"help\">MATE Feedback Page</ulink>."
+msgstr "Για να αναφέρετε ένα σφάλμα ή να κάνετε μια εισήγηση σχετικά με την εφαρμογή <application>Techo</application> ή με αυτό το έγγραφο, ακολουθήστε τις οδηγίες στη <ulink url=\"help:user-guide?feedback-bugs\" type=\"help\">Σελίδα ανάδρασης του MATE</ulink>."
 
 #: C/xed.xml:213(para)
-msgid "xed is a text editor for the MATE Desktop featuring basic yet robust capabilities such as printing, spell checking, find and replace, and syntax highlighting. More advanced features are available as plugins."
-msgstr "Το xed είναι ένα επεξεργαστής κειμένου για την επιφάνεια εργασίας του MATE που το χαρακτηρίζουν βασικές αλλά ισχυρές δυνατότητες όπως  εκτύπωση, ορθογραφικός έλεγχος, εύρεση και αντικατάσταση, και επισήμανση σύνταξης. Πιο προχωρημένα χαρακτηριστικά είναι διαθέσιμα ως πρόσθετες λειτουργίες."
+msgid "Techo is a text editor for the MATE Desktop featuring basic yet robust capabilities such as printing, spell checking, find and replace, and syntax highlighting. More advanced features are available as plugins."
+msgstr "Το Techo είναι ένα επεξεργαστής κειμένου για την επιφάνεια εργασίας του MATE που το χαρακτηρίζουν βασικές αλλά ισχυρές δυνατότητες όπως  εκτύπωση, ορθογραφικός έλεγχος, εύρεση και αντικατάσταση, και επισήμανση σύνταξης. Πιο προχωρημένα χαρακτηριστικά είναι διαθέσιμα ως πρόσθετες λειτουργίες."
 
 #: C/xed.xml:218(primary)
-msgid "xed"
-msgstr "xed"
+msgid "Techo"
+msgstr "Techo"
 
 #: C/xed.xml:219(primary)
 msgid "text editor"
@@ -294,24 +294,24 @@ msgid "Introduction"
 msgstr "Εισαγωγή"
 
 #: C/xed.xml:229(para)
-msgid "The <application>xed</application> application enables you to create and edit text files."
-msgstr "Η εφαρμογή <application>xed</application> σας επιτρέπει να δημιουργείτε και να επεξεργάζεστε αρχεία κειμένου."
+msgid "The <application>Techo</application> application enables you to create and edit text files."
+msgstr "Η εφαρμογή <application>Techo</application> σας επιτρέπει να δημιουργείτε και να επεξεργάζεστε αρχεία κειμένου."
 
 #: C/xed.xml:231(para)
-msgid "The aim of <application>xed</application> is to be a simple and easy to use text editor. More powerful features can be enabled with different <firstterm>plugins</firstterm>, allowing a variety of tasks related to text-editing."
-msgstr "Το <application>xed</application> στοχεύει να είναι ένας απλός επεξεργαστής κειμένου. Πιο ισχυρές δυνατότητες μπορούν να ενεργοποιηθούν με διάφορες <firstterm>πρόσθετες λειτουργίες</firstterm>, που επιτρέπουν μια ποικιλία από εργασίες σχετικές με την επεξεργασία κειμένου."
+msgid "The aim of <application>Techo</application> is to be a simple and easy to use text editor. More powerful features can be enabled with different <firstterm>plugins</firstterm>, allowing a variety of tasks related to text-editing."
+msgstr "Το <application>Techo</application> στοχεύει να είναι ένας απλός επεξεργαστής κειμένου. Πιο ισχυρές δυνατότητες μπορούν να ενεργοποιηθούν με διάφορες <firstterm>πρόσθετες λειτουργίες</firstterm>, που επιτρέπουν μια ποικιλία από εργασίες σχετικές με την επεξεργασία κειμένου."
 
 #: C/xed.xml:235(title)
 msgid "Getting Started"
 msgstr "Ξεκινώντας"
 
 #: C/xed.xml:239(title)
-msgid "Starting xed"
-msgstr "Εκκινώντας το Xed"
+msgid "Starting Techo"
+msgstr "Εκκινώντας το Techo"
 
 #: C/xed.xml:240(para)
-msgid "You can start <application>xed</application> in the following ways:"
-msgstr "Μπορείτε να εκκινήσετε το <application>xed</application> με τους εξής τρόπους:"
+msgid "You can start <application>Techo</application> in the following ways:"
+msgstr "Μπορείτε να εκκινήσετε το <application>Techo</application> με τους εξής τρόπους:"
 
 #: C/xed.xml:243(term)
 msgid "<guimenu>Applications</guimenu> menu"
@@ -326,40 +326,40 @@ msgid "Command line"
 msgstr "Γραμμή εντολών"
 
 #: C/xed.xml:251(para)
-msgid "Execute the following command: <command>xed</command>"
-msgstr "Εκτελέστε την ακόλουθη εντολή: <command>xed</command>"
+msgid "Execute the following command: <command>techo</command>"
+msgstr "Εκτελέστε την ακόλουθη εντολή: <command>techo</command>"
 
 #: C/xed.xml:255(para)
-msgid "By default, when you open a text document in the file manager, xed will start, and display the document."
-msgstr "Εξ ορισμού, όταν ανοίγετε ένα αρχείο κειμένου από τον περιηγητή αρχείων, θα ξεκινήσει το xed και θα εμφανίσει το κείμενο."
+msgid "By default, when you open a text document in the file manager, Techo will start, and display the document."
+msgstr "Εξ ορισμού, όταν ανοίγετε ένα αρχείο κειμένου από τον περιηγητή αρχείων, θα ξεκινήσει το Techo και θα εμφανίσει το κείμενο."
 
 #: C/xed.xml:260(title)
-msgid "The xed Window"
-msgstr "Το παράθυρο του xed"
+msgid "The Techo Window"
+msgstr "Το παράθυρο του Techo"
 
 #: C/xed.xml:261(para)
-msgid "When you start <application>xed</application>, the following window is displayed:"
-msgstr "Όταν ξεκινάτε το <application>xed</application> εμφανίζεται το ακόλουθο παράθυρο:"
+msgid "When you start <application>Techo</application>, the following window is displayed:"
+msgstr "Όταν ξεκινάτε το <application>Techo</application> εμφανίζεται το ακόλουθο παράθυρο:"
 
 #: C/xed.xml:264(title)
-msgid "xed Window"
-msgstr "Το παράθυρο του xed"
+msgid "Techo Window"
+msgstr "Το παράθυρο του Techo"
 
 #: C/xed.xml:270(phrase)
-msgid "Shows xed main window."
-msgstr "Δείχνει το κεντρικό παράθυρο του xed."
+msgid "Shows Techo main window."
+msgstr "Δείχνει το κεντρικό παράθυρο του Techo."
 
 #: C/xed.xml:276(para)
-msgid "The <application>xed</application> window contains the following elements:"
-msgstr "Το παράθυρο του <application>xed</application> περιέχει τα εξής στοιχεία:"
+msgid "The <application>Techo</application> window contains the following elements:"
+msgstr "Το παράθυρο του <application>Techo</application> περιέχει τα εξής στοιχεία:"
 
 #: C/xed.xml:279(term)
 msgid "Menubar"
 msgstr "Γραμμή μενού"
 
 #: C/xed.xml:281(para)
-msgid "The menus on the menubar contain all of the commands you need to work with files in <application>xed</application>."
-msgstr "Τα μενού στη γραμμή μενού περιέχουν όλες τις εντολές που θα χρειαστείτε για να δουλέψετε με αρχείο στο <application>xed</application>."
+msgid "The menus on the menubar contain all of the commands you need to work with files in <application>Techo</application>."
+msgstr "Τα μενού στη γραμμή μενού περιέχουν όλες τις εντολές που θα χρειαστείτε για να δουλέψετε με αρχείο στο <application>Techo</application>."
 
 #: C/xed.xml:284(term)
 msgid "Toolbar"
@@ -382,8 +382,8 @@ msgid "Statusbar"
 msgstr "Γραμμή κατάστασης"
 
 #: C/xed.xml:296(para)
-msgid "The statusbar displays information about current <application>xed</application> activity and contextual information about the menu items. The statusbar also displays the following information:"
-msgstr "Η γραμμή κατάστασης εμφανίζει πληροφορίες για την τρέχουσα δραστηριότητα του <application>xed</application> και πληροφορίες του περιεχομένου των αντικειμένων του μενού. Η γραμμή κατάστασης εμφανίζει επίσης τις εξής πληροφορίες:"
+msgid "The statusbar displays information about current <application>Techo</application> activity and contextual information about the menu items. The statusbar also displays the following information:"
+msgstr "Η γραμμή κατάστασης εμφανίζει πληροφορίες για την τρέχουσα δραστηριότητα του <application>Techo</application> και πληροφορίες του περιεχομένου των αντικειμένων του μενού. Η γραμμή κατάστασης εμφανίζει επίσης τις εξής πληροφορίες:"
 
 #: C/xed.xml:299(para)
 msgid "Cursor position: the line number and column number where the cursor is located."
@@ -418,36 +418,36 @@ msgid "By default the bottom pane is not shown. To show it, choose <menuchoice><
 msgstr "Εξ ορισμού η κάτω εργαλειοθήκη δεν εμφανίζεται. Για να την εμφανίσετε, επιλέξτε <menuchoice><guimenu>Προβολή</guimenu><guimenuitem>Κάτω εργαλειοθήκη</guimenuitem></menuchoice>."
 
 #: C/xed.xml:320(para)
-msgid "When you right-click in the <application>xed</application> window, the application displays a popup menu. The popup menu contains the most common text editing commands."
-msgstr "Όταν κάνετε δεξί κλικ μέσα στο παράθυρο του <application>xed</application>, η εφαρμογή εμφανίζει ένα αναδυόμενο μενού. Το αναδυόμενο μενού περιέχει τις πιο συνηθισμένες εντολές επεξεργασίας κειμένου."
+msgid "When you right-click in the <application>Techo</application> window, the application displays a popup menu. The popup menu contains the most common text editing commands."
+msgstr "Όταν κάνετε δεξί κλικ μέσα στο παράθυρο του <application>Techo</application>, η εφαρμογή εμφανίζει ένα αναδυόμενο μενού. Το αναδυόμενο μενού περιέχει τις πιο συνηθισμένες εντολές επεξεργασίας κειμένου."
 
 #: C/xed.xml:322(para)
-msgid "Like other MATE applications, actions in <application>xed</application> can be performed in several ways: with the menu, with the toolbar, or with shortcut keys. Shortcuts keys common to all applications are listed in the <ulink type=\"help\" url=\"help:user-guide?shortcuts-apps\">User Guide</ulink>."
-msgstr "Όπως και στις άλλες εφαρμογές του MATE, οι ενέργειες στο <application>xed</application> μπορούν να γίνουν με διάφορους τρόπους: με το μενού, με την εργαλειοθήκη ή με συντομεύσεις πληκτρολογίου. Οι συντομεύσεις που είναι κοινές σε όλες τις εφαρμογές βρίσκονται στον <ulink type=\"help\" url=\"help:user-guide?shortcuts-apps\">Οδηγό χρήσης</ulink>."
+msgid "Like other MATE applications, actions in <application>Techo</application> can be performed in several ways: with the menu, with the toolbar, or with shortcut keys. Shortcuts keys common to all applications are listed in the <ulink type=\"help\" url=\"help:user-guide?shortcuts-apps\">User Guide</ulink>."
+msgstr "Όπως και στις άλλες εφαρμογές του MATE, οι ενέργειες στο <application>Techo</application> μπορούν να γίνουν με διάφορους τρόπους: με το μενού, με την εργαλειοθήκη ή με συντομεύσεις πληκτρολογίου. Οι συντομεύσεις που είναι κοινές σε όλες τις εφαρμογές βρίσκονται στον <ulink type=\"help\" url=\"help:user-guide?shortcuts-apps\">Οδηγό χρήσης</ulink>."
 
 #: C/xed.xml:327(title)
-msgid "Running xed from a Command Line"
-msgstr "Εκτέλεση του xed από τη Γραμμή εντολών"
+msgid "Running Techo from a Command Line"
+msgstr "Εκτέλεση του Techo από τη Γραμμή εντολών"
 
 #: C/xed.xml:328(para)
-msgid "You can run <application>xed</application> from a command line and open a single file or multiple files. To open multiple files from a command line, type the following command, then press <keycap>Return</keycap>:"
-msgstr "Μπορείτε να εκτελέσετε το <application>xed</application> από μια γραμμή εντολών και να ανοίξετε ένα ή περισσότερα αρχεία. Για να ανοίξετε πολλά αρχεία από γραμμή εντολών, πληκτρολογήστε την ακόλουθη εντολή και πατήστε <keycap>Return</keycap>:"
+msgid "You can run <application>Techo</application> from a command line and open a single file or multiple files. To open multiple files from a command line, type the following command, then press <keycap>Return</keycap>:"
+msgstr "Μπορείτε να εκτελέσετε το <application>Techo</application> από μια γραμμή εντολών και να ανοίξετε ένα ή περισσότερα αρχεία. Για να ανοίξετε πολλά αρχεία από γραμμή εντολών, πληκτρολογήστε την ακόλουθη εντολή και πατήστε <keycap>Return</keycap>:"
 
 #: C/xed.xml:329(replaceable)
 msgid "file1.txt file2.txt file3.txt"
 msgstr "file1.txt file2.txt file3.txt"
 
 #: C/xed.xml:329(command)
-msgid "xed <placeholder-1/>"
-msgstr "xed <placeholder-1/>"
+msgid "Techo <placeholder-1/>"
+msgstr "Techo <placeholder-1/>"
 
 #: C/xed.xml:330(para)
 msgid "Alternatively, you can specify a URI instead of a filename."
 msgstr "Εναλλακτικά, μπορείτε να καθορίσετε μια τοποθεσία (URI) αντί για ένα όνομα αρχείου."
 
 #: C/xed.xml:331(para)
-msgid "For more information on how to run <application>xed</application> from a command line, see the unix manual page for xed, <ulink url=\"man:xed\" type=\"man\"><citerefentry><refentrytitle>xed</refentrytitle><manvolnum>1</manvolnum></citerefentry></ulink>."
-msgstr "Για περισσότερες πληροφορίες για την εκτέλεση του <application>xed</application> από μια γραμμή εντολών, δείτε τη σελίδα εγχειριδίου του Unix για το xed, <ulink url=\"man:xed\" type=\"man\"><citerefentry><refentrytitle>xed</refentrytitle><manvolnum>1</manvolnum></citerefentry></ulink>."
+msgid "For more information on how to run <application>Techo</application> from a command line, see the unix manual page for Techo, <ulink url=\"man:techo\" type=\"man\"><citerefentry><refentrytitle>Techo</refentrytitle><manvolnum>1</manvolnum></citerefentry></ulink>."
+msgstr "Για περισσότερες πληροφορίες για την εκτέλεση του <application>Techo</application> από μια γραμμή εντολών, δείτε τη σελίδα εγχειριδίου του Unix για το Techo, <ulink url=\"man:techo\" type=\"man\"><citerefentry><refentrytitle>Techo</refentrytitle><manvolnum>1</manvolnum></citerefentry></ulink>."
 
 #: C/xed.xml:336(title)
 msgid "Working with Files"
@@ -458,8 +458,8 @@ msgid "Creating a New Document"
 msgstr "Δημιουργία ενός νέου εγγράφου"
 
 #: C/xed.xml:341(para)
-msgid "To create a new document, choose <menuchoice><guimenu>File</guimenu><guimenuitem>New</guimenuitem></menuchoice>. The application displays a new blank document in the <application>xed</application> window."
-msgstr "Για να δημιουργήσετε ένα νέο έγγραφο, επιλέξτε <menuchoice><guimenu>Αρχείο</guimenu><guimenuitem>Νέο</guimenuitem></menuchoice>. Η εφαρμογή εμφανίζει ένα νέο άδειο έγγραφο στο παράθυρο του <application>xed</application>."
+msgid "To create a new document, choose <menuchoice><guimenu>File</guimenu><guimenuitem>New</guimenuitem></menuchoice>. The application displays a new blank document in the <application>Techo</application> window."
+msgstr "Για να δημιουργήσετε ένα νέο έγγραφο, επιλέξτε <menuchoice><guimenu>Αρχείο</guimenu><guimenuitem>Νέο</guimenuitem></menuchoice>. Η εφαρμογή εμφανίζει ένα νέο άδειο έγγραφο στο παράθυρο του <application>Techo</application>."
 
 #: C/xed.xml:346(title)
 #: C/xed.xml:1597(title)
@@ -467,8 +467,8 @@ msgid "Opening a File"
 msgstr "Άνοιγμα ενός αρχείου"
 
 #: C/xed.xml:347(para)
-msgid "To open a file, choose <menuchoice><guimenu>File</guimenu><guimenuitem>Open</guimenuitem></menuchoice> to display the <guilabel>Open File</guilabel> dialog. Select the file that you want to open, then click <guibutton>Open</guibutton>. The file is displayed in the <application>xed</application> window."
-msgstr "Για να ανοίξετε ένα αρχείο, επιλέξτε <menuchoice><guimenu>Αρχείο</guimenu><guimenuitem>Άνοιγμα</guimenuitem></menuchoice> για να εμφανίσετε το διάλογο <guilabel>Άνοιγμα αρχείων</guilabel>. Επιλέξτε το αρχείο που θέλετε να ανοίξετε και πατήστε <guibutton>Άνοιγμα</guibutton>. Το αρχείο εμφανίζεται στο παράθυρο του <application>xed</application>."
+msgid "To open a file, choose <menuchoice><guimenu>File</guimenu><guimenuitem>Open</guimenuitem></menuchoice> to display the <guilabel>Open File</guilabel> dialog. Select the file that you want to open, then click <guibutton>Open</guibutton>. The file is displayed in the <application>Techo</application> window."
+msgstr "Για να ανοίξετε ένα αρχείο, επιλέξτε <menuchoice><guimenu>Αρχείο</guimenu><guimenuitem>Άνοιγμα</guimenuitem></menuchoice> για να εμφανίσετε το διάλογο <guilabel>Άνοιγμα αρχείων</guilabel>. Επιλέξτε το αρχείο που θέλετε να ανοίξετε και πατήστε <guibutton>Άνοιγμα</guibutton>. Το αρχείο εμφανίζεται στο παράθυρο του <application>Techo</application>."
 
 #: C/xed.xml:349(phrase)
 msgid "Shows Recent Files menu icon."
@@ -479,8 +479,8 @@ msgid "The application records the paths and filenames of the five most recent f
 msgstr "Η εφαρμογή καταγράφει τις διαδρομές και τα ονόματα των πέντε αρχείων που επεξεργαστήκατε πιο πρόσφατα και τα εμφανίζει ως αντικείμενα στο μενού <menuchoice><guimenu>Αρχείο</guimenu></menuchoice>. Μπορείτε επίσης να πατήσετε στο εικονίδιο <placeholder-1/> για να εμφανίσετε τη λίστα με τα πιο πρόσφατα αρχεία."
 
 #: C/xed.xml:351(para)
-msgid "You can open multiple files in <application>xed</application>. The application adds a tab for each open file to the window. For more on this see <xref linkend=\"xed-tabs\"/>."
-msgstr "Μπορείτε να ανοίξετε πολλαπλά αρχεία στο <application>xed</application>. Η εφαρμογή προσθέτει μια καρτέλα στο παράθυρο για κάθε ανοικτό αρχείο. Για περισσότερες πληροφορίες δείτε <xref linkend=\"xed-tabs\"/>."
+msgid "You can open multiple files in <application>Techo</application>. The application adds a tab for each open file to the window. For more on this see <xref linkend=\"Techo-tabs\"/>."
+msgstr "Μπορείτε να ανοίξετε πολλαπλά αρχεία στο <application>Techo</application>. Η εφαρμογή προσθέτει μια καρτέλα στο παράθυρο για κάθε ανοικτό αρχείο. Για περισσότερες πληροφορίες δείτε <xref linkend=\"Techo-tabs\"/>."
 
 #: C/xed.xml:357(title)
 msgid "Saving a File"
@@ -499,12 +499,12 @@ msgid "To save a new file or to save an existing file under a new filename, choo
 msgstr "Για να αποθηκεύσετε ένα νέο αρχείο ή να αποθηκεύσετε ένα υπάρχον αρχείο με νέο όνομα, επιλέξτε <menuchoice><guimenu>Αρχείο</guimenu><guimenuitem>Αποθήκευση ως...</guimenuitem></menuchoice>. Βάλτε ένα όνομα για το αρχείο στο διάλογο <guilabel>Αποθήκευση ως...</guilabel> και πατήστε <guibutton>Αποθήκευση</guibutton>."
 
 #: C/xed.xml:364(para)
-msgid "To save all of the files that are currently open in <application>xed</application>, choose <menuchoice><guimenu>Documents</guimenu><guimenuitem>Save All</guimenuitem></menuchoice>."
-msgstr "Για να αποθηκεύσετε όλα τα αρχεία που είναι ανοικτά στο <application>xed</application>, επιλέξτε <menuchoice><guimenu>Έγγραφα</guimenu><guimenuitem>Αποθήκευση όλων</guimenuitem></menuchoice>."
+msgid "To save all of the files that are currently open in <application>Techo</application>, choose <menuchoice><guimenu>Documents</guimenu><guimenuitem>Save All</guimenuitem></menuchoice>."
+msgstr "Για να αποθηκεύσετε όλα τα αρχεία που είναι ανοικτά στο <application>Techo</application>, επιλέξτε <menuchoice><guimenu>Έγγραφα</guimenu><guimenuitem>Αποθήκευση όλων</guimenuitem></menuchoice>."
 
 #: C/xed.xml:367(para)
-msgid "To close all of the files that are currently open in <application>xed</application>, choose <menuchoice><guimenu>Documents</guimenu><guimenuitem>Close All</guimenuitem></menuchoice>."
-msgstr "Για να κλείσετε όλα τα αρχεία που είναι ανοικτά στο <application>xed</application>, επιλέξτε <menuchoice><guimenu>Έγγραφα</guimenu><guimenuitem>Κλείσιμο όλων</guimenuitem></menuchoice>."
+msgid "To close all of the files that are currently open in <application>Techo</application>, choose <menuchoice><guimenu>Documents</guimenu><guimenuitem>Close All</guimenuitem></menuchoice>."
+msgstr "Για να κλείσετε όλα τα αρχεία που είναι ανοικτά στο <application>Techo</application>, επιλέξτε <menuchoice><guimenu>Έγγραφα</guimenu><guimenuitem>Κλείσιμο όλων</guimenuitem></menuchoice>."
 
 #: C/xed.xml:372(title)
 msgid "Opening a File from a URI"
@@ -539,24 +539,24 @@ msgid "Files from some types of URI are opened as read-only, and any changes you
 msgstr "Αρχεία από μερικούς τύπους URI ανοίγονται μόνο για ανάγνωση, και ό,τι αλλαγές κάνετε θα πρέπει να αποθηκευτούν σε μια διαφορετική τοποθεσία. Το HTTP επιτρέπει μόνο την ανάγνωση αρχείων. Αρχεία που ανοίγονται από FTP είναι μόνο για ανάγνωση γιατί δεν υποστηρίζουν όλοι οι εξυπηρετητές FTP την αποθήκευση απομακρυσμένων αρχείων."
 
 #: C/xed.xml:390(para)
-msgid "Saving to FTP servers can be enabled with <ulink type=\"help\" url=\"help:mateconf-editor\"><application>Configuration Editor</application></ulink>, setting the key <systemitem>/apps/xed/preferences/editor/save/writable_vfs_schemes</systemitem>, but this may cause errors."
-msgstr "Η αποθήκευση σε εξυπηρετητές FTP μπορεί να ενεργοποιηθεί από τον <ulink type=\"help\" url=\"help:mateconf-editor\"><application>Configuration Editor</application></ulink>, με την επιλογή του κλειδιού <systemitem>/apps/xed/preferences/editor/save/writable_vfs_schemes</systemitem>, αλλά αυτό μπορεί να προκαλέσει σφάλματα."
+msgid "Saving to FTP servers can be enabled with <ulink type=\"help\" url=\"help:mateconf-editor\"><application>Configuration Editor</application></ulink>, setting the key <systemitem>/apps/Techo/preferences/editor/save/writable_vfs_schemes</systemitem>, but this may cause errors."
+msgstr "Η αποθήκευση σε εξυπηρετητές FTP μπορεί να ενεργοποιηθεί από τον <ulink type=\"help\" url=\"help:mateconf-editor\"><application>Configuration Editor</application></ulink>, με την επιλογή του κλειδιού <systemitem>/apps/Techo/preferences/editor/save/writable_vfs_schemes</systemitem>, αλλά αυτό μπορεί να προκαλέσει σφάλματα."
 
 #: C/xed.xml:395(title)
 msgid "Working With Tabs"
 msgstr "Δουλεύοντας με τις καρτέλες"
 
 #: C/xed.xml:397(para)
-msgid "When more than one file is open, <application>xed</application> shows a <firstterm>tab</firstterm> for each document above the display area. To switch to another document, click on its tab."
-msgstr "Όταν είναι ανοικτά περισσότερα από ένα αρχεία, τότε το <application>xed</application> εμφανίζει μια <firstterm>καρτέλα</firstterm> για κάθε έγγραφο στο πάνω μέρος της περιοχής προβολής. Για να περάσετε σε ένα άλλο έγγραφο, πατήστε στην καρτέλα του."
+msgid "When more than one file is open, <application>Techo</application> shows a <firstterm>tab</firstterm> for each document above the display area. To switch to another document, click on its tab."
+msgstr "Όταν είναι ανοικτά περισσότερα από ένα αρχεία, τότε το <application>Techo</application> εμφανίζει μια <firstterm>καρτέλα</firstterm> για κάθε έγγραφο στο πάνω μέρος της περιοχής προβολής. Για να περάσετε σε ένα άλλο έγγραφο, πατήστε στην καρτέλα του."
 
 #: C/xed.xml:398(para)
-msgid "To move a document to another <application> xed</application> window, drag the tab corresponding to the file to the window you want to move it to."
-msgstr "Για να μετακινήσετε ένα έγγραφο σε ένα άλλο παράθυρο του <application> xed</application>, σύρετε την αντίστοιχη καρτέλα στο παράθυρο στο οποίο θέλετε να τη μετακινήσετε."
+msgid "To move a document to another <application> Techo</application> window, drag the tab corresponding to the file to the window you want to move it to."
+msgstr "Για να μετακινήσετε ένα έγγραφο σε ένα άλλο παράθυρο του <application> Techo</application>, σύρετε την αντίστοιχη καρτέλα στο παράθυρο στο οποίο θέλετε να τη μετακινήσετε."
 
 #: C/xed.xml:399(para)
-msgid "To move a document to a new <application> xed</application> window, either drag its tab to the desktop, or choose <menuchoice><guimenu>Documents</guimenu><guimenuitem>Move to New Window</guimenuitem></menuchoice>."
-msgstr "Για να μετακινήσετε ένα έγγραφο σε ένα καινούριο παράθυρο του <application>xed</application>, είτε σύρετε την καρτέλα του στην επιφάνεια εργασίας, είτε επιλέξτε <menuchoice><guimenu>Έγγραφα</guimenu><guimenuitem>Μετακίνηση σε νέο παράθυρο</guimenuitem></menuchoice>."
+msgid "To move a document to a new <application> Techo</application> window, either drag its tab to the desktop, or choose <menuchoice><guimenu>Documents</guimenu><guimenuitem>Move to New Window</guimenuitem></menuchoice>."
+msgstr "Για να μετακινήσετε ένα έγγραφο σε ένα καινούριο παράθυρο του <application>Techo</application>, είτε σύρετε την καρτέλα του στην επιφάνεια εργασίας, είτε επιλέξτε <menuchoice><guimenu>Έγγραφα</guimenu><guimenuitem>Μετακίνηση σε νέο παράθυρο</guimenuitem></menuchoice>."
 
 #: C/xed.xml:405(title)
 msgid "Working with Text"
@@ -587,8 +587,8 @@ msgid "To permanently delete the selected text from the file, choose <menuchoice
 msgstr "Για να σβήσετε μόνιμα το επιλεγμένο κείμενο από το αρχείο, επιλέξτε <menuchoice><guimenu>Επεξεργασία</guimenu><guimenuitem>Διαγραφή</guimenuitem></menuchoice>."
 
 #: C/xed.xml:420(para)
-msgid "To insert the contents of the clipboard at the cursor position, choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste</guimenuitem></menuchoice>. You must cut or copy text before you can paste text into the file, either from xed or another application."
-msgstr "Για να εισάγετε τα περιεχόμενα του πρόχειρου στη θέση του δρομέα, επιλέξτε <menuchoice><guimenu>Επεξεργασία</guimenu><guimenuitem>Επικόλληση</guimenuitem></menuchoice>. Θα πρέπει να έχετε προηγουμένως αντιγράψει ή αποκόψει κείμενο προτού το επικολλήσετε στο αρχείο, είτε από το xed είτε από άλλη εφαρμογή."
+msgid "To insert the contents of the clipboard at the cursor position, choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Paste</guimenuitem></menuchoice>. You must cut or copy text before you can paste text into the file, either from Techo or another application."
+msgstr "Για να εισάγετε τα περιεχόμενα του πρόχειρου στη θέση του δρομέα, επιλέξτε <menuchoice><guimenu>Επεξεργασία</guimenu><guimenuitem>Επικόλληση</guimenuitem></menuchoice>. Θα πρέπει να έχετε προηγουμένως αντιγράψει ή αποκόψει κείμενο προτού το επικολλήσετε στο αρχείο, είτε από το Techo είτε από άλλη εφαρμογή."
 
 #: C/xed.xml:422(para)
 msgid "To select all of the text in a file, choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Select All</guimenuitem></menuchoice>."
@@ -607,8 +607,8 @@ msgid "Finding and Replacing"
 msgstr "Εύρεση και αντικατάσταση"
 
 #: C/xed.xml:436(para)
-msgid "In <application>xed</application>, there are two ways of searching for text. You can use the <guilabel>Find</guilabel> dialog to search for a specific piece of text, or <guilabel>Incremental Search</guilabel> to highlight matching text as you type it."
-msgstr "Στο <application>xed</application> υπάρχουν δύο τρόποι αναζήτησης κειμένου. Μπορείτε να χρησιμοποιήσετε το διάλογο <guilabel>Εύρεση</guilabel> για να ψάξετε για ένα συγκεκριμένο κομμάτι κειμένου, ή την <guilabel>Αυξητική αναζήτηση</guilabel> για να φωτίσετε το κείμενο που ταιριάζει καθώς πληκτρολογείτε."
+msgid "In <application>Techo</application>, there are two ways of searching for text. You can use the <guilabel>Find</guilabel> dialog to search for a specific piece of text, or <guilabel>Incremental Search</guilabel> to highlight matching text as you type it."
+msgstr "Στο <application>Techo</application> υπάρχουν δύο τρόποι αναζήτησης κειμένου. Μπορείτε να χρησιμοποιήσετε το διάλογο <guilabel>Εύρεση</guilabel> για να ψάξετε για ένα συγκεκριμένο κομμάτι κειμένου, ή την <guilabel>Αυξητική αναζήτηση</guilabel> για να φωτίσετε το κείμενο που ταιριάζει καθώς πληκτρολογείτε."
 
 #: C/xed.xml:441(title)
 msgid "Finding Text"
@@ -623,12 +623,12 @@ msgid "Choose <menuchoice><guimenu>Search</guimenu><guimenuitem>Find</guimenuite
 msgstr "Επιλέξτε <menuchoice><guimenu>Αναζήτηση</guimenu><guimenuitem>Εύρεση</guimenuitem></menuchoice> για να εμφανίσετε το διάλογο <guilabel>Εύρεση</guilabel>."
 
 #: C/xed.xml:446(para)
-msgid "Type the string that you want to find in the <guilabel>Search for</guilabel> field. You can include special characters such as a new line or tab: see <xref linkend=\"xed-find-escapes\"/>."
-msgstr "Πληκρολογήστε την αλληλουχία που θέλετε να αναζητήσετε στο πεδίο <guilabel>Αναζήτηση για</guilabel>. Μπορείτε να συμπεριλάβετε ειδικούς χαρακτήρες όπως νέα γραμμή και στηλοθέτης: δείτε το <xref linkend=\"xed-find-escapes\"/>."
+msgid "Type the string that you want to find in the <guilabel>Search for</guilabel> field. You can include special characters such as a new line or tab: see <xref linkend=\"Techo-find-escapes\"/>."
+msgstr "Πληκρολογήστε την αλληλουχία που θέλετε να αναζητήσετε στο πεδίο <guilabel>Αναζήτηση για</guilabel>. Μπορείτε να συμπεριλάβετε ειδικούς χαρακτήρες όπως νέα γραμμή και στηλοθέτης: δείτε το <xref linkend=\"Techo-find-escapes\"/>."
 
 #: C/xed.xml:448(para)
-msgid "Click <guibutton>Find</guibutton> to search the file for the first occurrence of the string after your current cursor position. If <application>xed</application> finds the string, the application selects first occurrence of the string. Other occurrences of the string are highlighted."
-msgstr "Κάντε κλικ στο <guibutton>Εύρεση</guibutton> για να κάνετε αναζήτηση στο αρχείο για την πρώτη εμφάνιση της αλληλουχίας μετά την τρέχουσα θέση του δρομέα. Αν το <application>xed</application> βρει την αλληλουχία, θα επιλέξει την πρώτη εμφάνισή της. Άλλες περιπτώσεις της αλληλουχίας στο κείμενο θα επισημανθούν."
+msgid "Click <guibutton>Find</guibutton> to search the file for the first occurrence of the string after your current cursor position. If <application>Techo</application> finds the string, the application selects first occurrence of the string. Other occurrences of the string are highlighted."
+msgstr "Κάντε κλικ στο <guibutton>Εύρεση</guibutton> για να κάνετε αναζήτηση στο αρχείο για την πρώτη εμφάνιση της αλληλουχίας μετά την τρέχουσα θέση του δρομέα. Αν το <application>Techo</application> βρει την αλληλουχία, θα επιλέξει την πρώτη εμφάνισή της. Άλλες περιπτώσεις της αλληλουχίας στο κείμενο θα επισημανθούν."
 
 #: C/xed.xml:450(para)
 msgid "To find the next occurrence of the string, click <guibutton>Find</guibutton> or choose <menuchoice><guimenu>Search</guimenu><guimenuitem>Find Next</guimenuitem></menuchoice>. To find the previous occurrence of the text, choose <menuchoice><guimenu>Search</guimenu><guimenuitem>Find Previous</guimenuitem></menuchoice>."
@@ -679,16 +679,16 @@ msgid "Choose <menuchoice><guimenu>Search</guimenu><guimenuitem>Replace</guimenu
 msgstr "Επιλέξτε <menuchoice><guimenu>Αναζήτηση</guimenu><guimenuitem>Αντικατάσταση</guimenuitem></menuchoice> για να εμφανίσετε το παράθυρο διαλόγου <guilabel>Αντικατάσταση</guilabel>."
 
 #: C/xed.xml:475(para)
-msgid "Type the string that you want to find, in the <guilabel>Search for</guilabel> field. You can include special characters such as a new line or tab: see <xref linkend=\"xed-find-escapes\"/>."
-msgstr "Πληκτρολογήστε την αλληλουχία που θέλετε να βρείτε, στο πεδίο <guilabel>Αναζήτηση για</guilabel>. Μπορείτε να περιλάβατε ειδικούς χαρακτήρες όπως νέα γραμμή ή στηλοθέτη: δείτε το <xref linkend=\"xed-find-escapes\"/>."
+msgid "Type the string that you want to find, in the <guilabel>Search for</guilabel> field. You can include special characters such as a new line or tab: see <xref linkend=\"Techo-find-escapes\"/>."
+msgstr "Πληκτρολογήστε την αλληλουχία που θέλετε να βρείτε, στο πεδίο <guilabel>Αναζήτηση για</guilabel>. Μπορείτε να περιλάβατε ειδικούς χαρακτήρες όπως νέα γραμμή ή στηλοθέτη: δείτε το <xref linkend=\"Techo-find-escapes\"/>."
 
 #: C/xed.xml:476(para)
 msgid "Type the string that you want to use to replace the string that you find, in the <guilabel>Replace with</guilabel> field."
 msgstr "Πληκτρολογήστε την αλληλουχία που θέλετε να χρησιμοποιήσετε για να αντικαταστήσετε την αναζητούμενη αλληλουχία στο πεδίο <guilabel>Αντικατάσταση με</guilabel>."
 
 #: C/xed.xml:480(para)
-msgid "To examine each occurrence of the string before replacing it, click <guibutton>Find</guibutton>. If <application>xed</application> finds the string, the application selects the string. Click <guibutton>Replace</guibutton> to replace the selected occurrence of the string. To find the next occurrence of the string, click <guibutton>Find</guibutton> again."
-msgstr "Για να εξετάσετε κάθε εμφάνιση της αλληλουχίας χαρακτήρων πριν την αντικαταστήσετε, πατήστε το <guibutton>Εύρεση</guibutton>. Αν το <application>xed</application> βρει την αλληλουχία, την επιλέγει. Κάντε κλικ στο <guibutton>Αντικατάσταση</guibutton> για να αντικαταστήσετε την επιλεγμένη εμφάνιση της αλληλουχίας. Για να βρείτε την επόμενη εμφάνιση της αλληλουχίας κάντε ξανά κλικ στο <guibutton>Εύρεση</guibutton>."
+msgid "To examine each occurrence of the string before replacing it, click <guibutton>Find</guibutton>. If <application>Techo</application> finds the string, the application selects the string. Click <guibutton>Replace</guibutton> to replace the selected occurrence of the string. To find the next occurrence of the string, click <guibutton>Find</guibutton> again."
+msgstr "Για να εξετάσετε κάθε εμφάνιση της αλληλουχίας χαρακτήρων πριν την αντικαταστήσετε, πατήστε το <guibutton>Εύρεση</guibutton>. Αν το <application>Techo</application> βρει την αλληλουχία, την επιλέγει. Κάντε κλικ στο <guibutton>Αντικατάσταση</guibutton> για να αντικαταστήσετε την επιλεγμένη εμφάνιση της αλληλουχίας. Για να βρείτε την επόμενη εμφάνιση της αλληλουχίας κάντε ξανά κλικ στο <guibutton>Εύρεση</guibutton>."
 
 #: C/xed.xml:481(para)
 msgid "To replace all occurrences of the string throughout the document, click <guibutton>Replace All</guibutton>."
@@ -805,8 +805,8 @@ msgid "Print syntax highlighting"
 msgstr "Εκτύπωση επισήμανσης σύνταξης"
 
 #: C/xed.xml:563(para)
-msgid "Select this option to print syntax highlighting. For more information about syntax highlighting, see <xref linkend=\"xed-set-highlightmode\"/>."
-msgstr "Επιλέξτε το για να εκτυπώσετε την επισήμανση σύνταξης. Για περισσότερες πληροφορίες σχετικά με την επισήμανση σύνταξης, δείτε το <xref linkend=\"xed-set-highlightmode\"/>."
+msgid "Select this option to print syntax highlighting. For more information about syntax highlighting, see <xref linkend=\"Techo-set-highlightmode\"/>."
+msgstr "Επιλέξτε το για να εκτυπώσετε την επισήμανση σύνταξης. Για περισσότερες πληροφορίες σχετικά με την επισήμανση σύνταξης, δείτε το <xref linkend=\"Techo-set-highlightmode\"/>."
 
 #: C/xed.xml:566(guilabel)
 msgid "Print page headers"
@@ -872,16 +872,16 @@ msgid "Click on this button to select the font to use to print the headers and f
 msgstr "Κάντε κλικ σε αυτό το κουμπί για να επιλέξτε τη γραμματοσειρά στην οποία θα εκτυπωθούν οι κεφαλίδες και τα υποσέλιδα ενός αρχείου."
 
 #: C/xed.xml:609(para)
-msgid "To reset the fonts to the default fonts for printing a file from <application>xed</application>, click <guibutton>Restore Default Fonts</guibutton>."
-msgstr "Για να επαναφέρετε τις γραμματοσειρές στις προεπιλεγμένες για την εκτύπωση ενός αρχείου από το <application>xed</application>, κάντε κλικ στο κουμπί <guibutton>Επαναφορά προεπιλεγμένων γραμματοσειρών</guibutton>."
+msgid "To reset the fonts to the default fonts for printing a file from <application>Techo</application>, click <guibutton>Restore Default Fonts</guibutton>."
+msgstr "Για να επαναφέρετε τις γραμματοσειρές στις προεπιλεγμένες για την εκτύπωση ενός αρχείου από το <application>Techo</application>, κάντε κλικ στο κουμπί <guibutton>Επαναφορά προεπιλεγμένων γραμματοσειρών</guibutton>."
 
 #: C/xed.xml:616(title)
 msgid "Printing a Document"
 msgstr "Εκτύπωση εγγράφου"
 
 #: C/xed.xml:617(para)
-msgid "You can use <application>xed</application> to perform the following print operations:"
-msgstr "Μπορείτε να χρησιμοποιήσετε το <application>xed</application> για να εκτελέσετε τις ακόλουθες εργασίες εκτύπωσης:"
+msgid "You can use <application>Techo</application> to perform the following print operations:"
+msgstr "Μπορείτε να χρησιμοποιήσετε το <application>Techo</application> για να εκτελέσετε τις ακόλουθες εργασίες εκτύπωσης:"
 
 #: C/xed.xml:619(para)
 msgid "Print a document to a printer."
@@ -892,8 +892,8 @@ msgid "Print the output of the print command to a file."
 msgstr "Εκτύπωση του αποτελέσματος της εντολής εκτύπωσης σε ένα αρχείο."
 
 #: C/xed.xml:624(para)
-msgid "If you print to a file, <application>xed</application> sends the output of the file to a pre-press format file. The most common pre-press formats are PostScript and Portable Document Format (PDF)."
-msgstr "Αν εκτυπώσετε σε αρχείο, το <application>xed</application> στέλνει το αποτέλεσμα σε ένα αρχείο προ-εκτύπωσης. ΟΙ πιο κοινές μορφές αρχείων προ-εκτύπωσης είναι το PostScript και το Portable Document Format (PDF)."
+msgid "If you print to a file, <application>Techo</application> sends the output of the file to a pre-press format file. The most common pre-press formats are PostScript and Portable Document Format (PDF)."
+msgstr "Αν εκτυπώσετε σε αρχείο, το <application>Techo</application> στέλνει το αποτέλεσμα σε ένα αρχείο προ-εκτύπωσης. ΟΙ πιο κοινές μορφές αρχείων προ-εκτύπωσης είναι το PostScript και το Portable Document Format (PDF)."
 
 #: C/xed.xml:626(para)
 msgid "To preview the pages that you want to print, choose <menuchoice><guimenu>File</guimenu><guimenuitem>Print Preview</guimenuitem></menuchoice>."
@@ -1038,8 +1038,8 @@ msgstr "Κατάσταση"
 #: C/xed.xml:734(para)
 #: C/xed.xml:740(para)
 #: C/xed.xml:746(para)
-msgid "This functionality is not supported in this version of xed."
-msgstr "Αυτή η λειτουργία δεν υποστηρίζεται σε αυτή την έκδοση του xed."
+msgid "This functionality is not supported in this version of Techo."
+msgstr "Αυτή η λειτουργία δεν υποστηρίζεται σε αυτή την έκδοση του Techo."
 
 #: C/xed.xml:738(guilabel)
 msgid "Type"
@@ -1114,8 +1114,8 @@ msgid "Programming Features"
 msgstr "Προγραμματιστικά χαρακτηριστικά"
 
 #: C/xed.xml:801(para)
-msgid "Several of <application>xed</application>'s features for programming are provided with plugins. For example, the Tag List plugin provides a list of commonly-used tags for different markup languages: see <xref linkend=\"xed-tag-list-plugin\"/>."
-msgstr "Πολλές λειτουργίες προγραμματισμού του <application>xed</application> παρέχονται με πρόσθετα. Π.χ., το πρόσθετο Λίστα Ετικετών παρέχει μια λίστα των συνηθέστερων ετικετών για διαφορετικές γλώσσες ιστοσελίδων: δείτε το <xref linkend=\"xed-tag-list-plugin\"/>."
+msgid "Several of <application>Techo</application>'s features for programming are provided with plugins. For example, the Tag List plugin provides a list of commonly-used tags for different markup languages: see <xref linkend=\"Techo-tag-list-plugin\"/>."
+msgstr "Πολλές λειτουργίες προγραμματισμού του <application>Techo</application> παρέχονται με πρόσθετα. Π.χ., το πρόσθετο Λίστα Ετικετών παρέχει μια λίστα των συνηθέστερων ετικετών για διαφορετικές γλώσσες ιστοσελίδων: δείτε το <xref linkend=\"Techo-tag-list-plugin\"/>."
 
 #: C/xed.xml:805(title)
 msgid "Syntax Highlighting"
@@ -1126,8 +1126,8 @@ msgid "Syntax highlighting makes source code easier to read by showing different
 msgstr "Η επισήμανση σύνταξης καθιστά ευκολότερη την ανάγνωση πηγαίου κώδικα, απεικονίζοντας διαφορετικά μέρη του με διαφορετικά χρώματα."
 
 #: C/xed.xml:808(para)
-msgid "<application>xed</application> chooses an appropriate syntax highlighting mode based on a document's type. To override the syntax highlighting mode, choose <menuchoice><guimenu>View</guimenu><guimenuitem>Highlight Mode</guimenuitem></menuchoice>, then choose one of the following menu items:"
-msgstr "Το <application>xed</application> επιλέγει ένα κατάλληλο τρόπο επισήμανσης σύνταξης βασιζόμενο στον τύπο του εγγράφου. Για να παρακάμψετε αυτή την κατάσταση λειτουργίας, επιλέξτε <menuchoice><guimenu>Προβολή</guimenu><guimenuitem>Λειτουργία επισήμανσης</guimenuitem></menuchoice>, μετά επιλέξτε ένα από τα ακόλουθα αντικείμενα του μενού:"
+msgid "<application>Techo</application> chooses an appropriate syntax highlighting mode based on a document's type. To override the syntax highlighting mode, choose <menuchoice><guimenu>View</guimenu><guimenuitem>Highlight Mode</guimenuitem></menuchoice>, then choose one of the following menu items:"
+msgstr "Το <application>Techo</application> επιλέγει ένα κατάλληλο τρόπο επισήμανσης σύνταξης βασιζόμενο στον τύπο του εγγράφου. Για να παρακάμψετε αυτή την κατάσταση λειτουργίας, επιλέξτε <menuchoice><guimenu>Προβολή</guimenu><guimenuitem>Λειτουργία επισήμανσης</guimenuitem></menuchoice>, μετά επιλέξτε ένα από τα ακόλουθα αντικείμενα του μενού:"
 
 #: C/xed.xml:811(guimenuitem)
 msgid "Normal"
@@ -1174,12 +1174,12 @@ msgid "Piping the Output of a Command to a File"
 msgstr "Διοχέτευση της εξόδου μιας εντολής σε ένα αρχείο."
 
 #: C/xed.xml:846(para)
-msgid "You can use <application>xed</application> to pipe the output of a command to a text file. For example, to pipe the output of an <command>ls</command> command to a text file, type <command>ls | xed</command>, then press <keycap>Return</keycap>."
-msgstr "Μπορείτε να χρησιμοποιήσετε το <application>xed</application> για να διοχετεύσετε την έξοδο μιας εντολής σε ένα αρχείο κειμένου. Π.χ., για να διοχετεύσετε το αποτέλεσμα μιας εντολής <command>ls</command> σε ένα αρχείο, πληκτρολογήστε <command>ls | xed</command> και πατήστε <keycap>Return</keycap>."
+msgid "You can use <application>Techo</application> to pipe the output of a command to a text file. For example, to pipe the output of an <command>ls</command> command to a text file, type <command>ls | Techo</command>, then press <keycap>Return</keycap>."
+msgstr "Μπορείτε να χρησιμοποιήσετε το <application>Techo</application> για να διοχετεύσετε την έξοδο μιας εντολής σε ένα αρχείο κειμένου. Π.χ., για να διοχετεύσετε το αποτέλεσμα μιας εντολής <command>ls</command> σε ένα αρχείο, πληκτρολογήστε <command>ls | Techo</command> και πατήστε <keycap>Return</keycap>."
 
 #: C/xed.xml:847(para)
-msgid "The output of the <command>ls</command> command is displayed in a new text file in the <application>xed</application> window."
-msgstr "Η έξοδος της εντολής <command>ls</command> εμφανίζεται σε ένα καινούριο αρχείο κειμένου στο παράθυρο του <application>xed</application>."
+msgid "The output of the <command>ls</command> command is displayed in a new text file in the <application>Techo</application> window."
+msgstr "Η έξοδος της εντολής <command>ls</command> εμφανίζεται σε ένα καινούριο αρχείο κειμένου στο παράθυρο του <application>Techo</application>."
 
 #: C/xed.xml:848(para)
 msgid "Alternatively, you can use the <application>External tools</application> plugin to pipe command output to the current file."
@@ -1190,8 +1190,8 @@ msgid "Shortcut Keys"
 msgstr "Πλήκτρα συντόμευσης"
 
 #: C/xed.xml:855(para)
-msgid "Use shortcut keys to perform common tasks more quickly than with the mouse and menus. The following tables list all of <application>xed</application>'s shortcut keys."
-msgstr "Χρησιμοποιήστε πλήκτρα συντόμευσης για να πραγματοποιήσετε συνήθεις εργασίες πιο γρήγορα σε σχέση με το ποντίκι και τα μενού. Οι ακόλουθοι πίνακες απαριθμούν όλες τις συντομεύσεις πληκτρολογίου του <application>xed</application>."
+msgid "Use shortcut keys to perform common tasks more quickly than with the mouse and menus. The following tables list all of <application>Techo</application>'s shortcut keys."
+msgstr "Χρησιμοποιήστε πλήκτρα συντόμευσης για να πραγματοποιήσετε συνήθεις εργασίες πιο γρήγορα σε σχέση με το ποντίκι και τα μενού. Οι ακόλουθοι πίνακες απαριθμούν όλες τις συντομεύσεις πληκτρολογίου του <application>Techo</application>."
 
 #: C/xed.xml:856(para)
 msgid "For more on shortcut keys, see the <ulink type=\"help\" url=\"help:user-guide?keyboard-skills\">Desktop User Guide</ulink>."
@@ -1350,8 +1350,8 @@ msgid "Ctrl + Q"
 msgstr "Ctrl + Q"
 
 #: C/xed.xml:952(para)
-msgid "Quit Xed."
-msgstr "Έξοδος από το Xed."
+msgid "Quit Techo."
+msgstr "Έξοδος από το Techo."
 
 #. ============= Edit =======================
 #: C/xed.xml:959(bridgehead)
@@ -1602,16 +1602,16 @@ msgid "F1"
 msgstr "F1"
 
 #: C/xed.xml:1150(para)
-msgid "Open <application>xed</application>'s user manual."
-msgstr "Άνοιγμα του οδηγού χρήστη του <application>xed</application>."
+msgid "Open <application>Techo</application>'s user manual."
+msgstr "Άνοιγμα του οδηγού χρήστη του <application>Techo</application>."
 
 #: C/xed.xml:1162(title)
 msgid "Preferences"
 msgstr "Προτιμήσεις"
 
 #: C/xed.xml:1164(para)
-msgid "To configure <application>xed</application>, choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Preferences</guimenuitem></menuchoice>. The <guilabel>Preferences</guilabel> dialog contains the following categories:"
-msgstr "Για να διαμορφώσετε το <application>xed</application>, επιλέξτε <menuchoice><guimenu>Επεξεργασία</guimenu><guimenuitem>Προτιμήσεις</guimenuitem></menuchoice>. Το παράθυρο διαλόγου <guilabel>Προτιμήσεις</guilabel> περιέχει τις ακόλουθες κατηγορίες:"
+msgid "To configure <application>Techo</application>, choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Preferences</guimenuitem></menuchoice>. The <guilabel>Preferences</guilabel> dialog contains the following categories:"
+msgstr "Για να διαμορφώσετε το <application>Techo</application>, επιλέξτε <menuchoice><guimenu>Επεξεργασία</guimenu><guimenuitem>Προτιμήσεις</guimenuitem></menuchoice>. Το παράθυρο διαλόγου <guilabel>Προτιμήσεις</guilabel> περιέχει τις ακόλουθες κατηγορίες:"
 
 #: C/xed.xml:1173(title)
 msgid "View Preferences"
@@ -1626,8 +1626,8 @@ msgid "Select the <guilabel>Do not split words over two lines</guilabel> option 
 msgstr "Επιλέξτε το <guilabel>Να μη χωρίζονται οι λέξεις σε δύο γραμμές</guilabel> για να διατηρούνται ολόκληρες οι λέξεις κατά την αναδίπλωση κειμένου. Έτσι γίνεται ευκολότερη η ανάγνωση."
 
 #: C/xed.xml:1185(para)
-msgid "Select the <guilabel>Display line numbers</guilabel> option to display line numbers on the left side of the <application>xed</application> window."
-msgstr "Επιλέξτε το <guilabel>Προβολή αριθμών γραμμής</guilabel> για εμφανίζονται οι αριθμοί γραμμής στην αριστερή πλευρά του παραθύρου του <application>xed</application>."
+msgid "Select the <guilabel>Display line numbers</guilabel> option to display line numbers on the left side of the <application>Techo</application> window."
+msgstr "Επιλέξτε το <guilabel>Προβολή αριθμών γραμμής</guilabel> για εμφανίζονται οι αριθμοί γραμμής στην αριστερή πλευρά του παραθύρου του <application>Techo</application>."
 
 #: C/xed.xml:1189(guilabel)
 msgid "Current Line"
@@ -1662,12 +1662,12 @@ msgid "Editor Preferences"
 msgstr "Επεξεργαστής"
 
 #: C/xed.xml:1217(para)
-msgid "Use the <guilabel>Tab width</guilabel> spin box to specify the width of the space that <application> xed</application> inserts when you press the <keycap>Tab</keycap> key."
-msgstr "Χρησιμοποιήστε το αριθμητικό πεδίο <guilabel>Πλάτος στηλοθέτη</guilabel> για να ορίσετε το πλάτος του διαστήματος που θα εισάγει το <application>xed</application> όταν πιέζετε το πλήκτρο <keycap>Tab</keycap>."
+msgid "Use the <guilabel>Tab width</guilabel> spin box to specify the width of the space that <application> Techo</application> inserts when you press the <keycap>Tab</keycap> key."
+msgstr "Χρησιμοποιήστε το αριθμητικό πεδίο <guilabel>Πλάτος στηλοθέτη</guilabel> για να ορίσετε το πλάτος του διαστήματος που θα εισάγει το <application>Techo</application> όταν πιέζετε το πλήκτρο <keycap>Tab</keycap>."
 
 #: C/xed.xml:1218(para)
-msgid "Select the <guilabel>Insert spaces instead of tabs</guilabel> option to specify that <application> xed</application> inserts spaces instead of a tab character when you press the <keycap>Tab</keycap> key."
-msgstr "Επιλέξτε το <guilabel>Εισαγωγή διαστημάτων αντί για στηλοθέτες</guilabel> για να ορίσετε ότι το <application>xed</application> θα εισάγει διαστήματα αντί για χαρακτήρα στηλοθέτη όταν πατάτε το <keycap>Tab</keycap>."
+msgid "Select the <guilabel>Insert spaces instead of tabs</guilabel> option to specify that <application> Techo</application> inserts spaces instead of a tab character when you press the <keycap>Tab</keycap> key."
+msgstr "Επιλέξτε το <guilabel>Εισαγωγή διαστημάτων αντί για στηλοθέτες</guilabel> για να ορίσετε ότι το <application>Techo</application> θα εισάγει διαστήματα αντί για χαρακτήρα στηλοθέτη όταν πατάτε το <keycap>Tab</keycap>."
 
 #: C/xed.xml:1222(guilabel)
 msgid "Auto Indentation"
@@ -1698,12 +1698,12 @@ msgid "Font"
 msgstr "Γραμματοσειρά"
 
 #: C/xed.xml:1243(para)
-msgid "Select the <guilabel>Use default theme font</guilabel> option to use the default system font for the text in the <application>xed</application> text window."
-msgstr "Επιλέξτε το <guilabel>Χρήση προκαθορισμένης σταθερού πλάτους γραμματοσειράς συστήματος</guilabel> για να χρησιμοποιήσετε την προεπιλεγμένη γραμματοσειρά του συστήματος στο παράθυρο κειμένου του <application>xed</application>."
+msgid "Select the <guilabel>Use default theme font</guilabel> option to use the default system font for the text in the <application>Techo</application> text window."
+msgstr "Επιλέξτε το <guilabel>Χρήση προκαθορισμένης σταθερού πλάτους γραμματοσειράς συστήματος</guilabel> για να χρησιμοποιήσετε την προεπιλεγμένη γραμματοσειρά του συστήματος στο παράθυρο κειμένου του <application>Techo</application>."
 
 #: C/xed.xml:1244(para)
-msgid "The <guilabel>Editor font</guilabel> field displays the font that <application>xed</application> uses to display text. Click on the button to specify the font type, style, and size to use for text."
-msgstr "Το πεδίο <guilabel>Γραμματοσειρά επεξεργαστή</guilabel> απεικονίζει τη γραμματοσειρά που χρησιμοποιεί το <application>xed</application> για να εμφανίσει το κείμενο. Κάντε κλικ στο κουμπί για να καθορίσετε τον τύπο, μορφή και μέγεθος της γραμματοσειράς που θα χρησιμοποιηθεί για το κείμενο."
+msgid "The <guilabel>Editor font</guilabel> field displays the font that <application>Techo</application> uses to display text. Click on the button to specify the font type, style, and size to use for text."
+msgstr "Το πεδίο <guilabel>Γραμματοσειρά επεξεργαστή</guilabel> απεικονίζει τη γραμματοσειρά που χρησιμοποιεί το <application>Techo</application> για να εμφανίσει το κείμενο. Κάντε κλικ στο κουμπί για να καθορίσετε τον τύπο, μορφή και μέγεθος της γραμματοσειράς που θα χρησιμοποιηθεί για το κείμενο."
 
 #: C/xed.xml:1248(guilabel)
 msgid "Color Scheme"
@@ -1766,16 +1766,16 @@ msgid "Plugins Preferences"
 msgstr "Προτιμήσεις Πρόσθετων Λειτουργιών"
 
 #: C/xed.xml:1292(para)
-msgid "Plugins add extra features to <application>xed</application>. For more information on plugins and how to use the built-in plugins, see <xref linkend=\"xed-plugins-overview\"/>."
-msgstr "Τα πρόσθετα δίνουν επιπλέον χαρακτηριστικά στο <application>xed</application>. Για περισσότερες πληροφορίες για τα πρόσθετα και τη χρήση των ενσωματωμένων προσθέτων, δείτε το <xref linkend=\"xed-plugins-overview\"/>."
+msgid "Plugins add extra features to <application>Techo</application>. For more information on plugins and how to use the built-in plugins, see <xref linkend=\"Techo-plugins-overview\"/>."
+msgstr "Τα πρόσθετα δίνουν επιπλέον χαρακτηριστικά στο <application>Techo</application>. Για περισσότερες πληροφορίες για τα πρόσθετα και τη χρήση των ενσωματωμένων προσθέτων, δείτε το <xref linkend=\"Techo-plugins-overview\"/>."
 
 #: C/xed.xml:1296(title)
 msgid "Enabling a Plugin"
 msgstr "Ενεργοποίηση προσθέτων"
 
 #: C/xed.xml:1297(para)
-msgid "To enable a <application>xed</application> plugin, perform the following steps:"
-msgstr "Για να ενεργοποιήσετε ένα πρόσθετο του <application>xed</application>, κάντε τα ακόλουθα βήματα:"
+msgid "To enable a <application>Techo</application> plugin, perform the following steps:"
+msgstr "Για να ενεργοποιήσετε ένα πρόσθετο του <application>Techo</application>, κάντε τα ακόλουθα βήματα:"
 
 #: C/xed.xml:1300(para)
 #: C/xed.xml:1321(para)
@@ -1803,12 +1803,12 @@ msgid "Disabling a Plugin"
 msgstr "Απενεργοποίηση πρόσθετου"
 
 #: C/xed.xml:1317(para)
-msgid "A plugin remains enabled when you quit <application>xed</application>."
-msgstr "Τα πρόσθετα παραμένουν ενεργοποιημένα και αφού εγκαταλείψετε το <application>xed</application>."
+msgid "A plugin remains enabled when you quit <application>Techo</application>."
+msgstr "Τα πρόσθετα παραμένουν ενεργοποιημένα και αφού εγκαταλείψετε το <application>Techo</application>."
 
 #: C/xed.xml:1318(para)
-msgid "To disable a <application>xed</application> plugin, perform the following steps:"
-msgstr "Για να απενεργοποιήσετε ένα πρόσθετο του <application>xed</application>, ακολουθήστε τα εξής βήματα:"
+msgid "To disable a <application>Techo</application> plugin, perform the following steps:"
+msgstr "Για να απενεργοποιήσετε ένα πρόσθετο του <application>Techo</application>, ακολουθήστε τα εξής βήματα:"
 
 #: C/xed.xml:1327(para)
 msgid "Deselect the check box next to the name of the plugin that you want to disable."
@@ -1823,72 +1823,72 @@ msgid "Working with Plugins"
 msgstr "Εργασία με πρόσθετα"
 
 #: C/xed.xml:1342(para)
-msgid "You can add extra features to <application>xed</application> by enabling <firstterm>plugins</firstterm>. A plugin is a supplementary program that enhances the functionality of an application. Plugins add new items to the <application>xed</application> menus for the new features they provide."
-msgstr "Μπορείτε να προσθέσετε επιπλέον χαρακτηριστικά στο <application>xed</application> ενεργοποιώντας τα <firstterm>plugins</firstterm>. Το πρόσθετο είναι ένα συμπληρωματικό πρόγραμμα που αυξάνει τη λειτουργικότητα μιας εφαρμογής. Τα πρόσθετα προσθέτουν νέα αντικείμενα στα μενού του <application>xed</application> για τα νέα χαρακτηριστικά που παρέχουν."
+msgid "You can add extra features to <application>Techo</application> by enabling <firstterm>plugins</firstterm>. A plugin is a supplementary program that enhances the functionality of an application. Plugins add new items to the <application>Techo</application> menus for the new features they provide."
+msgstr "Μπορείτε να προσθέσετε επιπλέον χαρακτηριστικά στο <application>Techo</application> ενεργοποιώντας τα <firstterm>plugins</firstterm>. Το πρόσθετο είναι ένα συμπληρωματικό πρόγραμμα που αυξάνει τη λειτουργικότητα μιας εφαρμογής. Τα πρόσθετα προσθέτουν νέα αντικείμενα στα μενού του <application>Techo</application> για τα νέα χαρακτηριστικά που παρέχουν."
 
 #: C/xed.xml:1344(para)
-msgid "Several plugins come built-in with <application>xed</application>, and you can install more. The <ulink type=\"http\" url=\"http://live.gnome.org/Xed/Plugins\">xed website</ulink> lists third-party plugins."
-msgstr "Πολλά πρόσθετα έρχονται ενσωματωμένα στο <application>xed</application> και μπορείτε να εγκαταστήσετε περισσότερα. Στο <ulink type=\"http\" url=\"http://live.gnome.org/Xed/Plugins\">xed website</ulink> απαριθμούνται πρόσθετα από τρίτους."
+msgid "Several plugins come built-in with <application>Techo</application>, and you can install more. The <ulink type=\"http\" url=\"http://live.gnome.org/Techo/Plugins\">Techo website</ulink> lists third-party plugins."
+msgstr "Πολλά πρόσθετα έρχονται ενσωματωμένα στο <application>Techo</application> και μπορείτε να εγκαταστήσετε περισσότερα. Στο <ulink type=\"http\" url=\"http://live.gnome.org/Techo/Plugins\">Techo website</ulink> απαριθμούνται πρόσθετα από τρίτους."
 
 #: C/xed.xml:1345(para)
-msgid "To enable and disable plugins, or see which plugins are currently enabled, use the <link linkend=\"xed-prefs-plugins\">Plugins Preferences</link>."
-msgstr "Για να ενεργοποιήσετε και να απενεργοποιήσετε πρόσθετα ή να δείτε ποια πρόσθετα είναι ενεργοποιημένα, χρησιμοποιήστε το <link linkend=\"xed-prefs-plugins\">Προτιμήσεις προσθέτων</link>."
+msgid "To enable and disable plugins, or see which plugins are currently enabled, use the <link linkend=\"Techo-prefs-plugins\">Plugins Preferences</link>."
+msgstr "Για να ενεργοποιήσετε και να απενεργοποιήσετε πρόσθετα ή να δείτε ποια πρόσθετα είναι ενεργοποιημένα, χρησιμοποιήστε το <link linkend=\"Techo-prefs-plugins\">Προτιμήσεις προσθέτων</link>."
 
 #: C/xed.xml:1346(para)
-msgid "The following plugins come built-in with <application>xed</application>:"
-msgstr "Τα ακόλουθα πρόσθετα είναι ενσωματωμένα στο <application>xed</application>:"
+msgid "The following plugins come built-in with <application>Techo</application>:"
+msgstr "Τα ακόλουθα πρόσθετα είναι ενσωματωμένα στο <application>Techo</application>:"
 
 #: C/xed.xml:1352(para)
-msgid "<link linkend=\"xed-change-case-plugin\"><application>Change Case</application></link> allows you to change the case of the selected text."
-msgstr "<link linkend=\"xed-change-case-plugin\"><application>Αλλαγή πεζών κεφαλαίων</application></link>, σας επιτρέπει να αλλάξετε μεταξύ πεζών και κεφαλαίων στο επιλεγμένο κείμενο."
+msgid "<link linkend=\"Techo-change-case-plugin\"><application>Change Case</application></link> allows you to change the case of the selected text."
+msgstr "<link linkend=\"Techo-change-case-plugin\"><application>Αλλαγή πεζών κεφαλαίων</application></link>, σας επιτρέπει να αλλάξετε μεταξύ πεζών και κεφαλαίων στο επιλεγμένο κείμενο."
 
 #: C/xed.xml:1355(para)
-msgid "<application><link linkend=\"xed-document-statistics-plugin\">Document Statistics</link></application> shows the number of lines, words, and characters in the document."
-msgstr "<application><link linkend=\"xed-document-statistics-plugin\">Στατιστικά εγγράφου</link></application>, δείχνει τον αριθμό γραμμών, λέξεων και χαρακτήρων του εγγράφου."
+msgid "<application><link linkend=\"Techo-document-statistics-plugin\">Document Statistics</link></application> shows the number of lines, words, and characters in the document."
+msgstr "<application><link linkend=\"Techo-document-statistics-plugin\">Στατιστικά εγγράφου</link></application>, δείχνει τον αριθμό γραμμών, λέξεων και χαρακτήρων του εγγράφου."
 
 #: C/xed.xml:1358(para)
-msgid "<application><link linkend=\"xed-external-tools-plugin\">External Tools</link></application> allows you to execute external commands from <application>xed</application>."
-msgstr "<application><link linkend=\"xed-external-tools-plugin\">Εξωτερικά εργαλεία</link></application>, σας επιτρέπει να εκτελέσετε εξωτερικές εντολές από το <application>xed</application>."
+msgid "<application><link linkend=\"Techo-external-tools-plugin\">External Tools</link></application> allows you to execute external commands from <application>Techo</application>."
+msgstr "<application><link linkend=\"Techo-external-tools-plugin\">Εξωτερικά εργαλεία</link></application>, σας επιτρέπει να εκτελέσετε εξωτερικές εντολές από το <application>Techo</application>."
 
 #: C/xed.xml:1361(para)
 msgid "<application>File Browser</application> allows you to browse your files and folders in the side pane."
 msgstr "<application>Περιηγητής αρχείων</application>, σας επιτρέπει να περιηγηθείτε στα αρχεία και τους φακέλους σας στο πλευρικό πλαίσιο."
 
 #: C/xed.xml:1364(para)
-msgid "<application><link linkend=\"xed-indent-lines-plugin\">Indent Lines</link></application> adds or removes indentation from the selected lines."
-msgstr "<application><link linkend=\"xed-indent-lines-plugin\">Εσοχή γραμμών</link></application>, προσθέτει ή αφαιρεί την εσοχή στις επιλεγμένες γραμμές."
+msgid "<application><link linkend=\"Techo-indent-lines-plugin\">Indent Lines</link></application> adds or removes indentation from the selected lines."
+msgstr "<application><link linkend=\"Techo-indent-lines-plugin\">Εσοχή γραμμών</link></application>, προσθέτει ή αφαιρεί την εσοχή στις επιλεγμένες γραμμές."
 
 #: C/xed.xml:1367(para)
-msgid "<application><link linkend=\"xed-insert-date-time-plugin\">Insert Date/Time</link></application> adds the current date and time into a document."
-msgstr "<application><link linkend=\"xed-insert-date-time-plugin\">Εισαγωγή Ημερομηνίας/Ώρας</link></application>, προσθέτει την τρέχουσα ημερομηνία και ώρα σε ένα έγγραφο."
+msgid "<application><link linkend=\"Techo-insert-date-time-plugin\">Insert Date/Time</link></application> adds the current date and time into a document."
+msgstr "<application><link linkend=\"Techo-insert-date-time-plugin\">Εισαγωγή Ημερομηνίας/Ώρας</link></application>, προσθέτει την τρέχουσα ημερομηνία και ώρα σε ένα έγγραφο."
 
 #: C/xed.xml:1370(para)
-msgid "<application><link linkend=\"xed-modelines-plugin\">Modelines</link></application> allows you to set editing preferences for individual documents, and supports <application>Emacs</application>, <application>Kate</application> and <application>Vim</application>-style modelines."
-msgstr "<application><link linkend=\"xed-modelines-plugin\">Modelines</link></application>, σας επιτρέπει να ορίσετε τις προτιμήσεις επεξεργασίας ξεχωριστά για κάθε έγγραφο, και υποστηρίζει modelines τύπου <application>Emacs</application>, <application>Kate</application> και <application>Vim</application>."
+msgid "<application><link linkend=\"Techo-modelines-plugin\">Modelines</link></application> allows you to set editing preferences for individual documents, and supports <application>Emacs</application>, <application>Kate</application> and <application>Vim</application>-style modelines."
+msgstr "<application><link linkend=\"Techo-modelines-plugin\">Modelines</link></application>, σας επιτρέπει να ορίσετε τις προτιμήσεις επεξεργασίας ξεχωριστά για κάθε έγγραφο, και υποστηρίζει modelines τύπου <application>Emacs</application>, <application>Kate</application> και <application>Vim</application>."
 
 #: C/xed.xml:1373(para)
-msgid "<application><link linkend=\"xed-python-console-plugin\">Python Console</link></application> allows you to run commands in the python programming language."
-msgstr "<application><link linkend=\"xed-python-console-plugin\">Κοσνόλα Python</link></application>, σας επιτρέπει να εκτελείτε εντολές της γλώσσας προγραμματισμού python."
+msgid "<application><link linkend=\"Techo-python-console-plugin\">Python Console</link></application> allows you to run commands in the python programming language."
+msgstr "<application><link linkend=\"Techo-python-console-plugin\">Κοσνόλα Python</link></application>, σας επιτρέπει να εκτελείτε εντολές της γλώσσας προγραμματισμού python."
 
 #: C/xed.xml:1376(para)
-msgid "<application><link linkend=\"xed-snippets-plugin\">Snippets</link></application> allows you to store frequently-used pieces of text and insert them quickly into a document."
-msgstr "<application><link linkend=\"xed-snippets-plugin\">Snippets</link></application>, σας επιτρέπει να αποθηκεύσετε συχνά χρησιμοποιούμενα τμήματα κειμένου και να τα εισάγετε γρήγορα σε ένα έγγραφο."
+msgid "<application><link linkend=\"Techo-snippets-plugin\">Snippets</link></application> allows you to store frequently-used pieces of text and insert them quickly into a document."
+msgstr "<application><link linkend=\"Techo-snippets-plugin\">Snippets</link></application>, σας επιτρέπει να αποθηκεύσετε συχνά χρησιμοποιούμενα τμήματα κειμένου και να τα εισάγετε γρήγορα σε ένα έγγραφο."
 
 #: C/xed.xml:1379(para)
-msgid "<application><link linkend=\"xed-sort-plugin\">Sort</link></application> arranges selected lines of text into alphabetical order."
-msgstr "<application><link linkend=\"xed-sort-plugin\">Ταξινόμηση</link></application>, ταξινομεί τις επιλεγμένες γραμμές κειμένου σε αλφαβητική σειρά."
+msgid "<application><link linkend=\"Techo-sort-plugin\">Sort</link></application> arranges selected lines of text into alphabetical order."
+msgstr "<application><link linkend=\"Techo-sort-plugin\">Ταξινόμηση</link></application>, ταξινομεί τις επιλεγμένες γραμμές κειμένου σε αλφαβητική σειρά."
 
 #: C/xed.xml:1382(para)
-msgid "<application><link linkend=\"xed-spell-checker-plugin\">Spell Checker</link></application> corrects the spelling in the selected text, or marks errors automatically in the document."
-msgstr "<application><link linkend=\"xed-spell-checker-plugin\">Έλεγχος ορθογραφίας</link></application>, διορθώνει τα ορθογραφικά λάθη στο επιλεγμένο κείμενο ή σημειώνει αυτόματα τα λάθη στο έγγραφο."
+msgid "<application><link linkend=\"Techo-spell-checker-plugin\">Spell Checker</link></application> corrects the spelling in the selected text, or marks errors automatically in the document."
+msgstr "<application><link linkend=\"Techo-spell-checker-plugin\">Έλεγχος ορθογραφίας</link></application>, διορθώνει τα ορθογραφικά λάθη στο επιλεγμένο κείμενο ή σημειώνει αυτόματα τα λάθη στο έγγραφο."
 
 #: C/xed.xml:1385(para)
-msgid "<application><link linkend=\"xed-tag-list-plugin\">Tag List</link></application> lets you insert commonly-used tags for HTML and other languages from a list in the side pane."
-msgstr "<application><link linkend=\"xed-tag-list-plugin\">Λίστα ετικετών</link></application>, σας επιτρέπει να εισάγετε συνήθεις ετικέτες για την HTML και άλλες γλώσσες από μια λίστα στο πλευρικό πλαίσιο."
+msgid "<application><link linkend=\"Techo-tag-list-plugin\">Tag List</link></application> lets you insert commonly-used tags for HTML and other languages from a list in the side pane."
+msgstr "<application><link linkend=\"Techo-tag-list-plugin\">Λίστα ετικετών</link></application>, σας επιτρέπει να εισάγετε συνήθεις ετικέτες για την HTML και άλλες γλώσσες από μια λίστα στο πλευρικό πλαίσιο."
 
 #: C/xed.xml:1389(para)
-msgid "For more information on creating plugins, see the <ulink type=\"http\" url=\"http://live.gnome.org/Xed/Plugins\"><application>xed</application> website</ulink>."
-msgstr "Για περισσότερες πληροφορίες σχετικά με τη δημιουργία προσθέτων, δείτε τον <ulink type=\"http\" url=\"http://live.gnome.org/Xed/Plugins\">ιστότοπο του<application>xed</application></ulink>."
+msgid "For more information on creating plugins, see the <ulink type=\"http\" url=\"http://live.gnome.org/Techo/Plugins\"><application>Techo</application> website</ulink>."
+msgstr "Για περισσότερες πληροφορίες σχετικά με τη δημιουργία προσθέτων, δείτε τον <ulink type=\"http\" url=\"http://live.gnome.org/Techo/Plugins\">ιστότοπο του<application>Techo</application></ulink>."
 
 #: C/xed.xml:1393(title)
 msgid "Change Case Plugin"
@@ -2002,16 +2002,16 @@ msgid "Number of bytes in the current document."
 msgstr "Αριθμός bytes στο τρέχον έγγραφο."
 
 #: C/xed.xml:1467(para)
-msgid "You can continue to update the <application>xed</application> file while the <guilabel>Document Statistics</guilabel> dialog is open. To refresh the contents of the <guilabel>Document Statistics</guilabel> dialog, click <guibutton>Update</guibutton>."
-msgstr "Μπορείτε να συνεχίσετε να ενημερώνετε το αρχείο του <application>xed</application> ενώ το παράθυρο διαλόγου <guilabel>Στατιστικά εγγράφου</guilabel> είναι ανοιχτό. Για να ανανεώσετε τα περιεχόμενα του παραθύρου διαλόγου <guilabel>Στατιστικά εγγράφου</guilabel>, κάντε κλικ στο <guibutton>Ενημέρωση</guibutton>."
+msgid "You can continue to update the <application>Techo</application> file while the <guilabel>Document Statistics</guilabel> dialog is open. To refresh the contents of the <guilabel>Document Statistics</guilabel> dialog, click <guibutton>Update</guibutton>."
+msgstr "Μπορείτε να συνεχίσετε να ενημερώνετε το αρχείο του <application>Techo</application> ενώ το παράθυρο διαλόγου <guilabel>Στατιστικά εγγράφου</guilabel> είναι ανοιχτό. Για να ανανεώσετε τα περιεχόμενα του παραθύρου διαλόγου <guilabel>Στατιστικά εγγράφου</guilabel>, κάντε κλικ στο <guibutton>Ενημέρωση</guibutton>."
 
 #: C/xed.xml:1474(title)
 msgid "External Tools Plugin"
 msgstr "Πρόσθετο εξωτερικά εργαλεία"
 
 #: C/xed.xml:1475(para)
-msgid "The <application>External Tools</application> plugin allows you to execute external commands from <application>xed</application>. You can pipe some content into a command and exploit its output (for example, <application>sed</application>), or launch a predefined command (for example, <application>make</application>)."
-msgstr "Το πρόσθετο <application>Εξωτερικά εργαλεία</application> σας επιτρέπει να εκτελέσετε εξωτερικές εντολές από το <application>xed</application>. Μπορείτε να διοχετεύσετε κάποιο περιεχόμενο σε μια εντολή και να εκμεταλλευθείτε το αποτέλεσμά της (π.χ., <application>sed</application>) ή να εκκινήσετε μια προκαθορισμένη εντολή (π.χ., <application>make</application>)."
+msgid "The <application>External Tools</application> plugin allows you to execute external commands from <application>Techo</application>. You can pipe some content into a command and exploit its output (for example, <application>sed</application>), or launch a predefined command (for example, <application>make</application>)."
+msgstr "Το πρόσθετο <application>Εξωτερικά εργαλεία</application> σας επιτρέπει να εκτελέσετε εξωτερικές εντολές από το <application>Techo</application>. Μπορείτε να διοχετεύσετε κάποιο περιεχόμενο σε μια εντολή και να εκμεταλλευθείτε το αποτέλεσμά της (π.χ., <application>sed</application>) ή να εκκινήσετε μια προκαθορισμένη εντολή (π.χ., <application>make</application>)."
 
 #: C/xed.xml:1476(para)
 msgid "Use the <guilabel>External Tools Manager</guilabel> to create and edit commands. To run an external command, choose it from the <guimenu>Tools</guimenu> menu."
@@ -2098,8 +2098,8 @@ msgid "Commands"
 msgstr "Εντολές"
 
 #: C/xed.xml:1527(para)
-msgid "The actual commands to be run. Several <application>xed</application> environment variables can be used to pass content to these commands: see <xref linkend=\"xed-external-tools-plugin-variables\"/>."
-msgstr "Οι εντολές που θα εκτελεστούν. Πολλές μεταβλητές περιβάλλοντος του <application>xed</application> μπορούν να χρησιμοποιηθούν για να περάσει περιεχόμενο σε αυτές τις εντολές: δείτε το <xref linkend=\"xed-external-tools-plugin-variables\"/>."
+msgid "The actual commands to be run. Several <application>Techo</application> environment variables can be used to pass content to these commands: see <xref linkend=\"Techo-external-tools-plugin-variables\"/>."
+msgstr "Οι εντολές που θα εκτελεστούν. Πολλές μεταβλητές περιβάλλοντος του <application>Techo</application> μπορούν να χρησιμοποιηθούν για να περάσει περιεχόμενο σε αυτές τις εντολές: δείτε το <xref linkend=\"Techo-external-tools-plugin-variables\"/>."
 
 #: C/xed.xml:1530(term)
 msgid "Input"
@@ -2210,8 +2210,8 @@ msgid "To show the folder that contains the document you are currently working o
 msgstr "Για να εμφανίσετε το φάκελο που περιέχει το έγγραφο στο οποίο ήδη εργάζεστε, κάντε δεξί κλικ στη λίστα αρχείων και επιλέξτε <guimenuitem>Ορισμός του ριζικού στο ενεργό έγγραφο</guimenuitem>."
 
 #: C/xed.xml:1598(para)
-msgid "To open a file in <application>xed</application>, double-click it in the file list."
-msgstr "Για να ανοίξετε ένα αρχείο στο <application>xed</application>, κάντε διπλό κλικ σε αυτό στη λίστα."
+msgid "To open a file in <application>Techo</application>, double-click it in the file list."
+msgstr "Για να ανοίξετε ένα αρχείο στο <application>Techo</application>, κάντε διπλό κλικ σε αυτό στη λίστα."
 
 #: C/xed.xml:1601(title)
 msgid "Creating Files and Folders"
@@ -2250,8 +2250,8 @@ msgid "To remove the indentation, choose <menuchoice><guimenu>Edit</guimenu><gui
 msgstr "Για να αφαιρέσετε την εσοχή από το κείμενο, επιλέξτε <menuchoice><guimenu>επεξεργασία</guimenu><guimenuitem>Αφαίρεση Εσοχής</guimenuitem></menuchoice>."
 
 #: C/xed.xml:1625(para)
-msgid "The amount of space used, and whether tab character or space characters are used, depends on the <guilabel>Tab Stops</guilabel> settings in the Editor Preferences: see <xref linkend=\"xed-prefs-editor\"/>."
-msgstr "Το μέγεθος του διαστήματος που θα χρησιμοποιηθεί καθώς και αν θα χρησιμοποιηθούν χαρακτήρες στηλοθέτη ή χαρακτήρες κενού διαστήματος, εξαρτάται από την επιλογή <guilabel>Στηλοθέτες</guilabel> στις ρυθμίσεις των Προτιμήσεων επεξεργαστή: δείτε το <xref linkend=\"xed-prefs-editor\"/>."
+msgid "The amount of space used, and whether tab character or space characters are used, depends on the <guilabel>Tab Stops</guilabel> settings in the Editor Preferences: see <xref linkend=\"Techo-prefs-editor\"/>."
+msgstr "Το μέγεθος του διαστήματος που θα χρησιμοποιηθεί καθώς και αν θα χρησιμοποιηθούν χαρακτήρες στηλοθέτη ή χαρακτήρες κενού διαστήματος, εξαρτάται από την επιλογή <guilabel>Στηλοθέτες</guilabel> στις ρυθμίσεις των Προτιμήσεων επεξεργαστή: δείτε το <xref linkend=\"Techo-prefs-editor\"/>."
 
 #: C/xed.xml:1630(title)
 msgid "Insert Date/Time Plugin"
@@ -2266,12 +2266,12 @@ msgid "Choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Insert Date and Ti
 msgstr "Επιλέξτε <menuchoice><guimenu>Επεξεργασία</guimenu><guimenuitem>Εισαγωγή ημερομηνίας και ώρας</guimenuitem></menuchoice>."
 
 #: C/xed.xml:1634(para)
-msgid "If you have not configured the Insert Date/Time plugin to automatically insert the date/time without prompting you for the format, <application>xed</application> displays the <guilabel>Insert Date and Time</guilabel> dialog. Select the appropriate date/time format from the list. Click <guibutton>Insert</guibutton> to close the <guilabel>Insert Date and Time</guilabel> dialog. <application>xed</application> inserts the date/time at the cursor position in the current file."
-msgstr "Αν δεν έχετε ρυθμίσει το πρόσθετο Εισαγωγή ημερομηνίας/ώρας να εισάγει αυτόματα την ημερομηνία/ώρα χωρίς να σας ρωτά για τη μορφή, το <application>xed</application> εμφανίζει το παράθυρο διαλόγου <guilabel>Εισαγωγή ημερομηνίας και ώρας</guilabel>. Επιλέξτε την κατάλληλη μορφοποίηση ημερομηνίας/ώρας από τη λίστα. Κάντε κλικ στο κουμπί <guibutton>Εισαγωγή</guibutton> για κλείσετε το παράθυρο διαλόγου <guilabel>Εισαγωγή ημερομηνίας και ώρας</guilabel>. Το <application>xed</application> εισάγει την ημερομηνία/ώρα στη θέση του δρομέα στο τρέχον αρχείο."
+msgid "If you have not configured the Insert Date/Time plugin to automatically insert the date/time without prompting you for the format, <application>Techo</application> displays the <guilabel>Insert Date and Time</guilabel> dialog. Select the appropriate date/time format from the list. Click <guibutton>Insert</guibutton> to close the <guilabel>Insert Date and Time</guilabel> dialog. <application>Techo</application> inserts the date/time at the cursor position in the current file."
+msgstr "Αν δεν έχετε ρυθμίσει το πρόσθετο Εισαγωγή ημερομηνίας/ώρας να εισάγει αυτόματα την ημερομηνία/ώρα χωρίς να σας ρωτά για τη μορφή, το <application>Techo</application> εμφανίζει το παράθυρο διαλόγου <guilabel>Εισαγωγή ημερομηνίας και ώρας</guilabel>. Επιλέξτε την κατάλληλη μορφοποίηση ημερομηνίας/ώρας από τη λίστα. Κάντε κλικ στο κουμπί <guibutton>Εισαγωγή</guibutton> για κλείσετε το παράθυρο διαλόγου <guilabel>Εισαγωγή ημερομηνίας και ώρας</guilabel>. Το <application>Techo</application> εισάγει την ημερομηνία/ώρα στη θέση του δρομέα στο τρέχον αρχείο."
 
 #: C/xed.xml:1635(para)
-msgid "If you have configured <application>xed</application> to use one particular date/time format, the <guilabel>Insert Date and Time</guilabel> dialog is not displayed. The date/time is automatically entered at the cursor position in the current file."
-msgstr "Αν έχετε ρυθμίσει το <application>xed</application> να χρησιμοποιεί μια συγκεκριμένη μορφοποίηση ημερομηνίας/ώρας, το παράθυρο διαλόγου <guilabel>Εισαγωγή ημερομηνίας και ώρας</guilabel> δεν εμφανίζεται. Το <application>xed</application> εισάγει αυτόματα την ημερομηνία/ώρα στη θέση του δρομέα στο τρέχον αρχείο."
+msgid "If you have configured <application>Techo</application> to use one particular date/time format, the <guilabel>Insert Date and Time</guilabel> dialog is not displayed. The date/time is automatically entered at the cursor position in the current file."
+msgstr "Αν έχετε ρυθμίσει το <application>Techo</application> να χρησιμοποιεί μια συγκεκριμένη μορφοποίηση ημερομηνίας/ώρας, το παράθυρο διαλόγου <guilabel>Εισαγωγή ημερομηνίας και ώρας</guilabel> δεν εμφανίζεται. Το <application>Techo</application> εισάγει αυτόματα την ημερομηνία/ώρα στη θέση του δρομέα στο τρέχον αρχείο."
 
 #: C/xed.xml:1640(title)
 msgid "Configuring the Insert Date/Time Plugin"
@@ -2298,12 +2298,12 @@ msgid "To specify the date/time format each time you insert the date/time, selec
 msgstr "Για να ορίσετε τη μορφή ημερομηνίας/ώρας κάθε φορά που εισάγετε την ημερομηνία/ώρα, επιλέξτε το <guilabel>Ερώτημα για μορφή</guilabel>."
 
 #: C/xed.xml:1660(para)
-msgid "To use the same <application>xed</application>-provided date/time format each time you insert the date/time, select the <guilabel>Use the selected format</guilabel> option, then select the appropriate format from the list. When you select this option, <application>xed</application> does not prompt you for the date/time format when you choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Insert Date and Time</guimenuitem></menuchoice>."
-msgstr "Για να χρησιμοποιήσετε την ίδια μορφή ημερομηνίας/ώρας όπως παρέχεται από το <application>xed</application>, κάθε φορά που τις εισάγετε, επιλέξτε το <guilabel>Χρήση της επιλεγμένης μορφοποίησης</guilabel> και μετά επιλέξτε την κατάλληλη μορφοποίηση από τη λίστα. Όταν κάνετε αυτή την επιλογή, το <application>xed</application> δεν σας ερωτά για τη μορφή ημερομηνίας/ώρας όταν επιλέγετε <menuchoice><guimenu>Επεξεργασία</guimenu><guimenuitem>Εισαγωγή ημερομηνίας και ώρας</guimenuitem></menuchoice>."
+msgid "To use the same <application>Techo</application>-provided date/time format each time you insert the date/time, select the <guilabel>Use the selected format</guilabel> option, then select the appropriate format from the list. When you select this option, <application>Techo</application> does not prompt you for the date/time format when you choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Insert Date and Time</guimenuitem></menuchoice>."
+msgstr "Για να χρησιμοποιήσετε την ίδια μορφή ημερομηνίας/ώρας όπως παρέχεται από το <application>Techo</application>, κάθε φορά που τις εισάγετε, επιλέξτε το <guilabel>Χρήση της επιλεγμένης μορφοποίησης</guilabel> και μετά επιλέξτε την κατάλληλη μορφοποίηση από τη λίστα. Όταν κάνετε αυτή την επιλογή, το <application>Techo</application> δεν σας ερωτά για τη μορφή ημερομηνίας/ώρας όταν επιλέγετε <menuchoice><guimenu>Επεξεργασία</guimenu><guimenuitem>Εισαγωγή ημερομηνίας και ώρας</guimenuitem></menuchoice>."
 
 #: C/xed.xml:1663(para)
-msgid "To use the same customized date/time format each time you insert the date/time, select the <guilabel>Use custom format</guilabel> option, then enter the appropriate format in the text box. For more information about how to specify a custom format, see <ulink url=\"man:strftime\" type=\"man\"><citerefentry><refentrytitle>strftime</refentrytitle><manvolnum>3</manvolnum></citerefentry></ulink>. When you select this option, <application>xed</application> does not prompt you for the date/time format when you choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Insert Date and Time</guimenuitem></menuchoice>."
-msgstr "Για να χρησιμοποιήσετε την ίδια προσαρμοσμένη μορφή ημερομηνίας/ώρας κάθε φορά που την εισάγετε, επιλέξτε το <guilabel>Χρήση προσαρμοσμένης μορφής</guilabel> και μετά εισάγετε την επιθυμητή μορφή στο πεδίο κειμένου. Για περισσότερες πληροφορίες σχετικά με τον ορισμό μιας προσαρμοσμένης μορφοποίησης δείτε το <ulink url=\"man:strftime\" type=\"man\"><citerefentry><refentrytitle>strftime</refentrytitle><manvolnum>3</manvolnum></citerefentry></ulink>. Όταν κάνετε αυτή την επιλογή, το <application>xed</application> δεν σας ρωτάει για τη μορφή της ημερομηνίας/ώρας όταν επιλέγετε <menuchoice><guimenu>Επεξεργασία</guimenu><guimenuitem>Εισαγωγή ημερομηνίας και ώρας</guimenuitem></menuchoice>."
+msgid "To use the same customized date/time format each time you insert the date/time, select the <guilabel>Use custom format</guilabel> option, then enter the appropriate format in the text box. For more information about how to specify a custom format, see <ulink url=\"man:strftime\" type=\"man\"><citerefentry><refentrytitle>strftime</refentrytitle><manvolnum>3</manvolnum></citerefentry></ulink>. When you select this option, <application>Techo</application> does not prompt you for the date/time format when you choose <menuchoice><guimenu>Edit</guimenu><guimenuitem>Insert Date and Time</guimenuitem></menuchoice>."
+msgstr "Για να χρησιμοποιήσετε την ίδια προσαρμοσμένη μορφή ημερομηνίας/ώρας κάθε φορά που την εισάγετε, επιλέξτε το <guilabel>Χρήση προσαρμοσμένης μορφής</guilabel> και μετά εισάγετε την επιθυμητή μορφή στο πεδίο κειμένου. Για περισσότερες πληροφορίες σχετικά με τον ορισμό μιας προσαρμοσμένης μορφοποίησης δείτε το <ulink url=\"man:strftime\" type=\"man\"><citerefentry><refentrytitle>strftime</refentrytitle><manvolnum>3</manvolnum></citerefentry></ulink>. Όταν κάνετε αυτή την επιλογή, το <application>Techo</application> δεν σας ρωτάει για τη μορφή της ημερομηνίας/ώρας όταν επιλέγετε <menuchoice><guimenu>Επεξεργασία</guimenu><guimenuitem>Εισαγωγή ημερομηνίας και ώρας</guimenuitem></menuchoice>."
 
 #: C/xed.xml:1668(para)
 msgid "Click <guibutton>OK</guibutton> to close the <guilabel>Configure insert date/time plugin</guilabel> dialog."
@@ -2318,8 +2318,8 @@ msgid "Modelines Plugin"
 msgstr "Πρόσθετο Modelines"
 
 #: C/xed.xml:1679(para)
-msgid "The <application>Modelines</application> plugin allows you to set preferences for individual documents. A <firstterm>modeline</firstterm> is a line of text at the start or end of the document with settings that <application>xed</application> recognises."
-msgstr "Το πρόσθετο <application>Modelines</application> σας επιτρέπει να ορίσετε προτιμήσεις για συγκεκριμένα έγγραφα. Μια <firstterm>modeline</firstterm> είναι μια γραμμή κειμένου στην αρχή ή το τέλος του εγγράφου με ρυθμίσεις που αναγνωρίζει το <application>xed</application>."
+msgid "The <application>Modelines</application> plugin allows you to set preferences for individual documents. A <firstterm>modeline</firstterm> is a line of text at the start or end of the document with settings that <application>Techo</application> recognises."
+msgstr "Το πρόσθετο <application>Modelines</application> σας επιτρέπει να ορίσετε προτιμήσεις για συγκεκριμένα έγγραφα. Μια <firstterm>modeline</firstterm> είναι μια γραμμή κειμένου στην αρχή ή το τέλος του εγγράφου με ρυθμίσεις που αναγνωρίζει το <application>Techo</application>."
 
 #: C/xed.xml:1680(para)
 msgid "Preferences set using modelines take precedence over the ones specified in the preference dialog."
@@ -2390,12 +2390,12 @@ msgid "Python Console Plugin"
 msgstr "Πρόσθετο κονσόλας Python"
 
 #: C/xed.xml:1721(para)
-msgid "The <application>Python Console</application> Plugin allows you to run commands in the python programming language from <application>xed</application>. Enabling the plugin adds a tab to the bottom pane. This shows recent output and a command prompt field."
-msgstr "Το πρόσθετο <application>Κονσόλα Python</application> σας επιτρέπει να εκτελείτε εντολές της γλώσσας προγραμματισμού Python από το <application>xed</application>. Η ενεργοποίηση του προσθέτου προσθέτει μια καρτέλα στο κάτω πλαίσιο. Αυτή δείχνει τα πρόσφατα αποτελέσματα και ένα πεδίο γραμμής εντολών."
+msgid "The <application>Python Console</application> Plugin allows you to run commands in the python programming language from <application>Techo</application>. Enabling the plugin adds a tab to the bottom pane. This shows recent output and a command prompt field."
+msgstr "Το πρόσθετο <application>Κονσόλα Python</application> σας επιτρέπει να εκτελείτε εντολές της γλώσσας προγραμματισμού Python από το <application>Techo</application>. Η ενεργοποίηση του προσθέτου προσθέτει μια καρτέλα στο κάτω πλαίσιο. Αυτή δείχνει τα πρόσφατα αποτελέσματα και ένα πεδίο γραμμής εντολών."
 
 #: C/xed.xml:1722(para)
-msgid "Commands entered into the python console are not checked before they are run. It is therefore possible to hang <application>xed</application>, for example by entering an infinite loop."
-msgstr "Οι εντολές που εισάγονται στην κονσόλα της python δεν ελέγχονται πριν εκτελεσθούν. Επομένως, είναι δυνατόν να \"κρεμάσει\" το <application>xed</application>, π.χ. εισάγοντας έναν ατέρμονα βρόγχο."
+msgid "Commands entered into the python console are not checked before they are run. It is therefore possible to hang <application>Techo</application>, for example by entering an infinite loop."
+msgstr "Οι εντολές που εισάγονται στην κονσόλα της python δεν ελέγχονται πριν εκτελεσθούν. Επομένως, είναι δυνατόν να \"κρεμάσει\" το <application>Techo</application>, π.χ. εισάγοντας έναν ατέρμονα βρόγχο."
 
 #: C/xed.xml:1726(title)
 msgid "Snippets Plugin"
@@ -2410,8 +2410,8 @@ msgid "Snippets are specific to the language syntax of the current document. For
 msgstr "Τα αποσπάσματα (snippets) είναι εξειδικευμένα για το συντακτικό της γλώσσας του τρέχοντος εγγράφου. Π.χ. όταν εργάζεσται με ένα έγγραφο σε HTML μπορείτε να επιλέξετε από μια λίστα snippets που χρησιμοποιούνται στην HTML. Επιπλέον, μερικά αποσπάσματα έχουν καθολική ισχύ και είναι διαθέσιμα σε όλα τα έγγραφα."
 
 #: C/xed.xml:1729(para)
-msgid "A number of built-in snippets are installed with <application>xed</application>, which can be modified."
-msgstr "Με το <application>xed</application>, εγκαθιστάται και ένας αριθμός ενσωματωμένων αποσπασμάτων, τα οποία μπορούν να τροποποιηθούν."
+msgid "A number of built-in snippets are installed with <application>Techo</application>, which can be modified."
+msgstr "Με το <application>Techo</application>, εγκαθιστάται και ένας αριθμός ενσωματωμένων αποσπασμάτων, τα οποία μπορούν να τροποποιηθούν."
 
 #: C/xed.xml:1732(title)
 msgid "Inserting Snippets"
@@ -2462,8 +2462,8 @@ msgid "Snippet text"
 msgstr "Κείμενο αποσπάσματος"
 
 #: C/xed.xml:1760(para)
-msgid "Enter the text of the snippet in the <guilabel>Edit snippet</guilabel> text box. For special codes you can use, see <xref linkend=\"xed-snippets-plugin-syntax\"/>."
-msgstr "Εισάγετε το κείμενο του αποσπάσματος στο πεδίο κειμένου <guilabel>Επεξεργασία αποσπάσματος</guilabel>. Για ειδικούς κώδικες που μπορείτε να χρησιμοποιήσετε, δείτε το <xref linkend=\"xed-snippets-plugin-syntax\"/>."
+msgid "Enter the text of the snippet in the <guilabel>Edit snippet</guilabel> text box. For special codes you can use, see <xref linkend=\"Techo-snippets-plugin-syntax\"/>."
+msgstr "Εισάγετε το κείμενο του αποσπάσματος στο πεδίο κειμένου <guilabel>Επεξεργασία αποσπάσματος</guilabel>. Για ειδικούς κώδικες που μπορείτε να χρησιμοποιήσετε, δείτε το <xref linkend=\"Techo-snippets-plugin-syntax\"/>."
 
 #: C/xed.xml:1761(para)
 msgid "You can switch back to the document window to copy text without closing the <guilabel>Snippets Manager</guilabel> window."
@@ -2566,8 +2566,8 @@ msgid "Environmental variables"
 msgstr "Μεταβλητές περιβάλλοντος"
 
 #: C/xed.xml:1817(para)
-msgid "Environmental variable such as <literal>$PATH</literal> and <literal>$HOME</literal> are substituted in snippet text. The following variables specific to <application>xed</application> can also be used:"
-msgstr "Μεταβλητές περιβάλλοντος όπως <literal>$PATH</literal> και <literal>$HOME</literal> αντικαθίστανται στο κείμενο του αποσπάσματος. Οι ακόλουθες μεταβλητές, ειδικές για το <application>xed</application>, μπορούν επίσης να χρησιμοποιηθούν:"
+msgid "Environmental variable such as <literal>$PATH</literal> and <literal>$HOME</literal> are substituted in snippet text. The following variables specific to <application>Techo</application> can also be used:"
+msgstr "Μεταβλητές περιβάλλοντος όπως <literal>$PATH</literal> και <literal>$HOME</literal> αντικαθίστανται στο κείμενο του αποσπάσματος. Οι ακόλουθες μεταβλητές, ειδικές για το <application>Techo</application>, μπορούν επίσης να χρησιμοποιηθούν:"
 
 #: C/xed.xml:1819(term)
 msgid "$XED_SELECTED_TEXT"
@@ -2682,16 +2682,16 @@ msgid "Spell Checker Plugin"
 msgstr "Πρόσθετο ελέγχου ορθογραφίας"
 
 #: C/xed.xml:1901(para)
-msgid "The <application>Spell Checker</application> plugin checks the spelling in the selected text. You can configure <application>xed</application> to check the spelling automatically, or you can check the spelling manually, in the specified language. The language setting, and the autocheck spelling properties, apply per document. To use the Spell checker plugin, perform the following steps:"
-msgstr "Το πρόσθετο <application>Έλεγχος ορθογραφίας</application> ελέγχει την ορθογραφία στο επιλεγμένο κείμενο. Μπορείτε να διαμορφώσετε το <application>xed</application> να ελέγχει αυτόματα την ορθογραφία ή μπορείτε να ελέγξετε την ορθογραφία χειροκίνητα, στην επιλεγμένη γλώσσα. Η ρύθμιση γλώσσας και οι ιδιότητες του αυτόματου ορθογραφικού ελέγχου ισχύουν σε έγγραφο ξεχωριστά. Για να χρησιμοποιήσετε το πρόσθετο Ορθογραφικός έλεγχος, κάντε τα ακόλουθα:"
+msgid "The <application>Spell Checker</application> plugin checks the spelling in the selected text. You can configure <application>Techo</application> to check the spelling automatically, or you can check the spelling manually, in the specified language. The language setting, and the autocheck spelling properties, apply per document. To use the Spell checker plugin, perform the following steps:"
+msgstr "Το πρόσθετο <application>Έλεγχος ορθογραφίας</application> ελέγχει την ορθογραφία στο επιλεγμένο κείμενο. Μπορείτε να διαμορφώσετε το <application>Techo</application> να ελέγχει αυτόματα την ορθογραφία ή μπορείτε να ελέγξετε την ορθογραφία χειροκίνητα, στην επιλεγμένη γλώσσα. Η ρύθμιση γλώσσας και οι ιδιότητες του αυτόματου ορθογραφικού ελέγχου ισχύουν σε έγγραφο ξεχωριστά. Για να χρησιμοποιήσετε το πρόσθετο Ορθογραφικός έλεγχος, κάντε τα ακόλουθα:"
 
 #: C/xed.xml:1903(para)
 msgid "Choose <menuchoice><guimenu>Tools</guimenu><guimenuitem>Set Language</guimenuitem></menuchoice> to display the <guilabel>Set language</guilabel> dialog. Select the appropriate language from the list. Click <guibutton>OK</guibutton> to close the <guilabel>Set language</guilabel> dialog."
 msgstr "Επιλέξτε <menuchoice><guimenu>Εργαλεία</guimenu><guimenuitem>Ρύθμιση γλώσσας</guimenuitem></menuchoice> για να εμφανίσετε το παράθυρο διαλόγου <guilabel>Ρύθμιση γλώσσας</guilabel>. Επιλέξτε την κατάλληλη γλώσσα από τη λίστα. Κάντε κλικ στο <guibutton>OK</guibutton> για να κλείσετε το παράθυρο διαλόγου <guilabel>Ρύθμιση γλώσσας</guilabel>."
 
 #: C/xed.xml:1906(para)
-msgid "To check the spelling automatically, choose <menuchoice><guimenu>Tools</guimenu><guimenuitem>Autocheck Spelling</guimenuitem></menuchoice>. To unset the automatic spell check, choose <menuchoice><guimenu>Tools</guimenu><guimenuitem>Autocheck Spelling</guimenuitem></menuchoice> again. When automatic spell checking is set, an icon is displayed beside the <guimenuitem>Autocheck Spelling</guimenuitem> menu item. Automatic spell checking is unset by default, each time <application>xed</application> starts."
-msgstr "Για να γίνεται αυτόματος ορθογραφικός έλεγχος, επιλέξτε <menuchoice><guimenu>Εργαλεία</guimenu><guimenuitem>Αυτόματος ορθογραφικός έλεγχος</guimenuitem></menuchoice>. Για να αναιρέσετε τον αυτόματο ορθογραφικό έλεγχο, επιλέξτε ξανά <menuchoice><guimenu>Εργαλεία</guimenu><guimenuitem>Αυτόματος ορθογραφικός έλεγχος</guimenuitem></menuchoice>. Όταν έχει ορισθεί αυτόματος ορθογραφικός έλεγχος, εμφανίζεται ένα εικονίδιο δίπλα στην καταχώρηση μενού <guimenuitem>Αυτόματος ορθογραφικός έλεγχος</guimenuitem>. Ο αυτόματος ορθογραφικός έλεγχος δεν είναι ενεργοποιημένος ως προεπιλογή κατά την εκκίνηση του <application>xed</application>."
+msgid "To check the spelling automatically, choose <menuchoice><guimenu>Tools</guimenu><guimenuitem>Autocheck Spelling</guimenuitem></menuchoice>. To unset the automatic spell check, choose <menuchoice><guimenu>Tools</guimenu><guimenuitem>Autocheck Spelling</guimenuitem></menuchoice> again. When automatic spell checking is set, an icon is displayed beside the <guimenuitem>Autocheck Spelling</guimenuitem> menu item. Automatic spell checking is unset by default, each time <application>Techo</application> starts."
+msgstr "Για να γίνεται αυτόματος ορθογραφικός έλεγχος, επιλέξτε <menuchoice><guimenu>Εργαλεία</guimenu><guimenuitem>Αυτόματος ορθογραφικός έλεγχος</guimenuitem></menuchoice>. Για να αναιρέσετε τον αυτόματο ορθογραφικό έλεγχο, επιλέξτε ξανά <menuchoice><guimenu>Εργαλεία</guimenu><guimenuitem>Αυτόματος ορθογραφικός έλεγχος</guimenuitem></menuchoice>. Όταν έχει ορισθεί αυτόματος ορθογραφικός έλεγχος, εμφανίζεται ένα εικονίδιο δίπλα στην καταχώρηση μενού <guimenuitem>Αυτόματος ορθογραφικός έλεγχος</guimenuitem>. Ο αυτόματος ορθογραφικός έλεγχος δεν είναι ενεργοποιημένος ως προεπιλογή κατά την εκκίνηση του <application>Techo</application>."
 
 #: C/xed.xml:1907(para)
 msgid "Unknown spellings are displayed in a different color, and underlined. Right-click on an unknown spelling, then select <guimenu>Spelling Suggestions</guimenu> from the popup menu:"
@@ -2706,8 +2706,8 @@ msgid "To add the unknown spelling to your personal dictionary, select <menuchoi
 msgstr "Για να προσθέσετε την επισημασμένη λέξη ως ορθή στο προσωπικό σας λεξικό, επιλέξτε <menuchoice><guimenu>Προτάσεις ορθογραφίας</guimenu><guimenuitem>Προσθήκη</guimenuitem></menuchoice>."
 
 #: C/xed.xml:1916(para)
-msgid "To ignore all occurrences of the unknown spelling, so that they are no longer flagged as unknown but are not added to your personal dictionary, select <menuchoice><guimenu>Spelling Suggestions</guimenu><guimenuitem>Ignore All</guimenuitem></menuchoice>. The unknown word is ignored in the current <application>xed</application> session only."
-msgstr "Για να αγνοήσετε όλες τις περιπτώσεις εμφάνισης της πιθανά λανθασμένης λέξης, ώστε να μην επισημαίνονται αλλά να μην προστεθεί στο προσωπικό σας λεξικό, επιλέξτε <menuchoice><guimenu>Προτάσεις ορθογραφίας</guimenu><guimenuitem>Παράβλεψη όλων</guimenuitem></menuchoice>. Η λέξη παραβλέπεται στην τρέχουσα μόνο συνεδρία του <application>xed</application>."
+msgid "To ignore all occurrences of the unknown spelling, so that they are no longer flagged as unknown but are not added to your personal dictionary, select <menuchoice><guimenu>Spelling Suggestions</guimenu><guimenuitem>Ignore All</guimenuitem></menuchoice>. The unknown word is ignored in the current <application>Techo</application> session only."
+msgstr "Για να αγνοήσετε όλες τις περιπτώσεις εμφάνισης της πιθανά λανθασμένης λέξης, ώστε να μην επισημαίνονται αλλά να μην προστεθεί στο προσωπικό σας λεξικό, επιλέξτε <menuchoice><guimenu>Προτάσεις ορθογραφίας</guimenu><guimenuitem>Παράβλεψη όλων</guimenuitem></menuchoice>. Η λέξη παραβλέπεται στην τρέχουσα μόνο συνεδρία του <application>Techo</application>."
 
 #: C/xed.xml:1921(para)
 msgid "To check the spelling manually, choose <menuchoice><guimenu>Tools</guimenu><guimenuitem>Check Spelling</guimenuitem></menuchoice>."
@@ -2734,8 +2734,8 @@ msgid "To check the spelling of the text in the <guilabel>Change to</guilabel> t
 msgstr "Για να ελέγξετε την ορθογραφία του κειμένου στο πεδίο κειμένου <guilabel>Αλλαγή σε</guilabel>, κάντε κλικ στο <guibutton>Έλεγχος λέξης</guibutton>. Αν η λέξη είναι γνωστή, η λίστα <guilabel>Προτάσεις</guilabel> αντικαθίσταται με το κείμενο <literal>(σωστή ορθογραφία)</literal>. Αν η λέξη είναι άγνωστη εμφανίζονται νέες καταχωρήσεις στη λίστα <guilabel>Προτάσεις</guilabel>."
 
 #: C/xed.xml:1937(para)
-msgid "To ignore the current occurrence of the unknown word, click <guibutton>Ignore</guibutton>. To ignore all occurrences of the unknown word, click <guibutton>Ignore All</guibutton>. The unknown word is ignored in the current <application>xed</application> session only."
-msgstr "Για να μη ληφθεί υπόψη η τρέχουσα περίπτωση εμφάνισης της άγνωστης λέξης, κάντε κλικ στο <guibutton>Παράβλεψη</guibutton>. Για να παραβλεφθούν όλες οι περιπτώσεις εμφάνισης της άγνωστης λέξης, κάντε κλικ στο <guibutton>Παράβλεψη όλων</guibutton>. Η άγνωστη λέξη παραβλέπεται για την τρέχουσα μόνο συνεδρία του <application>xed</application>."
+msgid "To ignore the current occurrence of the unknown word, click <guibutton>Ignore</guibutton>. To ignore all occurrences of the unknown word, click <guibutton>Ignore All</guibutton>. The unknown word is ignored in the current <application>Techo</application> session only."
+msgstr "Για να μη ληφθεί υπόψη η τρέχουσα περίπτωση εμφάνισης της άγνωστης λέξης, κάντε κλικ στο <guibutton>Παράβλεψη</guibutton>. Για να παραβλεφθούν όλες οι περιπτώσεις εμφάνισης της άγνωστης λέξης, κάντε κλικ στο <guibutton>Παράβλεψη όλων</guibutton>. Η άγνωστη λέξη παραβλέπεται για την τρέχουσα μόνο συνεδρία του <application>Techo</application>."
 
 #: C/xed.xml:1940(para)
 msgid "To change the current occurrence of the unknown word to the text in the <guilabel>Change to</guilabel> text box, click <guibutton>Change</guibutton>. To change all occurrences of the unknown word to the text in the <guilabel>Change to</guilabel> text box, click <guibutton>Change All</guibutton>."
