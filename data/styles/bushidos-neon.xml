@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- BushidOS Neon — dark black glass palette for Techo (BushidOS).
+     Derived from BushidOS src/gtk3/_colors.scss.
+     Copyright © BushidOS. License: GPL-2.0-or-later -->
+<style-scheme id="bushidos-neon" name="BushidOS Neon" version="1.0">
+  <author>Techo / BushidOS</author>
+  <description>BushidOS Neon — dark black glass.</description>
+
+  <!-- Palette (from _colors.scss) -->
+  <color name="obsidian"      value="#0d0b14"/>
+  <color name="glass"         value="#15121f"/>
+  <color name="window"        value="#17141f"/>
+  <color name="base"          value="#0f0d18"/>
+  <color name="text"          value="#ecebf7"/>
+  <color name="fg"            value="#e2e0f0"/>
+  <color name="dim"           value="#7c7a87"/>
+  <color name="border"        value="#3a3350"/>
+  <color name="slider"        value="#4a4262"/>
+  <color name="magenta"       value="#ff2e88"/>
+  <color name="magenta_deep"  value="#c0176e"/>
+  <color name="cyan"          value="#00e5ff"/>
+  <color name="gold"          value="#ffcc4d"/>
+  <color name="vermilion"     value="#ff4a3d"/>
+  <color name="error"         value="#ff4a5c"/>
+  <color name="green"         value="#3ddc97"/>
+  <color name="violet"        value="#b388ff"/>
+  <color name="white"         value="#ffffff"/>
+
+  <!-- Global -->
+  <style name="text"                    foreground="text" background="base"/>
+  <style name="selection"               foreground="white" background="magenta_deep"/>
+  <style name="selection-unfocused"     foreground="text" background="border"/>
+  <style name="cursor"                  foreground="cyan"/>
+  <style name="secondary-cursor"        foreground="magenta"/>
+  <style name="current-line"            background="glass"/>
+
+  <!-- Line numbers -->
+  <style name="line-numbers"            foreground="dim" background="window"/>
+  <style name="current-line-number"     foreground="cyan" background="glass" bold="true"/>
+
+  <!-- Bracket matching -->
+  <style name="bracket-match"           foreground="obsidian" background="cyan" bold="true"/>
+  <style name="bracket-mismatch"        foreground="white" background="error"/>
+
+  <!-- Search / margin / spaces -->
+  <style name="search-match"            foreground="obsidian" background="gold"/>
+  <style name="right-margin"            foreground="border" background="border"/>
+  <style name="draw-spaces"             foreground="border"/>
+
+  <!-- Comments -->
+  <style name="def:comment"             foreground="dim" italic="true"/>
+
+  <!-- Statements / types -->
+  <style name="def:keyword"             foreground="magenta" bold="true"/>
+  <style name="def:statement"           foreground="magenta" bold="true"/>
+  <style name="def:type"                foreground="cyan" bold="true"/>
+
+  <!-- Strings / constants -->
+  <style name="def:string"              foreground="gold"/>
+  <style name="def:special-char"        foreground="cyan"/>
+  <style name="def:constant"            foreground="violet"/>
+  <style name="def:number"              foreground="violet"/>
+  <style name="def:boolean"             foreground="violet"/>
+
+  <!-- Identifiers / functions -->
+  <style name="def:identifier"          foreground="cyan"/>
+  <style name="def:function"            foreground="green"/>
+
+  <!-- Preprocessor / errors / notes -->
+  <style name="def:preprocessor"        foreground="vermilion"/>
+  <style name="def:error"               foreground="error" underline="error"/>
+  <style name="def:note"                foreground="obsidian" background="gold" bold="true"/>
+
+  <!-- Links / net -->
+  <style name="def:net-address"         foreground="cyan" underline="single"/>
+
+  <!-- Diff -->
+  <style name="diff:added-line"         foreground="green"/>
+  <style name="diff:removed-line"       foreground="error"/>
+  <style name="diff:location"           foreground="cyan"/>
+
+  <!-- Markup / emphasis -->
+  <style name="def:emphasis"            italic="true"/>
+  <style name="def:strong-emphasis"     bold="true"/>
+  <style name="def:heading"             foreground="magenta" bold="true"/>
+
+</style-scheme>

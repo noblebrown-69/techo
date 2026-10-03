@@ -43,5 +43,11 @@ install_data(
 
 install_data(
     'xed.xml',
-    install_dir: join_paths(datadir, 'gtksourceview-4', 'styles')
+    install_dir: join_paths(datadir, 'techo', 'styles')
+)
+
+install_data(
+    'styles/bushidos-neon.xml',
+    'styles/bushidos-classic.xml',
+    install_dir: join_paths(datadir, 'techo', 'styles')
 )

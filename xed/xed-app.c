@@ -358,6 +358,12 @@ xed_app_startup (GApplication *application)
     manager = gtk_source_style_scheme_manager_get_default ();
     gtk_source_style_scheme_manager_append_search_path (manager, xed_dirs_get_user_styles_dir ());
 
+    {
+        gchar *styles_dir = g_build_filename (xed_dirs_get_xed_data_dir (), "styles", NULL);
+        gtk_source_style_scheme_manager_append_search_path (manager, styles_dir);
+        g_free (styles_dir);
+    }
+
     app->priv->engine = xed_plugins_engine_get_default ();
     app->priv->extensions = peas_extension_set_new (PEAS_ENGINE (app->priv->engine),
                                                     XED_TYPE_APP_ACTIVATABLE,
