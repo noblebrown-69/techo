@@ -131,6 +131,7 @@ struct _XedPreferencesDialog
 
     /* Style scheme */
     GtkWidget *prefer_dark_theme_switch;
+    GtkWidget *follow_bushidos_switch;
     GtkWidget *schemes_list;
     GtkWidget *install_scheme_button;
     GtkWidget *uninstall_scheme_button;
@@ -206,6 +207,7 @@ xed_preferences_dialog_class_init (XedPreferencesDialogClass *klass)
 
     /* Theme page widgets */
     gtk_widget_class_bind_template_child (widget_class, XedPreferencesDialog, prefer_dark_theme_switch);
+    gtk_widget_class_bind_template_child (widget_class, XedPreferencesDialog, follow_bushidos_switch);
     gtk_widget_class_bind_template_child (widget_class, XedPreferencesDialog, schemes_list);
     gtk_widget_class_bind_template_child (widget_class, XedPreferencesDialog, install_scheme_button);
     gtk_widget_class_bind_template_child (widget_class, XedPreferencesDialog, uninstall_scheme_button);
@@ -540,6 +542,47 @@ style_scheme_changed (GtkSourceStyleSchemeChooser *chooser,
 
     g_settings_set_string (dlg->editor_settings, XED_SETTINGS_SCHEME, id);
     set_buttons_sensisitivity_according_to_scheme (dlg, scheme);
+}
+
+static void
+follow_bushidos_toggled (GtkSwitch            *switch_widget,
+                         GParamSpec           *pspec,
+                         XedPreferencesDialog *dlg)
+{
+    gboolean active = gtk_switch_get_active (switch_widget);
+    GtkSourceStyleScheme *scheme;
+
+    if (active)
+    {
+        g_settings_set_string (dlg->editor_settings,
+                               XED_SETTINGS_SCHEME,
+                               XED_SETTINGS_SCHEME_AUTO);
+
+        scheme = get_default_color_scheme (dlg);
+
+        g_signal_handlers_block_by_func (G_OBJECT (dlg->schemes_list),
+                                         G_CALLBACK (style_scheme_changed),
+                                         dlg);
+        gtk_source_style_scheme_chooser_set_style_scheme (GTK_SOURCE_STYLE_SCHEME_CHOOSER (dlg->schemes_list), scheme);
+        g_signal_handlers_unblock_by_func (G_OBJECT (dlg->schemes_list),
+                                           G_CALLBACK (style_scheme_changed),
+                                           dlg);
+
+        set_buttons_sensisitivity_according_to_scheme (dlg, scheme);
+        gtk_widget_set_sensitive (dlg->schemes_list, FALSE);
+    }
+    else
+    {
+        GtkSourceStyleScheme *current;
+        const gchar *id;
+
+        current = gtk_source_style_scheme_chooser_get_style_scheme (GTK_SOURCE_STYLE_SCHEME_CHOOSER (dlg->schemes_list));
+        id = gtk_source_style_scheme_get_id (current);
+
+        g_settings_set_string (dlg->editor_settings, XED_SETTINGS_SCHEME, id);
+
+        gtk_widget_set_sensitive (dlg->schemes_list, TRUE);
+    }
 }
 
 /*
@@ -881,8 +924,20 @@ setup_theme_page (XedPreferencesDialog *dlg)
     gtk_source_style_scheme_chooser_set_style_scheme (GTK_SOURCE_STYLE_SCHEME_CHOOSER (dlg->schemes_list), scheme);
     set_buttons_sensisitivity_according_to_scheme (dlg, scheme);
 
+    {
+        gchar *current_scheme = g_settings_get_string (dlg->editor_settings, XED_SETTINGS_SCHEME);
+        gboolean follow_bushidos = (g_strcmp0 (current_scheme, XED_SETTINGS_SCHEME_AUTO) == 0);
+
+        gtk_switch_set_active (GTK_SWITCH (dlg->follow_bushidos_switch), follow_bushidos);
+        gtk_widget_set_sensitive (dlg->schemes_list, !follow_bushidos);
+
+        g_free (current_scheme);
+    }
+
     g_signal_connect (dlg->schemes_list, "notify::style-scheme",
                       G_CALLBACK (style_scheme_changed), dlg);
+    g_signal_connect (dlg->follow_bushidos_switch, "notify::active",
+                      G_CALLBACK (follow_bushidos_toggled), dlg);
     g_signal_connect (dlg->install_scheme_button, "clicked",
                       G_CALLBACK (install_scheme_clicked), dlg);
     g_signal_connect (dlg->uninstall_scheme_button, "clicked",
