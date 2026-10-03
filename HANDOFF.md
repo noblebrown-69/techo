@@ -1,7 +1,7 @@
 # 手帳 Techo: handoff
 
 Times are PT (America/Phoenix, UTC-7). Supervisor: Donald (Grok Bot). Coder: Turing (Hermes `coding` profile, local Huihui Qwen3.8-27B on Aegis :8089).
-Last updated: Oct 3, 2026 ~10:55 AM PT. Phase 4 DONE: built, installed to ~/.local and launched live on Aegis (Noble ran the apt command). App icon done (b39636d, 10e09de). Turing idle. Nothing deployed to the laptops; nothing pushed.
+Last updated: Oct 3, 2026 ~11:00 AM PT. Deployed to Lenovo + WD (~/.local, from tarball techo-local-0df57d8) and Techo is the default text editor on Aegis, Lenovo and WD. Nothing pushed.
 
 ## Hard rule for every session
 Yūkan (nightly GPU job) runs 1:45 to about 5:00 AM PT and shares the GPU and llama with Turing.
@@ -62,6 +62,16 @@ Turing's pip meson was removed Oct 3 ~10:33 AM PT (`python3.14 -m pip uninstall 
 - Data/other: iso-codes (encodings), yelp (F1 help), gsettings-desktop-schemas (pulled in by gtk).
 - The rest are transitive (pulled by the above): xcb/X11 ext libs, wayland client libs, harfbuzz/freetype/fontconfig, libxklavier16/libgnomekbd8 (via libxapp), icu74, etc.
 - This matches stock `xed`'s Depends list, so `apt install xed` on a laptop also pulls every runtime dep. Package plan: a .deb built with `meson setup --prefix=/usr` (DESTDIR install skips the post-install scripts; dpkg triggers handle schemas, icons and desktop db).
+
+## Deployment (Oct 3, ~10:53-10:57 AM PT, at Noble's request)
+- Package: `DESTDIR=/tmp/techo-stage ninja -C ~/.cache/techo-build install`, tarred from the staged `home/franklin/.local` (include/ and pkgconfig left out) as `dist/techo-local-0df57d8.tar.gz` (5.0 MB, sha256 a2d6649d…8954; `dist/` is git-excluded). Paths are baked to /home/franklin/.local (franklin on every machine).
+- Moved via the box (Lenovo's Dropbox doesn't have Development/Techo; WD's Dropbox isn't syncing): CopyToBox, then CopyFromBox to `~/techo-local-0df57d8.tar.gz` on each laptop. Checksums match.
+- Laptops (Mint 22.3, glibc 2.39, same as Aegis): extracted into ~/.local; glib-compile-schemas, gtk-update-icon-cache -t, update-desktop-database; desktop file validates; 16 schemas, scheme 'bushidos-auto'. `ldd`: nothing missing for the binary, libxed or the plugins; every runtime package is present (xed 3.8.9+zena installed on both). **No apt command needed.**
+- Defaults (all 3 machines, `~/.config/mimeapps.list`, backup `mimeapps.list.bak-20261003`; script `~/set-techo-default.py`): org.bushidos.Techo.desktop is the [Default Applications] entry and first in [Added Associations] for text/plain, application/x-zerosize, text/x-chdr, text/x-csrc, text/x-python, text/x-java, text/x-sql, text/x-dtd, text/xml, text/mathml, application/x-perl (the types Mint's system mimeapps.list gives to xed) plus application/x-shellscript (it was vim). `xdg-mime query default text/plain` and `gio mime text/plain` give org.bushidos.Techo.desktop everywhere. text/markdown was left alone (monastery.desktop on Aegis; unset on the laptops).
+- XFCE preferred apps on Mint 22.3 only has WebBrowser/MailReader/FileManager/TerminalEmulator helpers, with no TextEditor, so there was nothing to set.
+- Smoke tests on :0 (3 tabs: hello.sh, hello.py, notes.txt): window in 1 to 2 s, WM_CLASS techo.Techo, Neon chrome + scheme, closed afterward. Screenshots: box `/workspace/techo/lenovo.png`, `/workspace/techo/wd.png` (originals in `~/.cache/techo/shots/`).
+- Memory: Techo RSS is about 140 MiB (143 MB peak) with 3 small tabs on both laptops. WD (3.6 GiB RAM): available dropped from 1664 to 1565 MiB while it ran.
+- Updating later: rebuild on Aegis, re-stage and re-tar, re-run `~/deploy-techo.sh` (it expects `~/techo-local-0df57d8.tar.gz`, so change the name for a new build).
 
 ## Next brief for Turing (exact)
 Nothing is in progress; briefs through 10b are done and committed (see git log). Turing's own notes: `.techo-briefs/turing-notes.md`.
