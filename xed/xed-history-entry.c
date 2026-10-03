@@ -386,7 +386,7 @@ xed_history_entry_init (XedHistoryEntry *entry)
 
     priv->completion = NULL;
 
-    priv->settings = g_settings_new ("org.x.editor.state.history-entry");
+    priv->settings = g_settings_new ("org.bushidos.Techo.state.history-entry");
 }
 
 void

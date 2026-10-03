@@ -929,10 +929,10 @@ xed_preferences_dialog_init (XedPreferencesDialog *dlg)
 {
     xed_debug (DEBUG_PREFS);
 
-    dlg->editor_settings = g_settings_new ("org.x.editor.preferences.editor");
-    dlg->ui_settings = g_settings_new ("org.x.editor.preferences.ui");
+    dlg->editor_settings = g_settings_new ("org.bushidos.Techo.preferences.editor");
+    dlg->ui_settings = g_settings_new ("org.bushidos.Techo.preferences.ui");
 
-    gtk_window_set_title (GTK_WINDOW (dlg), _("Xed Preferences"));
+    gtk_window_set_title (GTK_WINDOW (dlg), _("Techo Preferences"));
 
     gtk_widget_init_template (GTK_WIDGET (dlg));
 

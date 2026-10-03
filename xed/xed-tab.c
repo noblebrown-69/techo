@@ -1167,7 +1167,7 @@ xed_tab_init (XedTab *tab)
 
     tab->priv = xed_tab_get_instance_private (tab);
 
-    tab->priv->editor = g_settings_new ("org.x.editor.preferences.editor");
+    tab->priv->editor = g_settings_new ("org.bushidos.Techo.preferences.editor");
     tab->priv->state = XED_TAB_STATE_NORMAL;
     tab->priv->editable = TRUE;
     tab->priv->ask_if_externally_modified = TRUE;
@@ -1880,7 +1880,7 @@ get_candidate_encodings (XedTab *tab)
     const GtkSourceEncoding *file_encoding;
     GSList *encodings;
 
-    enc_settings = g_settings_new ("org.x.editor.preferences.encodings");
+    enc_settings = g_settings_new ("org.bushidos.Techo.preferences.encodings");
 
     enc_strv = g_settings_get_strv (enc_settings, XED_SETTINGS_ENCODING_AUTO_DETECTED);
 

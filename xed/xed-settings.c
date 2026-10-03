@@ -363,8 +363,8 @@ xed_settings_init (XedSettings *xs)
     xs->priv = xed_settings_get_instance_private (xs);
 
     xs->priv->old_scheme = NULL;
-    xs->priv->editor = g_settings_new ("org.x.editor.preferences.editor");
-    xs->priv->ui = g_settings_new ("org.x.editor.preferences.ui");
+    xs->priv->editor = g_settings_new ("org.bushidos.Techo.preferences.editor");
+    xs->priv->ui = g_settings_new ("org.bushidos.Techo.preferences.ui");
 
     /* Load settings */
     xs->priv->interface = g_settings_new ("org.gnome.desktop.interface");

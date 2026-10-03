@@ -111,7 +111,7 @@ xed_view_init (XedView *view)
 
     view->priv = xed_view_get_instance_private (view);
 
-    view->priv->editor_settings = g_settings_new ("org.x.editor.preferences.editor");
+    view->priv->editor_settings = g_settings_new ("org.bushidos.Techo.preferences.editor");
 
     /* Drag and drop support */
     tl = gtk_drag_dest_get_target_list (GTK_WIDGET(view));

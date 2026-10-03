@@ -37,7 +37,7 @@
 
 #define WINDOW_PROVIDER "XedWordCompletionPluginProvider"
 
-#define WORDCOMPLETION_SETTINGS_BASE "org.x.editor.plugins.wordcompletion"
+#define WORDCOMPLETION_SETTINGS_BASE "org.bushidos.Techo.plugins.wordcompletion"
 #define SETTINGS_KEY_INTERACTIVE_COMPLETION "interactive-completion"
 #define SETTINGS_KEY_MINIMUM_WORD_SIZE "minimum-word-size"
 

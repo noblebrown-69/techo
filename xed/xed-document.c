@@ -781,7 +781,7 @@ xed_document_init (XedDocument *doc)
 
     priv = xed_document_get_instance_private (doc);
 
-    priv->editor_settings = g_settings_new ("org.x.editor.preferences.editor");
+    priv->editor_settings = g_settings_new ("org.bushidos.Techo.preferences.editor");
     priv->untitled_number = get_untitled_number ();
     priv->content_type = get_default_content_type ();
     priv->stop_cursor_moved_emission = FALSE;

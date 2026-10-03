@@ -40,15 +40,15 @@ xed_dirs_init ()
 {
     if (xed_data_dir == NULL)
     {
-        xed_data_dir = g_build_filename (DATADIR, "xed", NULL);
+        xed_data_dir = g_build_filename (DATADIR, "techo", NULL);
         xed_locale_dir = g_build_filename (DATADIR, "locale", NULL);
-        xed_lib_dir = g_build_filename (LIBDIR, "xed", NULL);
+        xed_lib_dir = g_build_filename (LIBDIR, "techo", NULL);
     }
 
-    user_cache_dir = g_build_filename (g_get_user_cache_dir (), "xed", NULL);
-    user_config_dir = g_build_filename (g_get_user_config_dir (), "xed", NULL);
-    user_styles_dir = g_build_filename (g_get_user_data_dir (), "xed", "styles", NULL);
-    user_plugins_dir = g_build_filename (g_get_user_data_dir (), "xed", "plugins", NULL);
+    user_cache_dir = g_build_filename (g_get_user_cache_dir (), "techo", NULL);
+    user_config_dir = g_build_filename (g_get_user_config_dir (), "techo", NULL);
+    user_styles_dir = g_build_filename (g_get_user_data_dir (), "techo", "styles", NULL);
+    user_plugins_dir = g_build_filename (g_get_user_data_dir (), "techo", "plugins", NULL);
     xed_plugins_dir = g_build_filename (xed_lib_dir, "plugins", NULL);
     xed_plugins_data_dir = g_build_filename (xed_data_dir, "plugins", NULL);
 }

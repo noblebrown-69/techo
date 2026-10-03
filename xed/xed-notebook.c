@@ -709,7 +709,7 @@ xed_notebook_init (XedNotebook *notebook)
 
     notebook->priv->close_buttons_sensitive = TRUE;
     notebook->priv->tab_drag_and_drop_enabled = TRUE;
-    notebook->priv->ui_settings = g_settings_new ("org.x.editor.preferences.ui");
+    notebook->priv->ui_settings = g_settings_new ("org.bushidos.Techo.preferences.ui");
     notebook->priv->tab_scrolling_enabled = g_settings_get_boolean (notebook->priv->ui_settings, "enable-tab-scrolling");
 
     gtk_notebook_set_scrollable (GTK_NOTEBOOK (notebook), TRUE);

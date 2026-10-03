@@ -354,7 +354,7 @@ xed_encodings_combo_box_init (XedEncodingsComboBox *menu)
 
     menu->priv = xed_encodings_combo_box_get_instance_private (menu);
 
-    menu->priv->enc_settings = g_settings_new ("org.x.editor.preferences.encodings");
+    menu->priv->enc_settings = g_settings_new ("org.bushidos.Techo.preferences.encodings");
     menu->priv->store = gtk_list_store_new (N_COLUMNS, G_TYPE_STRING, G_TYPE_POINTER, G_TYPE_BOOLEAN);
 
     /* Setup up the cells */

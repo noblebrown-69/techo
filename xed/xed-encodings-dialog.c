@@ -260,7 +260,7 @@ response_handler (GtkDialog          *dialog,
 {
     if (response_id == GTK_RESPONSE_HELP)
     {
-        xed_app_show_help (XED_APP (g_application_get_default ()), GTK_WINDOW (dialog), "xed", NULL);
+        xed_app_show_help (XED_APP (g_application_get_default ()), GTK_WINDOW (dialog), "techo", NULL);
         g_signal_stop_emission_by_name (dialog, "response");
         return;
     }
@@ -324,7 +324,7 @@ xed_encodings_dialog_init (XedEncodingsDialog *dlg)
     };
 
     dlg->priv = xed_encodings_dialog_get_instance_private (dlg);
-    dlg->priv->enc_settings = g_settings_new ("org.x.editor.preferences.encodings");
+    dlg->priv->enc_settings = g_settings_new ("org.bushidos.Techo.preferences.encodings");
 
     gtk_dialog_add_buttons (GTK_DIALOG (dlg),
                             _("_Cancel"), GTK_RESPONSE_CANCEL,

@@ -726,7 +726,7 @@ xed_print_job_init (XedPrintJob *job)
 {
     job->priv = xed_print_job_get_instance_private (job);
 
-    job->priv->print_settings = g_settings_new ("org.x.editor.preferences.print");
+    job->priv->print_settings = g_settings_new ("org.bushidos.Techo.preferences.print");
 
     job->priv->status = XED_PRINT_JOB_STATUS_INIT;
 

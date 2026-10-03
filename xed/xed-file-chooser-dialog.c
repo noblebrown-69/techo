@@ -322,7 +322,7 @@ xed_file_chooser_dialog_init (XedFileChooserDialog *dialog)
 {
     dialog->priv = xed_file_chooser_dialog_get_instance_private (dialog);
 
-    dialog->priv->filter_settings = g_settings_new ("org.x.editor.state.file-filter");
+    dialog->priv->filter_settings = g_settings_new ("org.bushidos.Techo.state.file-filter");
 }
 
 static GtkWidget *

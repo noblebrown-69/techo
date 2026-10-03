@@ -743,7 +743,7 @@ _xed_recent_add (XedWindow   *window,
     GtkRecentData *recent_data;
     gchar *uri;
 
-    static gchar *groups[2] = { "xed", NULL };
+    static gchar *groups[2] = { "techo", NULL };
 
     recent_manager = gtk_recent_manager_get_default ();
 
@@ -882,7 +882,7 @@ update_recent_files_menu (XedWindow *window)
     for (l = items; l != NULL; l = l->next)
     {
         GtkRecentInfo *info = l->data;
-        if (!gtk_recent_info_has_group (info, "xed"))
+        if (!gtk_recent_info_has_group (info, "techo"))
         {
             continue;
         }
@@ -1837,7 +1837,7 @@ set_title (XedWindow *window)
 
     if (window->priv->active_tab == NULL)
     {
-        xed_app_set_window_title (XED_APP (g_application_get_default ()), window, "Xed");
+        xed_app_set_window_title (XED_APP (g_application_get_default ()), window, "手帳 Techo");
         return;
     }
 
@@ -3370,12 +3370,12 @@ xed_window_init (XedWindow *window)
     window->priv->inhibition_cookie = 0;
     window->priv->dispose_has_run = FALSE;
     window->priv->fullscreen_controls = NULL;
-    window->priv->editor_settings = g_settings_new ("org.x.editor.preferences.editor");
-    window->priv->ui_settings = g_settings_new ("org.x.editor.preferences.ui");
+    window->priv->editor_settings = g_settings_new ("org.bushidos.Techo.preferences.editor");
+    window->priv->ui_settings = g_settings_new ("org.bushidos.Techo.preferences.ui");
 
     /* Window settings are applied only once the window is closed. We do not want
        to keep writing to disk when the window is dragged around */
-    window->priv->window_settings = g_settings_new ("org.x.editor.state.window");
+    window->priv->window_settings = g_settings_new ("org.bushidos.Techo.state.window");
     g_settings_delay (window->priv->window_settings);
 
     window->priv->message_bus = xed_message_bus_new ();

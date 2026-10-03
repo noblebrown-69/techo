@@ -765,7 +765,7 @@ modeline_parser_apply_modeline (GtkSourceView *view)
 	ModelineOptions *previous = g_object_get_data (G_OBJECT (buffer),
 	                                               MODELINE_OPTIONS_DATA_KEY);
 
-    settings = g_settings_new ("org.x.editor.preferences.editor");
+    settings = g_settings_new ("org.bushidos.Techo.preferences.editor");
 
 	/* Apply the options we got from modelines and restore defaults if
 	   we set them before */

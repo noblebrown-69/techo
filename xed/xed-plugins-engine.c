@@ -64,7 +64,7 @@ xed_plugins_engine_init (XedPluginsEngine *engine)
 
     engine->priv = xed_plugins_engine_get_instance_private (engine);
 
-    engine->priv->plugin_settings = g_settings_new ("org.x.editor.plugins");
+    engine->priv->plugin_settings = g_settings_new ("org.bushidos.Techo.plugins");
 
     peas_engine_enable_loader (PEAS_ENGINE (engine), "python3");
 

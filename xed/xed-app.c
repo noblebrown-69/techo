@@ -328,8 +328,8 @@ xed_app_startup (GApplication *application)
 
     /* Load settings */
     app->priv->settings = xed_settings_new ();
-    app->priv->window_settings = g_settings_new ("org.x.editor.state.window");
-    app->priv->editor_settings = g_settings_new ("org.x.editor.preferences.editor");
+    app->priv->window_settings = g_settings_new ("org.bushidos.Techo.state.window");
+    app->priv->editor_settings = g_settings_new ("org.bushidos.Techo.preferences.editor");
 
     set_initial_theme_style (app);
 
@@ -990,7 +990,7 @@ xed_app_init (XedApp *app)
 {
     app->priv = xed_app_get_instance_private (app);
 
-    g_set_application_name ("xed");
+    g_set_application_name ("手帳 Techo");
     gtk_window_set_default_icon_name ("accessories-text-editor");
 
     g_application_add_main_option_entries (G_APPLICATION (app), options);
@@ -1240,12 +1240,12 @@ xed_app_show_help (XedApp      *app,
 
     if (name == NULL)
     {
-        name = "xed";
+        name = "techo";
     }
     else if (strcmp (name, "xed.xml") == 0)
     {
         g_warning ("%s: Using \"xed.xml\" for the help name is deprecated, use \"xed\" or simply NULL instead", G_STRFUNC);
-        name = "xed";
+        name = "techo";
     }
 
     if (link_id)

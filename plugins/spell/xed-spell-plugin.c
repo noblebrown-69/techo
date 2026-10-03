@@ -39,7 +39,7 @@
 #define MENU_PATH "/MenuBar/ToolsMenu/ToolsOps_1"
 
 /* GSettings keys */
-#define SPELL_SCHEMA        "org.x.editor.plugins.spell"
+#define SPELL_SCHEMA        "org.bushidos.Techo.plugins.spell"
 #define AUTOCHECK_TYPE_KEY  "autocheck-type"
 
 static void xed_window_activatable_iface_init (XedWindowActivatableInterface *iface);

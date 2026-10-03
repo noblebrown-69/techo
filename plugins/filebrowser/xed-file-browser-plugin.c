@@ -39,8 +39,8 @@
 #include "xed-file-browser-widget.h"
 #include "xed-file-browser-messages.h"
 
-#define FILE_BROWSER_SCHEMA         "org.x.editor.plugins.filebrowser"
-#define FILE_BROWSER_ONLOAD_SCHEMA  "org.x.editor.plugins.filebrowser.on-load"
+#define FILE_BROWSER_SCHEMA         "org.bushidos.Techo.plugins.filebrowser"
+#define FILE_BROWSER_ONLOAD_SCHEMA  "org.bushidos.Techo.plugins.filebrowser.on-load"
 
 struct _XedFileBrowserPluginPrivate
 {

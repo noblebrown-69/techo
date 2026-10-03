@@ -547,7 +547,7 @@ xed_view_frame_init (XedViewFrame *frame)
 
     gtk_widget_init_template (GTK_WIDGET (frame));
 
-    frame->priv->ui_settings = g_settings_new ("org.x.editor.preferences.ui");
+    frame->priv->ui_settings = g_settings_new ("org.bushidos.Techo.preferences.ui");
     g_settings_bind (frame->priv->ui_settings,
                      XED_SETTINGS_MINIMAP_VISIBLE,
                      frame->priv->map_frame,

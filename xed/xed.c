@@ -55,7 +55,7 @@ main (int argc, char *argv[])
     textdomain (GETTEXT_PACKAGE);
 
     app = g_object_new (XED_TYPE_APP,
-                        "application-id", "org.x.editor",
+                        "application-id", "org.bushidos.Techo",
                         "flags", G_APPLICATION_HANDLES_COMMAND_LINE | G_APPLICATION_HANDLES_OPEN,
                         NULL);
 
