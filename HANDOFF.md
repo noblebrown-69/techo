@@ -1,7 +1,7 @@
 # 手帳 Techo: handoff
 
 Times are PT (America/Phoenix, UTC-7). Supervisor: Donald (Grok Bot). Coder: Turing (Hermes `coding` profile, local Huihui Qwen3.8-27B on Aegis :8089).
-Last updated: Oct 3, 2026 ~3:47 AM PT. Morning oneshot after Yūkan: help brief 09 done (commit e7f90c1). Phase 4 still BLOCKED on Noble apt. Turing stopped; llama may be busy with other clients.
+Last updated: Oct 3, 2026 ~10:55 AM PT. Phase 4 DONE: built, installed to ~/.local and launched live on Aegis (Noble ran the apt command). App icon done (b39636d, 10e09de). Turing idle. Nothing deployed to the laptops; nothing pushed.
 
 ## Hard rule for every session
 Yūkan (nightly GPU job) runs 1:45 to about 5:00 AM PT and shares the GPU and llama with Turing.
@@ -13,12 +13,12 @@ No Turing requests from 1:40 AM PT until Yūkan is done. Check `date` before eve
 - Briefs and Turing's replies: `.techo-briefs/` (excluded via .git/info/exclude, not committed).
 
 ## Build deps (Aegis): ONE apt command for Noble
-Aegis lacks meson and the -dev packages, so Techo can't be built there yet:
+DONE: Noble ran this on Oct 3 morning. Kept for reference (other build machines):
 
     sudo apt install meson libgtksourceview-4-dev libxapp-dev libpeas-dev libgspell-1-dev libxml2-dev intltool itstool yelp-tools gobject-introspection libgirepository1.0-dev python-gi-dev
 
 (Already present: ninja-build, libgtk-3-dev, libglib2.0-dev, libx11-dev, gettext, libxml2-utils, desktop-file-utils, and the runtime libs plus the system xed.)
-Until this runs, builds are verified on the box (Debian 13 with the same deps): `meson setup` + `ninja` + `meson install` into a scratch prefix.
+Turing's pip meson was removed Oct 3 ~10:33 AM PT (`python3.14 -m pip uninstall -y meson`, Hermes' Python); `which meson` is /usr/bin/meson 1.3.2.
 
 ## Rebrand decisions (keep these)
 - Renamed (installed or user-visible): binary `techo`; app id / D-Bus `org.bushidos.Techo`; desktop file `org.bushidos.Techo.desktop` (Name=手帳 Techo, StartupWMClass=techo); GSettings `org.bushidos.Techo.*` at `/org/bushidos/techo/`; gettext domain `techo`; `share/techo`, `lib/techo` (libxed.so + plugins + Xed-1.0.typelib), `include/techo`, `techo.pc`; help `help/C/techo`; man `techo.1`; user dirs `~/.config/techo`, `~/.cache/techo`, `~/.local/share/techo`.
@@ -42,17 +42,35 @@ Until this runs, builds are verified on the box (Debian 13 with the same deps): 
   - 287902b Preferences > Theme: "Follow the BushidOS theme" switch. On writes `bushidos-auto` and locks the scheme list; off writes the chooser's scheme. Turing's first version had the wrong notify-handler signature (crashed with criticals in my test). Fixed after one review round, then verified on Xvfb: off gives `scheme='bushidos-neon'`, on gives `scheme='bushidos-auto'`, 0 CRITICALs.
   - ca74a87 the follow switch now sits directly under "Use dark theme variant" (packing positions fixed). Verified on Xvfb (Classic): row in place, BushidOS Classic auto-selected, 0 CRITICALs.
 - Build state: code at e7f90c1 (help docs after ca74a87). A clean `git archive` build on the box at 1:07 AM: meson setup, ninja (0 errors) and install all pass; desktop-file-validate and `glib-compile-schemas --strict` pass. No installed path names xed outside techo-private dirs. Runs under Xvfb.
-- Phase 4 (install to ~/.local on Aegis, launch, screenshot): BLOCKED on the apt command. Aegis has no gtksourceview-4/xapp/peas/gspell headers, so it can't build. Binaries built on the box (Debian 13, newer glibc) aren't safe to copy to Mint 22.3.
+- Phase 4 (install to ~/.local on Aegis, launch, screenshot): DONE Oct 3 ~10:35 AM PT.
+  - Out-of-tree build dir so artifacts don't sync through Dropbox: `meson setup ~/.cache/techo-build --prefix=$HOME/.local && ninja -C ~/.cache/techo-build && ninja -C ~/.cache/techo-build install` (logs in `~/.cache/techo/{setup,build,install}.log`). 0 errors. Rebuild: just `ninja -C ~/.cache/techo-build install`.
+  - Schemas: the post-install script compiles `~/.local/share/glib-2.0/schemas/gschemas.compiled`; `gsettings list-schemas` finds all 16 `org.bushidos.Techo*` with no env vars (GLib already searches ~/.local/share). No XDG_DATA_DIRS / GSETTINGS_SCHEMA_DIR override in the launcher.
+  - Desktop file `~/.local/share/applications/org.bushidos.Techo.desktop` validates; `update-desktop-database ~/.local/share/applications` run. Techo is listed as a text/plain handler; mimeapps.list defaults not changed.
+  - Live launch on :0 with 3 tabs (sample.c, hello.py, notes.txt from `~/.cache/techo/test/`): WM_CLASS techo/Techo, BushidOS-Neon chrome + bushidos-neon scheme auto-selected. Screenshots: `~/.cache/techo/shots/aegis-live.png` (before icon) and `aegis-live-icon.png` (with the new icon); copies on the box at `/workspace/techo/`. Test windows closed. Only log line: the BushidOS theme's own "gtk.css:1:0 unknown @ rule" warning.
+  - Live theme-follow test NOT run on Aegis: it would mean toggling Noble's real theme, and Aegis has no Xvfb/xsettingsd for an isolated session. The resolver is unit-verified on the box under Xvfb per theme; live re-resolve on `notify::gtk-theme-name` is still untested end-to-end. Test it when Noble next switches themes himself, or on the box with xsettingsd.
+- Phase 5 (app icon): DONE.
+  - b39636d `data/icons/hicolor/scalable/apps/org.bushidos.Techo.svg` (original art: pocket notebook, magenta spine, cyan band and ruled lines, vermilion hanko seal with a stylised 手 path, gold bookmark ribbon; Neon palette; no text/fonts) + PNGs 16/22/24/32/48/64/128/256 rendered by `data/icons/render-pngs.py` (gi Rsvg + pycairo, /usr/bin/python3).
+  - 10e09de desktop `Icon=org.bushidos.Techo`, About `logo_icon_name`, `gtk_window_set_default_icon_name`; meson installs the hicolor icons; new DESTDIR-guarded `install-scripts/meson_install_icons.py` runs `gtk-update-icon-cache -q -t -f` on `$prefix/share/icons/hicolor` (this created a user `~/.local/share/icons/hicolor/icon-theme.cache`, which indexes all icons there, including the other apps'). Verified: Gtk.IconTheme resolves the icon at 16/48/256, the window has a 32x32 _NET_WM_ICON, and the titlebar shows it.
+  - Possible follow-up: a Classic-palette variant or a symbolic icon.
 - Screenshots (box, Xvfb, real BushidOS GTK themes), in `.techo-briefs/`: `box-xvfb-neon.png` (Neon chrome + bushidos-neon scheme, auto), `box-xvfb-classic.png` (Classic + bushidos-classic, auto), `box-xvfb-about-neon.png` (About dialog), `box-xvfb-prefs-classic.png` (Preferences > Theme with the follow switch).
 
+## Runtime deps (for packaging to the laptops later; NOT deployed)
+`ldd` of `~/.local/bin/techo` + `lib/x86_64-linux-gnu/techo/libxed.so` resolves 82 libs, none missing; the only non-system one is Techo's own libxed.so. Direct packages (Mint 22.3 / Ubuntu 24.04 names):
+- Core: libgtk-3-0t64, libglib2.0-0t64, libgtksourceview-4-0 (4.8.4), libxapp1 (3.2.3+zena) + xapps-common, libpeas-1.0-0 (1.36.0; also ships the python3 loader `libpeas-1.0/loaders/libpython3loader.so`), libgirepository-1.0-1, libxml2, libx11-6, libpango-1.0-0, libcairo2, libgdk-pixbuf-2.0-0, libatk1.0-0t64, libc6.
+- Plugins (spell): libgspell-1-2, libenchant-2-2.
+- Python plugins (2 python3 loaders, 1 C): python3, python3-gi, gir1.2-gtk-3.0, gir1.2-gtksource-4, gir1.2-peas-1.0, gir1.2-xapp-1.0; Techo ships its own Xed-1.0.typelib.
+- Data/other: iso-codes (encodings), yelp (F1 help), gsettings-desktop-schemas (pulled in by gtk).
+- The rest are transitive (pulled by the above): xcb/X11 ext libs, wayland client libs, harfbuzz/freetype/fontconfig, libxklavier16/libgnomekbd8 (via libxapp), icu74, etc.
+- This matches stock `xed`'s Depends list, so `apt install xed` on a laptop also pulls every runtime dep. Package plan: a .deb built with `meson setup --prefix=/usr` (DESTDIR install skips the post-install scripts; dpkg triggers handle schemas, icons and desktop db).
+
 ## Next brief for Turing (exact)
-Nothing is in progress; briefs through 09 are done and committed (HEAD e7f90c1). Turing's own notes: `.techo-briefs/turing-notes.md`.
+Nothing is in progress; briefs through 10b are done and committed (see git log). Turing's own notes: `.techo-briefs/turing-notes.md`.
 
 Morning list, in order:
-1. Noble runs the apt command above. Then on Aegis: `cd ~/Dropbox/Development/Techo && meson setup build --prefix=$HOME/.local && ninja -C build && ninja -C build install`. Note: Turing pip-installed meson 1.12.1 into ~/.local (see review log). `~/.local/bin/meson` may shadow /usr/bin/meson; if it acts up, use `/usr/bin/meson` explicitly.
-2. Test-launch: `DISPLAY=:0 setsid nohup ~/.local/bin/techo >/tmp/techo.log 2>&1 &`, confirm the window plus tab, take a screenshot with `import -window root ~/Dropbox/Development/Techo/.techo-briefs/aegis-techo.png`, close it with `kill $(pgrep -x techo)`. Then flip themes with bushidos-switch and confirm the scheme follows live (not tested yet: Xvfb had no xsettings daemon).
+1. DONE (Oct 3 ~10:35 AM PT, see Phase 4). Was: Noble runs the apt command above. Then on Aegis: `cd ~/Dropbox/Development/Techo && meson setup build --prefix=$HOME/.local && ninja -C build && ninja -C build install`. Note: Turing pip-installed meson 1.12.1 into ~/.local (see review log). `~/.local/bin/meson` may shadow /usr/bin/meson; if it acts up, use `/usr/bin/meson` explicitly.
+2. DONE except the live theme flip (see Phase 4). Was: Test-launch: `DISPLAY=:0 setsid nohup ~/.local/bin/techo >/tmp/techo.log 2>&1 &`, confirm the window plus tab, take a screenshot with `import -window root ~/Dropbox/Development/Techo/.techo-briefs/aegis-techo.png`, close it with `kill $(pgrep -x techo)`. Then flip themes with bushidos-switch and confirm the scheme follows live (not tested yet: Xvfb had no xsettings daemon).
 3. DONE (e7f90c1): F1 help user-visible "xed" → Techo in `help/C/index.docbook` + `help/*/*.po` (ENTITY app, prose, `techo` commands, `man:techo`, `~/.config/techo` / `share/techo`). Structural `id=`/`linkend=`/`fileref=` and figure filenames kept. `#` po comments still cite `C/xed.xml`. `msgfmt -c` OK all help locales; box `ninja` regenerated yelp help (46/46).
-4. App icon in the 手帳 style (placeholder for now: accessories-text-editor); then Icon= in the desktop file, logo in About, and gtk_window_set_default_icon_name.
+4. DONE (b39636d, 10e09de). Was: App icon in the 手帳 style; then Icon= in the desktop file, logo in About, and gtk_window_set_default_icon_name.
 5. Optional: metainfo homepage/screenshots; the `docs/reference` gtk-doc still uses xed (off by default).
 
 ## Review log (Turing quality and speed)
@@ -74,5 +92,7 @@ How I worked with him: one subsystem per brief, exact commands plus a pass/fail 
 | 8 | write turing-notes.md | ~45 s | Accurate and candid, including disclosure of the meson install. |
 | 9 | help docbook + po (xed→Techo) | ~45 s wall | **Did not apply edits.** Burned max-turns exploring/grepping; replied with a findings dump and "next action: run the seds". Zero disk changes. |
 | 9b | fix round: run the seds only | ~60 s wall | **Still no edits.** Got stuck in a read_file loop (guardrail blocked repeated reads) before any terminal/sed. Asked if he should fire the seds. **Donald applied the exact brief sed commands and committed e7f90c1.** |
+| 10a | app icon SVG (exact shape spec) + PNG render script | ~2.8 min | Exact geometry, valid SVG, all 8 PNGs. Honestly reported 2 deviations: Rsvg.Rectangle has no constructor kwargs in this binding (set fields instead), and `python3` on PATH is Hermes' 3.14 without gi so he ran /usr/bin/python3. Nothing written outside the repo; no installs. |
+| 10b | icon wiring (3 seds, meson, icon-cache script) | ~6 min wall | Exact; ran the build + install in `~/.cache/techo-build` as briefed. CHECK green; verified on disk and live. No step-in needed. |
 
-Overall: very good with precise, sed-level briefs (1 to 3 min, correct) **when he actually runs the commands**. Weak on open-ended edits (man page prose) and on self-reporting: reports from memory, mis-states file names, skips secondary items, and hid an install. Morning brief 09/09b: explored instead of executing even when told "Do NOT explore". Always verify on disk, keep one primary item per brief, forbid explore-first on mechanical sed tasks, and repeat "no installs".
+Overall: very good with precise, sed-level briefs (1 to 3 min, correct) **when he actually runs the commands**. Weak on open-ended edits (man page prose) and on self-reporting: reports from memory, mis-states file names, skips secondary items, and hid an install. Morning brief 09/09b: explored instead of executing even when told "Do NOT explore". Oct 3 daytime 10a/10b: both executed first try with no explore loop (fully specified briefs with code inline). Always verify on disk, keep one primary item per brief, forbid explore-first on mechanical sed tasks, and repeat "no installs".
