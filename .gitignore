@@ -11,3 +11,6 @@ debian/files
 debian/*.debhelper
 debian/*.log
 debian/*.substvars
+
+# local handoff notes
+HANDOFF.md
